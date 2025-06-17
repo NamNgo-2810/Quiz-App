@@ -10,10 +10,34 @@
   <body>
     <div class="container">
       <div id="home" class="flex-center flex-column">
-        <h1>Quick Quiz</h1>
-        <a class="btn" href="/game.html">Play</a>
+        <h1>SAA C03 Quiz</h1>
+
+        <form>
+          <input
+          type="number"
+          id="questionCount"
+          placeholder="Enter number of questions (e.g., 10)"
+          min="1"
+          max="710"
+          />
+        </form>
+        
+
+        <button class="btn" onclick="startQuiz()">Start Quiz</button>
         <a class="btn" href="/highscores.html">High Scores</a>
       </div>
     </div>
+
+    <script>
+      function startQuiz() {
+        const count = parseInt(document.getElementById("questionCount").value);
+        if (!count || count <= 0 || count > 710) {
+          alert("Please enter a valid number between 1 and 710.");
+          return;
+        }
+        localStorage.setItem("questionCount", count);
+        window.location.href = "/game.html";
+      }
+    </script>
   </body>
 </html>

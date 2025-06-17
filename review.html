@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Review Answers</title>
+    <link rel="stylesheet" href="app.css" />
+    <style>
+      body {
+        display: flex;
+        font-family: sans-serif;
+        margin: 0;
+        height: 200vh;
+        overflow: hidden;
+      }
+
+      .sidebar {
+        width: 260px;
+        background-color: #f7f7f7;
+        border-right: 1px solid #ccc;
+        overflow-y: auto;
+        padding: 1rem;
+      }
+
+      .sidebar button {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0.5rem;
+        margin-bottom: 6px;
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        text-align: left;
+        font-size: 1rem;
+        cursor: pointer;
+      }
+
+      .sidebar .Q {
+        font-size: 2rem;
+        margin-right: 8px;
+      }
+
+      .sidebar .icon {
+        font-size: 2rem;
+        margin-left: 8px;
+      }
+
+      .main {
+        flex: 1;
+        overflow-y: auto;
+        padding: 2rem;
+        background-color: #fcfcfc;
+      }
+
+      .question-block {
+        margin-bottom: 2rem;
+      }
+
+      .question-title {
+        font-size: 3rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+        color: #333;
+      }
+
+      .choice {
+        margin: 0.5rem 0;
+        font-size: 2rem;
+        padding-left: 1rem;
+      }
+
+      .correct {
+        color: green;
+      }
+
+      .incorrect {
+        color: red;
+        text-decoration: underline;
+      }
+
+      .user-selected {
+        font-weight: bold;
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="sidebar" id="questionList"></div>
+    <div class="main">
+      <div id="questionDetail">
+        <h2>Select a question to review</h2>
+      </div>
+    </div>
+
+    <script>
+      const reviewData = JSON.parse(localStorage.getItem("review")) || [];
+      const listContainer = document.getElementById("questionList");
+      const detailContainer = document.getElementById("questionDetail");
+
+      reviewData.forEach((entry, index) => {
+        const btn = document.createElement("button");
+        const span = document.createElement("span");
+        const icon = document.createElement("span");
+
+        // Determine if user's answer is correct
+        const isCorrect = arraysEqual(
+          entry.selected.sort(),
+          entry.correct.sort()
+        );
+
+        span.classList.add("Q");
+        span.textContent = `Q${index + 1}`;
+        icon.classList.add("icon");
+        icon.textContent = isCorrect ? "✅" : "❌";
+
+        btn.appendChild(span);
+        btn.appendChild(icon);
+
+        btn.onclick = () => showDetail(index);
+        listContainer.appendChild(btn);
+      });
+
+      function showDetail(idx) {
+        const entry = reviewData[idx];
+        detailContainer.innerHTML = "";
+
+        const title = document.createElement("div");
+        title.classList.add("question-title");
+        title.textContent = `Q${idx + 1}: ${entry.question}`;
+        detailContainer.appendChild(title);
+
+        entry.choices.forEach((choice) => {
+          const p = document.createElement("p");
+          p.classList.add("choice");
+          p.textContent = choice.text;
+
+          if (entry.correct.includes(choice.index.toString())) {
+            p.classList.add("correct");
+          }
+
+          if (entry.selected.includes(choice.index.toString())) {
+            p.classList.add("user-selected");
+            if (!entry.correct.includes(choice.index.toString())) {
+              p.classList.add("incorrect");
+            }
+          }
+
+          detailContainer.appendChild(p);
+        });
+
+        const backBtn = document.createElement("a");
+        backBtn.href = "/";
+        backBtn.textContent = "Back to Home";
+        backBtn.classList.add("btn");
+        backBtn.style.display = "inline-block";
+        backBtn.style.marginTop = "2rem";
+
+        detailContainer.appendChild(backBtn);
+      }
+
+      function arraysEqual(a, b) {
+        return a.length === b.length && a.every((val, i) => val === b[i]);
+      }
+    </script>
+  </body>
+</html>

@@ -14,6 +14,9 @@ let hasChooseAnswer = false;
 let chooseAnswer = [];
 let questions = [];
 let scoreAdded = false;
+let reviewData = [];
+
+const QUESTION_COUNT = parseInt(localStorage.getItem("questionCount")) || 71; // You can change this value to customize number of questions
 
 const loadQuestion = async () => {
     const questionData = await fetch("./saa_questions.json").then((res) =>
@@ -49,7 +52,8 @@ let MAX_QUESTIONS = 0;
 startGame = () => {
     questionCounter = 0;
     score = 0;
-    availableQuestions = shuffleArray(questions).slice(0, 71);
+    reviewData = [];
+    availableQuestions = shuffleArray(questions).slice(0, QUESTION_COUNT);
     MAX_QUESTIONS = availableQuestions.length;
     getNewQuestion();
     game.classList.remove("hidden");
@@ -59,6 +63,7 @@ startGame = () => {
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem("mostRecentScore", score);
+        localStorage.setItem("review", JSON.stringify(reviewData));
         return window.location.assign("/end.html");
     }
 
@@ -117,6 +122,14 @@ choices.forEach((choice) => {
 nextQuestion = () => {
     if (chooseAnswer.length > 0) {
         checkAnswer();
+
+        reviewData.push({
+            question: currentQuestion.question,
+            selected: [...chooseAnswer],
+            correct: [...currentQuestion.correct_answers],
+            choices: currentQuestion.choices,
+        });
+
         setTimeout(() => {
             choices.forEach(
                 (choice) =>
