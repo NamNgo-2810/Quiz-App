@@ -5,6 +5,8 @@ const scoreText = document.getElementById("score");
 const progressBarFull = document.getElementById("progressBarFull");
 const loader = document.getElementById("loader");
 const game = document.getElementById("game");
+const multipleAnswersIndicator = document.getElementById("multipleAnswersIndicator");
+const goBackBtn = document.getElementById("goBackBtn");
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
@@ -15,6 +17,7 @@ let chooseAnswer = [];
 let questions = [];
 let scoreAdded = false;
 let reviewData = [];
+let questionHistory = []; // Store previous questions and their states
 
 // Topic configuration with display names
 const topicConfig = {
@@ -87,6 +90,7 @@ startGame = () => {
     questionCounter = 0;
     score = 0;
     reviewData = [];
+    questionHistory = [];
     availableQuestions = shuffleArray(questions).slice(0, QUESTION_COUNT);
     MAX_QUESTIONS = availableQuestions.length;
     getNewQuestion();
@@ -109,6 +113,15 @@ getNewQuestion = () => {
     const questionIndex = 0;
     currentQuestion = availableQuestions[questionIndex];
     question.innerHTML = currentQuestion.question;
+
+    // Show multiple answers indicator if question has more than one correct answer
+    const correctAnswersCount = currentQuestion.correct_answers.length;
+    if (correctAnswersCount > 1) {
+        multipleAnswersIndicator.innerHTML = `Chọn ${correctAnswersCount} đáp án đúng`;
+        multipleAnswersIndicator.classList.remove("hidden");
+    } else {
+        multipleAnswersIndicator.classList.add("hidden");
+    }
 
     choices.forEach((choice, index) => {
         if (currentQuestion.choices[index]) {
@@ -134,6 +147,9 @@ getNewQuestion = () => {
             "incorrect"
         );
     });
+
+    // Update Go Back button state
+    goBackBtn.disabled = questionHistory.length === 0;
 };
 
 choices.forEach((choice) => {
@@ -156,6 +172,14 @@ choices.forEach((choice) => {
 nextQuestion = () => {
     if (chooseAnswer.length > 0) {
         checkAnswer();
+
+        // Save current question state to history before moving to next
+        questionHistory.push({
+            question: currentQuestion,
+            selectedAnswers: [...chooseAnswer],
+            questionCounter: questionCounter,
+            score: score
+        });
 
         reviewData.push({
             question: currentQuestion.question,
@@ -212,4 +236,68 @@ incrementScore = (num) => {
 
 function arraysEqual(a, b) {
     return a.length === b.length && a.every((val, index) => val === b[index]);
+}
+
+// Go back to previous question
+function goBackToPreviousQuestion() {
+    if (questionHistory.length === 0) return;
+
+    // Get the previous question state
+    const previousState = questionHistory.pop();
+
+    // Restore the previous question
+    currentQuestion = previousState.question;
+    chooseAnswer = [...previousState.selectedAnswers];
+    questionCounter = previousState.questionCounter;
+    score = previousState.score;
+
+    // Update UI
+    question.innerHTML = currentQuestion.question;
+    progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
+    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
+    scoreText.innerText = score;
+
+    // Show multiple answers indicator if needed
+    const correctAnswersCount = currentQuestion.correct_answers.length;
+    if (correctAnswersCount > 1) {
+        multipleAnswersIndicator.innerHTML = `Chọn ${correctAnswersCount} đáp án đúng`;
+        multipleAnswersIndicator.classList.remove("hidden");
+    } else {
+        multipleAnswersIndicator.classList.add("hidden");
+    }
+
+    // Restore choices and their states
+    choices.forEach((choice, index) => {
+        if (currentQuestion.choices[index]) {
+            choice.innerHTML = currentQuestion.choices[index].text;
+            choice.dataset["number"] = currentQuestion.choices[index].index.toString();
+            choice.parentElement.style.display = "block";
+
+            // Restore selection state
+            const isSelected = chooseAnswer.includes(choice.dataset["number"]);
+            if (isSelected) {
+                choice.parentElement.classList.add("choosing");
+            } else {
+                choice.parentElement.classList.remove("choosing");
+            }
+        } else {
+            choice.innerHTML = "";
+            choice.dataset["number"] = "-1";
+            choice.parentElement.style.display = "none";
+        }
+
+        // Remove answer feedback classes
+        choice.parentElement.classList.remove("correct", "incorrect");
+    });
+
+    // Add the current question back to available questions at the beginning
+    availableQuestions.unshift(currentQuestion);
+
+    // Update Go Back button state
+    goBackBtn.disabled = questionHistory.length === 0;
+
+    // Remove the last entry from review data since we're going back
+    if (reviewData.length > 0) {
+        reviewData.pop();
+    }
 }
