@@ -16,28 +16,62 @@ let questions = [];
 let scoreAdded = false;
 let reviewData = [];
 
+// Topic configuration with display names
+const topicConfig = {
+    "saa_questions.json": { name: "SAA C03", maxQuestions: 710 },
+    "Bộ đề chung 2025 - ôn tập.json": { name: "Bộ đề chung 2025 - ôn tập", maxQuestions: 50 },
+    "ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 260 },
+    "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 264 },
+    "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 }
+};
+
 const QUESTION_COUNT = parseInt(localStorage.getItem("questionCount")) || 71; // You can change this value to customize number of questions
 
+// Update page title with selected topic
+const selectedTopic = localStorage.getItem("selectedTopic") || "saa_questions.json";
+const topicName = topicConfig[selectedTopic]?.name || "Quiz";
+document.title = `${topicName} - Quiz`;
+
 const loadQuestion = async () => {
-    const questionData = await fetch("./saa_questions.json").then((res) =>
-        res.json()
-    );
+    // Get the selected topic from localStorage, default to saa_questions.json
+    const selectedTopic = localStorage.getItem("selectedTopic") || "saa_questions.json";
 
-    questions = questionData.map((loadedQuestion) => {
-        const formattedQuestion = {
-            question: loadedQuestion.question,
-            choices: shuffleArray(
-                loadedQuestion.choices.map((text, index) => ({ text, index }))
-            ),
-            correct_answers: loadedQuestion.correct_answers.map((idx) =>
-                idx.toString()
-            ),
-        };
+    // Check if user came here without selecting a topic (no questionCount set)
+    if (!localStorage.getItem("questionCount")) {
+        alert("Please select a topic and number of questions first.");
+        window.location.href = "/index.html";
+        return;
+    }
 
-        return formattedQuestion;
-    });
+    try {
+        const questionData = await fetch(`./${selectedTopic}`).then((res) => {
+            if (!res.ok) {
+                throw new Error(`Failed to load questions from ${selectedTopic}`);
+            }
+            return res.json();
+        });
 
-    startGame();
+        questions = questionData.map((loadedQuestion) => {
+            const formattedQuestion = {
+                question: loadedQuestion.question,
+                choices: shuffleArray(
+                    loadedQuestion.choices.map((text, index) => ({ text, index }))
+                ),
+                correct_answers: loadedQuestion.correct_answers.map((idx) =>
+                    idx.toString()
+                ),
+            };
+
+            return formattedQuestion;
+        });
+
+        startGame();
+    } catch (error) {
+        console.error("Error loading questions:", error);
+        alert("Failed to load questions. Please try again or select a different topic.");
+        // Redirect back to home page
+        window.location.href = "/index.html";
+    }
 };
 
 function shuffleArray(array) {
