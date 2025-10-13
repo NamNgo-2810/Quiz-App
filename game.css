@@ -1,3 +1,18 @@
+.author-credit {
+  position: fixed;
+  top: 10px;
+  right: 15px;
+  background-color: rgba(86, 165, 235, 0.9);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
+}
+
 .choice-container {
   display: flex;
   flex-direction: row;
@@ -33,6 +48,32 @@
   font-size: 16px;
   color: red;
   margin: 5px 0;
+}
+
+.multiple-answers-indicator {
+  font-size: 1.6rem;
+  color: #56a5eb;
+  font-weight: bold;
+  margin: 1rem 0;
+  padding: 0.8rem 1.2rem;
+  background-color: rgba(86, 165, 235, 0.1);
+  border: 0.1rem solid rgba(86, 165, 235, 0.3);
+  border-radius: 0.4rem;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hub-button:disabled {
+  background-color: #ccc;
+  color: #666;
+  cursor: not-allowed;
+  opacity: 0.6;
 }
 
 .choice-text {
