@@ -471,10 +471,10 @@
   {
     "question": "Trong T24, Khai báo PGM.FILE cho service như thế nào để chạy đa luồng?",
     "choices": [
-      "TYPE = B",
-      "TYPE = B",
-      "TYPE = B",
-      "TYPE = B"
+      "TYPE = B\nBATCH.JOB = @BATCH.JOB.CONTROL",
+      "TYPE = B\nBATCH.JOB = Rỗng",
+      "TYPE = B\nBATCH.JOB = @TÊN SERVICE",
+      "TYPE = B\nBATCH.JOB = B"
     ],
     "correct_answers": [
       0,
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "question": "Trong T24, \"Fatal error in (S.JOB.RUN) error Error in VN0010001-COB DATES record. Dates are not cycled\"",
+    "question": "Trong T24, \"Fatal error in (S.JOB.RUN) error Error in VN0010001-COB DATES record. Dates are not cycled\"\nNguyên nhân nào có thể dẫn đến lỗi này?",
     "choices": [
       "Do không tồn tại rtn S.JOB.RUN",
       "Do ngày trên 2 record VN0010001 và VN0010001-COB trong bảng F.DATES đang lệch nhau.",
@@ -2318,14 +2318,14 @@
     ]
   },
   {
-    "question": "Ví dụ bảng EMPLOYEES có cấu trúc sau:",
+    "question": "Ví dụ bảng EMPLOYEES có cấu trúc sau:\nEMPLOYEE_ID NUMBER Primary Key\nFIRST_NAME VARCHAR2(25)\nLAST_NAME VARCHAR2(25)\nBa câu lệnh nào chèn một hàng vào bảng?",
     "choices": [
-      "INSERT INTO employees",
-      "INSERT INTO employees( first_name, last_name)",
-      "INSERT INTO employees",
-      "INSERT INTO employees(first_name,last_name, employee_id)",
-      "INSERT INTO employees (employee_id)",
-      "INSERT INTO employees (employee_id, first_name, last_name)"
+      "INSERT INTO employees VALUES ( NULL, ‘John’,‘Smith’);",
+      "INSERT INTO employees( first_name, last_name) VALUES(‘John’,‘Smith’);",
+      "INSERT INTO employees VALUES (‘1000’,‘John’,NULL);",
+      "INSERT INTO employees(first_name,last_name, employee_id) VALUES ( 1000, ‘John’,‘Smith’);",
+      "INSERT INTO employees (employee_id) VALUES (1000);",
+      "INSERT INTO employees (employee_id, first_name, last_name) VALUES ( 1000, ‘John’,‘’);"
     ],
     "correct_answers": [
       1,
@@ -2334,7 +2334,7 @@
     ]
   },
   {
-    "question": "Bảng STUDENTS có cấu trúc:",
+    "question": "Bảng STUDENTS có cấu trúc:\nSTD_ ID NUMBER(4)\nCOURSE_ID VARCHARD2(10)\nSTART_DATE DATE\nEND_DATE DATE\nHai hàm tính nào hợp lệ trên cột START_DATE?",
     "choices": [
       "SUM(start_date)",
       "AVG(start_date)",
@@ -2349,12 +2349,12 @@
     ]
   },
   {
-    "question": "Bảng EMPLOYEE có 3 cột sau:",
+    "question": "Bảng EMPLOYEE có 3 cột sau:\nLAST_NAME VARCHAR2(35)\nSALARY NUMBER(8,2)\nCOMMISSION_PCT NUMBER(5,2)\nBạn muốn hiển thị tên và mức lương hàng năm nhân với commission_pct của tất cả nhân viên. Đối với các bản ghi có commission_pct NULL, phải hiển thị số 0 trên cột được tính toán.\nCâu lệnh SQL nào hiển thị kết quả mong muốn?",
     "choices": [
-      "SELECT last_name, (salary * 12) * commission_pct",
-      "SELECT last_name, (salary * 12) * IFNULL(commission_pct, 0)",
-      "SELECT last_name, (salary * 12) * NVL2(commission_pct, 0)",
-      "SELECT last_name, (salary * 12) * NVL(commission_pct, 0)"
+      "SELECT last_name, (salary * 12) * commission_pct FROM EMPLOYEES;",
+      "SELECT last_name, (salary * 12) * IFNULL(commission_pct, 0) FROM EMPLOYEES;",
+      "SELECT last_name, (salary * 12) * NVL2(commission_pct, 0) FROM EMPLOYEES;",
+      "SELECT last_name, (salary * 12) * NVL(commission_pct, 0) FROM EMPLOYEES;"
     ],
     "correct_answers": [
       3
@@ -2363,12 +2363,12 @@
   {
     "question": "Ba câu lệnh SELECT nào hiển thị 2000 theo định dạng “$2,000.00”?",
     "choices": [
-      "SELECT TO CNAR(2000, ‘$#,###.##’)",
-      "SELECT TO CNAR(2000, ‘$0,000.00’)",
-      "SELECT TO CNAR(2000, ‘$9,999.00’)",
-      "SELECT TO CNAR(2000, ‘$9,999.99’)",
-      "SELECT TO CNAR(2000, ‘$2,000.00’)",
-      "SELECT TO CNAR(2000, ‘$N,NNN.NN’)"
+      "SELECT TO CNAR(2000, ‘$#,###.##’) FROM dual;",
+      "SELECT TO CNAR(2000, ‘$0,000.00’) FROM dual;",
+      "SELECT TO CNAR(2000, ‘$9,999.00’) FROM dual;",
+      "SELECT TO CNAR(2000, ‘$9,999.99’) FROM dual;",
+      "SELECT TO CNAR(2000, ‘$2,000.00’) FROM dual;",
+      "SELECT TO CNAR(2000, ‘$N,NNN.NN’) FROM dual;"
     ],
     "correct_answers": [
       1,
@@ -2390,13 +2390,13 @@
     ]
   },
   {
-    "question": "Bảng STUDENT_GRADES có 3 cột:",
+    "question": "Bảng STUDENT_GRADES có 3 cột:STUDENT_ ID NUMBER(12)\nSEMESTER_END DATE\nGPA NUMBER(4,3)\nSổ đăng ký đã yêu cầu một báo cáo liệt kê điểm trung bình tích lũy (GPA) của sinh viên, được sắp xếp từ điểm trung bình tích lũy cao nhất đến thấp nhất trong mỗi học kỳ, bắt đầu từ ngày đầu tiên. Câu lệnh nào thực hiện được điều này?\nMột số nhân viên có thể không có số điện thoại.\nBạn sử dụng câu lệnh DML nào?",
     "choices": [
-      "SELECT student_id, semester_end, gpa",
-      "SELECT student_id, semester_end, gpa",
-      "SELECT student_id, semester_end, gpa",
-      "SELECT student_id, semester_end, gpa",
-      "SELECT student_id, semester_end, gpa"
+      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end DESC, gpa DESC;",
+      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end ASC, gpa ASC;",
+      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end, gpa DESC;",
+      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY gpa DESC, semester_end DESC;",
+      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY gpa DESC, semester_end ASC;"
     ],
     "correct_answers": [
       4
@@ -2417,12 +2417,12 @@
     ]
   },
   {
-    "question": "Bảng EMP có 3 cột:",
+    "question": "Bảng EMP có 3 cột:\nENAME VARCHAR2(35)\nSALARY NUMBER(8,2)\nHIRE_DATE DATE\nManager muốn có danh sách tên của những nhân viên đã làm việc tại công ty hơn năm năm. Câu lệnh SQL nào sẽ hiển thị kết quả?",
     "choices": [
-      "SELECT ENAME",
-      "SELECT ENAME",
-      "SELECT ENAME",
-      "SELECT ENAME"
+      "SELECT ENAME FROM EMP WHERE SYSDATE - HIRE_DATE > 5;",
+      "SELECT ENAME FROM EMP WHERE HIRE_DATE-SYSDATE > 5;",
+      "SELECT ENAME FROM EMP WHERE (SYSDATE-HIRE_DATE)/365 > 5;",
+      "SELECT ENAME FROM EMP WHERE (SYSDATE-HIRE_DATE)* 365 > 5;"
     ],
     "correct_answers": [
       2
@@ -2431,29 +2431,36 @@
   {
     "question": "Bạn muốn hiển thị system date theo format \"Monday, 01 June, 2001\".",
     "choices": [
-      "SELECT TO_DATE(SYSDATE, 'FMDAY, DD Month,",
-      "SELECT TO_CHAR(SYSDATE, 'FMDD, DY Month,",
-      "SELECT TO_CHAR(SYSDATE, 'FMDay, DD Month,",
-      "SELECT TO_CHAR(SYSDATE, 'FMDY, DDD Month,",
-      "SELECT TO_DATE(SYSDATE, 'FMDY, DDD Month,",
-      "SELECT customer_id, customer_name",
-      "SELECT customer_id, customer_name",
-      "SELECT customer_id, customer_name",
-      "SELECT customer_id, customer_name",
-      "SELECT customer_id, customer_name"
+      "SELECT TO_DATE(SYSDATE, 'FMDAY, DD Month, YYYY') FROM dual;",
+      "SELECT TO_CHAR(SYSDATE, 'FMDD, DY Month, 'YYY') FROM dual;",
+      "SELECT TO_CHAR(SYSDATE, 'FMDay, DD Month, YYYY') FROM dual; .",
+      "SELECT TO_CHAR(SYSDATE, 'FMDY, DDD Month, YYYY') FROM dual;",
+      "SELECT TO_DATE(SYSDATE, 'FMDY, DDD Month, YYYY') FROM dual;"
     ],
     "correct_answers": [
-      2,
-      7
+      2
+    ]
+  },
+  {
+    "question": "Bảng CUSTOMERS có 3 cột:\nCUSTOMER_ID NUMBER(4) NOT NULL\nCUSTOMER_NAME VARCHAR2(100) NOT NULL\nSTREET_ADDRESS VARCHAR2(150)\nCITY_ADDRESS VARCHAR2(50)\nSTATE_ADDRESS VARCHAR2(50)\nPROVINCE_ADDRESS VARCHAR2(50)\nCOUNTRY_ADDRESS VARCHAR2(50)\nPOSTAL_CODE VARCHAR2(12)\nCUSTOMER_PHONE VARCHAR2(20)\nCâu lệnh nào tìm các rows trong bảng CUSTOMERS table mà postal_code là null?",
+    "choices": [
+      "SELECT customer_id, customer_name FROM customers WHERE postal_code CONTAINS NULL;",
+      "SELECT customer_id, customer_name FROM customers WHERE postal_code = '________';",
+      "SELECT customer_id, customer_name FROM customers WHERE postal_code IS NULL; .",
+      "SELECT customer_id, customer_name FROM customers WHERE postal code IS NVL;",
+      "SELECT customer_id, customer_name FROM customers WHERE postal_code = NULL;"
+    ],
+    "correct_answers": [
+      2
     ]
   },
   {
     "question": "Bạn cần hiển thị cột last_names của bảng employees có chữ cái “A” là ký tự thứ 2 trong tên",
     "choices": [
-      "SELECT last_name",
-      "SELECT last_name",
-      "SELECT last_name",
-      "SELECT last_name"
+      "SELECT last_name FROM EMP WHERE last_name LIKE ‘_A%’ .",
+      "SELECT last_name FROM EMP WHERE last name =’*A%’",
+      "SELECT last_name FROM EMP WHERE last name =’_A%’;",
+      "SELECT last_name FROM EMP WHERE last name LIKE ‘*A%’"
     ],
     "correct_answers": [
       0
@@ -2499,13 +2506,13 @@
     ]
   },
   {
-    "question": "Bạn cần tạo báo cáo gửi thư cho tất cả khách hàng. Thông tin gửi thư chứa id, tên, địa chỉ, điện thoại của khách hàng. Bảng CUSTOMERS có các cột sau:",
+    "question": "Bạn cần tạo báo cáo gửi thư cho tất cả khách hàng. Thông tin gửi thư chứa id, tên, địa chỉ, điện thoại của khách hàng. Bảng CUSTOMERS có các cột sau:\nCUST_ID NUMBER(4) NOT NULL\nCUST_NAME VARCHAR2(100)\nCUST_ADDRESS VARCHAR2(150)\nCUST_PHONE VARCHAR2(20)\nCâu lệnh SELECT nào thực hiện nhiệm vụ này?",
     "choices": [
-      "SELECT*",
-      "SELECT name, address",
-      "SELECT id, name, address, phone",
-      "SELECT cust_name, cust_address",
-      "SELECT cust_id, cust_name, cust_address, cust_ phone"
+      "SELECT * FROM customers;",
+      "SELECT name, address FROM customers;",
+      "SELECT id, name, address, phone FROM customers;",
+      "SELECT cust_name, cust_address FROM customers;",
+      "SELECT cust_id, cust_name, cust_address, cust_ phone FROM customers;"
     ],
     "correct_answers": [
       3
@@ -2660,29 +2667,28 @@
   {
     "question": "Câu lệnh SQL nào định nghĩa ràng buộc KHÓA NGOẠI trên cột DEPTNO của bảng EMP?",
     "choices": [
-      "CREATE TABLE EMP",
-      "CREATE TABLE EMP",
-      "CREATE TABLE EMP",
-      "CREATE TABLE EMP (empno NUMBER(4),"
+      "CREATE TABLE EMP (empno NUMBER(4), ename VARCNAR2(35), deptno NUMBER(7,2) NOT NULL CONSTRAINT emp_deptno_fk FOREIGN KEY deptno REFERENCES dept deptno);",
+      "CREATE TABLE EMP (empno NUMBER(4),ename VARCNAR2(35), deptno NUMBER(7,2) CONSTRAINT emp_deptno_fk REFERENCES dept (deptno));",
+      "CREATE TABLE EMP (empno NUMBER(4) ename VARCHAR2(35), deptno NUMBER(7,2) NOT NULL, CONSTRAINT emp_deptno_fk REFERENCES dept (deptno) FOREIGN KEY (d eptno)); .",
+      "CREATE TABLE EMP (empno NUMBER(4), ename VARCNAR2(35), deptno NUMBER(7,2) FOREIGN KEY CONSTRAINT emp deptno fk REFERENCES dept (deptno));"
     ],
     "correct_answers": [
       2
     ]
   },
   {
-    "question": "Đánh giá câu lệnh SQL:",
+    "question": "Đánh giá câu lệnh SQL: SELECT ROUND(TRUNC(MOD(1600,10),-1),2) FROM dual; \nKết quả gì sẽ được hiển thị?",
     "choices": [
       0,
       1,
-      0,
       "An error statement"
     ],
     "correct_answers": [
-      2
+      0
     ]
   },
   {
-    "question": "Cho câu lệnh SQL tạo ra bảng ORDERS:",
+    "question": "Cho câu lệnh SQL tạo ra bảng ORDERS: \nCREATE TABLE orders\n(SER_NO NUMBER UNIQUE,\nORDER_ ID NUMBER,\nORDER_DATE DATE NOT NULL\nSTATUS VARCHARD2(10)\nCHECK (status IN (‘CREDIT’,’CASH’)),\nPROD_ID_NUMBER\nREFERENCES PRODUCTS(PRODUCT_ID),\nORD_TOTAL NUMBER,\nPRIMARY KEY (order id, order date));\nChỉ mục (index) sẽ tự động được tạo cho những cột nào khi bạn thực thi câu lệnh SQL trên?",
     "choices": [
       "SER_NO",
       "ORDER_ ID",
