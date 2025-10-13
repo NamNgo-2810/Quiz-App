@@ -1,0 +1,3295 @@
+[
+  {
+    "question": "Ưu điểm chính của container so với máy ảo (VM) là gì?",
+    "choices": [
+      "Container nhẹ, khởi tạo nhanh, tận dụng tài nguyên hiệu quả hơn.",
+      "Container chạy được mà không cần hệ điều hành",
+      "Container không cần network để hoạt động",
+      "Container bảo mật tuyệt đối, không cần vá lỗi"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kubernetes giải quyết vấn đề nào sau đây?",
+    "choices": [
+      "Tự động quản lý, scale, và phục hồi container.",
+      "Viết code backend hiệu quả hơn",
+      "Giúp developer không cần học CI/CD",
+      "Thay thế hoàn toàn Docker"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong môi trường production, cách nào sau đây KHÔNG phải là best practice để bảo mật Secret trong Kubernetes?",
+    "choices": [
+      "Lưu Secret dưới dạng plain-text trong ConfigMap.",
+      "Bật tính năng Encryption at Rest cho etcd",
+      "Lưu Secret dưới dạng plain-text trong ConfigMap",
+      "Giới hạn RBAC chỉ cho phép Pod đọc Secret cần thiết"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Bạn deploy một ứng dụng web lên Kubernetes, nhưng mỗi khi Pod bị xóa hoặc restart thì user mất toàn bộ session. Nguyên nhân hợp lý nhất là gì?",
+    "choices": [
+      "Dữ liệu session lưu trong container filesystem, không có Persistent Volume.",
+      "Pod không expose ra ngoài bằng Service",
+      "Pod chưa được cấu hình liveness probe",
+      "Cluster chưa có Ingress Controller"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Bạn triển khai một ứng dụng xử lý dữ liệu lớn, cần truyền dữ liệu nhạy cảm giữa các Pod trong cluster. Biện pháp nào sau đây giúp tăng cường bảo mật nhất?",
+    "choices": [
+      "Mã hóa traffic giữa Pod bằng mTLS (Mutual TLS). ",
+      "Chỉ chạy Pod trong cùng một Namespace",
+      "Dùng ConfigMap để lưu token API",
+      "Dùng Horizontal Pod Autoscaler để tăng số Pod"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong Kubernetes, Secret thường dùng để lưu trữ loại thông tin nào?",
+    "choices": [
+      "Mật khẩu và token truy cập.",
+      "ConfigMap",
+      "Pod logs",
+      "Node hostname"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong Kubernetes, cơ chế nào cho phép kiểm soát lưu lượng mạng giữa các Pod?",
+    "choices": [
+      "NetworkPolicy.",
+      "RBAC",
+      "PodSecurityPolicy (PSP)",
+      "Secrets Encryption"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Container khác VM ở điểm nào?",
+    "choices": [
+      "Container chạy trực tiếp trên kernel của host, còn VM có hypervisor.",
+      "Container ảo hóa toàn bộ phần cứng, còn VM chỉ ảo hóa OS",
+      "Container cần hypervisor để chạy, còn VM thì không",
+      "Container không thể chạy nhiều ứng dụng, VM thì có thể"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Container runtime (như containerd, CRI-O) trong kiến trúc Kubernetes có vai trò gì?",
+    "choices": [
+      "Chạy và quản lý vòng đời container.",
+      "Cung cấp UI quản lý container",
+      "Quản lý việc build image",
+      "Đảm bảo RBAC trong cluster"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong môi trường production, cách nào KHÔNG được khuyến nghị khi sử dụng container?",
+    "choices": [
+      "Chạy container với quyền root.",
+      "Dùng image từ registry chính thức hoặc trusted registry",
+      "Scan image trước khi đưa vào production",
+      "Giới hạn capability của container"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong DevOps, IaC (Infrastructure as Code) mang lại lợi ích nào?",
+    "choices": [
+      "Tự động hóa hạ tầng, dễ tái lập môi trường",
+      "Tăng tính lặp lại và giảm lỗi do cấu hình thủ công.",
+      "Giúp triển khai ứng dụng nhanh hơn mà không cần code",
+      "Cho phép chạy nhiều ứng dụng trong cùng một container"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Một tổ chức gặp tình trạng: Mỗi lần release phần mềm đều mất nhiều giờ downtime. Cách tiếp cận DevOps nào phù hợp nhất để giải quyết?",
+    "choices": [
+      "Triển khai canary release hoặc blue-green deployment.",
+      "Sử dụng database lớn hơn để tăng hiệu năng",
+      "Dùng thêm công cụ logging để xem lỗi sau khi release",
+      "Thêm nhân sự để triển khai song song"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Black Duck SCA giúp phát hiện những loại rủi ro nào?",
+    "choices": [
+      "Tất cả các lựa chọn trên.",
+      "Lỗ hổng bảo mật trong thành phần mã mở",
+      "License không tương thích",
+      "Thành phần mã mở lỗi thời"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Black Duck KnowledgeBase là gì?",
+    "choices": [
+      "CSDL chứa thông tin thành phần OSS, license và lỗ hổng bảo mật.",
+      "Kho chứa source code mở cho lập trình viên",
+      "Hệ thống ticket để quản lý bug",
+      "API marketplace"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Lợi ích chính của DevSecOps là gì?",
+    "choices": [
+      "Giảm rủi ro bảo mật và license bằng cách phát hiện sớm trong vòng đời phát triển.",
+      "Tăng tốc CI/CD bằng cách bỏ qua scan bảo mật",
+      "Thay thế hoàn toàn cho kiểm thử bảo mật ứng dụng động (DAST)",
+      "Thay thế cho pentest"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Black Duck có thể quét loại artifact nào sau đây?",
+    "choices": [
+      "Tất cả các lựa chọn trên.",
+      "Mã nguồn (source code)",
+      "Container image",
+      "Binary/compiled artifacts"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Ai là đối tượng chính sử dụng báo cáo từ DevSecOps?",
+    "choices": [
+      "Tất cả các nhóm trên.",
+      "Developer",
+      "DevOps Engineer",
+      "Security/Compliance team"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "DevSecOps là gì?",
+    "choices": [
+      "Tích hợp bảo mật vào mọi giai đoạn DevOps lifecycle.",
+      "Công cụ quét mã nguồn mở",
+      "Dịch vụ pentest thuê ngoài",
+      "Chỉ tập trung vào bảo mật production"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên tắc “shift-left security” trong DevSecOps có nghĩa là gì?",
+    "choices": [
+      "Đưa kiểm thử bảo mật vào giai đoạn sớm như coding và CI.",
+      "Đưa kiểm thử bảo mật sang giai đoạn vận hành",
+      "Bỏ qua kiểm thử bảo mật để rút ngắn thời gian",
+      "Chỉ kiểm thử khi release"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một trong các thách thức lớn nhất khi áp dụng DevSecOps là gì?",
+    "choices": [
+      "Thiếu văn hóa hợp tác giữa Dev, Sec, Ops.",
+      "Chỉ cần mua nhiều công cụ bảo mật",
+      "Không cần đào tạo developer",
+      "Không cần CI/CD"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Lệnh nào dùng để hiển thị dung lượng disk còn trống trong Linux?",
+    "choices": [
+      "df -h.",
+      "ls",
+      "du -sh",
+      "pwd"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Lệnh nào dùng để kiểm tra dung lượng RAM khả dụng trên hệ thống?",
+    "choices": [
+      "free -h.",
+      "ls -l",
+      "df -h",
+      "uname –a"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Lệnh nào dùng để restart jenkins agent trên các slave dùng systemd?",
+    "choices": [
+      "systemctl restart jenkins.",
+      "service jenkins reboot",
+      "/etc/init.d/jenkins reload",
+      "refresh jenkins"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi nhận thấy % used phân vùng /var/ gần sử dụng hết và muốn kiểm tra dung lượng của tất cả file, thư mục trong phần vùng /var để xoá bớt, lệnh nào để kiểm tra: ",
+    "choices": [
+      "du -sh /var/*",
+      "ls -lh /var/*",
+      "df -h /var/*",
+      "stat /var/*"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Công cụ nào chuyên dùng để quản lý database schema change theo workflow DevOps?",
+    "choices": [
+      "Bytebase.",
+      "Prometheus",
+      "Nexus",
+      "Harbor"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong Istio, chế độ Sidecar Injection có mấy loại chính?",
+    "choices": [
+      "2 loại.",
+      "1 loại",
+      "3 loại",
+      "4 loại"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi dùng Automatic Sidecar Injection, Istio dựa vào đâu để quyết định chèn sidecar?",
+    "choices": [
+      "Namespace label.",
+      "ServiceAccount",
+      "ConfigMap",
+      "Deployment name"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Manual Injection trong Istio thực hiện bằng cách nào?",
+    "choices": [
+      "Dùng lệnh istioctl kube-inject.",
+      "Sửa Deployment YAML trực tiếp",
+      "Sử dụng MutatingAdmissionWebhook",
+      "Gắn label cho namespace"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nếu một pod thuộc namespace có label istio-injection=enabled, nhưng pod có annotation sidecar.istio.io/inject: \"false\" thì kết quả là gì?",
+    "choices": [
+      "Không inject.",
+      "Vẫn inject",
+      "Tạo thêm một sidecar rỗng",
+      "Lỗi admission webhook"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Istio Gateway chủ yếu hoạt động ở mode nào?",
+    "choices": [
+      "L7 routing.",
+      "L3 routing",
+      "L4 routing",
+      "L2 routing"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong T24,Ứng dụng nào sau đây hỗ trợ thu phí 1 lần ngay theo mã phí không đi kèm giao dịch tài chính",
+    "choices": [
+      "AC.CHARGE.REQUEST",
+      "IC.CHARGE",
+      "FUNDS.TRANSFER",
+      "TELLER"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong T24, Ứng dụng nào sau đây hỗ trợ thu phí định kỳ theo mã phí không đi kèm giao dịch tài chính",
+    "choices": [
+      "AC.CHARGE.REQUEST",
+      "IC.CHARGE",
+      "FUNDS.TRANSFER",
+      "TELLER"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, Bảng nào sau đây lưu toàn bộ các bút toán phát sinh trên P&L",
+    "choices": [
+      "STMT.ENTRY & STMT.ENTRY.DETAIL",
+      "CATEG.ENTRY & CATEG.ENTRY.DETAIL",
+      "RE.CONSOL.SPEC.ENTRY & RE.SPEC.ENTRY.DETAIL",
+      "STMT.ENTRY & CATEG.ENTRY"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, ID bút toán STMT có dạng: XXXXXYYYYYZZZZZ.MMMMMM thì ZZZZZ thể hiện:",
+    "choices": [
+      "5 chữ số thể hiện số ngày từ 31/12/1967",
+      "5 chữ số thể hiện thời gian theo giây.",
+      "5 chữ số thể hiện mã người dùng",
+      "5 chữ số thể hiện mã chi nhánh hạch toán"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, Thông tin số dư của tài khoản/hợp đồng được lưu chung trong bảng nào sau đây",
+    "choices": [
+      "ACCOUNT",
+      "RE.CONSOL.CONTRACT",
+      "EB.CONTRACT.BALANCES",
+      "ACT.ACTIVITY"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong T24, Sự khác nhau giữa việc sử dụng 2 lệnh đọc vào bảng READ và READU là gì?",
+    "choices": [
+      "READ là đọc vào bảng có lock bản ghi. READU là đọc vào bảng nhưng không lock bản ghi",
+      "READU là đọc vào bảng có lock bản ghi. READ là đọc vào bảng nhưng không lock bản ghi.",
+      "Cả READ và READU đều có lock bản ghi khi đọc vào bảng",
+      "Cả READ và READU đều không lock bản ghi khi đọc vào bảng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, Khi muốn điều chỉnh số lượng agent cho 1 service  thì phải làm thế nào?",
+    "choices": [
+      "Thực hiện thay đổi giá trị cần điều chỉnh vào trong Work Profile.1 trong TSA.SERVICE",
+      "Thực hiện thay đổi giá trị cần điều chỉnh vào trong Work Profile.1 trong TSA.STATUS",
+      "Thực hiện thay đổi giá trị cần điều chỉnh vào trong Work Profile.1 trong TSA.PARAMETER",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong T24,Khi OPENSEQ và WRITESEQ thì bắt buộc phải làm gì ",
+    "choices": [
+      "RETURN",
+      "CLOSESEQ",
+      "END",
+      "STOP"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24,Thuộc tính GTS.CONTROL trong VERSION có những giá trị nào?",
+    "choices": [
+      "Null/1/2",
+      "Null/1/2/3",
+      "Null/1/2/3/4",
+      "1/2/3/4"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong T24, Khai báo PGM.FILE cho service như thế nào để chạy đa luồng?",
+    "choices": [
+      "TYPE = B",
+      "TYPE = B",
+      "TYPE = B",
+      "TYPE = B"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, Trong chuỗi OFS nào có số REF check trùng?",
+    "choices": [
+      "FUNDS.TRANSFER,OFS/I/PROCESS,HO.IT.1004/Mb123456,FT123456789,TRANSACTION.TYPE::=AC,DEBIT.ACCT.NO::=VND1625000150800,DEBIT.CURRENCY::=VND,DEBIT.AMOUNT::=1000M,CREDIT.ACCT.NO::=0050114414007,PAYMENT.DETAILS::=KET CHUYEN XX TK,TXN.PURPOSE::=71",
+      "FUNDS.TRANSFER,OFS/I/PROCESS,HO.IT.1004/Mb123456,8888/FT123456789,TRANSACTION.TYPE::=AC,DEBIT.ACCT.NO::=VND1625000150800,DEBIT.CURRENCY::=VND,DEBIT.AMOUNT::=1000M,CREDIT.ACCT.NO::=0050114414007,PAYMENT.DETAILS::=KET CHUYEN XX TK,TXN.PURPOSE::=71",
+      "FUNDS.TRANSFER,OFS/I/PROCESS,HO.IT.1004/Mb123456,8888,TRANSACTION.TYPE::=AC,DEBIT.ACCT.NO::=VND1625000150800,DEBIT.CURRENCY::=VND,DEBIT.AMOUNT::=1000M,CREDIT.ACCT.NO::=0050114414007,PAYMENT.DETAILS::=KET CHUYEN XX TK,TXN.PURPOSE::=71",
+      "FUNDS.TRANSFER,OFS/I/PROCESS,HO.IT.1004/Mb123456/VN0010001,FT123456789, TRANSACTION.TYPE::=AC,DEBIT.ACCT.NO::=VND1625000150800,DEBIT.CURRENCY::=VND,DEBIT.AMOUNT::=1000M,CREDIT.ACCT.NO::=0050114414007,PAYMENT.DETAILS::=KET CHUYEN XX TK,TXN.PURPOSE::=71"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong T24, \"Fatal error in (S.JOB.RUN) error Error in VN0010001-COB DATES record. Dates are not cycled\"",
+    "choices": [
+      "Do không tồn tại rtn S.JOB.RUN",
+      "Do ngày trên 2 record VN0010001 và VN0010001-COB trong bảng F.DATES đang lệch nhau.",
+      "Do bản ghi VN0010001-COB trong bảng F.DATES bị thiếu.",
+      "Do trường CO.BATCH.STATUS trong bảng F.DATES từ B về O"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Hiện tượng \"Overfiting\"  xảy ra do những nguyên nhân nào?",
+    "choices": [
+      "Do mô hình quá lớn, phức tạp.",
+      "Do dữ liệu thiếu tính đa dạng.",
+      "Do quá trình huấn luyện.",
+      "Do áp dụng kỹ thuật Regularization",
+      "Tỷ lệ Train/Validate là 8/2",
+      "Tỷ lệ Train/Validate là 5/5",
+      "Tỷ lệ Train/Validate là 4/6",
+      "Tỷ lệ Train/Validate là 2/8"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "Học có giám sát(Supervised Learning) khác học không giám sát( Unsupervised Learning) ở điểm nào?",
+    "choices": [
+      "Supervised không cần nhãn, Unsupervised cần nhãn",
+      "Supervised cần dữ liệu có nhãn, Unsupervised không cần nhãn.",
+      "Supervised chỉ dùng cho hình ảnh, Unsupervised chỉ dùng cho văn bản",
+      "Không có sự khác biệt"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong đánh giá mô hình phân loại mất cân bằng dữ liệu (imbalanced dataset), metric nào quan trọng hơn Accuracy?",
+    "choices": [
+      "Recall và Precision.",
+      "Loss",
+      "Mean Squared Error",
+      "R2 Score (Hệ số giả định)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong phương pháp học tăng cường(Reinforcement Learning), khái niệm \"Reward\" là gì?",
+    "choices": [
+      "Dữ liệu huấn luyện",
+      "Phản hồi của môi trường về hành động của agent.",
+      "Hệ số phạt của của giá trị dự đoán và giá trị kỳ vọng",
+      "Bộ tham số của agent"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa AI, Machine Learning (ML) và Deep Learning (DL) là gì?",
+    "choices": [
+      "AI < ML < DL",
+      "ML < DL < AI",
+      "DL < ML < AI",
+      "AI = ML = DL"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hiện nay tại MB trong việc triển khai AI thì vai trò của khối CNTT là gì?",
+    "choices": [
+      "Triển khai hạ tầng AI.",
+      "Tích hợp hệ thống.",
+      "Đào tạo nghiệp vụ tín dụng",
+      "Đảm bảo bảo mật và tuân thủ."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Công nghệ nào thường được dùng để xây dựng chatbot hỗ trợ khách hàng?",
+    "choices": [
+      "AI thị giác (Computer Vision)",
+      "Xử lý ngôn ngữ tự nhiên (NLP).",
+      "Mô hình ngôn ngữ lớn (LLM).",
+      "Học tăng cường (Reinforcement Learning)"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Việc triển khai ứng dụng AI bạn cần tuân thủ quy định pháp lý nào sau đây?",
+    "choices": [
+      "Nghị định về bảo vệ dữ liệu cá nhân.",
+      "Luật dữ liệu.",
+      "Mức độ tin cậy của mô hình sử dụng",
+      "Chính sách về đạo đức AI"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Ứng dụng phổ biến khi dùng vector database trong các ứng dụng AI là gì?",
+    "choices": [
+      "Lưu trữ hồ sơ",
+      "Tìm kiếm tương đồng về ngữ nghĩa.",
+      "Gửi thông báo cảnh báo",
+      "Lưu dữ liệu dạng số học"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao các ngân hàng lớn ưu tiên xây dựng hệ thống AI nội bộ thay vì phụ thuộc hoàn toàn vào dịch vụ bên thứ 3?",
+    "choices": [
+      "Bảo mật và quyền riêng tư dữ liệu.",
+      "Tối ưu chi phí thuê ngoài",
+      "Kiểm soát chất lượng và logic mô hình.",
+      "Do quy định của nhà nước"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Trong pipeline trích xuất thông tin từ hồ sơ (CV, hóa đơn, sao kê...), việc triển khai AI cần đảm bảo yếu tố nào sau đây?",
+    "choices": [
+      "Quản lý lỗi và retry tự động.",
+      "Đào tạo lại mô hình theo chu kỳ",
+      "Gắn nhãn dữ liệu chuẩn.",
+      "Lưu trữ và truy xuất dữ liệu nhanh."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Khi triển khai hệ thống AI dự đoán gian lận giao dịch, Công nghệ thông tin cần phối hợp với đơn vị nào để hiệu chỉnh mô hình để đạt độ chính xác cao nhất",
+    "choices": [
+      "Khối Quản trị rủi ro.",
+      "Khối Pháp chế và Tuân thủ.",
+      "Ban Sản phẩm Marketing",
+      "Khối Hành chính"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Bạn có một hàm Python kiểm tra số nguyên tố chạy rất chậm. Cách nào sau đây là cách dùng AI để tối ưu?",
+    "choices": [
+      "Copy code vào AI, yêu cầu AI viết lại với vòng lặp đầy đủ từ 2 đến n",
+      "Yêu cầu AI tối ưu và AI gợi ý chỉ lặp đến căn bậc hai của n.",
+      "Hỏi AI viết code mới bằng Java thay cho Python",
+      "Nhờ AI gợi ý thêm phương pháp dùng thư viện sẵn có như sympy."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "API Flask bị lỗi 500, log không rõ ràng. Bạn sẽ dùng AI như thế nào?",
+    "choices": [
+      "Copy traceback vào AI, nhờ phân tích nguyên nhân.",
+      "Nhờ AI gợi ý cách bật debug và logging chi tiết hơn.",
+      "Nhờ AI viết lại toàn bộ API",
+      "Không cần AI, chỉ restart server"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Để sinh test case cho module xử lý ngày tháng với nhiều edge case, cách hiệu quả là gì?",
+    "choices": [
+      "Nhờ AI viết thêm code random test không kiểm chứng",
+      "Hỏi AI sinh test cho các trường hợp năm nhuận, timezone khác nhau.",
+      "Nhờ AI đề xuất fuzz test để phát hiện lỗi tiềm ẩn.",
+      "Không dùng AI, chỉ test bằng dữ liệu mẫu nhỏ"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Bạn muốn AI review đoạn code có hardcode password. Đâu là mong đợi hợp lý?",
+    "choices": [
+      "AI gợi ý sử dụng hashing và quản lý secret qua biến môi trường.",
+      "AI khen code ngắn gọn dễ hiểu",
+      "AI gợi ý thêm comment giải thích",
+      "AI chỉ ra hardcode password là vi phạm best practice."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Bạn có một file code 1000 dòng chứa logic, query và UI lẫn lộn. Dùng AI thế nào cho refactor?",
+    "choices": [
+      "Hỏi AI tách code thành Controller, Service, Repository.",
+      "Nhờ AI viết lại toàn bộ bằng ngôn ngữ khác",
+      "Nhờ AI gợi ý cách tổ chức lại codebase theo design pattern.",
+      "Hỏi AI thêm nhiều comment"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Trong CI/CD pipeline, bạn muốn dùng AI để phát hiện bug sớm. Cách hợp lý là gì?",
+    "choices": [
+      "Tích hợp AI để phân tích log build/test và dự báo lỗi.",
+      "Dùng AI để review cấu hình pipeline YAML.",
+      "Không dùng AI, chỉ rely vào manual test",
+      "Hỏi AI cách tăng tốc server"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Bạn cần tối ưu một truy vấn SQL chậm. Cách dùng AI hợp lý nhất là gì?",
+    "choices": [
+      "Nhờ AI rewrite SQL và so sánh execution plan.",
+      "Hỏi AI viết SQL khác ngẫu nhiên",
+      "Dùng AI gợi ý index phù hợp.",
+      "Không cần AI, chỉ thêm index tùy ý"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Bạn muốn viết tài liệu kỹ thuật nhanh hơn bằng AI. Cách nào hợp lý?",
+    "choices": [
+      "Nhờ AI tạo docstring, README và summary từ codebase.",
+      "Nhờ AI gợi ý checklist các phần cần có trong tài liệu.",
+      "Không dùng AI, viết thủ công 100%",
+      "Hỏi AI sinh tài liệu bất kỳ không liên quan"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Bạn gặp memory leak trong ứng dụng Java. AI có thể giúp gì?",
+    "choices": [
+      "Phân tích stack trace và gợi ý chỗ có memory leak.",
+      "Đề xuất công cụ như VisualVM hoặc JProfiler để kiểm tra.",
+      "Sinh thêm class mới",
+      "Xóa log để giảm bộ nhớ"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Bạn cần học nhanh một framework mới (Spring, Django). AI hỗ trợ ra sao?",
+    "choices": [
+      "Nhờ AI sinh ví dụ code chuẩn, giải thích best practice.",
+      "AI tóm tắt tài liệu chính thức.",
+      "AI viết framework mới",
+      "AI tạo API ngẫu nhiên"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Mục tiêu thực tế khi đưa AI vào công việc là gì?",
+    "choices": [
+      "Tăng hiệu suất & chất lượng.",
+      "Thay thế hoàn toàn con người",
+      "Giảm giao tiếp nội bộ ",
+      "Chỉ để lưu trữ dữ liệu"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để viết Prompt hiệu quả cho tác vụ phát triển phần mềm là gì",
+    "choices": [
+      "Nêu bối cảnh, vai trò, mục tiêu, tiêu chí đầu ra.",
+      "Chia nhỏ tác vụ.",
+      "Dùng từ mơ hồ để “tự do sáng tạo”",
+      "Ghép nhiều yêu cầu lẫn lộn"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "“Ảo giác” (hallucination) của AI là:",
+    "choices": [
+      "AI bịa/tự suy diễn thông tin nghe có vẻ hợp lý.",
+      "Lỗi chính tả",
+      "Máy nhiễm virus",
+      "Mạng chậm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trước khi gửi nội dung AI tạo cho khách hàng, nên:",
+    "choices": [
+      "Soát lỗi + kiểm nguồn/căn cứ.",
+      "Tin 100% và gửi ngay",
+      "Nhờ đồng nghiệp gửi hộ không cần đọc",
+      "Bỏ qua vì “nội bộ”"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tác vụ nào phù hợp tự động hoá bằng AI trước?",
+    "choices": [
+      "Lặp lại, quy tắc rõ, rủi ro thấp.",
+      "Quyết định pháp lý cuối cùng",
+      "Định hướng chiến lược mơ hồ",
+      "Đánh cược rủi ro cao"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phân tích dữ liệu bảng bằng AI nên:",
+    "choices": [
+      "Mô tả cột, câu hỏi, ràng buộc, định dạng output.",
+      "Chỉ dán bảng rồi “phán”",
+      "Trò chuyện ngoài lề",
+      "Gửi ảnh meme kèm theo"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong một dự án AI, yếu tố nào quan trọng nhất để đảm bảo mô hình hoạt động hiệu quả?",
+    "choices": [
+      "Thuật toán, mô hình phức tạp nhất",
+      "Chất lượng dữ liệu và phân phối dữ liệu.",
+      "Máy chủ mạnh nhất",
+      "Số lượng kỹ sư AI đông nhất"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "AI khác với phần mềm truyền thống ở điểm nào?",
+    "choices": [
+      "AI chỉ chạy được trên máy chủ đặc biệt",
+      "AI có khả năng học và cải thiện theo dữ liệu mới.",
+      "AI không cần dữ liệu",
+      "AI không bao giờ sai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi dùng AI để hỗ trợ ra quyết định, điều quan trọng là",
+    "choices": [
+      "Luôn xem xét và kiểm tra kết quả của AI trước khi áp dụng.",
+      "Tin tuyệt đối vào AI",
+      "Để AI tự động quyết định thay con người",
+      "Không cần quan tâm dữ liệu đầu vào"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy định pháp luật Việt Nam hiện hành, văn bản nào quy định trực tiếp và chi tiết nhất về bảo vệ dữ liệu cá nhân?",
+    "choices": [
+      "Luật An toàn thông tin mạng 2015",
+      "Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân.",
+      "Luật Giao dịch điện tử 2005",
+      "Nghị định 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ Internet"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là biện pháp an toàn quan trọng nhất trước khi gửi dữ liệu khách hàng lên LLM?",
+    "choices": [
+      "Giảm kích thước file bằng cách nén dữ liệu.",
+      "Ẩn danh hóa (anonymization) hoặc mã hóa dữ liệu nhạy cảm.",
+      "Chia dữ liệu ra nhiều phần nhỏ để gửi dần.",
+      "Chỉ gửi dữ liệu trong giờ hành chính."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nếu cán bộ quản lý phát hiện nhân viên đưa trực tiếp dữ liệu gốc của khách hàng vào LLM thương mại, hành động nào sau đây là đúng nhất?",
+    "choices": [
+      "Khuyến khích tiếp tục vì mô hình sẽ học nhanh hơn.",
+      "Không cần lo vì mô hình đã có chính sách bảo mật.",
+      "Ngăn chặn ngay lập tức và yêu cầu sử dụng kênh nội bộ/LLM riêng tư.",
+      "Chỉ cảnh báo miệng, không cần xử lý gì thêm."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong chiến lược SDLC, bạn sẽ áp dụng AI hiệu quả nhất ở đâu?",
+    "choices": [
+      "Chỉ trong giai đoạn coding",
+      "Trong toàn bộ vòng đời: design, coding, testing, deployment, monitoring.",
+      "Chỉ ở bước testing",
+      "Dùng AI cho cả monitoring log và anomaly detection."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Đâu là cách tích hợp AI an toàn vào codebase lớn?",
+    "choices": [
+      "Cho AI tự động merge code",
+      "Dùng AI sinh code gợi ý, dev review, chạy test coverage trước khi merge.",
+      "Tin tưởng 100% code AI sinh ra",
+      "Dùng AI kết hợp static analysis tool để phát hiện bug."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Khi triển khai AI code assistant cho toàn team, bạn cần lưu ý gì?",
+    "choices": [
+      "Quản lý license, bảo mật dữ liệu và đào tạo dev cách sử dụng.",
+      "Để dev tự dùng tùy ý",
+      "Đánh giá tuân thủ chính sách bảo mật của tổ chức.",
+      "Chỉ dùng cho junior dev"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Bạn muốn đánh giá chất lượng code AI sinh ra. Phương pháp nào phù hợp nhất?",
+    "choices": [
+      "Chạy static analysis, unit test, security scan.",
+      "Merge ngay vào production",
+      "Hỏi AI có chắc không",
+      "Thực hiện benchmark hiệu năng so sánh với baseline."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Để dùng AI trong monitoring hệ thống production, bạn sẽ áp dụng cách nào?",
+    "choices": [
+      "AI phân tích log, cảnh báo anomaly, gợi ý nguyên nhân sự cố.",
+      "AI tự động restart hệ thống mà không cần giám sát",
+      "AI thay thế hoàn toàn logging",
+      "AI kết hợp dashboard để cung cấp insight real-time."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Mục tiêu thực tế khi đưa AI vào công việc là gì?",
+    "choices": [
+      "Tăng hiệu suất & chất lượng.",
+      "Thay thế hoàn toàn con người",
+      "Giảm giao tiếp nội bộ ",
+      "Chỉ để lưu trữ dữ liệu"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để viết Prompt hiệu quả cho tác vụ phát triển phần mềm là gì",
+    "choices": [
+      "Nêu bối cảnh, vai trò, mục tiêu, tiêu chí đầu ra.",
+      "Chia nhỏ tác vụ.",
+      "Dùng từ mơ hồ để “tự do sáng tạo”",
+      "Ghép nhiều yêu cầu lẫn lộn"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Cấu trúc dữ liệu nào dùng để lưu trữ các phần tử theo thứ tự nhập đầu tiên ra đầu tiên ra (FIFO)?",
+    "choices": [
+      "Stack",
+      "Queue.",
+      "Linked List",
+      "Tree"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thuật toán nào dùng để sắp xếp một danh sách phần tử theo thứ tự tăng dần hoặc giảm dần?",
+    "choices": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Thuật toán nào dùng để tìm kiếm một phần tử trong một danh sách đã được sắp xếp?",
+    "choices": [
+      "Linear Search",
+      "Binary Search.",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Độ phức tạp thời gian (time complexity) của thuật toán Quick Sort là bao nhiêu trong trường hợp trung bình?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Redis là gì?",
+    "choices": [
+      "Hệ quản trị cơ sở dữ liệu quan hệ (RDBMS)",
+      "Hệ thống hàng đợi (Queueing system)",
+      "Hệ thống bộ nhớ cache và lưu trữ key-value.",
+      "Hệ thống tìm kiếm phân tán"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Redis hỗ trợ kiểu dữ liệu nào sau đây?",
+    "choices": [
+      "Dictionaries (Hashes)",
+      "Lists",
+      "Sets",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong Redis, lệnh nào được sử dụng để đặt một giá trị vào một key?",
+    "choices": [
+      "SET",
+      "GET",
+      "PUSH",
+      "POP"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Redis có thể được sử dụng để giải quyết vấn đề nào sau đây?",
+    "choices": [
+      "Lưu trữ dữ liệu tĩnh như cấu hình và thông tin phiên làm việc của người dùng",
+      "Lưu trữ dữ liệu phân tán và duy trì trạng thái của các sessions",
+      "Lưu trữ dữ liệu trung gian để tăng tốc độ truy vấn",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Lợi ích chính của việc sử dụng microservices là gì?",
+    "choices": [
+      "Tăng hiệu suất của hệ thống bằng cách tận dụng tài nguyên máy chủ tốt hơn",
+      "Giảm độ phức tạp của mã nguồn và dễ dàng bảo trì",
+      "Thuận tiện để quản lý và triển khai các ứng dụng lớn",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong microservices, cơ chế nào được sử dụng để giao tiếp giữa các dịch vụ?",
+    "choices": [
+      "SOAP (Simple Object Access Protocol)",
+      "REST (Representational State Transfer)",
+      "GraphQL",
+      "RPC (Remote Procedure Call)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong danh sách liên kết (linked list), mỗi nút (node) có tham chiếu đến phần tử tiếp theo trong danh sách. Đây được gọi là tham chiếu nào?",
+    "choices": [
+      "Head",
+      "Tail",
+      "Next",
+      "Previous"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong Java, để lưu trữ các đối tượng theo cặp key-value và đảm bảo tính duy nhất của các key, bạn sẽ sử dụng cấu trúc dữ liệu nào?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Set",
+      "Map"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi lập trình ứng dụng Android, thông tin nhạy cảm (như token, password) không nên lưu ở đâu?",
+    "choices": [
+      "SharedPreferences ở dạng plaintext.",
+      "EncryptedSharedPreferences",
+      "Android Keystore",
+      "Secure Server API"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Cơ chế nào của Android giúp mã hóa khóa bảo mật bên trong thiết bị?",
+    "choices": [
+      "SQLite",
+      "Android Keystore.",
+      "SharedPreferences",
+      "Manifest"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào phổ biến để phân tích ngược ứng dụng Android?",
+    "choices": [
+      "Reverse proxy",
+      "APK decompilation (APKTool, JADX)",
+      "SQL Injection",
+      "Burp Suite only"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trên iOS, cơ chế nào giúp cô lập ứng dụng để tránh rò rỉ dữ liệu sang ứng dụng khác?",
+    "choices": [
+      "iCloud",
+      "Keychain",
+      "App Sandbox.",
+      "Touch ID"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Điểm yếu bảo mật phổ biến nhất khi lập trình mobile app là gì?",
+    "choices": [
+      "Lưu mật khẩu trong code hoặc file cấu hình.",
+      "Dùng HTTPS cho tất cả kết nối",
+      "Thường xuyên cập nhật SDK và thư viện",
+      "Giới hạn quyền truy cập (permission)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi phát triển ứng dụng Android, permission nào được coi là rủi ro cao?",
+    "choices": [
+      "INTERNET",
+      "READ_CONTACTS",
+      "VIBRATE",
+      "ACCESS_NETWORK_STATE"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi phát triển ứng dụng mobile, tại sao không nên log dữ liệu nhạy cảm (password, token) vào logcat?",
+    "choices": [
+      "Vì logcat làm chậm ứng dụng",
+      "Vì dữ liệu trong logcat có thể bị đọc bởi app khác hoặc attacker khi debug.",
+      "Vì logcat chỉ hoạt động trên iOS",
+      "Vì logcat không hỗ trợ Unicode"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong iOS, framework nào được dùng để quản lý Keychain?",
+    "choices": [
+      "CoreData",
+      "Security.framework",
+      "UIKit",
+      "Foundation"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trên Android, thư mục nào không an toàn để lưu trữ dữ liệu nhạy cảm?",
+    "choices": [
+      "Internal Storage",
+      "External Storage (SD card)",
+      "Encrypted SharedPreferences",
+      "Android Keystore"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Lỗ hổng Accessibility có thể xảy ra khi?",
+    "choices": [
+      "App cho phép dịch vụ trợ năng đọc dữ liệu nhạy cảm hoặc điều khiển thiết bị.",
+      "Người dùng dùng mật khẩu yếu",
+      "Không validate form",
+      "Server bật debug mode"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "XSS cho phép attacker làm gì?",
+    "choices": [
+      "Inject JavaScript vào trang web để đánh cắp cookie/session.",
+      "Truy cập DB server",
+      "Làm nghẽn băng thông",
+      "Tăng tốc web"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "CSRF (Cross-Site Request Forgery) thường khai thác điểm yếu nào?",
+    "choices": [
+      "Session / cookie không có token chống giả mạo.",
+      "Input không kiểm tra",
+      "CORS sai cấu hình",
+      "Hash yếu"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong phát triển web, biện pháp nào giúp ngăn Directory Traversal Attack?",
+    "choices": [
+      "Sử dụng prepared statement trong SQL",
+      "Xác thực và lọc đường dẫn do người dùng nhập vào.",
+      "Mã hóa dữ liệu trên đường truyền bằng HTTPS",
+      "Bật chế độ CORS trên server"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là phương thức đăng nhập an toàn?",
+    "choices": [
+      "Sử dụng Captcha.",
+      "Cho phép đăng nhập vô hạn",
+      "Khóa user khi đăng nhập thất bại nhiều lần.",
+      "Sử dụng xác thực đa yếu tố MFA."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Cơ chế least privilege nghĩa là gì?",
+    "choices": [
+      "Người dùng chỉ có quyền tối thiểu cần thiết.",
+      "Admin toàn quyền",
+      "User toàn quyền",
+      "Guest có quyền như admin"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một cuộc tấn công MITM (Man-in-the-Middle) chủ yếu xảy ra ở đâu?",
+    "choices": [
+      "Trong code backend",
+      "Trên mạng khi truyền dữ liệu.",
+      "Trong database",
+      "Máy chủ ứng dụng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong ứng dụng web, cơ chế Content Security Policy (CSP) được sử dụng để làm gì?",
+    "choices": [
+      "Ngăn tấn công SQL Injection",
+      "Kiểm soát nguồn tài nguyên (script, style, media) mà trình duyệt được phép tải.",
+      "Tăng tốc độ phản hồi của web server",
+      "Cho phép bypass Same-Origin Policy"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một ứng dụng Android cho phép dịch vụ Accessibility đọc toàn bộ nội dung màn hình, bao gồm OTP và mật khẩu. Điều này có thể gây ra các rủi ro nào?",
+    "choices": [
+      "Rò rỉ dữ liệu nhạy cảm như OTP, password",
+      "Ứng dụng độc hại lợi dụng để thực hiện hành động thay người dùng (ví dụ: click, nhập dữ liệu).",
+      "Giảm hiệu suất CPU/GPU của thiết bị",
+      "Dẫn đến tấn công Overlay hoặc Phishing trên màn hình."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Một ứng dụng camera yêu cầu quyền truy cập SMS và Danh bạ mặc dù không cần thiết để hoạt động. Điều này vi phạm nguyên tắc nào?",
+    "choices": [
+      "Principle of Least Privilege.",
+      "Secure Coding Guidelines",
+      "Denial of Service Prevention",
+      "Sandboxing Isolation"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để phòng chống replay attack trong giao tiếp client-server, có thể áp dụng:",
+    "choices": [
+      "Password plaintext",
+      "Token ngắn hạn.",
+      "Timestamp.",
+      "Nonce (số ngẫu nhiên một lần)."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Những biện pháp nào sau đây giúp chống reverse engineering ứng dụng mobile?",
+    "choices": [
+      "Sử dụng ProGuard hoặc R8 để obfuscate code.",
+      "Áp dụng code obfuscation + shrinking + resource shrinking.",
+      "Lưu API key trực tiếp trong mã nguồn",
+      "Sử dụng kỹ thuật detect root/jailbreak và debugger."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Kiểm tra file upload một cách an toàn cần:",
+    "choices": [
+      "Quy hoạch các vùng riêng biệt an toàn cho việc upload file , Xác thực file name , Xác thực định dạng magic bytes , Kiểm tra độ lớn của file, quét malware.",
+      "Xác thực file name , Xác thực định dạng magic bytes , Kiểm tra độ lớn của file",
+      "Quy hoạch các vùng riêng biệt an toàn cho việc upload file , Xác thực file name, Kiểm tra độ lớn của file",
+      "Quy hoạch các vùng riêng biệt an toàn cho việc upload file , Xác thực định dạng magic bytes , Kiểm tra độ lớn của file"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Cách xử lý an toàn cho api quản trị /actuator trên spring",
+    "choices": [
+      "Cấu hình port quản trị /actuator cùng port ứng dụng",
+      "Cấu hình port quản trị /actuator khác port ứng dụng.",
+      "Giới hạn những path cho phép truy cập quản trị.",
+      "Tất cả đều đúng"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Chia sẻ file lưu trữ từ s3 ra ngoài internet như thế nào là an toàn?",
+    "choices": [
+      "Chia sẻ link file cố định không thay đổi",
+      "Chia sẻ link file được phân quyền và không thay đổi theo thời gian",
+      "Chia sẻ link file được phân quyền và thay đổi theo thời gian hiệu lực token."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi lập trình số tiền phải để dạng nào",
+    "choices": [
+      "Int",
+      "BigDecimal",
+      "Double",
+      "Long",
+      "String",
+      "Float"
+    ],
+    "correct_answers": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Khi phát hiện thư viện sử dụng có lỗ hổng CVE(Common Vulnerabilities and Exposures) cần:",
+    "choices": [
+      "Phân tích cách thức khai thác lỗ hổng, Đánh giá các tính năng ảnh hưởng đang sử dụng. Ngăn chặn ngay các hành vi khai thác lỗ hổng bằng các phương thức phù hợp khả thi.",
+      "Chờ đợi thư viện cập nhật bản vá để nâng cấp",
+      "Không làm gì cả, lỗ hổng CVE không nguy hiểm tới hệ thống.",
+      "Xóa đoạn mã liên quan tới thư viện bị CVE."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Biện pháp phòng chống SQL Injection là gì?",
+    "choices": [
+      "Sử dụng ORM.",
+      "Phân quyền DML, DDL cho ứng dụng",
+      "Lọc input bằng regex đơn giản.",
+      "Sử dụng các truy vấn được tham số hóa (PreparedStatement)."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào giúp bảo vệ mật khẩu người dùng khi lưu trữ trong cơ sở dữ liệu?",
+    "choices": [
+      "Mã hóa đối xứng bằng AES và lưu key trong code",
+      "Hash mật khẩu bằng Bcrypt hoặc Argon2 kèm salt trước khi lưu trữ.",
+      "Hash mật khẩu bằng SHA1 hoặc MD5 trước khi lưu trữ",
+      "Không cần mã hóa hay hash trước khi lưu trữ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thuận toán băm nào an toàn nên sử dụng?",
+    "choices": [
+      "MD5",
+      "SHA1",
+      "bcrypt / Argon2",
+      "Base64"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "HTTPS sử dụng giao thức nào để mã hóa?",
+    "choices": [
+      "SSL/TLS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đâu là phương thức cấu hình dữ liệu nhạy cảm KHÔNG an toàn:",
+    "choices": [
+      "Sử dụng mã hóa dữ liệu nhạy cảm trên file cấu hình",
+      "Sử dụng các giải pháp vault để che dấu dữ liệu nhạy cảm trên file cấu hình",
+      "Mã hóa/băm dữ liệu cấu hình nhạy cảm được lưu trữ trên database",
+      "Cấu hình dữ liệu nhạy cảm bản rõ trên file và database."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Những cấu trúc/collection nào trong Java duy trì thứ tự chèn (insertion order)?",
+    "choices": [
+      "ArrayList.",
+      "HashSet",
+      "LinkedHashMap.",
+      "LinkedHashSet.",
+      "TreeMap"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Những thuật toán nào thuộc nhóm sắp xếp so sánh (comparison-based sorting)?",
+    "choices": [
+      "Bubble Sort.",
+      "Insertion Sort.",
+      "Counting Sort",
+      "Quick Sort."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Trong Java, từ khóa nào được dùng để định nghĩa một lớp?",
+    "choices": [
+      "def",
+      "function",
+      "class",
+      "struct",
+      "object"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Phương thức nào sau đây là điểm bắt đầu của một chương trình Java?",
+    "choices": [
+      "run()",
+      "start()",
+      "init()",
+      "main()",
+      "execute()"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong Java, kiểu dữ liệu primitive nào sau đây dùng để lưu trữ số nguyên?",
+    "choices": [
+      "float",
+      "boolean",
+      "int",
+      "char",
+      "double"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cấu trúc dữ liệu nào sau đây sử dụng nguyên tắc Last In First Out (LIFO)?",
+    "choices": [
+      "Queue",
+      "ArrayList",
+      "Stack.",
+      "HashMap",
+      "TreeSet"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đâu là từ khóa trong Java dùng để kế thừa từ một lớp khác?",
+    "choices": [
+      "implements",
+      "extends.",
+      "inherit",
+      "super",
+      "override"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong Java, interface khác với abstract class ở điểm nào sau đây?",
+    "choices": [
+      "Interface có thể chứa constructor",
+      "Abstract class không thể chứa phương thức trừu tượng",
+      "Một lớp có thể implements nhiều interface.",
+      "Interface không thể kế thừa interface khác",
+      "Abstract class chỉ chứa các phương thức tĩnh"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong giải thuật sắp xếp, thuật toán Bubble Sort có độ phức tạp thời gian trung bình là?",
+    "choices": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(n²)"
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Trong Java, để tạo một đối tượng từ lớp Student, bạn sử dụng cú pháp nào?",
+    "choices": [
+      "Student s = Student();",
+      "Student s = new Student();",
+      "Student s();",
+      "new Student = s();",
+      "create Student s();"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là cách khai báo một mảng 1 chiều trong Java?",
+    "choices": [
+      "int arr = new int[];",
+      "int arr[] = new int[5];",
+      "int[] arr = {1, 2, 3};",
+      "array<int> arr = [1, 2, 3];",
+      "A và C đúng."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Đâu là một lợi ích của lập trình hướng đối tượng (OOP)?",
+    "choices": [
+      "Tăng tốc độ xử lý của phần cứng",
+      "Dễ dàng quản lý, bảo trì mã nguồn.",
+      "Tự động tối ưu hoá thời gian chạy",
+      "Hạn chế sử dụng bộ nhớ",
+      "Loại bỏ hoàn toàn lỗi logic"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Những cấu trúc dữ liệu nào sau đây thường được sử dụng để cài đặt bộ nhớ đệm (cache) hoặc tra cứu nhanh?",
+    "choices": [
+      "Hash Table.",
+      "Linked List",
+      "Binary Search Tree.",
+      "Stack",
+      "Array"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Những đặc điểm nào sau đây là lợi ích của việc sử dụng đệ quy trong giải thuật?",
+    "choices": [
+      "Giảm độ phức tạp tính toán của chương trình",
+      "Dễ mô tả các bài toán phân rã đệ quy (như cây, phân hoạch).",
+      "Dễ thay thế vòng lặp trong mọi trường hợp",
+      "Giúp biểu diễn lời giải ngắn gọn và tự nhiên hơn.",
+      "Luôn chạy nhanh hơn vòng lặp"
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Khi thiết kế giải thuật, những yếu tố nào sau đây nên được ưu tiên xem xét?",
+    "choices": [
+      "Độ phức tạp thời gian (Time Complexity).",
+      "Mức độ sử dụng thư viện ngoài",
+      "Độ phức tạp không gian (Space Complexity).",
+      "Khả năng mở rộng và bảo trì.",
+      "Số lượng dòng code tối đa"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Độ phủ coverage khi Unitest trong lập trình theo quy định hiện tại là bao nhiêu",
+    "choices": [
+      0.1,
+      0.3,
+      0.7
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kỹ thuật rate limit trong lập trình để làm gì",
+    "choices": [
+      "Giúp code viết gọn, sạch sẽ, dễ nhìn",
+      "Giới hạn tần suất các truy cập dịch vụ trong một khoảng thời gian nhất định.",
+      "Để vẽ giao diện web có thể tương thích với thiết bị mobile"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tích hợp hệ thống point-to-point (điểm-đến-điểm) có đặc điểm gì?",
+    "choices": [
+      "Sử dụng một trung tâm trung gian để kết nối tất cả các hệ thống",
+      "Mỗi hệ thống kết nối trực tiếp với hệ thống khác, dẫn đến độ phức tạp cao khi mở rộng",
+      "Sử dụng bus dịch vụ doanh nghiệp (ESB) để quản lý luồng dữ liệu.",
+      "Chỉ hỗ trợ tích hợp dữ liệu thời gian thực mà không cần lưu trữ"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, API RESTful thường sử dụng giao thức nào làm cơ sở?",
+    "choices": [
+      "SOAP",
+      "HTTP/HTTPS.",
+      "JMS (Java Message Service)",
+      "FTP"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, API versioning được sử dụng để:",
+    "choices": [
+      "Tăng tốc độ truyền dữ liệu",
+      "Tạo giao diện người dùng",
+      "Quản lý các phiên bản API để đảm bảo tính tương thích khi tích hợp.",
+      "Tự động hóa sao lưu dữ liệu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "ETL (Extract, Transform, Load) thường được sử dụng trong loại tích hợp hệ thống nào?",
+    "choices": [
+      "Tích hợp ứng dụng thời gian thực",
+      "Tích hợp dữ liệu, đặc biệt trong kho dữ liệu (data warehousing).",
+      "Tích hợp dịch vụ dựa trên microservices",
+      "Tích hợp bảo mật hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sự khác biệt chính giữa SOA (Service-Oriented Architecture) và Microservices là gì?",
+    "choices": [
+      "SOA không hỗ trợ tích hợp API",
+      "Microservices tập trung vào các dịch vụ nhỏ, độc lập, trong khi SOA sử dụng các dịch vụ lớn hơn và thường chia sẻ dữ liệu",
+      "Microservices nhấn mạnh tính độc lập cao hơn, với mỗi dịch vụ có cơ sở dữ liệu riêng, trong khi SOA thường sử dụng ESB trung tâm.",
+      "SOA chỉ sử dụng REST, còn Microservices chỉ sử dụng SOAP"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Message Queue (hàng đợi tin nhắn) như RabbitMQ được sử dụng trong tích hợp hệ thống để làm gì?",
+    "choices": [
+      "Đảm bảo truyền tải tin nhắn không đồng bộ, đáng tin cậy giữa các hệ thống.",
+      "Lưu trữ dữ liệu lâu dài",
+      "Xử lý yêu cầu HTTP thời gian thực",
+      "Mã hóa dữ liệu nhạy cảm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, \"Loose Coupling\" nghĩa là gì?",
+    "choices": [
+      "Các hệ thống kết nối chặt chẽ, phụ thuộc lẫn nhau",
+      "Các hệ thống kết nối lỏng lẻo, dễ thay đổi mà không ảnh hưởng đến nhau.",
+      "Tích hợp chỉ qua cơ sở dữ liệu chung.",
+      "Sử dụng mã nguồn mở để kết nối"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "SOAP API khác với REST API ở điểm nào?",
+    "choices": [
+      "SOAP chỉ hỗ trợ JSON",
+      "REST sử dụng XML làm định dạng chính",
+      "SOAP sử dụng XML và có tiêu chuẩn bảo mật tích hợp (WS-Security), trong khi REST linh hoạt hơn với JSON.",
+      "SOAP không hỗ trợ phương thức HTTP"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Apache Kafka thường được sử dụng trong tích hợp hệ thống cho mục đích gì?",
+    "choices": [
+      "Xử lý giao dịch cơ sở dữ liệu",
+      "Truyền tải dữ liệu thời gian thực với khối lượng lớn, dưới dạng stream.",
+      "Quản lý phiên bản mã nguồn",
+      "Tối ưu hóa hình ảnh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, \"Data Mapping\" là gì?",
+    "choices": [
+      "Quá trình chuyển đổi và ánh xạ dữ liệu từ định dạng này sang định dạng khác để đảm bảo tính nhất quán.",
+      "Lưu trữ dữ liệu vào đám mây",
+      "Mã hóa dữ liệu trước khi truyền",
+      "Xóa dữ liệu thừa"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Hybrid Integration Platform (HIP) kết hợp những gì?",
+    "choices": [
+      "Chỉ tích hợp on-premise",
+      "Chỉ tích hợp đám mây",
+      "Tích hợp giữa hệ thống on-premise và đám mây, hỗ trợ đa nền tảng.",
+      "Tích hợp chỉ với cơ sở dữ liệu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, \"Idempotency\" đảm bảo điều gì?",
+    "choices": [
+      "Dữ liệu được truyền nhanh hơn",
+      "Một hoạt động có thể được thực hiện nhiều lần mà không làm thay đổi kết quả.",
+      "Dữ liệu được mã hóa",
+      "Kết nối được thiết lập chỉ một lần"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, API Gateway có vai trò gì?",
+    "choices": [
+      "Lưu trữ dữ liệu giao dịch",
+      "Quản lý, định tuyến và bảo mật các yêu cầu API giữa các hệ thống.",
+      "Tạo giao diện người dùng cho ứng dụng",
+      "Thực hiện phân tích dữ liệu lớn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, Change Data Capture (CDC) thường được sử dụng cho mục đích gì?",
+    "choices": [
+      "Giảm tải cho API Gateway",
+      "Đồng bộ dữ liệu theo thời gian (near real-time).",
+      "Truy vấn dữ liệu phức tạp từ Data Lake",
+      "Bảo mật dữ liệu giữa các hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm chính của ETL theo batch so với CDC streaming là gì?",
+    "choices": [
+      "Độ trễ thấp hơn",
+      "Dễ quản lý và tối ưu cho khối lượng dữ liệu lớn theo chu kỳ.",
+      "Tích hợp tốt hơn với microservice",
+      "Hỗ trợ REST API tốt hơn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong mô hình event-driven integration, việc sử dụng Kafka so với ETL truyền thống mang lại lợi ích gì?",
+    "choices": [
+      "Đảm bảo dữ liệu luôn đúng 100% không cần xử lý lại",
+      "Tăng khả năng xử lý theo thời gian thực.",
+      "Giảm độ phức tạp triển khai",
+      "Dễ dàng scale theo chiều ngang."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Một rủi ro thường gặp khi tích hợp qua API sync thay vì async là gì?",
+    "choices": [
+      "Dữ liệu không đồng bộ tức thì",
+      "Hệ thống bị block khi downstream chậm hoặc lỗi.",
+      "Không thể triển khai load balancing",
+      "Khó implement logging"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "ETL pipeline thường bao gồm những bước nào?",
+    "choices": [
+      "Extract → Transfer → Load",
+      "Extract → Transform → Load.",
+      "Extract → Transform → Link",
+      "Extract → Load → Transform"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp CDC, thuật ngữ \"snapshot + incremental\" thường mang ý nghĩa gì?",
+    "choices": [
+      "Lấy toàn bộ dữ liệu ban đầu (snapshot), sau đó chỉ đồng bộ các thay đổi phát sinh (incremental).",
+      "Chỉ lấy một phần dữ liệu mới nhất",
+      "Luôn đồng bộ toàn bộ dữ liệu mỗi lần chạy",
+      "Áp dụng caching cho dữ liệu tạm thời"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, API throttling được áp dụng nhằm mục đích gì?",
+    "choices": [
+      "Cải thiện tốc độ phản hồi API",
+      "Giới hạn số lượng request để bảo vệ hệ thống.",
+      "Đảm bảo tính idempotent của API",
+      "Giảm thiểu độ trễ mạng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong kiến trúc tích hợp, \"fan-out\" pattern có đặc điểm gì?",
+    "choices": [
+      "Một sự kiện được phát cho nhiều consumer khác nhau.",
+      "Một producer chỉ gửi dữ liệu cho đúng một consumer",
+      "Nhiều API cùng gọi về một hệ thống trung tâm",
+      "Dữ liệu được phân mảnh và gửi theo từng batch"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sử dụng Change Data Capture (CDC) qua log-based thay vì trigger-based, ưu điểm là gì?",
+    "choices": [
+      "Không gây overhead cho cơ sở dữ liệu nguồn.",
+      "Hỗ trợ rollback tự động",
+      "Không cần quyền truy cập vào log database",
+      "Không cần cấu hình replication"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Data Lake vs Data Warehouse trong tích hợp ETL khác nhau cơ bản ở điểm nào?",
+    "choices": [
+      "Data Lake thường lưu dữ liệu  thô, còn Data Warehouse lưu dữ liệu đã được chuẩn hóa.",
+      "Data Lake có latency thấp hơn Data Warehouse",
+      "Data Warehouse chỉ dùng cho streaming, Data Lake chỉ dùng cho batch",
+      "Data Lake không cần ETL"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi xây dựng API tích hợp nhiều hệ thống, một trong những best practice để đảm bảo khả năng mở rộng là gì?",
+    "choices": [
+      "Thiết kế API tightly coupled với logic business của từng hệ thống",
+      "Sử dụng API Gateway để quản lý routing, rate limit, auth.",
+      "Luôn sử dụng synchronous API thay vì async",
+      "Không sử dụng caching để đảm bảo dữ liệu real-time"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Làm sao để đảm bảo thứ tự của message trên 1 topic kafka",
+    "choices": [
+      "Tạo 1 topic chỉ có 1 partition",
+      "Khi gửi message lên kafka thì gửi thêm 1 key dùng chung cho các message muốn đảm bảo thứ tự",
+      "Mặc định kafka đã đảm bảo thứ tự rồi không cần làm gì",
+      "Cả 1 và 2 đều đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong một hệ thống tích hợp phức tạp, Event Sourcing kết hợp với CQRS (Command Query Responsibility Segregation) mang lại lợi ích gì?",
+    "choices": [
+      "Giảm chi phí lưu trữ dữ liệu bằng cách xóa lịch sử giao dịch",
+      "Tách biệt xử lý lệnh và truy vấn, lưu trữ lịch sử sự kiện để tái tạo trạng thái, hỗ trợ tích hợp không đồng bộ.",
+      "Tăng tốc độ giao dịch bằng cách sử dụng cơ sở dữ liệu chung",
+      "Tự động hóa việc tạo giao diện người dùng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong tích hợp hệ thống, việc sử dụng Service Mesh (như Istio) trong kiến trúc microservices giúp giải quyết vấn đề gì?",
+    "choices": [
+      "Tạo bản sao lưu dữ liệu tự động",
+      "Tăng tốc độ xử lý giao dịch bằng cách bỏ qua xác thực",
+      "Quản lý giao tiếp giữa các dịch vụ, cung cấp khả năng giám sát, bảo mật và xử lý lỗi trong tích hợp microservices.",
+      "Tự động hóa việc kiểm thử giao diện người dùng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi tích hợp hệ thống với các nền tảng Cloud , rủi ro chính cần giảm thiểu là gì?",
+    "choices": [
+      "Tăng tốc độ triển khai ứng dụng",
+      "Loại bỏ hoàn toàn nhu cầu sử dụng API",
+      "Rủi ro về bảo mật dữ liệu và tuân thủ quy định khi dữ liệu di chuyển giữa on-premise và Cloud.",
+      "Giảm chi phí lưu trữ dữ liệu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong một dự án tích hợp hệ thống quy mô lớn, đâu là rủi ro quản trị thường gặp nhất?",
+    "choices": [
+      "Thiếu đồng bộ về quy trình và tiêu chuẩn dữ liệu giữa các bên liên quan.",
+      "Chưa chọn đúng công nghệ message broker",
+      "Tốc độ xử lý ETL chưa đủ nhanh",
+      "Đội ngũ kỹ sư không quen ngôn ngữ lập trình mới"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để giám sát chất lượng tích hợp qua API Gateway, chỉ số (metric) nào quan trọng nhất để cấp quản lý kỹ thuật cần theo dõi?",
+    "choices": [
+      "CPU usage của server Gateway",
+      "Số lượng request, latency, error rate.",
+      "Số dòng log sinh ra mỗi giờ",
+      "Số lượng API được publish"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ngôn ngữ nào thường được dùng nhất để lập trình ứng dụng Android",
+    "choices": [
+      "Swift",
+      "Kotlin.",
+      "PHP",
+      "Ruby"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "HTML dùng để",
+    "choices": [
+      "Xử lý dữ liệu server",
+      "Thiết kế giao diện web.",
+      "Viết API",
+      "Viết ứng dụng di động"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "HTTP status code 404 nghĩa là?",
+    "choices": [
+      "Server lỗi nội bộ",
+      "Thành công",
+      "Không tìm thấy tài nguyên.",
+      "Không có quyền truy cập"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Git dùng để",
+    "choices": [
+      "Chạy code",
+      "Quản lý mã nguồn.",
+      "Thiết kế UI",
+      "Quản lý cơ sở dữ liệu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong Git, lệnh git clone dùng để?",
+    "choices": [
+      "Tạo commit mới",
+      "Sao chép repo về máy.",
+      "Tải thư viện",
+      "Xóa repo"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "IDE phổ biến cho Java là?",
+    "choices": [
+      "PyCharm",
+      "IntelliJ IDEA.",
+      "Visual Studio",
+      "Xcode"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "RESTful API thường giao tiếp bằng giao thức nào?",
+    "choices": [
+      "FTP",
+      "HTTP/HTTPS.",
+      "SMTP",
+      "SSH"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong cơ sở dữ liệu, PRIMARY KEY dùng để?",
+    "choices": [
+      "Đánh số cột",
+      "Định danh duy nhất mỗi bản ghi.",
+      "Xác định khóa ngoại",
+      "Tạo index tự động"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "GitHub là gì?",
+    "choices": [
+      "Một ngôn ngữ lập trình",
+      "Một framework Java",
+      "Nền tảng lưu trữ và chia sẻ mã nguồn.",
+      "Một hệ điều hành"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong kiến trúc web, Frontend là?",
+    "choices": [
+      "Phần xử lý logic server",
+      "Phần giao diện người dùng.",
+      "Cơ sở dữ liệu",
+      "API nội bộ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong một dự án CNTT, yếu tố nào thường được xem là quan trọng nhất để đảm bảo thành công",
+    "choices": [
+      "Công nghệ tiên tiến nhất",
+      "Quy trình quản lý chặt chẽ",
+      "Con người và sự phối hợp trong nhóm.",
+      "Ngân sách dồi dào"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi triển khai hệ thống CNTT mới, rủi ro lớn nhất với tổ chức thường là",
+    "choices": [
+      "Chi phí giấy phép phần mềm",
+      "Người dùng cuối không chấp nhận/ không sử dụng.",
+      "Máy chủ thiếu dung lượng RAM",
+      "Không đủ plugin cài đặt"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là những đặc điểm của một MBer có Kỹ năng số - Digital Skills:",
+    "choices": [
+      "Chủ động cập nhật các xu hướng công nghệ để làm việc hiệu quả hơn",
+      "Hiểu về các công nghệ, ứng dụng đang có sẵn và sử dụng chúng một cách hiệu quả",
+      "Quan tâm tới tính an toàn và bảo mật trong môi trường kỹ thuật số",
+      "Cả 3 đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Các hành động minh họa cho quá trình ra quyết định dựa trên dữ liệu:",
+    "choices": [
+      "Thu thập phản hồi từ khách hàng để xác định được tính năng, sản phẩm và dịch vụ khách hàng yêu thích.",
+      "Thực hiện các bài thí nghiệm quy mô nhỏ để kiểm tra xu hướng sử dụng của khách hàng, cũng như phát hiện các lỗi có thể gặp phải khi chính thức khởi chạy sản phẩm/ dịch vụ.",
+      "Thử nghiệm chạy sản phẩm mới ở một thị trường mới để kiểm tra tính thích hợp của sản phẩm.",
+      "Dựa vào tâm lý học để khám phá và tìm hiểu sở thích của nkhách hàng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Ví dụ bảng EMPLOYEES có cấu trúc sau:",
+    "choices": [
+      "INSERT INTO employees",
+      "INSERT INTO employees( first_name, last_name)",
+      "INSERT INTO employees",
+      "INSERT INTO employees(first_name,last_name, employee_id)",
+      "INSERT INTO employees (employee_id)",
+      "INSERT INTO employees (employee_id, first_name, last_name)"
+    ],
+    "correct_answers": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "question": "Bảng STUDENTS có cấu trúc:",
+    "choices": [
+      "SUM(start_date)",
+      "AVG(start_date)",
+      "COUNT(start_date)",
+      "AVG(start_date, end_date) .",
+      "MIN(start_date) .",
+      "MAXIMUM(start_date)"
+    ],
+    "correct_answers": [
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Bảng EMPLOYEE có 3 cột sau:",
+    "choices": [
+      "SELECT last_name, (salary * 12) * commission_pct",
+      "SELECT last_name, (salary * 12) * IFNULL(commission_pct, 0)",
+      "SELECT last_name, (salary * 12) * NVL2(commission_pct, 0)",
+      "SELECT last_name, (salary * 12) * NVL(commission_pct, 0)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Ba câu lệnh SELECT nào hiển thị 2000 theo định dạng “$2,000.00”?",
+    "choices": [
+      "SELECT TO CNAR(2000, ‘$#,###.##’)",
+      "SELECT TO CNAR(2000, ‘$0,000.00’)",
+      "SELECT TO CNAR(2000, ‘$9,999.00’)",
+      "SELECT TO CNAR(2000, ‘$9,999.99’)",
+      "SELECT TO CNAR(2000, ‘$2,000.00’)",
+      "SELECT TO CNAR(2000, ‘$N,NNN.NN’)"
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Trong câu lệnh SELECT có mệnh đề WHERE, mệnh đề GROUP BY được đặt trong câu lệnh SELECT ở đâu?",
+    "choices": [
+      "Immediately after the SELECT clause",
+      "Before the WHERE clause",
+      "Before the FROM clause",
+      "After the ORDER BY clause",
+      "After the WHERE clause ."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Bảng STUDENT_GRADES có 3 cột:",
+    "choices": [
+      "SELECT student_id, semester_end, gpa",
+      "SELECT student_id, semester_end, gpa",
+      "SELECT student_id, semester_end, gpa",
+      "SELECT student_id, semester_end, gpa",
+      "SELECT student_id, semester_end, gpa"
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Bạn đã thêm cột PHONE_NUMBER thuộc kiểu dữ liệu NUMBER vào bảng EMPLOYEES hiện có. Bảng EMPLOYEES đã chứa các bản ghi của 100 nhân viên. Bây giờ, bạn muốn nhập số điện thoại của từng nhân viên trong số 100 nhân viên vào bảng.",
+    "choices": [
+      "MERGE",
+      "INSERT.",
+      "UPDATE",
+      "ADD",
+      "ENTER",
+      "You cannot enter the phone numbers for the existing employee records."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Bảng EMP có 3 cột:",
+    "choices": [
+      "SELECT ENAME",
+      "SELECT ENAME",
+      "SELECT ENAME",
+      "SELECT ENAME"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Bạn muốn hiển thị system date theo format \"Monday, 01 June, 2001\".",
+    "choices": [
+      "SELECT TO_DATE(SYSDATE, 'FMDAY, DD Month,",
+      "SELECT TO_CHAR(SYSDATE, 'FMDD, DY Month,",
+      "SELECT TO_CHAR(SYSDATE, 'FMDay, DD Month,",
+      "SELECT TO_CHAR(SYSDATE, 'FMDY, DDD Month,",
+      "SELECT TO_DATE(SYSDATE, 'FMDY, DDD Month,",
+      "SELECT customer_id, customer_name",
+      "SELECT customer_id, customer_name",
+      "SELECT customer_id, customer_name",
+      "SELECT customer_id, customer_name",
+      "SELECT customer_id, customer_name"
+    ],
+    "correct_answers": [
+      2,
+      7
+    ]
+  },
+  {
+    "question": "Bạn cần hiển thị cột last_names của bảng employees có chữ cái “A” là ký tự thứ 2 trong tên",
+    "choices": [
+      "SELECT last_name",
+      "SELECT last_name",
+      "SELECT last_name",
+      "SELECT last_name"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Bạn cần tính tổng lương của tất cả các nhân viên trong phòng kế toán. Bạn nên sử dụng hàm nào?",
+    "choices": [
+      "MAX",
+      "MIN",
+      "SUM",
+      "COUNT",
+      "TOTAL",
+      "LARGEST"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A subquery can be used to _________.",
+    "choices": [
+      "Create groups of data",
+      "Sort data in a specific order",
+      "Convert data to a different format",
+      "Retrieve data based on an unknown condition."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Lệnh TRUNCATE có thể làm gì?",
+    "choices": [
+      "Removes the table",
+      "Removes all rows from a table.",
+      "Shortens the table to 10 rows",
+      "Removes all columns from a table",
+      "Removes foreign keys from a table"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Bạn cần tạo báo cáo gửi thư cho tất cả khách hàng. Thông tin gửi thư chứa id, tên, địa chỉ, điện thoại của khách hàng. Bảng CUSTOMERS có các cột sau:",
+    "choices": [
+      "SELECT*",
+      "SELECT name, address",
+      "SELECT id, name, address, phone",
+      "SELECT cust_name, cust_address",
+      "SELECT cust_id, cust_name, cust_address, cust_ phone"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "NoSQL là gì?",
+    "choices": [
+      "Một loại cơ sở dữ liệu quan hệ",
+      "Một loại cơ sở dữ liệu không quan hệ, không sử dụng SQL truyền thống.",
+      "Một ngôn ngữ lập trình mới",
+      "Một phần mềm hệ điều hàn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Loại cơ sở dữ liệu nào không thuộc NoSQL?",
+    "choices": [
+      "Document Store",
+      "Graph Database",
+      "Relational Database.",
+      "Key-Value Store"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đặc điểm nổi bật của NoSQL là gì?",
+    "choices": [
+      "Tính linh hoạt cao trong cấu trúc dữ liệu.",
+      "Tuân thủ nghiêm ngặt ACID",
+      "Chỉ lưu trữ dữ liệu dạng bảng",
+      "Không hỗ trợ mở rộng theo chiều ngang"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "MongoDB là ví dụ của loại NoSQL nào?",
+    "choices": [
+      "Key-Value Store",
+      "Document Store.",
+      "Graph Database",
+      "Column Store"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm lớn nhất của NoSQL so với SQL là gì?",
+    "choices": [
+      "Tốc độ xử lý dữ liệu lớn và khả năng mở rộng tốt hơn.",
+      "Dễ dàng thao tác với dữ liệu quan hệ phức tạp",
+      "Hỗ trợ giao dịch phức tạp hơn",
+      "Luôn an toàn hơn SQL"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Dữ liệu trong Key-Value Store được lưu trữ như thế nào?",
+    "choices": [
+      "Dưới dạng bảng với hàng và cột",
+      "Dưới dạng cặp khóa (key) và giá trị (value).",
+      "Dưới dạng đồ thị có các đỉnh và cạnh",
+      "Dưới dạng tài liệu JSON"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cơ sở dữ liệu NoSQL thường phù hợp với khối lượng dữ liệu như thế nào?",
+    "choices": [
+      "Dữ liệu nhỏ, ít biến đổi",
+      "Dữ liệu lớn, phi cấu trúc hoặc bán cấu trúc.",
+      "Dữ liệu có cấu trúc chặt chẽ và ít thay đổi",
+      "Dữ liệu được lưu dưới dạng bảng quan hệ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Công cụ nào sau đây là một hệ quản trị cơ sở dữ liệu NoSQL?",
+    "choices": [
+      "MySQL",
+      "PostgreSQL",
+      "Cassandra.",
+      "Oracle DB"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Các hệ thống NoSQL thường ưu tiên điều nào theo CAP theorem?",
+    "choices": [
+      "Consistency (Nhất quán) và Partition tolerance (Khả năng chịu phân vùng)",
+      "Availability (Sẵn sàng) và Partition tolerance (Khả năng chịu phân vùng).",
+      "Consistency (Nhất quán) và Availability (Sẵn sàng)",
+      "Chỉ Consistency (Nhất quán)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "SQL là gì?",
+    "choices": [
+      "Một hệ quản trị cơ sở dữ liệu",
+      "Ngôn ngữ truy vấn dữ liệu trong cơ sở dữ liệu quan hệ.",
+      "Một loại cơ sở dữ liệu NoSQL",
+      "Một phần mềm xử lý ảnh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Câu lệnh nào dùng để thêm dữ liệu mới vào bảng?",
+    "choices": [
+      "SELECT",
+      "UPDATE",
+      "INSERT",
+      "DELETE"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hai câu nào sau đây về quan điểm là đúng?",
+    "choices": [
+      "A view can be created as read only.",
+      "A view can be created as a join on two or more tables.",
+      "A view cannot have an ORDER BY clause in the SELECT statement.",
+      "A view cannot be created with a GROUP BY clause in the SELECT statement.",
+      "A view must have aliases defined for the column names in the SELECT statement."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Câu lệnh SQL nào định nghĩa ràng buộc KHÓA NGOẠI trên cột DEPTNO của bảng EMP?",
+    "choices": [
+      "CREATE TABLE EMP",
+      "CREATE TABLE EMP",
+      "CREATE TABLE EMP",
+      "CREATE TABLE EMP (empno NUMBER(4),"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đánh giá câu lệnh SQL:",
+    "choices": [
+      0,
+      1,
+      0,
+      "An error statement"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cho câu lệnh SQL tạo ra bảng ORDERS:",
+    "choices": [
+      "SER_NO",
+      "ORDER_ ID",
+      "STATUS",
+      "PROD_ID",
+      "ORD_TOTAL",
+      "Composite index on ORDER_ID and ORDER_DATE ."
+    ],
+    "correct_answers": [
+      5
+    ]
+  },
+  {
+    "question": "Oracle DB ngầm tạo ra chỉ mục (index) duy nhất cho các ràng buộc nào?",
+    "choices": [
+      "NOT NULL",
+      "PRIMARY KEY.",
+      "FOREIGN KEY",
+      "CHECK",
+      "UNIQUE."
+    ],
+    "correct_answers": [
+      1,
+      4
+    ]
+  },
+  {
+    "question": "Khi thiết kế hệ thống xử lý thanh toán yêu cầu độ tin cậy cao, kiến trúc sư cần ưu tiên yếu tố nào?",
+    "choices": [
+      "Tính mở rộng (Scalability)",
+      "Tính sẵn sàng (Availability).",
+      "Tính di động (Portability)",
+      "Tính dễ bảo trì (Maintainability)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Giải pháp nào giúp cải thiện hiệu năng truy xuất dữ liệu đọc nhiều hơn ghi?",
+    "choices": [
+      "Caching (Redis, Memcached).",
+      "Sharding Database",
+      "CDN (Content Delivery Network).",
+      "Message Queue"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Trong kiến trúc hướng sự kiện (Event-driven), thành phần nào thường chịu trách nhiệm truyền tải thông điệp?",
+    "choices": [
+      "Load Balancer",
+      "Message Broker (Kafka, RabbitMQ).",
+      "Web Server",
+      "Proxy Server"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một hệ thống được yêu cầu phải tuân thủ PCI DSS. Thành phần nào bắt buộc phải được bảo vệ chặt chẽ nhất?",
+    "choices": [
+      "Hệ thống báo cáo",
+      "Dữ liệuthanh toán Thẻ (Cardholder Data).",
+      "Dịch vụ CDN",
+      "Logging Service"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi triển khai hệ thống/giải pháp API, đâu là các thực hành tốt nhất?",
+    "choices": [
+      "Sử dụng API Gateway.",
+      "Sử dụng Rate Limiting.",
+      "Gộp tất cả API vào một monolith",
+      "Bảo mật bằng OAuth 2.0 ."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Khi hệ thống cần xử lý hàng triệu request đồng thời, kiến trúc sư nên ưu tiên giải pháp nào?",
+    "choices": [
+      "Vertical Scaling (mở rộng theo chiều dọc: tăng RAM, CPU)",
+      "Horizontal Scaling  (Mở rộng theo chiều ngang bằng cách bổ sung máy chủ và sử dụng Load Balancer).",
+      "Tăng RAM cho Database",
+      "Giảm số lượng API"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm chính của kiến trúc microservices  so với kiến trúc monolithic là gì?",
+    "choices": [
+      "Tăng khả năng chạy trên cloud",
+      "Cho phép triển khai và mở rộng độc lập từng dịch vụ.",
+      "Không cần quản lý database",
+      "Giảm chi phí đầu tư phần cứng ngay lập tức"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm chính của việc dùng kiến trúc phân tầng (layered architecture) là gì?",
+    "choices": [
+      "Tăng hiệu năng xử lý",
+      "Giảm thiểu thời gian phát triển",
+      "Tách biệt logic, dễ bảo trì và tái sử dụng.",
+      "Giúp hệ thống không cần bảo mật"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kiến trúc monolithic có nhược điểm chính là gì?",
+    "choices": [
+      "Dễ triển khai",
+      "Khó mở rộng quy mô độc lập từng chức năng.",
+      "Tích hợp dễ dàng với hệ thống khác",
+      "Giảm chi phí quản trị ban đầu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi hệ thống có yêu cầu xử lý batch khối lượng lớn, thành phần nào thường được bổ sung vào kiến trúc?",
+    "choices": [
+      "ESB",
+      "Job Scheduler/Batch Processing Engine.",
+      "Firewall",
+      "Load balancer"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kiến trúc hướng sự kiện (Event-Driven Architecture) mang lại lợi ích chính nào?",
+    "choices": [
+      "Đảm bảo dữ liệu không bao giờ bị mất",
+      "Giúp hệ thống phản ứng nhanh với thay đổi và giảm coupling.",
+      "Loại bỏ nhu cầu dùng message broker",
+      "Chỉ áp dụng được cho cloud"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Để tăng khả năng mở rộng (scalability)  giải pháp phù hợp là gì?",
+    "choices": [
+      "Tăng dung lượng RAM",
+      "Load balancing và clustering.",
+      "Giảm số lượng ứng dụng chạy song song",
+      "Giảm logging"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Yếu tố nào quan trọng nhất trong thiết kế hệ thống xử lý dữ liệu khách hàng nhạy cảm?",
+    "choices": [
+      "Hiệu năng",
+      "Bảo mật và tuân thủ quy định.",
+      "Giao diện hiện đại",
+      "Tích hợp mạng xã hội"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Giải pháp Caching thường được dùng để làm gì?",
+    "choices": [
+      "Giảm dung lượng ổ cứng",
+      "Tăng tốc độ truy xuất dữ liệu.",
+      "Thay thế database",
+      "Sao lưu dữ liệu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm của kiến trúc nhiều lớp (N-tier) trong ngân hàng là gì?",
+    "choices": [
+      "Dữ liệu dễ bị phân tán",
+      "Bảo mật, tách biệt vai trò và kiểm soát tốt hơn.",
+      "Không cần tường lửa",
+      "Giảm số lượng server"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm chính của REST API so với SOAP trong ứng dụng nội bộ là gì?",
+    "choices": [
+      "Không cần kết nối mạng",
+      "Nhẹ, đơn giản, dễ tích hợp.",
+      "Tự động đảm bảo bảo mật",
+      "Chỉ áp dụng cho cloud"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi cần đồng bộ dữ liệu theo thời gian thực giữa nhiều hệ thống, cách tiếp cận nào phù hợp nhất?",
+    "choices": [
+      "Batch processing hằng ngày",
+      "Event-driven messaging (MQ, Kafka).",
+      "Gửi file qua FTP",
+      "Email notification"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong thiết kế ứng dụng, load balancer đóng vai trò chính gì?",
+    "choices": [
+      "Lưu trữ dữ liệu",
+      "Phân phối lưu lượng tới nhiều server để cân bằng tải.",
+      "Quản lý user account",
+      "Bảo mật ứng dụng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết kế ứng dụng thanh toán yếu tố nào cần quan tâm hàng đầu?",
+    "choices": [
+      "Logging đầy đủ",
+      "Tính toàn vẹn giao dịch và bảo mật dữ liệu.",
+      "Trải nghiệm UX đẹp",
+      "Hỗ trợ nhiều ngôn ngữ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu điểm của việc sử dụng message queue trong kiến trúc ứng dụng là gì?",
+    "choices": [
+      "Loại bỏ nhu cầu database",
+      "Giúp tách biệt producer/consumer, tăng tính chịu lỗi.",
+      "Tăng tốc độ mạng LAN",
+      "Giảm nhu cầu logging"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết kế ứng dụng xử lý dữ liệu nhạy cảm cần tuân thủ những nguyên tắc nào?",
+    "choices": [
+      "Mã hóa dữ liệu khi lưu trữ và truyền tải.",
+      "Kiểm soát truy cập theo vai trò (RBAC).",
+      "Bỏ qua logging để tăng hiệu năng",
+      "Sao lưu dữ liệu định kỳ."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Những Ưu điểm của kiến trúc microservices ",
+    "choices": [
+      "Mở rộng độc lập từng dịch vụ.",
+      "Tách biệt vòng đời triển khai.",
+      "Không cần quản lý hạ tầng",
+      "Giảm coupling giữa các thành phần."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Khi thiết kế hệ thống cần mức độ sẵn sàng cao (high availability) cần xem xét yếu tố nào?",
+    "choices": [
+      "Cluster.",
+      "Load balancing.",
+      "Monitoring & failover.",
+      "Chỉ dùng một server hiệu năng cao"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Những lợi ích chính của caching trong kiến trúc ứng dụng:",
+    "choices": [
+      "Giảm tải database.",
+      "Tăng tốc độ truy vấn.",
+      "Loại bỏ nhu cầu backup",
+      "Giảm độ trễ người dùng."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Yếu tố nào cần thiết để đảm bảo bảo mật ứng dụng?",
+    "choices": [
+      "Authentication & Authorization.",
+      "Mã hóa dữ liệu.",
+      "Kiểm soát truy cập vật lý.",
+      "Không dùng password"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Vai trò chính của Enterprise Architect trong tổ chức là gì?",
+    "choices": [
+      "Lập trình và phát triển ứng dụng",
+      "Quản lý dự án CNTT",
+      "Định hình kiến trúc tổng thể và định hướng công nghệ.",
+      "Vận hành hệ thống hàng ngày"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi xây dựng kiến trúc doanh nghiệp, yếu tố quan trọng nhất cần liên kết là gì?",
+    "choices": [
+      "Công nghệ với chi phí",
+      "Chiến lược kinh doanh với CNTT.",
+      "DevOps với Agile",
+      "Phần cứng với phần mềm"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một trong những lợi ích chính của việc áp dụng framework kiến trúc (VD: TOGAF) là gì?",
+    "choices": [
+      "Giảm chi phí mua phần cứng",
+      "Tăng tốc độ phát triển mã nguồn",
+      "Chuẩn hóa quy trình thiết kế kiến trúc.",
+      "Thay thế hẳn các phương pháp quản lý dự án"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi quản lý danh mục ứng dụng (application portfolio), EA cần quan tâm yếu tố nào nhất?",
+    "choices": [
+      "Mỗi ứng dụng có giao diện đẹp",
+      "Tránh trùng lặp chức năng và tối ưu chi phí.",
+      "Mỗi ứng dụng viết bằng một ngôn ngữ lập trình khác nhau",
+      "Tất cả ứng dụng chạy trên cùng một server"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Lý do chính để chuẩn hóa kiến trúc ứng dụng là gì?",
+    "choices": [
+      "Dễ thay đổi logo giao diện",
+      "Đảm bảo tuân thủ, bảo mật và tích hợp hệ thống hiệu quả.",
+      "Tăng số lượng nhân sự vận hành",
+      "Để tất cả ứng dụng dùng chung một CSDL"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quản trị kiến trúc, \"as-is\" architecture là gì?",
+    "choices": [
+      "Kiến trúc mong muốn trong tương lai",
+      "Kiến trúc hiện trạng đang vận hành.",
+      "Kiến trúc được mô phỏng",
+      "Kiến trúc thử nghiệm"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi đánh giá hệ thống EA cần quan tâm đến yếu tố nào nhất để đảm bảo tính bền vững?",
+    "choices": [
+      "Hệ thống có sử dụng phần mềm miễn phí",
+      "Khả năng mở rộng, bảo mật và dễ tích hợp.",
+      "Ngôn ngữ lập trình được ưa chuộng",
+      "Có nhiều báo cáo đẹp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong EA, \"Architecture Principles\" (nguyên tắc kiến trúc) có vai trò gì?",
+    "choices": [
+      "Hướng dẫn chi tiết cách viết code",
+      "Xác định chuẩn mực và định hướng quyết định kiến trúc.",
+      "Thay thế SLA",
+      "Quản lý ngân sách"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò chính của Enterprise Architect trong quản lý kiến trúc là:",
+    "choices": [
+      "Xây dựng chiến lược kiến trúc.",
+      "Đảm bảo kiến trúc phù hợp với mục tiêu kinh doanh.",
+      "Trực tiếp code các module ứng dụng",
+      "Định nghĩa tiêu chuẩn và nguyên tắc kiến trúc."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Các hoạt động chính trong quản lý kiến trúc là?",
+    "choices": [
+      "Định nghĩa nguyên tắc kiến trúc.",
+      "Quản lý roadmap kiến trúc.",
+      "Kiểm soát tuân thủ kiến trúc.",
+      "Lập trình chi tiết module ứng dụng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Trong microservices, cơ chế nào được sử dụng để quản lý và tìm kiếm các dịch vụ?",
+    "choices": [
+      "API Gateway",
+      "Service Registry.",
+      "Load Balancer",
+      "Circuit Breaker"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình thiết lập kết nối HTTPS, giao thức nào được sử dụng để trao đổi khóa và thiết lập kết nối bảo mật?",
+    "choices": [
+      "SSL",
+      "TLS. ",
+      "HTTP",
+      "SSH"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cấu trúc dữ liệu nào được sử dụng để duyệt qua các phần tử một cách tuần tự và dễ dàng thực hiện thêm/xóa phần tử ở cuối danh sách?",
+    "choices": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Double Linked List."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong Spring Boot, cách nào sau đây được sử dụng để gọi một phương thức bất đồng bộ và không chờ kết quả?",
+    "choices": [
+      "Sử dụng phương thức run() của Future",
+      "Sử dụng phương thức async() của CompletableFuture.",
+      "Sử dụng phương thức await() của AsyncTask",
+      "Sử dụng phương thức start() của ExecutorService"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong JWT, điều gì xác định việc token có thể được sử dụng cho các dịch vụ nào?",
+    "choices": [
+      "Thuộc tính \"sub\"",
+      "Thuộc tính \"iss\"",
+      "Thuộc tính \"aud\".",
+      "Thuộc tính \"exp\""
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong Apache Kafka, cơ chế nào được sử dụng bởi Idempotent Producer để đảm bảo tính idempotent của các tin nhắn gửi đi?",
+    "choices": [
+      "Message timestamp",
+      "Sequence number.",
+      "Producer Acknowledgements",
+      "Message checksum"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Các thuộc tính của một giải thuật chữ ký số",
+    "choices": [
+      "Phải xác nhận chính xác người ký và ngày giờ phát sinh chữ ký",
+      "Phải xác thực nội dung thông tin ngay tại thời điểm phát sinh chữ ký",
+      "Phải có khả năng cho phép kiểm chứng bởi một người thứ 3 để giải quyết các tranh chấp nếu có",
+      "Tất cả các câu trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Quá trình truyền, nhận dữ liệu giữa client và server trong lập trình Socket dùng giao thức TCP/IP dữ liệu được truyền, nhận ở dạng nào sau đây?",
+    "choices": [
+      "Dạng ký tự",
+      "Dạng nhị phân.",
+      "Dạng chuỗi",
+      "Tất cả các câu trên"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong Java, đối tượng nào được sử dụng để chờ cho một luồng kết thúc thực thi?",
+    "choices": [
+      "CyclicBarrier",
+      "CountDownLatch.",
+      "Semaphore",
+      "ExecutorService"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong microservices, cách nào sau đây được sử dụng để xử lý vấn đề giữa các dịch vụ khi một dịch vụ gây ra lỗi và không thể xử lý yêu cầu?",
+    "choices": [
+      "Service Mesh",
+      "Service Discovery",
+      "Load Balancer",
+      "Circuit Breaker."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nguyên tắc thiết kế kiến trúc hệ thống/dịch vụ của MB là gì?",
+    "choices": [
+      "Đảm bảo mô hình kiếm trúc 2 lớp",
+      "\"- Có phương án triển khai DR",
+      "Không cần tuân thủ",
+      "\"-Đảm bảo tối thiêu 3 lớp: Lớp hiện diện, Lớp Logic nghiệp vụ, Lớp truy xuất dữ liệu"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Các trường hợp nào CBQL sẽ cần tham gia vào quá trình ra quyết định về phương án xử lý sự cố",
+    "choices": [
+      "Không thống nhất được phương án xử lý sự cố trong Incident team.",
+      "Phương án thực hiện khắc phục sự cố có tác động tới đơn vị nghiệp vụ.",
+      "Phương án thực hiện khắc phục sự cố cần thực hiện thay đổi.",
+      "CBQL không cần tham gia xử lý sự cố"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  }
+]
