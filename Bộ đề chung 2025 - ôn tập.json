@@ -1,0 +1,584 @@
+[
+  {
+    "question": "Để tra cứu, tìm kiếm các văn bản nội bộ Anh/Chị truy cập vào web nào dưới đây?",
+    "choices": [
+      "https://vbnb.mbbank.com.vn/",
+      "https://moffice.mbbank.com.vn/",
+      "https://hcm.mbbank.com.vn/",
+      "https://confluence.mbbank.com.vn/"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trung tâm dữ liệu chính của MB đang được đặt ở đâu",
+    "choices": [
+      "21 Cát Linh",
+      "Số 3 Liễu Giai",
+      "63 Lê Văn Lương",
+      "Viettel IDC Pháp Vân"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quyết định số 857/QĐ-MB-HĐQT ban hành Quy định, chức năng nhiệm vụ của Khối Công nghệ thông tin có hiệu lực từ thời điểm nào",
+    "choices": [
+      "2024-04-10",
+      "2024-06-11",
+      "2024-04-26",
+      "2024-07-02"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo mô hình tổ chức mới năm 2024, Khối CNTT gồm bao nhiêu trung tâm?",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Chức năng nhiệm vụ của Khối CNTT gồm",
+    "choices": [
+      "Tham mưu cho Hội đồng Quản trị, Tổng Giám Đốc về việc nghiên cứu, xây dựng định hướng chiến lược CNTT, ứng dụng và phát triển CNTT linh hoạt, tự chủ đáp ứng yêu cầu kinh doanh và quản trị điều hành của MBGroup theo từng thời kỳ",
+      "Quản lý và tổ chức triển khai các hoạt động phát triển, vận hành, cung cấp các sản phẩm dịch vụ CNTT đáp ứng yêu cầu của đơn vị kinh doanh và phù hợp với định hướng chiến lược của MB",
+      "Tổ chức, quản lý hoạt động CNTT Tập đoàn bám sát chiến lược của MBGroup",
+      "Quản lý nhân sự CNTT"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chức năng nhiệm vụ nào dưới đây của Trung tâm BA?",
+    "choices": [
+      "Xây dựng các sản phẩm, dịch vụ, nâng cấp hệ thống core của ngân hàng",
+      "Quản lý hoạt động CNTT Tập đoàn",
+      "Thực hiện phân tích yêu cầu, xây dựng giải pháp đáp ứng yêu cầu kinh doanh và quản lý",
+      "Nghiên cứu các công nghệ AI áp dụng cho hoạt động ngân hàng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Chức năng nhiệm vụ nào dưới đây của Trung tâm AI?",
+    "choices": [
+      "Quy hoạch kiến trúc sản phẩm dịch vụ cho các hệ thống",
+      "Nghiên cứu các công nghệ AI áp dụng cho hoạt động ngân hàng",
+      "Quản lý thiết bị đầu cuối",
+      "Hỗ trợ quản lý và lưu trữ máy chủ cho các CTTV"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chức năng nhiệm vụ nào dưới đây của Trung tâm An toàn thông tin?",
+    "choices": [
+      "Tham mưu cho Ban lãnh đạo Khối về các vấn đề an ninh  trong hoạt động của hệ thống",
+      "Xây dựng các sản phẩm, dịch vụ, nâng cấp hệ thống core của ngân hàng",
+      "Hỗ trợ người dùng trong quá trình sử dụng các dịch vụ CNTT",
+      "Xây dựng sản phẩm , dịch vụ phục vụ cho các kênh giao dịch"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đơn vị nào chịu trách nhiệm quản lý đối tác tại CNTT?",
+    "choices": [
+      "Phòng Quản trị và CNTT Tập đoàn",
+      "Phòng Quản lý đầu tư và đối tác",
+      "Phòng Quản trị rủi ro",
+      "Trung tâm Hạ tầng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nhiệm vụ quản lý rủi ro và tuân thủ thuộc trung tâm nào?",
+    "choices": [
+      "Trung tâm AI",
+      "Trung tâm Quản trị CNTT",
+      "Phòng Quản lý rủi ro và Tuân thủ",
+      "Trung tâm An toàn thông tin"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Phòng BA Khách hàng số có thể phối hợp với những đơn vị nào để triển khai sản phẩm Mobile Banking?",
+    "choices": [
+      "Phòng Công nghệ dịch vụ số",
+      "Phòng Đảm bảo an toàn thông tin",
+      "Phòng CNTT Miền Nam",
+      "Phòng CNTT Miền Trung"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đơn vị nào thuộc TT BA có trách nhiệm phân tích, xây dựng giải pháp hỗ trợ kinh doanh?",
+    "choices": [
+      "Phòng BA Khách hàng số",
+      "Phòng BA Quản trị DN",
+      "Phòng BA Hỗ trợ kinh doanh",
+      "Phòng BA Tài trợ thương mại"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thực hiện kiểm thử các ứng dụng CNTT là nhiệm vụ của Trung tâm nào?",
+    "choices": [
+      "Trung tâm Đảm bảo chất lượng",
+      "Trung tâm BA",
+      "Trung tâm An toàn thông tin",
+      "Trung tâm Hạ tầng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đơn vị nào có chức năng xây dựng quy trình, quy định liên quan đến hoạt động quản lý chất lượng dịch vụ tại CNTT?",
+    "choices": [
+      "Phòng Kiểm thử ứng dụng số",
+      "Phòng Kiểm thử nghiệp vụ",
+      "Phòng Kiểm thử nội bộ",
+      "Phòng Đảm bảo Chất lượng dịch vụ CNTT"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi triển khai dự án core banking, cần liên hệ đơn vị nào để test hiệu năng?",
+    "choices": [
+      "Phòng Đảm bảo chất lượng",
+      "Phòng BA Tín dụng",
+      "Phòng Nền tảng kiểm thử",
+      "Phòng Quản lý rủi ro"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Các phòng thuộc TT Công nghệ nền tảng gồm:",
+    "choices": [
+      "Phòng Ngân hàng lõi",
+      "Phòng Giải pháp quản trị nội bộ",
+      "Phòng Công nghệ doanh nghiệp số",
+      "Phòng Kiến trúc ứng dụng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phòng nào chịu trách nhiệm xây dựng sản phẩm, dịch vụ trên hệ thống core T24",
+    "choices": [
+      "Phòng Ngân hàng lõi",
+      "Phòng Công nghệ quản trị",
+      "Phòng Tích hợp",
+      "Phòng Công nghệ số"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi triển khai hệ thống CRM, phòng nào cần tham gia chính?",
+    "choices": [
+      "Phòng Hạ tầng",
+      "Phòng BA tín dụng",
+      "Phòng CNTT miền Nam",
+      "Phòng Công nghệ quản lý khách hàng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phòng Công nghệ thị giác máy tính có nhiệm vụ gì?",
+    "choices": [
+      "Xử lý ngôn ngữ tự nhiên",
+      "Xử lý hình ảnh/video",
+      "Quản trị cơ sở dữ liệu",
+      "Quản lý quy trình"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Các phòng thuộc TT AI gồm:",
+    "choices": [
+      "Công nghệ trợ lý ảo",
+      "Công nghệ thị giác máy tính",
+      "Công nghệ ngôn ngữ",
+      "Nghiên cứu & phát triển AI"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi có yêu cầu người dùng (level 1), ai xử lý đầu tiên?",
+    "choices": [
+      "Phòng Hỗ trợ dịch vụ CNTT",
+      "Phòng CNTT miền Bắc",
+      "Phòng BA dịch vụ số",
+      "Phòng Quản trị rủi ro"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các phòng thuộc TT Vận hành dịch vụ công nghệ gồm:",
+    "choices": [
+      "Hỗ trợ dịch vụ CNTT",
+      "CNTT Miền Trung",
+      "CNTT Miền Nam",
+      "Vận hành hệ thống CNTT"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các phòng thuộc TT Hạ tầng gồm:",
+    "choices": [
+      "Mạng và thiết bị đầu cuối",
+      "Hạ tầng máy chủ",
+      "Hạ tầng TTDL",
+      "Điện toán đám mây"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "TT Quản trị  có chức năng quản lý hoạt động CNTT Tập đoàn?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Hệ thống Core Banking thuộc quản lý  của phòng nào?",
+    "choices": [
+      "Phòng Ngân hàng lõi",
+      "Phòng Tích hợp",
+      "Phòng Kiến trúc ứng dụng",
+      "Phòng Công nghệ số"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phòng Kiến trúc ứng dụng có nhiệm vụ xây dựng cấu trúc hệ thống CNTT chuẩn cho MB?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phòng Công nghệ ngôn ngữ và tiếng nói có nhiệm vụ xử lý giọng nói, hội thoại AI?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Người dùng báo lỗi Outlook không gửi được mail, đơn vị nào xử lý trước?",
+    "choices": [
+      "Phòng Hỗ trợ dịch vụ CNTT",
+      "Phòng Hạ tầng máy chủ",
+      "Phòng CNTT Miền Nam",
+      "Phòng BA dịch vụ số"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Máy chủ chính gặp sự cố, đơn vị nào chịu trách nhiệm chính?",
+    "choices": [
+      "Phòng Mạng & thiết bị đầu cuối",
+      "Phòng Hạ tầng máy chủ",
+      "Phòng CNTT Miền Trung",
+      "Phòng Vận hành ATTT"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phòng Điện toán đám mây phụ trách triển khai VDI cho nhân viên MB?",
+    "choices": [
+      "Yes",
+      "No"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong tình huống hệ thống MB bị tấn công DDoS, đơn vị nào xử lý đầu tiên?",
+    "choices": [
+      "Phòng Giám sát và điều tra an ninh mạng",
+      "Phòng Vận hành ATTT",
+      "Phòng Đảm bảo ATTT",
+      "Phòng Hạ tầng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để kiểm thử an ninh ứng dụng mới, cần liên hệ phòng nào?",
+    "choices": [
+      "Phòng Hỗ trợ CNTT",
+      "Phòng Vận hành an toàn thông tin",
+      "Phòng Đảm bảo an toàn thông tin",
+      "Phòng Quản trị rủi ro"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nhân sự có thâm niên tại MB bao lâu để được hưởng bảo hiểm Mic đồng cấp cbnv miễn phí cho 2 người thân",
+    "choices": [
+      "1 năm",
+      "3 năm ",
+      "5 năm ",
+      "10 năm"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo chế độ Công đoàn mới của MBIT áp dụng từ ngày 1/7/2025, CBNV sinh con nhận được chế độ thăm hỏi  500.000nvđ mức Khối  và 1 triệu mức HO là đúng hay sai? ",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chi phí hỗ trợ trông trẻ, mẫu giáo ( dưới 6 tuổi) là bao nhiêu? ",
+    "choices": [
+      "100.000đ/con/tháng",
+      "120.000đ/con/tháng",
+      "150.000đ/con/tháng",
+      "200.000đ/con/tháng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hội đồng giải pháp nghiệp vụ - FDA (Functional Design Authority) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá/phê duyệt thiết kế nghiệp vụ.",
+      "Đánh giá/phê duyệt thiết kế kỹ thuật.",
+      "Đánh giá các thay đổi trên hệ thống Production",
+      "Kiểm soát/phê duyệt các vấn đề chuyên môn"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Hội đồng giải pháp kỹ thuật – TDA (Technical Design Authority) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá/phê duyệt thiết kế nghiệp vụ.",
+      "Đánh giá/phê duyệt thiết kế kỹ thuật.",
+      "Đánh giá các thay đổi trên hệ thống Production",
+      "Kiểm soát/phê duyệt các vấn đề chuyên môn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hội đồng CAB (Change Approval Board) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá/phê duyệt thiết kế nghiệp vụ.",
+      "Đánh giá/phê duyệt thiết kế kỹ thuật.",
+      "Đánh giá các thay đổi trên hệ thống Production",
+      "Kiểm soát/phê duyệt các vấn đề chuyên môn"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hệ thống đào tạo Online tập trung cho CBNV MB là ?",
+    "choices": [
+      "HCM",
+      "MO",
+      "BPM",
+      "LMS"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một trong những chức năng của Khối CNTT là gì?",
+    "choices": [
+      "Tư vấn đầu tư tài chính",
+      "Tham mưu xây dựng định hướng chiến lược CNTT cho MBGroup ",
+      "Giám sát nhân sự khối nghiệp vụ",
+      "Quản lý kinh doanh chuỗi cung ứng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chức năng “phát triển, vận hành và cung cấp sản phẩm dịch vụ CNTT phù hợp định hướng chiến lược MB” thuộc trách nhiệm của:",
+    "choices": [
+      "Khối CNTT",
+      "Khối Tài chính – Kế toán",
+      "Khối Khách hàng cá nhân",
+      "Khối Tổ chức nhân sự"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khối CNTT chỉ có nhiệm vụ hỗ trợ kỹ thuật, không tham gia định hướng chiến lược CNTT của MBGroup.",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vì sao Khối CNTT phải “bám sát chiến lược của MBGroup” trong quản lý hoạt động CNTT?",
+    "choices": [
+      "Để đồng bộ với mục tiêu phát triển chung của MB",
+      "Để giảm số lượng nhân sự CNTT",
+      "Để không cần báo cáo HĐQT",
+      "Để tập trung vào kinh doanh bán lẻ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các hoạt động nào nằm trong chức năng “quản lý và tổ chức triển khai các sản phẩm dịch vụ CNTT",
+    "choices": [
+      "Phát triển ứng dụng Mobile Banking",
+      "Vận hành hệ thống Core Banking",
+      "Đảm bảo hạ tầng CNTT hoạt động ổn định",
+      "Quản lý nhân sự nghiệp vụ kế toán"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một trong các chức năng chính của Khối CNTT là cung cấp dịch vụ CNTT đáp ứng yêu cầu của đơn vị kinh doanh",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tham mưu cho Ban lãnh đạo Khối về các vấn đề an ninh của hệ thống là chức năng của trung tâm nào?",
+    "choices": [
+      "Trung tâm Quản trị",
+      "Trung tâm BA",
+      "Trung tâm An toàn thông tin",
+      "Trung tâm AI"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hỗ trợ Tư vấn thiết kế mạng, vận hành TTDL, quản trị máy chủ và lưu trữ cho các công ty thành viên là chức năng của trung tâm nào?",
+    "choices": [
+      "Trung tâm Quản trị",
+      "Trung tâm Hạ tầng",
+      "Trung tâm An toàn thông tin",
+      "Trung tâm AI"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hỗ trợ người dùng trong quá trình sử dụng các hệ thống CNTT có phải chức năng của Trung tâm Vận hành dịch vụ công nghệ không?",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Beetech là tạp chí công nghệ của người MB đúng không?",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Hệ thống gửi yêu cầu hỗ trợ CNTT?",
+    "choices": [
+      "https://moffice.mbbank.com.vn/",
+      "https://hcm.mbbank.com.vn/",
+      "https://confluence.mbbank.com.vn/",
+      "https://hotrocntt.mbbank.com.vn/"
+    ],
+    "correct_answers": [
+      3
+    ]
+  }
+]
