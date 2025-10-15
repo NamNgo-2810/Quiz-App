@@ -19,21 +19,36 @@ let scoreAdded = false;
 let reviewData = [];
 let questionHistory = []; // Store previous questions and their states
 
-// Topic configuration with display names
-const topicConfig = {
-    "Bộ đề chung 2025 - ôn tập.json": { name: "Bộ đề chung 2025 - ôn tập", maxQuestions: 50 },
-    "ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 260 },
-    "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 3 - TTPT", maxQuestions: 264 },
-    "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 },
-    "1688.json": { name: "1688", maxQuestions: 50 }
+// Dynamic topic configuration - will be loaded from manifest
+let topicConfig = {};
+
+// Function to load topic configuration from manifest
+const loadTopicConfig = async () => {
+    try {
+        const response = await fetch('./questions-manifest.json');
+        if (!response.ok) {
+            throw new Error('Failed to load questions manifest');
+        }
+        const manifest = await response.json();
+
+        // Convert manifest to topicConfig format
+        manifest.topics.forEach(topic => {
+            topicConfig[topic.filename] = {
+                name: topic.displayName,
+                maxQuestions: topic.questionCount,
+                path: topic.path
+            };
+        });
+
+        return topicConfig;
+    } catch (error) {
+        console.error('Error loading topic config:', error);
+        // Fallback to empty config
+        return {};
+    }
 };
 
 const QUESTION_COUNT = parseInt(localStorage.getItem("questionCount")) || 71; // You can change this value to customize number of questions
-
-// Update page title with selected topic
-const selectedTopic = localStorage.getItem("selectedTopic") || "saa_questions.json";
-const topicName = topicConfig[selectedTopic]?.name || "Quiz";
-document.title = `${topicName} - Quiz`;
 
 const loadQuestion = async () => {
     // Get the selected topic from localStorage, default to saa_questions.json
@@ -47,9 +62,19 @@ const loadQuestion = async () => {
     }
 
     try {
-        const questionData = await fetch(`./${selectedTopic}`).then((res) => {
+        // Load topic configuration first
+        await loadTopicConfig();
+
+        // Update page title with selected topic
+        const topicName = topicConfig[selectedTopic]?.name || "Quiz";
+        document.title = `${topicName} - Quiz`;
+
+        // Get the file path from topic config, fallback to questions subdirectory
+        const filePath = topicConfig[selectedTopic]?.path || `questions/${selectedTopic}`;
+
+        const questionData = await fetch(`./${filePath}`).then((res) => {
             if (!res.ok) {
-                throw new Error(`Failed to load questions from ${selectedTopic}`);
+                throw new Error(`Failed to load questions from ${filePath}`);
             }
             return res.json();
         });
@@ -86,7 +111,7 @@ loadQuestion();
 const CORRECT_BONUS = 1;
 let MAX_QUESTIONS = 0;
 
-startGame = () => {
+const startGame = () => {
     questionCounter = 0;
     score = 0;
     reviewData = [];
@@ -98,7 +123,7 @@ startGame = () => {
     loader.classList.add("hidden");
 };
 
-getNewQuestion = () => {
+const getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem("mostRecentScore", score);
         localStorage.setItem("review", JSON.stringify(reviewData));
@@ -169,7 +194,7 @@ choices.forEach((choice) => {
     });
 });
 
-nextQuestion = () => {
+const nextQuestion = () => {
     if (chooseAnswer.length > 0) {
         checkAnswer();
 
@@ -198,7 +223,7 @@ nextQuestion = () => {
     }
 };
 
-checkAnswer = () => {
+const checkAnswer = () => {
     if (chooseAnswer.length > 0) {
         choices.forEach((choice) => {
             const choiceAnswer = choice.dataset["number"];
@@ -229,7 +254,7 @@ checkAnswer = () => {
     }
 };
 
-incrementScore = (num) => {
+const incrementScore = (num) => {
     score += num;
     scoreText.innerText = score;
 };
