@@ -18,12 +18,7 @@
         <form>
           <select id="topicSelect" onchange="updateQuestionLimit()">
             <option value="">Select a topic...</option>
-            <!-- <option value="saa_questions.json">SAA C03 (710 questions)</option> -->
-            <option value="Bộ đề chung 2025 - ôn tập.json">Bộ đề chung 2025 - ôn tập (50 questions)</option>
-            <option value="ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json">ĐỀ 2 - TTBA.TTĐBCLPM (260 questions)</option>
-            <option value="ĐỀ 3 - TTPT_ Hệ thống LMS.json">ĐỀ 3 - TTPT (264 questions)</option>
-            <option value="ĐỀ CHUNG_ Hệ thống LMS.json">ĐỀ CHUNG - Hệ thống LMS (50 questions)</option>
-            <option value="1688.json">1688 (50 questions)</option>
+            <!-- Topics will be dynamically loaded here -->
           </select>
 
           <input
@@ -42,14 +37,43 @@
     </div>
 
     <script>
-      // Topic configuration with max questions for each topic
-      const topicConfig = {
-        "Bộ đề chung 2025 - ôn tập.json": { name: "Bộ đề chung 2025 - ôn tập", maxQuestions: 50 },
-        "ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 260 },
-        "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 3 - TTPT", maxQuestions: 264 },
-        "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 },
-        "1688.json": { name: "1688", maxQuestions: 50 }
-      };
+      // Dynamic topic configuration - will be loaded from manifest
+      let topicConfig = {};
+
+      // Function to load topics from manifest
+      async function loadTopics() {
+        try {
+          const response = await fetch('./questions-manifest.json');
+          if (!response.ok) {
+            throw new Error('Failed to load questions manifest');
+          }
+          const manifest = await response.json();
+
+          // Convert manifest to topicConfig format and populate dropdown
+          const topicSelect = document.getElementById("topicSelect");
+
+          manifest.topics.forEach(topic => {
+            topicConfig[topic.filename] = {
+              name: topic.displayName,
+              maxQuestions: topic.questionCount,
+              path: topic.path
+            };
+
+            // Add option to dropdown
+            const option = document.createElement("option");
+            option.value = topic.filename;
+            option.textContent = `${topic.displayName} (${topic.questionCount} questions)`;
+            topicSelect.appendChild(option);
+          });
+
+        } catch (error) {
+          console.error('Error loading topics:', error);
+          alert('Failed to load quiz topics. Please refresh the page.');
+        }
+      }
+
+      // Load topics when page loads
+      document.addEventListener('DOMContentLoaded', loadTopics);
 
       function updateQuestionLimit() {
         const topicSelect = document.getElementById("topicSelect");
