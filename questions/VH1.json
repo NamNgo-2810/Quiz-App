@@ -1,0 +1,2921 @@
+[
+  {
+    "question": "Quyết định giao nhiệm vụ thành viên quản lý két tiền tại CN/PGD không có kho tiền hoặc sàn giao dịch của CN đặt Hub gồm bao nhiêu thành viên?",
+    "choices": [
+      "2 thành viên",
+      "3 thành viên",
+      "1 thành viên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trường hợp GDV nhận bó tiền nguyên niêm phong tiếp quỹ từ trưởng quỹ và phát hiện thiếu 1 thếp tiền. Trường hợp này ai là người chịu trách nhiệm với số thiếu tiền?",
+    "choices": [
+      "Giao dịch viên",
+      "Người có tên trên niêm phong bó tiền",
+      "Trưởng quỹ",
+      "Các thành viên quản lý kho tiền"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Người ủy quyền là KHCN chết, mất hoặc hạn chế NLHVDS thì văn bản ủy quyền còn hiệu lực không?",
+    "choices": [
+      "Văn bản ủy quyền không còn hiệu lực",
+      "Văn bản ủy quyền vẫn còn hiệu lực."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC: Trong thời gian khoản tiền gửi theo HĐTG bị cầm cố, thế chấp KH không  được phép làm gì",
+    "choices": [
+      "Thay đổi thông tin về pháp lý KH",
+      "Thay đổi thông tin liên quan đến HĐTG",
+      "Ủy quyền nhận thanh toán hoặc chuyển giao quyền sở hữu"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Hệ thống MB hiện nay đang dừng phát hành loại thẻ nào (bao gồm PH mới, PH lại, gia hạn, nâng hạng…)",
+    "choices": [
+      "Viettelpay",
+      "Visa combo family",
+      "JCB Mcredit",
+      "Visa debit"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "USB CA của khách hàng do MB bán phải không?",
+    "choices": [
+      "Không. USB CA của khách hàng mua từ các nhà cung cấp chữ ký số được cấp phép như: FPT, VNPT, Viettel, NewCA, MISA,… Hiện nay, hầu hết tất cả khách hàng doanh nghiệp đã có USB CA dùng để nộp thuế điện tử và có thể sử dụng luôn để đăng ký duyệt giao dịch CTQT online trên BIZ MBBank.",
+      "MB. Có bán tại Hội sơ, chi nhánh đăng ký với TTDV VHST để mua và bán cho KH"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các biện pháp phòng tránh rủi ro ĐVCNT các CN cần lưu ý",
+    "choices": [
+      "Rà soát kỹ ĐVCNT trước khi ký kết hợp đồng và Thẩm định lại và kiểm tra kĩ thông tin ĐVCNT khi tiếp nhận danh sách phát triển ĐVCNT từ đối tác thứ 3",
+      "Thường xuyên kiểm tra các máy POS lắp tại ĐVCNT; kiểm tra tình hình hoạt động kinh doanh tại các ĐVCNT và các ĐVCNT có tỷ lệ rủi ro cao theo các khuyến cáo nhận được từ QLRR thẻ",
+      "Chia sẻ và hướng dẫn cho ĐVCNT để nâng cao nhận thức  về nhận biết thẻ giả, hành vi vi phạm pháp luật bị cấm; các hành vi thanh toán bất thường",
+      "Cả 3 trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trách nhiệm của cấp phê duyệt hồ sơ CTQT tại ĐVKD là:",
+    "choices": [
+      "Kiểm soát tính đầy đủ, tính pháp lý, thể thức của bộ hồ sơ CTQT",
+      "Kiểm soát tính đầy đủ, tính pháp lý của bộ hồ sơ CTQT",
+      "Kiểm soát tính đầy đủ, tính pháp lý, thể thức và ngoại hối của bộ hồ sơ CTQT",
+      "Kiểm soát bộ hồ sơ CTQT về mặt tuân thủ ngoại hối"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chi nhánh kiểm soát về việc chỉ ký 1 lần DUY NHẤT bản gốc các Thông báo LCXK/Bảo lãnh/sửa đổi Bảo lãnh chiều về gửi KH thông qua công cụ nào sau đây?",
+    "choices": [
+      "Queue theo dõi Ký Thông báo LC/Sửa đổi LCXK & Thông báo Bảo lãnh/Sửa đổi Bảo lãnh chiều về trên hệ thống BPM LCXK",
+      "Luồng Thông báo LC Xuất khẩu trên hệ thống BPM LCXK",
+      "Luồng Xử lý Bộ chứng từ Xuất khẩu trên hệ thống BPM LCXK"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đối với giao dịch CTQT chiều về cho KH chưa mở tài khoản ngoại tệ tương ứng với trên điện về, Phương án xử lý là",
+    "choices": [
+      "Có thể hạch toán vào tài khoản không tương ứng với loại ngoại tệ nhưng đang được chỉ định trên điện chuyển tiền",
+      "Tư vấn KH mở tài khoản ngoại tệ tương ứng",
+      "Trường hợp KH không muốn mở tài khoản ngoại tệ tương ứng có thể đề nghị hạch toán vào tài khoản trung gian của ĐVKD (CCY162500880XXX) sau đó ĐVKD thực hiện mua bán ngoại tệ cho khách hàng",
+      "2 và 3"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, đối với số tiền phong tỏa của người trả tiền trong trường hợp MB chấp thuận xử lý chỉ thị giảm trị giá nhờ thu chưa xác thực, điều kiện để chi nhánh thực hiện giải tỏa số tiền đã phong tỏa là gì?",
+    "choices": [
+      "Ngay khi người trả tiền có đề nghị giải tỏa",
+      "MB nhận được chỉ thị xác thực về việc giảm trị giá",
+      "180 ngày sau ngày MB thực hiện thanh toán Bộ chứng từ nhờ thu theo trị giá đã giảm mà MB vẫn không nhận được chỉ thị xác thực",
+      "Không được giải tỏa trong mọi trường hợp cho đến khi MB nhận được chỉ thị xác thực về việc giảm trị giá"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Điều kiện nhóm 1 tại TBPD được hiểu như thế nào?",
+    "choices": [
+      "Điều kiện do Vận hành chịu trách nhiệm kiểm  soát nội dung trước khi cấp tín dụng",
+      "Điều kiện do ĐVKD chịu trách nhiệm kiểm  soát nội dung. Vận hành chỉ kiểm tra thông tin đáp ứng trên Tờ trình/BCĐX của ĐVKD trước khi cấp tín dụng",
+      "Điều kiện thuộc hoạt động giám sát sau cho vay do ĐVKD chịu trách nhiệm kiểm soát, đánh giá",
+      "Tất cả đáp án trên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kho lưu trữ chuyên dụng có thời hạn bảo quản tối thiểu bao lâu",
+    "choices": [
+      "30 năm",
+      "20 năm",
+      "10 năm",
+      "5 năm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trường hợp chủ thể ký kết là người được ủy quyền, Văn bản ủy quyền yêu cầu tối thiểu nội dung như thế nào",
+    "choices": [
+      "Thời gian, địa điểm lập ủy quyền: Các nội dung về thời gian, địa điểm lập Hợp đồng cần được quy định rõ ràng, cụ thể",
+      "Chủ thể tham gia giao dịch ủy quyền: Đầy đủ thông tin pháp nhân của người ủy quyền và  người được ủy quyền (họ tên, năm sinh, Số giấy tờ tùy thân, địa chỉ theo hộ khẩu, địa chỉ liên hệ,…)",
+      "Phạm vi ủy quyền",
+      "Thời hạn và hiệu lực của ủy quyền"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Hợp đồng ngoại thương trong bộ hồ sơ chuyển tiền được các NH chấp nhận khi Hợp đồng đó là:",
+    "choices": [
+      "Bản gốc",
+      "Bản Copy",
+      "Bản sao y bản chính",
+      "Bản Photo"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng nhập khẩu hiện hành, khi KH đề nghị hỗ trợ lấy BCT để đi lấy hàng, tránh phí lưu kho, lưu bãi, ĐVKD thực hiện như sau:",
+    "choices": [
+      "Ký hậu vận đơn gốc và bàn giao BCT gốc để KH kịp đi lấy hàng và hoàn thiện kiểm soát hồ sơ tín dụng sau",
+      "Thực hiện kiểm soát hồ sơ tín dụng đảm bảo tuân thủ (theo luồng CN hoặc luồng TT HTTD, tùy theo quy định) trước khi Ký hậu vận đơn gốc và bàn giao BCT gốc cho KH đi lấy hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống sử dụng để ghi nhận các thông tin tư vấn, giải đáp các thắc mắc của KH tại MB247",
+    "choices": [
+      "Chatbot",
+      "Smartchannel",
+      "CEP",
+      "Không có câu trả lời đúng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Bộ phận xử lý phàn nàn tập trung thực hiện chuyển tiếp phàn nàn từ KH tới ĐV liên quan qua hệ thống nào",
+    "choices": [
+      "CEP",
+      "Flextelesales",
+      "Email"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Hạn mức số tiền chuyển tối đa 1 lần qua kênh Napas hiện tại là bao nhiêu?",
+    "choices": [
+      "< 500 triệu",
+      "< 200 triệu",
+      "Không giới hạn hạn mức, tùy theo hạn mức MB cấp cho khách hàng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Quy định hiện hành về thời gian xử lý tra soát đối với giao dịch thẻ quốc tế của MB tại POS là bao lâu?",
+    "choices": [
+      "Giao dịch tại POS MB là 1 ngày làm việc; tại POS NH khác là 45 ngày làm việc.",
+      "Giao dịch tại POS MB là 4 ngày lịch; tại POS NH khác là 45 ngày lịch.",
+      "Giao dịch tại POS MB là 3 ngày làm việc; tại POS NH khác là 40 ngày làm việc.",
+      "Giao dịch tại POS MB là 3 ngày làm việc; tại POS NH khác là 45 ngày làm việc."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHCN và KHTC quy định về việc KH nhận chuyển giao quyền sở hữu đối với tiền gửi như nào?",
+    "choices": [
+      "Được phép nhận chuyển giao một phần giá trị tiền gửi",
+      "Được phép nhận chuyển giao tiền gốc",
+      "Nhận chuyển giao toàn bộ giá trị (bao gồm phần tiền gốc và phần tiền lãi chưa được chi trả tính đến ngày chuyển giao quyền sở hữu) và kế thừa quyền lợi cũng như nghĩa vụ phát sinh đối với phần tiền gửi được chuyển giao quyền sở hữu theo TTK/HĐTG"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Việc tổng kiểm tra toàn diện công tác đảm bảo ATKQ và tổng kiểm kê định kỳ TM,TSQ, GTCG, TSĐB được thực hiện bao nhiêu lần trong 1 năm?",
+    "choices": [
+      "1 lần vào ngày 31/12",
+      "1 lần vào ngày 30/6",
+      "2 lần vào thời điểm 0 giờ ngày 01 tháng 01 và ngày 01 tháng 07."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đối tượng KH áp dụng định danh trên App MyMB?",
+    "choices": [
+      "KHCN mới",
+      "KHCN đã có thông tin (mã KH) tại MB nhưng chưa có hình ảnh định danh ekyc (hình ảnh chân dung + hình ảnh GTTT) lưu trữ trên hệ thống MB",
+      "KHCN đã có thông tin (mã KH) và hình ảnh định danh ekyc (hình ảnh chân dung + hình ảnh GTTT) lưu trữ trên hệ thống MB thực hiện mở/thay đổi SPDV…",
+      "Tất cả đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Tiêu chuẩn thời gian chờ tại sàn giao dịch hiện nay ?",
+    "choices": [
+      "Tối thiểu 90% KH chờ <= 10 phút, tối đa 5% KH chờ trên 30 phút",
+      "Trung bình thời gian chờ không được vượt quá 10 phút",
+      "Không được phép phát sinh khách hàng chờ >30 phút",
+      "Tối thiểu 92% KH chờ <= 10 phút, tối đa 2% KH chờ trên 30 phút"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối tượng KHCN mở tài khoản vốn đầu tư gián tiếp nước ngoài vào Việt Nam là ai?",
+    "choices": [
+      "Người không cư trú là cá nhân nước ngoài thực hiện hoạt động đầu tư gián tiếp nước ngoài vào Việt Nam",
+      "Người cư trú là cá nhân nước ngoài thực hiện hoạt động đầu tư gián tiếp nước ngoài vào Việt Nam",
+      "Tất cả đều đúng",
+      "Tất cả đều sai"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thành viên thứ nhất trên quyết định giao nhiệm vụ thành viên quản lý két tiền tại CN/PGD không có kho tiền hoặc sàn giao dịch của CN đặt Hub là ai?",
+    "choices": [
+      "Giám đốc dịch vụ",
+      "Người đứng đầu đơn vị",
+      "Kiểm soát viên"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp GDV nhận bó tiền nguyên niêm phong tiếp quỹ từ trưởng quỹ, khi kiểm đếm phát hiện thiếu 1 tờ tiền. Trường hợp này ai là người chịu trách nhiệm với số thiếu tiền?",
+    "choices": [
+      "Giao dịch viên",
+      "Người có tên trên niêm phong bó tiền",
+      "Trưởng quỹ",
+      "Các thành viên quản lý kho tiền"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "HĐTG của KH cá nhân có được viết tay",
+    "choices": [
+      "Không được viết tay, không được có yếu tố ghi tay (trừ một số thông tin được để trống: số HĐTG và chữ ký của các bên tham gia ký kết HĐTG),",
+      "Được phép viết tay đảm bảo đúng đủ các yếu tố trên HĐTG",
+      "Không được phép viết tay bất kỳ yếu tố nào"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC: KH có nhu cầu thay đổi thông tin liên quan đến các điều khoản thỏa thuận của HĐTG sẽ thực hiện tại đơn vị nào?",
+    "choices": [
+      "KH thực hiện tại ĐVKD mà KH mở HĐTG",
+      "KH có thể thực hiện tại ĐVKD khác ĐVKD mà KH mở HĐTG"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thẻ HI Collection là loại thẻ nào ?",
+    "choices": [
+      "Thẻ tín dụng",
+      "Thẻ ghi nợ nội địa",
+      "Thẻ đa năng",
+      "Thẻ ghi nợ quốc tế"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy trình xử lý tại CN khi tiếp nhận yêu cầu nhờ thu liên ngân hàng",
+    "choices": [
+      "KYC KH – Kiểm tra, cung cấp thông tin GD – Tạo tra soát hỗ trợ nhờ thu  trên CEP-  Thông báo SLA xử lý tới KH",
+      "Kiểm tra, cung cấp thông tin GD – Tạo yêu cầu nhờ thu qua Napas -  Thông báo SLA xử lý tới KH",
+      "KYC KH – Kiểm tra, cung cấp thông tin GD – Tạo yêu cầu nhờ thu qua Napas",
+      "Kiểm tra, cung cấp thông tin GD – Tạo tra soát hỗ trợ nhờ thu  trên CEP-  Thông báo SLA xử lý tới KH"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "CN thực hiện yêu cầu cung cấp hóa đơn chứng từ giao dịch và kiểm tra hoạt dộng KD của ĐVCNT trong thời gian bao lâu kể từ khi nhận được cảnh báo",
+    "choices": [
+      "3 ngày làm việc",
+      "5 ngày làm việc",
+      "7 ngày làm việc",
+      "10 ngày làm việc"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Luồng kiểm soát ngoại hối đối với giao dịch bổ sung hồ sơ TTR trả trước do đơn vị nào thực hiện?",
+    "choices": [
+      "ĐVKD",
+      "Phòng Thanh toán",
+      "Khối SME",
+      "Khối CIB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Thông tư 46/NHNN sau khi nhận ủy nhiệm chi thì sau bao lâu, ngân hàng phải hạch toán cho khách hàng",
+    "choices": [
+      "Ngay khi tiếp nhận ủy nhiệm chi",
+      "Trong 01 ngày kể từ thời điểm tiếp nhận ủy nhiệm chi",
+      "Trong 01 ngày làm việc kể từ thời điểm tiếp nhận ủy nhiệm chi"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đầu mối gửi thông tin tư vấn, tra soát các giao dịch CTQT chiều đến qua hệ thống SWIFT",
+    "choices": [
+      "baoco@mbbank.com.vn",
+      "baoco.ttr@mbbank.com",
+      "baoco.ctqt@mbbank.com"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, MB gửi thông báo bộ chứng từ nhờ thu nhập khẩu cho Khách hàng qua các kênh nào sau đây?",
+    "choices": [
+      "Qua kênh quầy (bằng thông báo được in và ký, đóng dấu bởi cấp thẩm quyền của chi nhánh)",
+      "Qua email đính kèm thông báo (nếu người trả tiền đăng ký ký nhận thông báo qua email)",
+      "Qua kênh Biz",
+      "Cả 3 phương án trên"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "CVHT có cần phải lưu trữ file mềm các Văn bản đã nhận bàn giao từ DVKD trên hệ thống hay không?",
+    "choices": [
+      "Thực hiện lưu hồ sơ vật lý và theo dõi rõ ràng, không bắt buộc Scan lưu trữ file mềm trên hệ thống",
+      "Thực hiện lưu hồ sơ vật lý và theo dõi rõ ràng đồng thời Scan lưu trữ file mềm trên hệ thống",
+      "Scan lưu trữ file mềm trên hệ thống, hồ sơ vật lý có thể bàn giao lại cho DVKD"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với Kho không chuyên dụng được bố trí địa điểm như thế nào",
+    "choices": [
+      "Không bố trí kho gần khu vực ẩm ướt, ô nhiễm, dễ cháy nổ",
+      "Không bố trí kho bảo quản tài  liệu ở khu vực tầng hầm",
+      "Kho lưu trữ được bố trí tại 1 phòng/khu vực riêng biệt có khóa, không sử dụng chung với phòng máy",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Phạm vi hạch toán chuyển tiền của GDV / HTCN đối với phương án GN",
+    "choices": [
+      "UNC liên quan đến mua bán ngoại tệ từ nguồn tiền giải ngân",
+      "UNC thuế",
+      "UNC lương"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Luồng phê duyệt gia hạn và miễn bổ sung chứng từ đối với giao dịch TTR trả trước do đơn vị nào thực hiện ?",
+    "choices": [
+      "ĐVKD",
+      "Phòng Thanh toán",
+      "Khối SME",
+      "Khối CIB"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "KH (nhà nhập khẩu) chấp nhận thanh toán bộ chứng từ  xuất trình theo LC nhập khẩu và muốn thanh toán BCT. ĐVKD thực hiện như sau:",
+    "choices": [
+      "Hướng dẫn KH gửi bản scan màu Thông báo BCT chấp nhận thanh toán đã ký Kế toán trưởng và người đại diện của công ty qua email cho ĐVKD và ĐVKD gửi hồ sơ tới TT TT&TTTM để thực hiện thanh toán BCT",
+      "KH cần gửi bản gốc Thông báo BCT chấp nhận thanh toán đã ký Kế toán trưởng và người đại diện của công ty tới ĐVKD và ĐVKD gửi hồ sơ tới TT TT&TTTM để thực hiện thanh toán BCT"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quy trình lập kế hoạch và quản lý vận hành dịch vụ Khách hàng - Đối tượng áp dụng",
+    "choices": [
+      "Toàn bộ cá nhân, đơn vị tham gia vào quá trình lập kế hoạch & quản lý vận hành dịch vụ Khách hàng trên toàn hệ thống MB trên lãnh thổ Việt Nam (bao gồm Công ty thành viên, Công ty liên kết)",
+      "Toàn bộ cá nhân, đơn vị tham gia vào quá trình lập kế hoạch & quản lý vận hành dịch vụ Khách hàng trên toàn hệ thống MB trên lãnh thổ Việt Nam (không bao gồm Công ty thành viên, Công ty liên kết)",
+      "Toàn bộ cá nhân, đơn vị tham gia vào quá trình lập kế hoạch & quản lý vận hành dịch vụ Khách hàng trên toàn hệ thống MB (bao gồm Công ty thành viên, Công ty liên kết)",
+      "Toàn bộ cá nhân, đơn vị tham gia vào quá trình lập kế hoạch & quản lý vận hành dịch vụ Khách hàng trên toàn hệ thống MB (không bao gồm Công ty thành viên, Công ty liên kết)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Các ĐV liên quan cùng phối hợp xử lý phàn nàn từ Khách hàng, kết quả xử lý được phản hồi cho MB247 qua hệ thống nào?",
+    "choices": [
+      "CEP",
+      "Email",
+      "Flextelesales",
+      "Đáp án 1&2"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo quy định hiện hành, thời gian cut-off của giao dịch chuyển tiền liên ngân hàng qua Napas là mấy giờ?",
+    "choices": [
+      "12h",
+      "16h",
+      "17h30",
+      "Không có giờ cut off time, giao dịch có thể thực hiện 24/7."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khách hàng SME có thể đăng ký hạn mức giao dịch/ ngày > 10 tỷ VNĐ được không? Các bước cần thực hiện để đăng ký hạn mức giao dịch?",
+    "choices": [
+      "Có thể đăng ký các gói: 30 tỷ/ 50 tỷ/ không giới hạn nếu KH sử dụng phương thức xác thực digital OTP/ USB CA.\nKH cần điền biểu mẫu và chuyển sàn giao dịch thiết lập hạn mức. Trường hợp KH sử dụng SMS OTP/ hard token thì cần làm thay đổi phương thức xác thực cùng với việc tăng hạn mức.",
+      "KH SME không được phép đăng ký hạn mức giao dịch. chỉ KH CIB mới được dùng các gói hạn mức lớn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC quy định về chuyển giao quyền sở hữu tiền gửi theo HĐTG như nào?",
+    "choices": [
+      "KH không được chuyển nhượng tiền gửi theo HĐTG bằng ngoại tệ",
+      "KH  không chuyển nhượng tiền gửi theo HĐTG cho các tổ chức, cá nhân nước ngoài.",
+      "KH được phép chuyển giao quyền sở hữu tiền gửi theo HĐTG cho các tổ chức đáp ứng các điều kiện mở HĐTG theo quy định tiền gửi KHTC và các cá nhân đáp ứng yêu cầu mở HĐTG theo quy định tiền gửi KHCN"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Cuối ngày tại CN/PGD không có kho tiền hoặc sàn giao dịch của chi nhánh đặt Hub, bộ chìa khóa két được cất giữ như thế nào?",
+    "choices": [
+      "GĐ DV/TP/PP DV/KSV, KN/GDV chính  bỏ toàn bộ bộ chìa khóa két vào phong bì và gửi két của Giám đốc.",
+      "Bộ chìa khóa két được bảo quản tại két của GĐ DV (chỉ áp dụng khi GĐ DV không quản lý mã két).",
+      "Các thành viên tự bảo quản chìa khóa két trong ngăn bàn làm việc có khóa tại trụ sở cơ quan."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "App MyMB chấp nhận loại GTTT nào?",
+    "choices": [
+      "Chỉ áp dụng với CCCD gắn chip",
+      "CMND, CCCD gắn chip, CCCD không gắn chip, Hộ chiếu, Chứng minh quân đội",
+      "Không có đáp án đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "KPI thời gian thực hiện giao dịch TT được tính bằng công thức nào ?",
+    "choices": [
+      "Thời gian hạch toán TT không vượt quá 5 phút",
+      "Tối thiểu 92% GD TT <= 5 phút, tối đa 2% GD TT > 10 phút",
+      "Tối thiểu 90% GD TT <= 5 phút, tối đa 5% GD TT > 10 phút",
+      "Trung bình thời gian giao dịch TT không vượt quá 5 phút"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "MB có thực hiện việc đóng TKTT liên chi nhánh hay không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các công việc cần phải thực hiện khi có thay đổi thành viên quản lý kho/két của CN/PGD?",
+    "choices": [
+      "GĐCN ký quyết định giao nhiệm vụ thành viên quản lý kho/két tiền.",
+      "Tổ chức niêm phong hộp chìa khóa dự phòng cửa kho/két tiền.",
+      "Gửi hộp chìa khóa dự phòng kho/két tiền, bao gồm: chìa + mã + thanh đổi mã ngay trong ngày."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Trường hợp GDV nhận bó tiền không được đóng bó, niêm phong khi tiếp quỹ từ trưởng quỹ. Thực hiện kiểm đếm GDV phát hiện thiếu 1 tờ tiền. Trường hợp này ai là người chịu trách nhiệm với số thiếu tiền?",
+    "choices": [
+      "Giao dịch viên",
+      "Người có tên trên niêm phong bó tiền",
+      "Trưởng quỹ",
+      "Các thành viên quản lý kho tiền"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "KHCN là người cư trú và người không cư trú được phép gửi tiền gửi chung  không?",
+    "choices": [
+      "Người cư trú và người không cư trú được gửi tiền chung có kỳ hạn.",
+      "Người cư trú và người không cư trú không được phép gửi tiền chung",
+      "Người cư trú và người không cư trú không được phép gửi tiết kiệm chung, đươc phép gửi tiền gửi chung có kỳ hạn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp nào sau đây, Nhà đầu tư nước ngoài phải mở tài khoản vốn đầu tư trực tiếp khi thực hiện đầu tư vào Việt Nam ?",
+    "choices": [
+      "DN có tỷ lệ NĐT NN từ 51% vốn điều lệ trở lên và chưa niêm yết.",
+      "Góp vốn, mua, bán cổ phần, phần vốn góp trong DN có NĐT NN sở hữu dưới 51% vốn điều lệ, DN không thuộc TH bắt buộc cấp giấy chứng nhận đầu tư, DN có cổ phiếu niêm yết.",
+      "Hợp tác kinh doanh (BCC) hoặc đầu tư đối tác công tư (PPP).",
+      "Mua, bán trái phiếu và các loại chứng khoán khác trên TT CK VN."
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Dòng thẻ HI Collection MB liên kết với tổ chức thẻ quốc tế nào ?",
+    "choices": [
+      "Visa",
+      "Mastercard",
+      "JCB",
+      "Cả 3 trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Thời gian xử lý yêu cầu hỗ trợ nhờ thu liên ngân hàng",
+    "choices": [
+      "15 ngày",
+      "30 ngày",
+      "45 ngày",
+      "60 ngày"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một số dấu hiệu nhận diện nghi ngờ chủ thẻ RR",
+    "choices": [
+      "Sai thông tin KH; hồ sơ thiếu theo danh mục (checklist); giả mạo hồ sơ; không đáp ứng chính sách sản phẩm của KH; thời gian kích hoạt hoặc đóng thẻ so với thời gian mở thẻ không hợp lý",
+      "Hành vi chi tiêu với các giao dịch phát sinh đều đặn với số tiền lớn trong 1 thời điểm hoặc vài ngày cố định trong tháng, tập trung ở 1 vài ĐVCNT cố định",
+      "Hành vi trả nợ: Thẻ được thanh toán đầy đủ sao kê sau đó phát sinh giao dịch chi tiêu hết hạn mức, thẻ do người khác trả nợ thay, tình hình tài chính của KH",
+      "Cả 3 trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "LCT và đề nghị tra soát/hủy giao dịch của giao dịch CTQT cần được scan màu.",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Với giao dịch đi qua kênh Napas tại quầy, giao dịch không thành công, có mã lỗi tường minh, giao dịch chuyển tiền sẽ được …",
+    "choices": [
+      "Hệ thống tự động revert lệnh chuyển tiền đi",
+      "Hệ thống tự động hoàn trả tiền vào tài khoản khách hàng",
+      "Hoàn trả tiền sau đối soát T+4",
+      "Hệ thống tự động hoàn trả tiền vào Tài khoản trung gian thanh toán của CN/ PGD: VND1625008800XXX"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Thẩm quyền phê duyệt gia hạn tạm treo tại MB đối với các GD CTQT chiều đến",
+    "choices": [
+      "Kiểm soát viên",
+      "Trưởng/Phó phòng phụ trách",
+      "Ban giám đốc CN",
+      "2 và 3"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, trường hợp bộ chứng từ nhờ thu nhập khẩu không bao gồm chứng từ vận tải bản gốc thì MB xử lý như thế nào?",
+    "choices": [
+      "MB xử lý thông báo như thông thường (không phân biệt bộ chứng từ có bao gồm chứng từ vận tai gốc hay không)",
+      "MB trao cho người trra tiền mà không cần thanh toán vì Bộ chứng từ không có giá trị nhận hàng",
+      "MB từ chối xử lý",
+      "MB xử lý thông báo và lưu ý thông tin này cho người trả tiền, yêu cầu người trả tiền phải bổ sung tờ khai hải quan/cam kết bổ sung tờ khai hải quan cho lô hàng có liên quan tại thời điểm người trả tiền thanh toán bộ chứng từ"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trường hợp phát sinh chênh lệch sau khi kiểm tra VK, CV HTCN/HUB cần thực hiện chậm nhất 60 phút sau giờ cut off",
+    "choices": [
+      "Thông báo lên TTHTTD trong ngày qua email có cc cho CBQL/ qua hệ thống luân chuyển hồ sơ để thực hiện RV giải ngân trên hệ thống T24 (trường hợp xử lý tại TTHTTD) hoặc CVHTCN/ CVHUB thực hiện RV Giải ngân trên hệ thống T24 (trường hợp xử lý tại CN)",
+      "Thông báo tới PDVKH/ TTDVTT không thực hiện chi/ chuyển tiền."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Diện tích tối thiểu kho lưu trữ là bao nhiêu",
+    "choices": [
+      "15m2",
+      "20m2",
+      "25m2",
+      "30m2"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với giải ngân chuyển khoản tiền lương sau khi CVHTCN/CV HUB thực hiện chuyển khoản vào TKTG sẽ thông báo cho đơn vị nào thực hiện bước tiếp theo",
+    "choices": [
+      "Trung tâm HTTD",
+      "Phòng dịch vụ tài khoản - Trung tâm Thanh toán",
+      "Giao dịch viên"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trách nhiệm của cấp phê duyệt hồ sơ CTQT tại ĐVKD là:",
+    "choices": [
+      "Kiểm soát tính đầy đủ, tính pháp lý, thể thức của bộ hồ sơ CTQT",
+      "Kiểm soát tính đầy đủ, tính pháp lý của bộ hồ sơ CTQT",
+      "Kiểm soát tính đầy đủ, tính pháp lý, thể thức và ngoại hối của bộ hồ sơ CTQT",
+      "Kiểm soát bộ hồ sơ CTQT về mặt tuân thủ ngoại hối"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng xuất khẩu hiện hành, MB cấp cho KH (Người hưởng lợi) bao nhiêu bản gốc thông báo thư tín dụng xuất khẩu?",
+    "choices": [
+      "1 bản gốc duy nhất",
+      "2 bản gốc",
+      "3 bản gốc",
+      "Tùy theo yêu cầu của KH"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Quy trình lập kế hoạch và quản lý vận hành dịch vụ Khách hàng bao gồm bao nhiêu vấn đề (block con)",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối với chiến dịch gọi ra, nhân viên OS/CV MB247 ghi nhận kết quả liên hệ KH theo từng chiến dịch trên hệ thống nào",
+    "choices": [
+      "CEP",
+      "Flextelesales",
+      "Email",
+      "Đáp án 1&3"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Giao dịch Nộp tiền tại máy CRM của MB, trường hợp xảy ra sai lỗi có thể hoàn trả ngay cho khách hàng sau khi kiểm tra hệ thống hay không?",
+    "choices": [
+      "Có thể hoàn trả ngay sau khi kiểm tra log hệ thống.",
+      "- Nếu giao dịch tường minh sẽ được hoàn trả ngay.\n- Nếu giao dịch không tường minh - máy không nhận diện được số tờ và mệnh giá chỉ có thể hoàn trả sau kiểm quỹ và đối soát."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "KH có thể sử dụng SMS OTP/ hard token để duyệt giao dịch trên BIZ được không?",
+    "choices": [
+      "Có, tùy thuộc nhu cầu của KH",
+      "Không. KH bắt buộc phải chuyển đổi sang digital OTP/ USB CA từ ngày 01/01/2021 theo quy định NHNN. Hệ thống cho phép thực hiện tối đa 10 giao dịch được duyệt bằng phương thức xác thực hiện tại (tính từ giữa tháng 01/2021). Quá 10 giao dịch mà KH không chuyển đổi sang digital OTP thì sẽ không được phép duyệt bằng phương thức xác thực hiện tại nữa."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC: Trong thời gian khoản tiền gửi theo HĐTG bị cầm cố, thế chấp KH không  được phép làm gì?",
+    "choices": [
+      "Thay đổi thông tin về pháp lý KH",
+      "Thay đổi thông tin liên quan đến HĐTG",
+      "Ủy quyền nhận thanh toán hoặc chuyển giao quyền sở hữu"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Việc kiểm kê đột xuất tại CN/PGD được thực hiện như thế nào ?",
+    "choices": [
+      "Tối thiểu 3 tháng/lần",
+      "Tối thiểu 1 tháng/lần",
+      "Mỗ tháng 1 lần",
+      "Tối thiểu 6 tháng/lần"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trường hợp KH có từ 02 GTTT có thông tin tại MB (mã KH), UB/GDV thực hiện:",
+    "choices": [
+      "Tư vấn KH lựa chọn 01 mã KH để sử dụng",
+      "Đóng toàn bộ tài khoản và dịch vụ của các mã KH còn lại",
+      "Ưu tiên KH sử dụng mã KH đã có luu trữ hình ảnh EKYC tại MB",
+      "Tất cả đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phương thức đo lường hài lòng khách hàng tại sàn giao dịch được thực hiện qua những kênh nào ?",
+    "choices": [
+      "Đo lường qua khảo sát hài lòng qua App",
+      "Đo lường qua khảo sát hài lòng qua Mail",
+      "Phàn nàn khiếu nại qua kênh MB247",
+      "Phỏng vấn trực tiếp khách hàng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Theo QĐ 5392/QĐ-HS, quy đinh các trường hợp nào sau đây được phép đóng tài khoản cá nhân?",
+    "choices": [
+      "Theo yêu cầu của chủ tài khoản; Yêu cầu của bên thứ ba theo quy định pháp luật",
+      "Chủ TKTT là cá nhân bị chết,bị tuyên bố là đã chết,bị mất tích hoặc mất năng lực hành vi dân sự;",
+      "Khi chủ tài khoản vi phạm các cam kết hoặc các thỏa thuận với MB tại hợp đồng về mở và sử dụng TKTT",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Việc bàn giao mã khóa cửa kho tiền được thực hiện theo nguyên tắc nào?",
+    "choices": [
+      "Cả ba thành viên giữ chìa khóa cửa kho tiền phải có mặt để mở cửa kho tiền",
+      "Người giao xóa mã số, giao chìa khóa định vị; người nhận phải đổi mã số ngay sau khi nhận bàn giao. Sau đó từng thành viên khóa cửa kho theo quy định.",
+      "Người giao nhắn tin/gửi email mã số, giao chìa khóa định vị; người nhận phải đổi mã số ngay sau khi nhận bàn giao.",
+      "Người nhận được phép giữ nguyên và sử dụng mã số cho đến khi bàn giao lại cho Người giao."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Yếu tố nào trên giấy niêm phong bắt buộc phải viết tay, không được phép in sẵn hoặc đóng dấu?",
+    "choices": [
+      "Họ và tên người kiểm đếm",
+      "Ngày, tháng, năm kiểm đếm, đóng gói",
+      "Chữ ký của người kiểm đếm, đóng gói niêm phong"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Cá nhân và tổ chức có được gửi tiền gửi chung có kỳ hạn không?",
+    "choices": [
+      "Cá nhân và tổ chức được gửi tiền gửi chung có kỳ hạn bằng đồng nội tệ và ngoại tệ.",
+      "Cá nhân và tổ chức được gửi tiền gửi chung có kỳ hạn bằng đồng nội tệ",
+      "Cá nhân và tổ chức không được gửi tiền gửi chung có kỳ hạn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thực hiện đầu tư gián tiếp từ nước ngoài vào Việt Nam, Nhà đầu tư nước ngoài có thể mở tài khoản vốn đầu tư gián tiếp theo những loại tiền nào sau đây?",
+    "choices": [
+      "USD",
+      "EUR",
+      "VND",
+      "Bất kỳ loại ngoại tệ nào trừ VND"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Để thực hiện định danh thẻ HI trên App MB, bước đầu tiên KH phải nhập thông tin gì ?",
+    "choices": [
+      "ID thẻ",
+      "Serial",
+      "CMT/CCCD khách hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "CN cần làm gì sau khi tiếp nhận yêu cầu nhờ thu trong nội bộ MB",
+    "choices": [
+      "Gửi tra soát hỗ trợ nhờ thu lên TTDVVHS&T",
+      "Liên hệ KH thụ hưởng theo SĐT đăng ký trên hệ thống để nhờ thu",
+      "Gửi tra soát hỗ trợ nhờ thu lên MB247",
+      "Không có đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tìm kiếm điểm đặt phù hợp, hoàn thiện cơ sở hạ tầng đặt máy ATM/CRM là trách nhiệm của đơn vị nào ?",
+    "choices": [
+      "TT Kinh doanh số (K.NHS)",
+      "P.QLML (K.ML&QLCL)",
+      "CN/PGD vận hành",
+      "CN/PGD phát triển máy"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "LCT nếu có thay đổi về nội dung cần thực hiện ntn",
+    "choices": [
+      "chỉ cần viết nội dung cần điều chỉnh lên LCT",
+      "điều chỉnh nội dung cần có xác thực bằng chữ ký của những người đã xác nhận trên LCT và đóng dấu treo ( đối với KH tổ chức ) tại phần điều chỉnh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "CN/ PGD chọn kênh chuyển tiền qua kênh Napas tại quầy cần chú ý",
+    "choices": [
+      "số tiền cần chuyển nhỏ hơn 500 triệu",
+      "Tên người thụ hưởng trên hệ thống trả ra trùng với tên ngươi thụ thưởng trên ủy nhiệm chi của khách hàng",
+      "CN/PGD đã tư vấn cho khách hàng về việc giao dich không thành công chờ đối soát T+4",
+      "Sau khi giao dịch được duyệt trên T24, truy vấn luôn kết quả giao dịch"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Khách hàng vừa chuyển tiền chi trả lương vừa chuyển khoản theo lô thì phải ký hợp đồng gì?",
+    "choices": [
+      "Hợp đồng thanh toán lương qua tài khoản",
+      "Hợp đồng thanh toán theo bảng kê qua tài khoản",
+      "Cả 2 hợp đồng nêu trên"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nhận định nào sau đây là đúng?",
+    "choices": [
+      "Vào ngày đến hạn thanh toán bộ chứng từ nhờ thu trả chậm mà người trả tiền đã chấp nhận thanh toán, Khách hàng phải có đủ tiền trên tài khoản để MB thanh toán cho bên bán",
+      "Vào ngày đến hạn thanh toán bộ chứng từ nhờ thu trả chậm mà người trả tiền đã chấp nhận thanh toán, nếu khách hàng không thanh toán bộ chứng từ, Khách hàng phải có văn bản gửi MB về việc gia hạn thanh toán hoặc từ chối thanh toán hoặc làm rõ đã thanh toán lúc nào để MB thông báo cho bên gửi nhờ thu",
+      "Vào ngày đến hạn thanh toán bộ chứng từ nhờ thu trả chậm mà người trả tiền đã chấp nhận thanh toán, Khách hàng được gia hạn tối đa 5 ngày làm việc sau ngày đến hạn này để thanh toán mà không cần ý kiến của bên gửi nhờ thu",
+      "Trong phương thức thanh toán nhờ thu nhập khẩu, MB chỉ thực hiện theo chỉ thị của bên gửi nhờ thu theo đúng thông lệ quốc tế và không kèm theo cam kết thanh toán (kể cả trường hợp nhờ thu trả chậm đã được chấp nhận thanh toán bởi người trả tiền)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trường hợp chủ thể ký kết là người được ủy quyền, Văn bản ủy quyền yêu cầu tối thiểu nội dung như thế nào",
+    "choices": [
+      "Thời gian, địa điểm lập ủy quyền: Các nội dung về thời gian, địa điểm lập Hợp đồng cần được quy định rõ ràng, cụ thể",
+      "Chủ thể tham gia giao dịch ủy quyền: Đầy đủ thông tin pháp nhân của người ủy quyền và  người được ủy quyền (họ tên, năm sinh, Số giấy tờ tùy thân, địa chỉ theo hộ khẩu, địa chỉ liên hệ,…)",
+      "Phạm vi ủy quyền",
+      "Thời hạn và hiệu lực của ủy quyền"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Thời gian lưu trữ tối thiểu tại camera quan sát tại kho là bao lâu",
+    "choices": [
+      "thời gian  lưu trữ tối thiểu trên máy chủ 2 tháng",
+      "Thời gian lưu trữ dữ liệu sao y trên thiết bị là 6 tháng",
+      "thời gian  lưu trữ tối thiểu trên máy chủ 2 tháng và Thời gian lưu trữ dữ liệu sao y trên thiết bị là 6 tháng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Những nhân sự nào ký xác nhận UNC",
+    "choices": [
+      "Trưởng HUB VH",
+      "Phó Phòng DVKH",
+      "BLD chi nhánh",
+      "Tất cả phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Luồng kiểm soát ngoại hối đối với giao dịch bổ sung hồ sơ TTR trả trước do đơn vị nào thực hiện?",
+    "choices": [
+      "ĐVKD",
+      "Phòng Thanh toán",
+      "Khối SME",
+      "Khối CIB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Quy trình thư tín dụng xuất khẩu hiện hành, tại ĐVKD, ai là người ký hậu trên hối phiếu gửi đi đòi tiền của KH?",
+    "choices": [
+      "RM/aRM",
+      "CVTTTM/CVHT tại các CN không có CVTTTM",
+      "TP/PP Khách hàng doanh nghiệp",
+      "Ban giám đốc CN"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Quy trình lập kế hoạch và quản lý vận hành dịch vụ Khách hàng - Quy trình cung cấp tư vấn cho KH được chia thành mấy luồng",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với chiến dịch gọi ra, nhân viên OS/CV MB247 nếu liên hệ không thành công trong ngày, thì cần gọi lại KH tối đa thêm bao nhiêu lần/01 ngày",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Giao dịch rút/nộp tiền tại máy ATM/CRM của MB, trường hợp xảy ra lỗi, nếu là lỗi tường minh (hệ thống tự nhận diện được số tờ tiền kèm theo mệnh giá) thì có cần chờ kiểm quỹ để hoàn trả cho khách hàng hay không?",
+    "choices": [
+      "Không cần kiểm quỹ vì máy đã nhận diện được số tờ và mệnh giá nên có thể hoàn luôn cho khách.",
+      "Cần kiểm quỹ, đối soát để xác định đúng số tiền mới thực hiện hoàn trả."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Giao dịch chuyển tiền từ MB có số tiền < 500 triệu VNĐ thì được chuyển sang kênh chuyển tiền nhanh qua NAPAS?",
+    "choices": [
+      "Đúng",
+      "Không đúng. Để chuyển tiền nhanh qua kênh NAPAS, phải đáp ứng đồng thời 3 điều kiện sau:\n- Giao dịch có số tiền < 500 triệu VNĐ\n- NH thụ hưởng tham gia kết nối với NAPAS.\n- Tại thời điểm khởi tạo giao dịch, hệ thống MB – NAPAS – NH thụ hưởng được kết nối thông suốt."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thành viên thứ nhất trên quyết định giao nhiệm vụ thành viên quản lý két tiền tại CN/PGD không có kho tiền hoặc sàn giao dịch của CN đặt Hub là ai?",
+    "choices": [
+      "Giám đốc dịch vụ",
+      "Người đứng đầu đơn vị",
+      "Kiểm soát viên"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quy định về bảo quản chìa khóa dự phòng xe chuyên dùng, tủ sắt, két sắt… của CN/PGD?",
+    "choices": [
+      "Được niêm phong gửi tại két của Giám đốc Chi nhánh",
+      "Được niêm phong gửi tại két của GĐ DV",
+      "Được niêm phong gửi tại két của PPDV/KSV",
+      "Được niêm phong gửi tại két \ncủa TQ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đối với lỗi thông báo tại Kết quả hình ảnh và voice: \"Nghi vấn gian lận\", CBKS/UB/GDV thực hiện như thế nào:",
+    "choices": [
+      "Từ chối KH, không tiếp tục thực hiện giao dịch",
+      "Tiếp tục thực hiện, bỏ qua cảnh báo",
+      "Kiểm tra kỹ lại thông tin GTTT, KH trực tiếp đến giao dịch và thông tin KH tương đồng để ra quyết định tiếp tục thực hiện tiếp giao dịch cho KH hay không"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kết quả đo lường chỉ số hài lòng tại Sàn giao dịch là 95 cho biết thông tin gì ?",
+    "choices": [
+      "95% khách hàng hài lòng với CLDV của Sàn giao dịch",
+      "Trong kỳ Sàn giao dịch phát sinh 5 tr/h không hài lòng nên điểm hài lòng = 100 -5 = 95 điểm",
+      "Là kết quả bình quân gia quyền tổng các lựa chọn đánh giá hài lòng của khách hàng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Loại tài khoản áp dụng đối với giao dịch rút tiền theo giao dịch Nộp/rút tiền mặt nhanh tại quầy xác thực qua App Mbbank là?",
+    "choices": [
+      "Tất cả các tài khoản VNĐ và ngoại tệ mở tại MB",
+      "Tài khoản rút là Tài khoản thanh toán VNĐ của của chính KH đến MB Giao dịch, TK có đủ số dư khả dụng để thực hiện Giao dịch rút tiền.",
+      "Không giới hạn các loại tài khoản của KH mở tại MB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quy định sử dụng và bảo quản chìa khóa cửa kho tiền đang dùng?",
+    "choices": [
+      "Mỗi thành viên tự bảo quản trong két sắt riêng đặt\n tại nơi làm việc trong trụ sở cơ quan",
+      "Gửi tại két của GĐ DV",
+      "Gửi tại két của TQ",
+      "Gửi tại két của PPDV/KSV"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong khi giao dịch tiền mặt với khách hàng, khi phát hiện tiền VNĐ giả, giao dịch viên/kiểm ngân phải làm gì?",
+    "choices": [
+      "Lập biên bản về việc thu giữ tiền giả.",
+      "Lập tức trả lại cho khách hàng",
+      "Bấm lỗ, thu giữ tiền giả.",
+      "Báo công an"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "KHCN gửi tiền gửi chung có kỳ hạn với KHTC thì HĐTG chung phải tuân quy định nào?",
+    "choices": [
+      "Tuân theo cả quy định tiền gửi KHCN và KHTC",
+      "Tuân theo Quy định tiền gửi khách hàng cá nhân",
+      "Tuân theo Quy định Tiền gửi khách hàng tổ chức"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi kiểm tra tiền trên tài khoản Khách hàng đủ đảm bảo cho khoản vay (cả gốc, lãi, phí phát sinh) Chi nhánh có thể hỗ trợ xuất kho TSĐB cho KH VIP trước khi thu nợ trên hệ thống  không",
+    "choices": [
+      "Không được thực hiện xuất kho khi chưa hạch toán thu nợ trên hệ thống",
+      "Thực hiện xuất kho cho KH VIP trên cơ sở phê duyệt từ Giám đốc chi  nhánh",
+      "Thực hiện xuất kho vật lý trước và thu nợ trước khi trả tài sản cho Chủ tài sản"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khách hàng có thể đặt mua thẻ HI Collection trên App Mbbank được không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Sau khi liên hệ với KH thụ hưởng để nhờ thu và KH đồng ý, CN thực hiện gì tiếp theo",
+    "choices": [
+      "CN thực hiện chuyển tiền lại cho KH chuyển nhầm",
+      "Gọi điện cho MB247 để thông báo và yêu cầu hỗ trợ cuộc gọi có ghi âm KH đồng ý hoàn trả",
+      "Nhờ KH ra điểm giao dịch gần nhất của MB để thực hiện hoàn trả lại số tiền nhờ thu",
+      "Cả 2 1, 2 đều đúng tùy thuộc vào phương án nào thuận tiện cho KH thụ hưởng và do KH lựa chọn"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "MB có cho phép ứng tiền mặt trên POS lắp đặt tại các ĐVCNT (merchant) không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hợp đồng ngoại thương chỉ có chữ ký và tên của bên bán, không có dấu có được chấp nhận không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo thông tư 37 trường hợp nào MB được phép chủ động phong tỏa/ thu hồi số tiền bị sai mà không cần thông báo hay có sự đồng ý trước từ KH",
+    "choices": [
+      "MB là đơn vị nhận lệnh bị sai thừa, TKTT của KH có đủ số dư",
+      "MB là đơn vị nhận lệnh bị sai thừa, TKTT của KH không có đủ số dư",
+      "MB là đơn vị nhận lệnh bị sai thừa, phát sinh do Ngân hàng bạn",
+      "MB là đơn vị nhận lệnh bị sai thừa, phát sinh do KH yêu cầu"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Trường hợp Khách hàng và đơn vị chi lương từ Ngân sách nhà nước, Tài khoản chi trả lương là tài khoản thanh toán của Khách hàng mở tài MB để làm thủ tục trích chuyển các khoản chi trả lương vào các tài khoản nhận lương của từng người hưởng lương, KH có được phép sử dụng tài khoản này với mục đích khác không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chỉ số NPS là gì ?",
+    "choices": [
+      "Chỉ số mức độ Khách hàng sẵn sàng giới thiệu MB với người thân, bạn bè",
+      "Chỉ số trung thành khách hàng",
+      "Chỉ số hài lòng khách hàng",
+      "Chỉ số hài lòng nội bộ"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Thời điểm nhập kho thực tế đối với TSBĐ nhận theo phương án TKTD luồng đặc biệt",
+    "choices": [
+      "Ngày làm việc cuối cùng của tháng: Ngày T\n(T là ngày giải ngân, hạch toán bảo lãnh, mở LC)",
+      "Không phải ngày làm việc cuối cùng của tháng: \n+ Hub Vận hành: chậm nhất chậm nhất ngày T+2\n+ Chi nhánh không có Hub: chậm nhất ngày T+1\n(T là ngày giải ngân, hạch toán bảo lãnh, mở LC)",
+      "không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Các nội dung nào cần ghi trên mặt thùng lưu trữ",
+    "choices": [
+      "Tên đơn vị",
+      "Hộp số",
+      "Thời gian hồ sơ kết thúc năm, thời hạn bảo quản"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "UNC liên quan đến mua bán ngoại tệ từ nguồn tiền giải ngân đơn vị nào thực hiện hạch toán",
+    "choices": [
+      "CV HUB đối với Chi nhánh có HUB Vận hành",
+      "GDV/CV HTCN theo phân công của BLD CN đối với CN chưa có HUB vận hành",
+      "Theo phân công của BLĐ chi nhánh từng thời kỳ",
+      "CV XLHS tại Trung tâm HTTD"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "LCT và đề nghị tra soát/hủy giao dịch của giao dịch CTQT cần được scan màu.",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng xuất khẩu hiện hành, hãng chuyển phát nhanh được sử dụng để gửi bộ chứng từ của KH đi đòi tiền là hãng chuyển phát nhanh đáp ứng các điều kiện sau:",
+    "choices": [
+      "Là hãng chuyển phát nhanh mà MB đã ký kết hợp đồng hoặc theo hướng dẫn của Khối hành chính từng  thời kỳ",
+      "Là hãng chuyển phát nhanh mà KH lựa chọn và ký hợp đồng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "KH có nhu cầu tư vấn, hỗ trợ kiểm tra thông tin, KH có thể liên hệ đến MBBank qua các kênh nào",
+    "choices": [
+      "- Kênh điện thoại\n- Chi nhánh/PGD\n- Kênh số",
+      "- Kênh đa phương tiện\n- Kênh số",
+      "- Kênh điện thoại\n- Kênh đa phương tiện\n- Chi nhánh/PGD",
+      "- Chi nhánh/PGD\n- Kênh điện thoại"
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Đối với chiến dịch gọi ra, nhân viên OS/CV MB247 nếu liên hệ không thành công thì cần gọi lại cho KH tối đa thêm bao nhiêu ngày",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Thẻ ngân hàng khác có thực hiện được giao dịch rút tiền tại máy ATM/CRM của MB hay không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tỷ lệ phí phạt chậm trả trên số tiền tối thiểu chưa thanh toán của thẻ tín dụng cá nhân Visa, JCB, và các sản phẩm thẻ Hybrid hiện tại là bao nhiêu?",
+    "choices": [
+      "4%, tối thiểu 200,000 VND",
+      "5%, tối thiểu 150,000 VND",
+      "8%, tối thiểu 150,000 VND",
+      "10%, tối thiểu 150,000 VND"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các công việc cần phải thực hiện khi có thay đổi thành viên quản lý kho/két của CN/PGD?",
+    "choices": [
+      "GĐCN ký quyết định giao nhiệm vụ thành viên quản lý kho/két tiền.",
+      "Tổ chức niêm phong hộp chìa khóa dự phòng cửa kho/két tiền.",
+      "Gửi hộp chìa khóa dự phòng kho/két tiền, bao gồm: chìa + mã + thanh đổi mã ngay trong ngày."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Quy định về cách thức kiểm đếm tiền chi ra khỏi quầy giao dịch nào sau đây là đúng?",
+    "choices": [
+      "Yêu cầu và chứng kiến Khách hàng đếm lại tiền trước khi ra khỏi quầy chi",
+      "Có thể giúp Khách hàng bằng việc kiểm đếm lại tiền trên máy và đề nghị Khách hàng chứng kiến việc kiểm đếm lại tiền",
+      "Có thể chi bó tiền nguyên niêm phong cho Khách hàng"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp nào sau đây, Nhà đầu tư nước ngoài phải mở tài khoản vốn đầu tư trực tiếp khi thực hiện đầu tư vào Việt Nam ?",
+    "choices": [
+      "DN có tỷ lệ NĐT NN từ 51% vốn điều lệ trở lên và chưa niêm yết.",
+      "Góp vốn, mua, bán cổ phần, phần vốn góp trong DN có NĐT NN sở hữu dưới 51% vốn điều lệ, DN không thuộc TH bắt buộc cấp giấy chứng nhận đầu tư, DN có cổ phiếu niêm yết.",
+      "Hợp tác kinh doanh (BCC) hoặc đầu tư đối tác công tư (PPP).",
+      "Mua, bán trái phiếu và các loại chứng khoán khác trên TT CK VN."
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Chi nhánh có thể quản trị số liệu KPI Sàn giao dịch bằng cách nào ?",
+    "choices": [
+      "Sử dụng số liệu do Ban kế hoạch gửi",
+      "Chi nhánh tự theo dõi bằng cách xuất các báo cáo có sẵn trên ORS",
+      "Sử dụng Dashboard Power BI do Trung tâm Quỹ & DVKH phát triển",
+      "Sử dụng báo cáo trên Smart Channel"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "KH có cần ký xác nhận trên chứng từ khi thực hiện giao dịch qua  luồng giao dịch Nộp/rút tiền mặt nhanh tại quầy xác thực qua App Mbbank hay không?",
+    "choices": [
+      "Có. KH cần ký xác nhận trên chứng từ như với luồng truyền thống.",
+      "Kh chỉ cần ký xác nhận với chứng từ rút tiền .",
+      "Không cần. Vì việc KH xác nhận giao trên App MBbank đồng nghĩa với việc khác hàng ký xác nhận “ đồng ý thực hiện” giao dịch nộp/rút tiền này."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trên tờ niêm phong bì kho TSĐB phải có đầy đủ họ tên và chữ ký của các thành phần niêm phong  nào sau đây?",
+    "choices": [
+      "TQ/KN/GDV chính quản lý kho tiền",
+      "Người đứng đầu đơn vị/người được ủy quyền (theo quy định của MB từng thời kỳ)...",
+      "Cả 2 đáp án"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy định quản lý và đóng dấu \"tiền giả\" nào sau đây không đúng?",
+    "choices": [
+      "Kiểm soát viên chịu trách nhiệm quản lý dấu “Tiền giả”.",
+      "Trong ngày làm việc, con dấu được cất giữ trong ngăn kéo chỗ làm việc của Kiếm soát viên và khóa lại",
+      "Cuối ngày làm việc, con dấu phải được bảo quản trong két sắt của đơn vị.",
+      "Trưởng quỹ có trách nhiệm đóng dấu “TIỀN GIẢ” lên 2 mặt của tờ tiền giả, mỗi mặt đóng một lần."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Quy định về phương thức chi trả tiền gửi có kỳ hạn của KHTC",
+    "choices": [
+      "KH chỉ được gửi, nhận chi trả tiền gửi có kỳ hạn thông qua cùng 01 TKTT của chính KH",
+      "KH chỉ được gửi, nhận chi trả tiền gửi có kỳ hạn thông qua TKTT của chính KH",
+      "KH chỉ được gửi, nhận chi trả tiền gửi có kỳ hạn thông qua TKTT của chính KH tại MB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với KHCN trường hợp DVKD quá hạn hoàn thiện bàn giao lưu trữ 10 ngày sẽ áp dụng chế tài nào sau đây",
+    "choices": [
+      "Khóa chức năng khởi tạo phương án Soạn thảo/Giải ngân/bảo lãnh… đối với RM có phương án chưa bàn giao hồ sơ",
+      "Khóa chức năng khởi tạo phương án Soạn thảo/Giải ngân/bảo lãnh… đối với khách hàng có phương án chưa bàn giao hồ sơ",
+      "Khóa chức năng khởi tạo phương án Soạn thảo/Giải ngân/bảo lãnh… đối với Rm và khách hàng có phương án chưa bàn giao hồ sơ",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thời hạn sử dụng thẻ HI Collection",
+    "choices": [
+      "5 năm",
+      "4 năm",
+      "3 năm",
+      "2 năm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "KH cần làm gì khi bị phát sinh GD lừa đảo hoặc không thực hiện GD nhưng bị mất tiền",
+    "choices": [
+      "Khóa dịch vụ NHĐT, khóa thẻ (pick up 04) – Gọi điện tổng đài/đến các điểm GD của MB",
+      "Đổi mật khẩu các dịch vụ NHĐT/khóa DV viễn thông 2 chiều – Gọi điện tổng đài/đến các điểm GD của MB – Trình báo công an",
+      "Khóa dịch vụ NHĐT, khóa thẻ (pick up L41) - Đổi mật khẩu dịch vụ NHĐT, cài đặt lại DOTP/khóa DV viễn thông 2 chiều – Nâng cấp hệ điều hành/tắt tính năng imessage – Gọi điện tổng đài/đến các điểm GD của MB – Trình báo công an",
+      "Trình báo công an - Đổi mật khẩu các dịch vụ NHĐT/khóa DV viễn thông 2 chiều – Gọi điện tổng đài/đến các điểm GD của MB"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "CN/PGD tổ chức đào tạo truyền thông nội dung gì để hạn chế rủi ro trong công tác KYC và tư vấn KH?",
+    "choices": [
+      "CBNV nghiêm túc thực hiện tư vấn hồ sơ trên cơ sở KH có giao dịch thật, không định hướng KH hàng để hợp thức hóa nhu cầu của KH.\nĐào tạo CBNV nắm rõ các dấu hiệu đáng ngờ (giá trị lớn, hợp đồng đơn giản và nhiều thông tin mẫu thuẫn, không phù hợp ngành nghề của bên thụ hưởng, giả lập Website…) để rào chắn rủi ro KH mượn Ngân hàng để chuyển tiền bất hợp pháp",
+      "Đào tạo CBNV nắm rõ các dấu hiệu đáng ngờ (giá trị lớn, hợp đồng đơn giản và nhiều thông tin mẫu thuẫn, không phù hợp ngành nghề của bên thụ hưởng, giả lập Website…) để rào chắn rủi ro KH mượn Ngân hàng để chuyển tiền bất hợp pháp",
+      "CBNV nghiêm túc thực hiện tư vấn hồ sơ trên cơ sở KH có giao dịch thật, không định hướng KH hàng để hợp thức hóa nhu cầu của KH.\nĐào tạo CBNV nắm rõ các dấu hiệu đáng ngờ (giá trị lớn, hợp đồng đơn giản"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thời hạn bổ sung chứng từ nợ theo quy định của quy trình",
+    "choices": [
+      "Không quá 90 ngày kể từ ngày giao hàng/ hoàn thành dịch vụ hoặc ngày thỏa thuận khác giữa KH và đối tác",
+      "Không quá 60 ngày kể từ ngày giao hàng/ hoàn thành dịch vụ hoặc ngày thỏa thuận khác giữa KH và đối tác"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "MB có quy định về vai trò và trách nhiệm trong việc quản lý và sử dụng email : DVKHxxx@mbbank.com.vn ( xxx: mã chi nhánh )",
+    "choices": [
+      "Trong quy trình thanh toán chiều đi",
+      "Trong quy trình thanh toán chiều đến",
+      "Trong quy trình tra soát"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Số lượng bản gốc D/O, cargo receipt hoặc giẩy tờ tương đương mà chi nhánh cần cấp khi khách hàng đề nghị ký các giấy tờ này theo LC là bao nhiêu bản?",
+    "choices": [
+      "Theo số lượng bản gốc được quy định xuất trình trong bộ chứng từ đòi tiền theo LC",
+      "Theo như số lượng khách hàng đề nghị",
+      "3 bản gốc (vì thay thế B/L)",
+      "Chưa có quy định cụ thể"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chỉ số CES là gì ?",
+    "choices": [
+      "Chỉ số mức độ Khách hàng sẵn sàng giới thiệu MB với người thân, bạn bè",
+      "nỗ lực mà khách hàng phải bỏ ra trong quá trình tương tác với sản phẩm/dịch vụ",
+      "Chỉ số hài lòng khách hàng",
+      "Chỉ số hài lòng nội bộ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trưởng Hub VHTD có thẩm quyền ký VK ở phạm vi nào?",
+    "choices": [
+      "- Thẩm quyền ký toàn bộ VKTS và VKTD đối với CN đặt Hub\n- Thẩm quyền ký Bảo lãnh/XNCCTD khi có sự phân công bằng văn bản của GĐCN đặt Hub\n- Thẩm quyền ký ký VKTS đối với TS có ký công chứng và TS là QTS từ HĐMB đối với CN thuộc Hub\n- Thẩm quyền ký VKTS đối với TS có ký công chứng đối với  PGD online cùng dấu với CN đặt Hub/PGD trực thuộc CN không có dấu cùng với CN đặt Hub",
+      "- Thẩm quyền ký toàn bộ VKTS và VKTD đối với CN đặt Hub\n- Thẩm quyền ký Bảo lãnh/XNCCTD khi có sự phân công bằng văn bản của GĐCN đặt Hub\n- Thẩm quyền ký ký VKTS đối với TS có ký công chứng và TS là QTS từ HĐMB đối với CN thuộc Hub\n- Thẩm quyền ký VKTS đối với TS có ký công chứng đối với  PGD online cùng dấu với CN đặt Hub/PGD trực thuộc CN không có dấu cùng với CN đặt Hub\n- Thẩm quyền ký các Hồ sơ liên quan đến TTQT (HĐMB ngoại tệ/Lệnh chuyển tiền/Điện chuyển tiền/Điện thanh toán LC)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các văn kiện của KHCN ký tại Tổ chức hành nghề công chứng, các văn kiện gửi ra ngoài cho Chủ đầu tư, cơ quan đăng ký giao dịch đảm bảo, giấy lĩnh tiền mặt có cần CVHT/RM xác thực chữ ký không",
+    "choices": [
+      "CVHT/RM  cần xác thực",
+      "CVHT/RM  không cần xác thực"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tác vụ lưu trữ trên BPM đã hỗ trợ chặn khởi tạo PA của RM/KH nếu không bổ sung hồ sơ dưới 10 ngày làm việc",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "LCT nếu có thay đổi về nội dung cần thực hiện ntn",
+    "choices": [
+      "chỉ cần viết nội dung cần điều chỉnh lên LCT",
+      "điều chỉnh nội dung cần có xác thực bằng chữ ký của những người đã xác nhận trên LCT và đóng dấu treo ( đối với KH tổ chức ) tại phần điều chỉnh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình LCNK hiện hành của MB, trường hợp MB đã thực hiện ký hậu vận đơn/bảo lãnh nhận hàng, nếu BCT xuất trình theo LC có sai biệt thì:",
+    "choices": [
+      "Người đề nghị mở LC (KH ) có quyền từ chối thanh toán",
+      "MB tự động từ chối thanh toán",
+      "MB chỉ có quyền từ chối thanh toán sau khi có ý kiến của người đề nghị mở LC (KH)",
+      "Người đề nghị mở LC bắt buộc phải thanh toán theo như cam kết trên Đề nghị phát hành bảo lãnh/ký hậu vận đơn bảo lãnh ngay cả khi BCT có sai biệt (trừ trường hợp BCT không xuất trình vận đơn bản gốc hoặc vận đơn không lập theo lệnh MB hoặc trị giá đòi tiền vượt quá trị giá quy định cho LC)."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Hệ thống Smart IVR của dịch vụ hỗ trợ tổng đài kênh điện thoại cung cấp bao nhiêu dịch vụ để KH có thể tự thực hiện được",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo Quy trình tra soát 08/QĐ-HS ban hành ngày 02/01/2024, đối với giao dịch chuyển nhầm tiền trong hệ thống nội bộ MB, KH có thể tra soát yêu cầu hoàn trả qua tổng đài MB247 không?",
+    "choices": [
+      "Được. KH gọi tổng đài qua cuộc gọi có ghi âm",
+      "KH tạo tra soát yêu cầu hoàn trả trên App MBBank hoặc ra CN/PGD gần nhất để được hỗ trợ",
+      "KH gửi email/chat yêu cầu MB247 thực hiện tra soát"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Máy CRM của MB cho phép chủ thẻ MB thực hiện các loại giao dịch:",
+    "choices": [
+      "Nộp tiền",
+      "Rút tiền",
+      "Chuyển khoản",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Hiện tại MB đang là thành viên của các tổ chức thẻ quốc tế nào?",
+    "choices": [
+      "Visa, MasterCard, JCB",
+      "Visa, MasterCard",
+      "Visa, MasterCard, JCB, Union Pay",
+      "JCB, MasterCard"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Công tác bàn giao khi có ủy quyền/thay thế thành viên quản lý kho tiền bao gồm:",
+    "choices": [
+      "Thành lập hội đồng kiểm kê, kiểm đếm.",
+      "Các nhân sự liên quan thực hiện kiểm kê tài sản, lập biên bản kiểm kê, kiểm đếm.",
+      "Ký biên bản bàn giao theo danh mục tài sản đã kiểm kê.",
+      "Ký sổ giao nhận chìa khóa."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Tổ lưu động gồm mấy thành phần?",
+    "choices": [
+      "3 thành phần: TQ/KN/GDV, CVHT thẻ, lái xe.",
+      "3 thành phần: TQ/KN/GDV, bảo vệ áp tải, lái xe.",
+      "2 thành phần: TQ/KN/GDV, lái xe."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thực hiện đầu tư gián tiếp từ nước ngoài vào Việt Nam, Nhà đầu tư nước ngoài có thể mở tài khoản vốn đầu tư gián tiếp theo những loại tiền nào sau đây?",
+    "choices": [
+      "USD",
+      "EUR",
+      "VND",
+      "Bất kỳ loại ngoại tệ nào trừ VND"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi có phát sinh khách hàng đánh giá không hài lòng qua App, Sàn giao dịch cần xử lý và phản hồi kết quả xử lý như thế nào ?",
+    "choices": [
+      "Gửi mail đến phòng Quản lý chất lượng để báo cáo kết quả xử lý",
+      "Gọi điện thoại/gửi mail cho Cán bộ quản lý khu vực",
+      "Nhập kết quả xử lý trên Smart Channel và chuyển trạng thái \"Đã xử lý\"",
+      "Không cần làm gì"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đối với các chi nhánh mới thành lập được phép để tồn quỹ qua đêm, HMTQ bình quân tiền ngoại tệ quy đổi USD được cấp mặc định cho chi nhánh là bao nhiêu?",
+    "choices": [
+      "10.000 USD",
+      "20.000 USD",
+      "30.000 USD",
+      "40.000 USD"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trường hợp người ký tên trên niêm phong hồ sơ TSBĐ là TQ/KN/GDV chính tại CN/PGD nghỉ việc/chuyển công tác ra khỏi CN/ chuyển vị trí công việc khi bàn giao chi tiết phải thực hiện như thế nào?",
+    "choices": [
+      "Bóc 100% bì, kiểm tra hồ sơ chi tiết bên trong bì TSBĐ khớp đúng với sao kê và Phiếu nhập kho.",
+      "Kiểm kê, kiểm đếm đầu bì TSBĐ.",
+      "Kiểm kê, kiểm đếm đầu bì TSBĐ, chỉ kiểm tra hồ sơ chi tiết đối với bì bị rách niêm phong."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tiền gửi đang bị phong tỏa có được phép chuyển giao?",
+    "choices": [
+      "Không được phép",
+      "Được phép chuyển giao. Người nhận chuyển giao kế thừa lại quyền lợi và nghĩa vụ phát sinh đối với phần tiền gửi nhận chuyển giao",
+      "Không được phép chuyển giao phần tiền đang bị phong tỏa. Phần tiền không bị phong tỏa được phép chuyển giao"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "HĐTG của KHTC có được viết tay",
+    "choices": [
+      "Được phép viết tay đảm bảo đúng đủ các yếu tố trên HĐTG",
+      "Không được phép viết tay bất kỳ yếu tố nào",
+      "Không được viết tay, không được có yếu tố ghi tay (trừ một số thông tin: số HĐTG, ngày trên HĐTG, ngày gửi tiền, ngày đáo hạn, kỳ hạn gửi, lãi suất và chữ ký của các bên tham gia ký kết HĐTG)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "TAT đối với TSĐB KHDN không ký công chứng được tính như thế nào",
+    "choices": [
+      "1 ngày từ thời điểm nhận bàn giao hồ sơ đến thời điểm CO hoàn thành trên hệ thống",
+      "1,125 ngày từ thời điểm nhận bàn giao hồ sơ đến thời điểm CO hoàn thành trên hệ thống",
+      "1.25 ngày từ thời điểm nhận bàn giao hồ sơ đến thời điểm CO hoàn thành trên hệ thống",
+      "1.5 ngày từ thời điểm nhận bàn giao hồ sơ đến thời điểm CO hoàn thành trên hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chi nhánh thực hiện đăng ký thẻ HI Collection về CN qua hệ thống nào ?",
+    "choices": [
+      "Cardportal",
+      "Moffice",
+      "Hotronghiepvu",
+      "T24"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "CN chỉ thực hiện phong tỏa TK KH khi nhận được yêu cầu phong tỏa được ký bởi cấp có thẩm quyền nào của Cơ quan Công An?",
+    "choices": [
+      "Trưởng/Phó thủ trưởng của Cơ quan điều tra Công An",
+      "Trưởng công an cấp Xã/Phường",
+      "Trưởng công an cấp Quận/Huyện",
+      "Không có đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "CN/PGD nhận diện rủi ro KH hợp thức hóa hồ sơ chuyển tiền bất hợp pháp thế nào?",
+    "choices": [
+      "'- GD biên mẫu tại Lào Cai, Móng Cái, L.Sơn \n- DN mới thành lập, vốn nhỏ\n- Hàng tạm nhập, tái xuất.",
+      "- GD Thanh toán cho nhiều Bên thứ 3 ở nhiều nơi, địa chỉ , thông tin ko pulic.\n- Hồ sơ có dấu hiệu cắt dán, copy.\nNguồn từ cá nhân, ko rõ nguồn gốc",
+      "2. DN vi phạm vận chuyển tiền trái phép:\nDN có p/s hoạt động TTQT đồng thời dịch vụ chuyển tiền bất hợp pháp"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tính đầy đủ của hồ sơ được thể hiện ở tiêu chí",
+    "choices": [
+      "Đầy đủ về số lượng",
+      "Tuân thủ về thể thức",
+      "Đầy đủ về mẫu dấu chữ ký"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Để kiểm tra giao dịch tạm giữ không đủ điều kiện ghi có của KH do CN/PGD quản lý thì tra cứu ở đâu",
+    "choices": [
+      "Liên hệ với Phòng thanh toán",
+      "truy cập đường link: DATA.MBBANK.COM.VN/KHOI VAN HANH/ TRUNG TÂM THANH TOÁN/ CHUYEN TIEN NOI",
+      "Truy cập đường link: ORS.MBBANK.COM.VN / BAO CAO T24 VIET NAM/ BAO CAO THANH TOÁN",
+      "Truy vấn báo cáo: TT57, TT58, TT59, TT60,"
+    ],
+    "correct_answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, trường hợp bộ chứng từ đòi tiền theo LCNK được gia hạn thanh toán theo đề nghị của người mở hoặc theo xác nhận của ngân hàng người hưởng lợi, lựa chọn nào sau đây là đúng?",
+    "choices": [
+      "MB sẽ chấp nhận việc gia hạn này khi tại thời điểm chấp nhận/xử lý gia hạn, phương án gia hạn đã được kiểm soát tuân thủ điều kiện tín dụng theo quy định",
+      "Người mở LC đề nghị gia hạn thì MB sẽ xử lý mà không cần kiểm soát tuân thủ điều kiện tín dụng vì còn phụ thuộc việc người hưởng có đồng ý gia hạn không",
+      "Nếu ngân hàng người hưởng đề nghị gia hạn thì MB tự động chấp nhận do điều này có lợi cho Khách hàng vả cả MB",
+      "Đáp án 2 và 3 đều đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chi nhánh có thể quản trị số liệu KPI Sàn giao dịch bằng cách nào ?",
+    "choices": [
+      "Sử dụng số liệu do Ban kế hoạch gửi",
+      "Chi nhánh tự theo dõi bằng cách xuất các báo cáo có sẵn trên ORS",
+      "Sử dụng Dashboard Power BI do Trung tâm Quỹ & DVKH phát triển",
+      "Sử dụng báo cáo trên Smart Channel"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nguyên tắc lưu trữ Hồ sơ tín dụng vật lý tại CN và công tác quản trị Hồ sơ nợ?'",
+    "choices": [
+      "Tối đa 2 ngày làm việc kể từ thời điểm cấp tín dụng cho khách hàng",
+      "Ngay tại ngày cấp tín dụng cho KH",
+      "Tối đa 5 ngày làm việc kể từ thời điểm cấp tín dụng cho khách hàng",
+      "- Tối đa 2 ngày làm việc kể từ thời điểm cấp tín dụng cho khách hàng\n- Tối đa 1 tuần/lần gửi thông tin tới ĐVKD và TT HTTD theo line DS các HS ĐVKD chưa bàn giao\n- CVHT dừng xử lý giao dịch đối với RM (line cá nhân) và đối với KH (line DN) nếu có HS nợ trên 10 ngày đồng thời thông tin tới Phòng HTTD Lưu động HO  gửi thư quản lý từ Khối VH tới BLĐ CN"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "GĐDV/Người được ủy quyền có thể thực hiện ký văn kiện trước hay sau khi Khách hàng và/hoặc Chủ tài sản đã ký",
+    "choices": [
+      "GĐDV/Người được ủy quyền có thể thực hiện ký văn kiện trước hoặc sau khi Khách hàng và/hoặc\nChủ tài sản đã ký tuy nhiên phải đảm bảo văn kiện được hoàn thiện trong ngày cấp tín dụng của\nKhách hàng",
+      "GĐDV/Người được ủy quyền có thể thực hiện ký văn kiện trước hoặc sau khi Khách hàng và/hoặc\nChủ tài sản đã ký tuy nhiên phải đảm bảo văn kiện được hoàn thiện trong ngày cấp tín dụng của\nKhách hàng. Trường hợp văn kiện phải thực hiện thủ tục công chứng, GĐDV/Người được ủy quyền phải ký văn kiện trước hoặc cùng lúc với Khách hàng và/hoặc Chủ tài sản."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi tiếp nhận HS kí kết, CV HTCN/HUB cần thực hiện",
+    "choices": [
+      "Đối với HS do Chi nhánh soạn thảo, CVHTCN/ CVHUB thực hiện kiểm tra đầy đủ các nội dung trên VKTD/VKTSĐB",
+      "Đối với HS do TT HTTD soạn thảo: CVHTCN/ CVHUB thực hiện kiểm tra tối thiểu VK các nội dung: Thông tin pháp lý của KH, thông tin pháp lý của MB, số tiền giải ngân/ bảo lãnh/ LC",
+      "không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Hợp đồng ngoại thương chỉ có chữ ký và tên của bên bán, không có dấu có được chấp nhận không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng nhập khẩu hiện hành, các trường hợp nào sau đây khi phát hành LC hàng hóa KHÔNG phải mua bảo hiểm?",
+    "choices": [
+      "Hàng hóa là dịch vụ.",
+      "Người đề nghị phát hành LC và NHL giao nhận hàng hóa trực tiếp tại nước của người đề nghị phát hành LC, chứng từ yêu cầu xuất trình là Cargo Receipt hoặc Giấy tờ tương đương được ký bởi Người đề nghị phát hành LC và NHL và được ký xác nhận bởi MB",
+      "100% trị giá LC được ký quỹ hoặc cầm cố bằng HĐTG/STK do MB phát hành trước thời điểm phát hành LC",
+      "Hàng hóa nhập khẩu theo LC là hàng hóa hữu hình"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Đối với hệ thống Smart IVR, KH thực hiện như thế nào để chọn các dịch vụ hỗ trợ tự động và cung cấp thông tin",
+    "choices": [
+      "KH thực hiện nói",
+      "KH thực hiện bấm phím",
+      "1&2"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo Quy trình tra soát 08/QĐ-HS ban hành ngày 02/01/2024 có quy định: Đối với các loại tra soát tiếp nhận qua MB247, MB247 cần thông báo cho KH về việc cuộc gọi có ghi âm, đồng thời hướng dẫn KH bổ sung Đơn đề nghị tra soát theo mẫu của MB sau khi thực hiện tra soát qua MB247 qua các hình thức: Trực tiếp tại quầy, các kênh online của MB, email hoặc hình thức khác theo quy định MB từng thời kỳ.\nVậy trường hợp KH có ra CN/PGD để thông báo  bổ sung Đơn đề nghị tra soát, CN/PGD cần phải làm gì?",
+    "choices": [
+      "- Cho KH ký đơn đề nghị tra soát và lưu trữ đơn yêu cầu theo quy định\n- Hẹn KH thời gian xử lý theo từng loại tra soát",
+      "CN/PGD hướng dẫn KH ra về và chờ kết quả",
+      "CN/PGD tạo yêu cầu tra soát cho KH trên CEP"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình đối soát xử lý thừa/ thiếu quỹ ATM/CRM của MB, các loại chứng từ chi nhánh cần hoàn thiện gửi về Trung tâm Dịch vụ Vận hành số & thẻ gồm:",
+    "choices": [
+      "Hồ sơ mở tài khoản của khách hàng có phát sinh giao dịch tra soát/khiếu nại",
+      "Phiếu báo nợ/báo có giao dịch",
+      "Biên bản kiểm quỹ và hồ sơ kèm theo (biên bản kiểm quỹ, biên bản gỡ kẹt) - đã được kiểm soát",
+      "Không cần cung cấp chứng từ kèm theo."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thời gian xử lý tra sát, khiếu nại giao dịch thẻ quốc tế MB Visa tại ATM?",
+    "choices": [
+      "Giao dịch tại ATM MB là 4 ngày làm việc, ATM NH khác là 45 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày lịch, ATM NH khác là 45 ngày lịch.",
+      "Giao dịch tại ATM MB là 4 ngày làm việc, ATM NH khác là 30 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày làm việc, ATM NH khác là 40 ngày làm việc."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy định bảo quản chìa khóa dự phòng chìa khóa cửa kho tiền?",
+    "choices": [
+      "Chìa /mã khóa của mỗi ổ khóa được cất, niêm phong\n trong phong bì riêng",
+      "3 thành viên giữ chìa khóa chứng \nkiến việc đưa các phong bì niêm phong chìa khóa dự phòng vào một hộp tôn và khóa,niêm phong",
+      "2 trong 3 thành viên giữ chìa khóa\n kho tiền áp tải gửi vào kho tiền NHNN/KBNN Chi nhánh, TCTD khác/CNMB khác cùng địa bàn Tỉnh/TP ngay trong ngày",
+      "Hộp bảo quản chìa khóa dự phòng cửa kho tiền có 2 ổ khóa ( GĐ, TQ giữ chìa )"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Quy định về bảo quản chìa khóa dự phòng xe chuyên dùng, tủ sắt, két sắt… của CN/PGD?",
+    "choices": [
+      "Được niêm phong gửi tại két của Giám đốc Chi nhánh",
+      "Được niêm phong gửi tại két của GĐ DV",
+      "Được niêm phong gửi tại két của PPDV/KSV",
+      "Được niêm phong gửi tại két \ncủa TQ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khách hàng muốn chuyển tài khoản đầu tư trực tiếp từ Việt Nam ra nước ngoài về MB phải thực hiện những gì?",
+    "choices": [
+      "Mở tài khoản vốn đầu tư trực tiếp tại MB theo quy định",
+      "Chuyển toàn bộ số dư trên tài khoản vốn đầu tư cũ sang tài khoản vốn đầu tư trực tiếp mới và Đóng tài khoản vốn đầu tư trực tiếp cũ.",
+      "Xuất trình chứng từ chứng minh việc đóng tài khoản vốn đầu tư trực tiếp đã mở tại TCTD được phép",
+      "Đăng ký thay đổi nơi mở tài khoản vốn đầu tư trực tiếp với NHNN chi nhánh tỉnh, thành phố để làm cơ sở chuyển vốn đầu tư ra nước ngoài"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Khi có phát sinh khách hàng đánh giá không hài lòng qua App, SLA xử lý và phản hồi kết quả xử lý là bao lâu?",
+    "choices": [
+      "một ngày làm việc",
+      "4 ngày làm việc",
+      "không có SLA",
+      "4 giờ làm việc"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khách hàng sử dụng dịch vụ thu hộ, chi hộ có bắt buộc phải ký Hợp đồng thu hộ/ hợp đồng chi hộ không?",
+    "choices": [
+      "Bắt buộc",
+      "Không bắt buộc"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Cuối ngày tại CN/PGD không có kho tiền hoặc sàn giao dịch của chi nhánh đặt Hub, bộ chìa khóa két được cất giữ như thế nào?",
+    "choices": [
+      "GĐ DV/TP/PP DV/KSV, KN/GDV chính  bỏ toàn bộ bộ chìa khóa két vào phong bì và gửi két của Giám đốc.",
+      "Bộ chìa khóa két được bảo quản tại két của GĐ DV (chỉ áp dụng khi GĐ DV không quản lý mã két).",
+      "Các thành viên tự bảo quản chìa khóa két trong ngăn bàn làm việc có khóa tại trụ sở cơ quan."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Người được ủy quyền có được ủy quyền lại cho người khác không?",
+    "choices": [
+      "Người được ủy quyền được phép ủy quyền lại cho người khác nếu người ủy quyền đồng ý",
+      "Người được ủy quyền được phép ủy quyền lại cho người khác không cần sự đồng ý của của người ủy quyền",
+      "Người được ủy quyền không được ủy quyền lại cho người khác"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "ĐVKD cấp lại HĐTG cho KHTC trong trường hợp HĐTG của KHTC bị mất, cháy, rách, nhàu nát… như thế nào",
+    "choices": [
+      "ĐVKD thực hiện ký và đóng dấu 01 bản HĐTG mới cho KH",
+      "ĐVKD thực hiện cung cấp cho KH bản sao HĐTG có dấu treo của MB và đóng dấu “Sao y bản chính” hoặc “Bản sao”",
+      "ĐVKD xác nhận cho KH trên bản đề nghị cấp lại HĐTG"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trách nhiệm của GĐDV/ Người được ủy quyền GĐDV/ Người được ủy quyền chịu trách nhiệm khi ký kết VK",
+    "choices": [
+      "Đảm bảo các nội dung cho Chi nhánh chỉnh sửa trong VK soạn thảo trong phạm vi các nội dung cần thay đổi (nếu có) chính xác và phù hợp với nội dung đã được phê duyệt của Khoản tín dụng",
+      "Ký duyệt các Văn kiện với tư cách người đại diện của MB theo đúng thẩm quyền và quy định của MB"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "KH có thể tiếp tục sử dụng SMS OTP/ hard token để duyệt giao dịch trên BIZ được không?",
+    "choices": [
+      "Có, tùy nhu cầu của KH",
+      "Không. KH bắt buộc phải chuyển đổi sang digital OTP/ USB CA từ ngày 01/01/2021 theo quy định NHNN. Hệ thống count down 10 giao dịch có thể duyệt bằng PTXT hiện tại (tính từ giữa tháng 1/2021). Sau 10 giao dịch mà KH chưa chuyển đổi sang digital OTP thì sẽ không duyệt được bằng PTXT hiện tại nữa."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với các GD lừa đảo trong hệ thống MB, CN có được phép phong tỏa TK của người thụ hưởng hay không?",
+    "choices": [
+      "Được phép phong tỏa",
+      "Không được phép phong tỏa",
+      "Được phép phong tỏa trong vòng 7 ngày theo quy trình 198/QĐ-HS",
+      "Được phép phong tỏa trong vòng 10 ngày theo quy trình 197/QĐ-HS"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "CN/PGD nhận diện rủi ro KH phát hành LC rửa tiền như thế nào?",
+    "choices": [
+      "'- KH p/h LC giá trị lớn với vai trò trung gian\n -  KH không có h/đ sxkd trực tiếp tại Việt Nam\n- Người mua và người bán cùng tập đoàn/mẹ con (tra thông tin website.",
+      "KH p/h LC giá trị lớn với vai trò trung gian:\n- Ngày của Bill of Lading trước ngày phát hành LCNK chuyển khẩu; \n- Giao dịch liên quan từ 4 Quốc gia trở lên (bao gồm cả Việt Nam).",
+      "KH p/h LC giá trị lớn với vai trò trung gian:\nKý quỹ tiền mặt 100%, không yêu cầu vận đơn gốc về MB kiểm soát\nKH không có quan hệ tín dụng hay bảo lãnh, chỉ có giao dịch về thanh toán quốc tế."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trong mọi trường hợp, đơn vị nào phải thực hiện KYC khách hàng, xác thực giao dịch đảm bảo giao dịch là có thực, không bị giả tạo",
+    "choices": [
+      "Phòng Thanh toán",
+      "ĐVKD",
+      "Khối quản trị rủi ro",
+      "Ban pháp chế"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp mua bán hàng hóa trực tuyến qua website có giá trị nhỏ hơn hoặc bằng 10.000 USD ( hoặc ngoại tệ quy đổi tương đương )  KHÔNG yêu cầu cung cấp Thỏa thuận nhập khẩu hàng hóa",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, trường hợp KH có nhu cầu phát hành BLNH với BCT NTNK (MB chưa nhận được BCT gốc), thì chi nhánh sẽ thực hiện như thế nào?",
+    "choices": [
+      "Không được phát hành BLNH cho trường hợp này",
+      "Miễn là KH ký quỹ 100% trị giá bảo lãnh thì MB sẽ phát hành BLNH",
+      "Chưa có quy định cụ thể",
+      "MB chỉ phát hành BLNH trong trường hợp nhận được điện xác thực của Ngân hàng nhờ thu về việc:\n+  BCT liên quan đang được chuyển về MB\n+ Vận đơn theo BCT NTNK lập theo lệnh của MB\n+ MB được NHNT ủy quyền để phát hành BLNH cho KH"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi có phát sinh khách hàng đánh giá không hài lòng qua App, Sàn giao dịch cần xử lý và phản hồi kết quả xử lý như thế nào ?",
+    "choices": [
+      "Gửi mail đến phòng Quản lý chất lượng để báo cáo kết quả xử lý",
+      "Gọi điện thoại/gửi mail cho Cán bộ quản lý khu vực",
+      "Nhập kết quả xử lý trên Smart Channel và chuyển trạng thái \"Đã xử lý\"",
+      "Không cần làm gì"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thời điểm ký VKBĐ công chứng được quy định như thế nào?",
+    "choices": [
+      "GĐDV/Người được ủy quyền ký VK trước hoặc cùng lúc với KH và/ hoặc Chủ tài sản",
+      "GĐDV/Người được ủy quyền ký VK sau hoặc cùng lúc với KH và/ hoặc Chủ tài sản",
+      "GĐDV/Người được ủy quyền ký VK cùng lúc với KH và/ hoặc Chủ tài sản"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trách nhiệm của GĐDV/ Người được ủy quyền GĐDV/ Người được ủy quyền chịu trách nhiệm khi ký kết VK",
+    "choices": [
+      "Đảm bảo các nội dung cho Chi nhánh chỉnh sửa trong VK soạn thảo trong phạm vi các nội dung cần thay đổi (nếu có) chính xác và phù hợp với nội dung đã được phê duyệt của Khoản tín dụng",
+      "Ký duyệt các Văn kiện với tư cách người đại diện của MB theo đúng thẩm quyền và quy định của MB",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Khách hàng đã tất toán toàn bộ  nghĩa vụ tại MB, phạm vi xuất TSĐB thực hiện tại đâu",
+    "choices": [
+      "Phạm vi tại chi nhánh",
+      "Phạm vi tại HTTD",
+      "Tất cả các đáp án trên đều sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thời hạn bổ sung chứng từ nợ theo quy định của quy trình",
+    "choices": [
+      "Không quá 90 ngày kể từ ngày giao hàng/ hoàn thành dịch vụ hoặc ngày thỏa thuận khác giữa KH và đối tác",
+      "Không quá 60 ngày kể từ ngày giao hàng/ hoàn thành dịch vụ hoặc ngày thỏa thuận khác giữa KH và đối tác"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng nhập khẩu hiện hành, những cách quy định nào sau đây đối với vận đơn (B/L)  thỏa mãn nguyên tắc \"MB kiểm soát quyền sở hữu hàng hóa\"",
+    "choices": [
+      "B/L made out to order of Military Commercial Joint Stock Bank",
+      "B/L made out to order and endorsed to order of Military Commercial Joint Stock Bank",
+      "B/L consigned to Military Commercial Joint Stock Bank",
+      "BL consigned to the applicant"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Đối với Chatbot trên APP MBBank, nếu KH để lại yêu cầu tư vấn quá 03 lần Chatbot không hiểu hoặc KH để lại yêu cầu gặp tư vấn viên. Hệ thống chuyển yêu cầu đến đâu?",
+    "choices": [
+      "Gửi đến CNTT",
+      "Gửi đến CV Khối NHS",
+      "Gửi đến RM phụ trách",
+      "Gửi đến NV OS/CV MB247 kênh Chatbot"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo Quy trình tra soát 08/QĐ-HS, hồ sơ tra soát được quy định lưu trữ như thế nào?",
+    "choices": [
+      "Hồ sơ tra soát bản cứng và file ghi âm lưu trong vòng 5 năm",
+      "Hồ sơ tra soát bản cứng và file ghi âm lưu vĩnh viễn",
+      "Hồ sơ tra soát bản cứng: tối đa 5 năm\nFile ghi âm lưu tvĩnh viễn",
+      "Lưu trữ phụ thuộc vào hạ tầng kỹ thuật của MB"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khách hàng rút tiền không dùng thẻ (Cash by code) tại máy ATM/CRM của MB, nếu giao dịch không thành công thì có thể thực hiện tra soát qua kênh nào?",
+    "choices": [
+      "Chi nhánh/PGD",
+      "MB247",
+      "APP MB",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Quy định hiện hành về thời gian xử lý tra soát đối với giao dịch thẻ quốc tế Visa MB tại máy ATM là bao lâu?",
+    "choices": [
+      "Giao dịch tại ATM MB là 4 ngày làm việc; tại ATM NH khác là 45 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày lịch; tại ATM NH khác là 45 ngày lịch.",
+      "Giao dịch tại ATM MB là 4 ngày làm việc; tại ATM NH khác là 30 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày làm việc; tại ATM NH khác là 40 ngày làm việc."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Việc bàn giao mã khóa cửa kho tiền được thực hiện theo nguyên tắc nào?",
+    "choices": [
+      "Cả ba thành viên giữ chìa khóa cửa kho tiền phải có mặt để mở cửa kho tiền",
+      "Người giao xóa mã số, giao chìa khóa định vị; người nhận phải đổi mã số ngay sau khi nhận bàn giao. Sau đó từng thành viên khóa cửa kho theo quy định.",
+      "Người giao nhắn tin/gửi email mã số, giao chìa khóa định vị; người nhận phải đổi mã số ngay sau khi nhận bàn giao.",
+      "Người nhận được phép giữ nguyên và sử dụng mã số cho đến khi bàn giao lại cho Người giao."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "CN chỉ được lập Giấy đề nghị cung ứng séc trắng khi số tờ séc trắng chưa sử dụng tại CN/Hub còn tối đa bao nhiêu tờ và số lượng séc trắng mua tối đa một lần tại một NHNN/TCTD cung ứng là bao nhiêu quyển.",
+    "choices": [
+      "5 tờ và 5 quyển",
+      "2 tờ và 2 quyển",
+      "3 tờ và 3 quyển",
+      "5 tờ và 2 quyển"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tài khoản sử dụng trong Thanh toán giá trị chuyển nhượng dự án đầu tư trong hợp đồng BCC, dự án PPP giữa Người mua là người không cư trú và Người bán là người không cư trú là tài khoản nào?",
+    "choices": [
+      "Tài khoản đầu tư trực tiếp VND",
+      "Tài khoản đầu tư trực tiếp ngoại tệ",
+      "Tài khoản đầu tư trực tiếp Ngoại tệ, VND",
+      "Tài khoản thanh toán VND, USD"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Các phương án TSBĐ line KHCN nhập kho trên T24 thuộc nhóm sản phẩm nào được tính toán trong TAT tài sản bảo đảm",
+    "choices": [
+      "TSBĐ thuộc nhóm sản phẩm : (1) nhà đất, chung cư, (2) ô tô, (3) tiêu dùng cso TSBĐ, (4)  tín chấp",
+      "TSBĐ thuộc nhóm sản phẩm : (1) nhà đất, chung cư, (2) sản xuất kinh doanh, (3) ô tô, (4) tiêu dùng cso TSBĐ, (5)  tín chấp",
+      "TSBĐ thuộc nhóm sản phẩm : (1) sản xuất kinh doanh, (2) ô tô, (3) tiêu dùng cso TSBĐ, (4)  tín chấp",
+      "TSBĐ thuộc nhóm sản phẩm : (1) nhà đất, chung cư, (2) sản xuất kinh doanh, (3) ô tô, (4) tiêu dùng cso TSBĐ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đơn vị nào chịu trách nhiệm hạch toán thu phí đối với Giao dịch thu hộ, chi hộ?",
+    "choices": [
+      "GDV của Hub/CN/PGD thu hộ, chi hộ hạch toán thu phí",
+      "Giao dịch thu hộ, chi hộ do CN/PGD không phải Hub quỹ thực hiện: GDV của CN/PGD thu hộ hạch toán thu phí.",
+      "Giao dịch thu hộ, chi hộ do Hub quỹ thực hiện: GDV của CN/PGD quản lý khách hàng hạch toán thu phí.",
+      "GDV của CN/PGD quản lý khách hàng hạch toán thu phí."
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại Chi nhánh/PGD: Thẩm quyền ký giấy đề nghị hoàn/tiếp quỹ với Hub/CN là chức danh nào sau đây:",
+    "choices": [
+      "Giám đốc CN/PGD",
+      "Giám đốc dịch vụ",
+      "Phó giám đốc KD",
+      "Trưởng/ Phó phòng KHCN/KHDN"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Người nhận ủy quyền theo quy định tiền gửi KHCN đáp ứng điều kiện gì?",
+    "choices": [
+      "Thuộc đối tượng được phép gửi tiền gửi tiết kiệm hoặc tiền gửi có kỳ hạn theo quy định tiền gửi KHCN",
+      "Công dân Việt Nam từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật.",
+      "Công dân Việt Nam từ đủ 15 tuổi trở lên có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC, quy định chi trả tiền gửi có kỳ hạn như nào",
+    "choices": [
+      "KH được phép tất toán HĐTG tại CN/PGD khác nơi KH mở HĐTG",
+      "KH chỉ được phép tất toán HĐTG tại CN/PGD nơi KH mở HĐTG",
+      "Tiền gửi không đang trong tình trạng phong tỏa, cầm cố hoặc thế chấp"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Phòng ban thực hiện đối soát các sản phẩm ví điện tử, cổng thanh toán, thu chi hộ, thẻ tín dụng, gd chuyển tiền napas, song phương của NH",
+    "choices": [
+      "Phòng nghiệp vụ VH Số và thẻ- Trung Tâm dịch vụ VH số & thẻ",
+      "Phòng vận hành và hỗ trợ KH- Trung Tâm dịch vụ VH số & thẻ",
+      "Phòng Đối soát và Thanh quyết toán- Trung Tâm dịch vụ VH số & thẻ"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Doanh nghiệp SME siêu nhỏ muốn user duyệt và user khởi tạo cùng 1 người có đăng ký được không?",
+    "choices": [
+      "Không, bắt buộc phải 2 user của 2 người khác nhau",
+      "SME siêu nhỏ (theo tiêu chuẩn của Nghị định số 39/2018/NĐ-CP ngày 11/3/2018) nếu áp dụng theo chế độ kế toán đơn giản tại thông tư 132/2018/TT-BTC được phép đăng ký 1 người phụ trách 2 user: user nhập và user duyệt.\nKhi có thay đổi về chế độ kế toán thì cần thay đổi thông tin về user khởi tạo là người khác chủ tài khoản."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một số dấu hiệu nhận diện ĐVCNT rủi ro",
+    "choices": [
+      "ĐVCNT  đăng ký kinh doanh các mặt hàng nhỏ, lẻ giá trị thấp nhưng thường xuyên phát sinh các GD có giá trị cao",
+      "ĐVCNT không đặt máy POS tại địa chỉ như đăng ký hoặc không kinh doanh đúng mặt hàng như đăng ký",
+      "ĐVCNT có giao dịch không thành công chiếm tỷ trọng lớn trong tổng số giao dịch",
+      "Cả 3 trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Hợp đồng ngoại thương trong bộ hồ sơ chuyển tiền được các NH chấp nhận khi Hợp đồng đó là:",
+    "choices": [
+      "Bản gốc",
+      "Bản Copy",
+      "Bản sao y bản chính",
+      "Bản Photo"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng nhập khẩu hiện hành, khi KH đề nghị hỗ trợ lấy BCT để đi lấy hàng, tránh phí lưu kho, lưu bãi, ĐVKD thực hiện như sau:",
+    "choices": [
+      "Ký hậu vận đơn gốc và bàn giao BCT gốc để KH kịp đi lấy hàng và hoàn thiện kiểm soát hồ sơ tín dụng sau",
+      "Thực hiện kiểm soát hồ sơ tín dụng đảm bảo tuân thủ (theo luồng CN hoặc luồng TT HTTD, tùy theo quy định) trước khi Ký hậu vận đơn gốc và bàn giao BCT gốc cho KH đi lấy hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Giao dịch dịch vụ có giá trị nhỏ hơn 5000 USD ( hoặc ngoại tệ quy đổi tương đương ) : chỉ yêu cầu Hợp đồng và hóa đơn",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, đầu mối nào sau đây sẽ thực hiện hạch toán ký quỹ/giải tỏa ký quỹ liên quan đến LCNK?",
+    "choices": [
+      "Chi nhánh/Hub",
+      "Trung tâm HTTD",
+      "Phòng DV TTTM",
+      "Cả 3 phương án trên"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "6 bước chuyển dịch số được sắp xếp theo thứ tự nào sau đây ?",
+    "choices": [
+      "Giới thiệu, tiềm năng, thuyết phục, phản kháng, thúc đẩy, thành công",
+      "Tiềm năng, giới thiệu, phản kháng, thuyết phục, thúc đẩy, thành công",
+      "Tiềm năng, thuyết phục, phản kháng, giới thiệu, thúc đẩy, thành công"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trưởng Hub VHTD có thẩm quyền ký VKTD đối với các CN thuộc Hub hay không?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Các chức danh có nhiệm vụ in văn kiện từ hệ thống và ký nháy trước khi ký cấp thẩm quyền theo quy định?",
+    "choices": [
+      "CVHT CN/CVHT Hub",
+      "RM/ARM",
+      "- CVHT CN/CVHT Hub\n- CVHTCN/ CV Hub, RM/ARM đối với các CN/PGD theo mô hình không có CVHT CN/CVHT Hub",
+      "- CVHT CN/CVHT Hub\n- CVHTCN/ CV Hub, RM/ARM đối với các CN/PGD theo mô hình không có CVHT CN/CVHT Hub\n- Trường hợp CVHT CN/CV HUB quá tải/nghỉ phép/nghỉ chế độ, Ban lãnh đạo Chi nhánh/Trưởng HUB phân công RM/ARM thực hiện công việc in Văn kiện, ký nháy, trình ký Cấp có thẩm quyền và chứng kiến, hướng dẫn KH/Bên bảo đảm ký Văn Kiện"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối với các Văn kiện với khách hàng và MB đã ký CA có cần in ra để lưu trữ Vật lý hay không?",
+    "choices": [
+      "Văn kiện ký CA lưu trên hệ thống không thực hiện lưu trữ vật lý",
+      "Vẫn phải thực hiện in, kiểm tra và lưu trữ vật lý",
+      "Có thể lưu hoặc không tùy theo chỉ đạo của BLD chi nhánh"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tính đầy đủ của hồ sơ được thể hiện ở tiêu chí",
+    "choices": [
+      "Đầy đủ về số lượng",
+      "Tuân thủ về thể thức",
+      "Đầy đủ về mẫu dấu chữ ký"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Chi nhánh kiểm soát về việc chỉ ký 1 lần DUY NHẤT bản gốc các Thông báo LCXK/Bảo lãnh/sửa đổi Bảo lãnh chiều về gửi KH thông qua công cụ nào sau đây?",
+    "choices": [
+      "Queue theo dõi Ký Thông báo LC/Sửa đổi LCXK & Thông báo Bảo lãnh/Sửa đổi Bảo lãnh chiều về trên hệ thống BPM LCXK",
+      "Luồng Thông báo LC Xuất khẩu trên hệ thống BPM LCXK",
+      "Luồng Xử lý Bộ chứng từ Xuất khẩu trên hệ thống BPM LCXK"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thời gian lưu trữ file ghi âm các cuộc gọi đi, đến qua tổng đài MB247 trong bao nhiêu lâu",
+    "choices": [
+      "Tối thiểu 01 tháng và được quy định phù hợp với từng kênh tiếp nhận và hạ tầng MB",
+      "Tối thiểu 03 tháng và được quy định phù hợp với từng kênh tiếp nhận và hạ tầng MB",
+      "Tối thiểu 06 tháng và được quy định phù hợp với từng kênh tiếp nhận và hạ tầng MB",
+      "Tối thiểu 09 tháng và được quy định phù hợp với từng kênh tiếp nhận và hạ tầng MB"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đối với Quy trình tra soát giao dịch rút tiền/nộp tiền cho KH MB tại ATM/CDM của MB. Trường hợp giao dịch nộp tiền của KH chưa hoàn tất và rời đi, KH sau đến nhận được tiền và hoàn trả lại cho CN/PGD thì CN/PGD xử lý như thế nào?",
+    "choices": [
+      "CN/PGD gửi thông tin tới TT VHST để kiểm tra giao dich. Sau khi xác minh được GD, TT VHST cung cấp thêm camera để CN/PGD định danh KH qua hình ảnh. Khi đã xác định được đúng KH CN/PGD cung cấp số TK Trung gian 4540 của đơn vị mình để TT VHST lập đề nghị hạch toán về TK Trung gian, sau đó CN/PGD hoàn trả KH",
+      "CN/PGD hướng dẫn KH liên hệ MB247 để thực hiện tra soát giao dịch",
+      "CN/PGD gửi email tới MB247 qua email 247cs@mbbank.com.vn để xử lý",
+      "Hướng dẫn KH mang tiền tới Cơ quan công an để kiểm tra, xử lý"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thẻ ngân hàng khác có thể thực hiện giao dịch rút tiền tại máy ATM/ CRM của MB được không ?",
+    "choices": [
+      "Có",
+      "Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đối với máy ATM thu hồi do không hiệu quả, chi nhánh được phép lưu giữ tối đa bao lâu trước khi lắp đặt tái sử dụng tại địa điểm mới của chi nhánh?",
+    "choices": [
+      "1 tháng",
+      "2 tháng",
+      "3 tháng",
+      "6 tháng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy định sử dụng và bảo quản chìa khóa cửa kho tiền đang dùng?",
+    "choices": [
+      "Mỗi thành viên tự bảo quản trong két sắt riêng đặt tại nơi làm việc trong trụ sở cơ quan",
+      "Gửi tại két của GĐ DV",
+      "Gửi tại két của TQ",
+      "Gửi tại két của PPDV/KSV"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "NH chỉ đổi tiền cho khách hàng khi tờ tiền bị cháy, thủng, rách mất một phần thì diện tích còn lại phải đạt tối thiểu bao nhiêu % so với tờ tiền cùng loại?",
+    "choices": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tài khoản sử dụng trong Thanh toán giá trị chuyển nhượng cổ phần, phần vốn góp giữa Người mua là người cư trú và Người bán là người không cư trú tại doanh nghiệp có vốn đầu tư trực tiếp nước ngoài là tài khoản nào?",
+    "choices": [
+      "Tài khoản đầu tư trực tiếp VND",
+      "Tài khoản đầu tư trực tiếp ngoại tệ",
+      "Tài khoản thanh toán ngoại tệ",
+      "Tài khoản thanh toán VND"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đối với TKTT chung, trường hợp KH thay đổi thêm/bớt chủ TKTT chung, KH làm Đề nghị thay đổi thông tin TK hay phải đóng TKTT chung hiện tại và mở TKTT chung mới?",
+    "choices": [
+      "KH phải đóng TKTT chung hiện tại và mở TKTT chung mới",
+      "KH làm Đề nghị thay đổi thông tin TK.",
+      "Tất cả đều đúng",
+      "Tất cả đều sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quy trình nộp tiền vào tài khoản nostro tại NHNN/TCTD: Ai là người lập Lệnh xuất quỹ kiêm giấy ủy quyền vận chuyển?",
+    "choices": [
+      "Trưởng quỹ",
+      "PPDVKH/KSV",
+      "Kiểm ngân",
+      "GDV"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Quy định về cách thức kiểm đếm tiền chi ra khỏi quầy giao dịch nào sau đây là đúng?",
+    "choices": [
+      "Yêu cầu và chứng kiến Khách hàng đếm lại tiền trước khi ra khỏi quầy chi",
+      "Có thể giúp Khách hàng bằng việc kiểm đếm lại tiền trên máy và đề nghị Khách hàng chứng kiến việc kiểm đếm lại tiền",
+      "Có thể chi bó tiền nguyên niêm phong cho Khách hàng"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Phạm vi ủy quyền theo quy định tiền gửi KHCN không bao gồm giao dịch gì?",
+    "choices": [
+      "Không giới hạn phạm vi. Người được ủy quyền có thể thực hiện toàn bộ các giao dịch như người ủy quyền.",
+      "Không bao gồm ủy quyền mở, chuyển giao quyền sở hữu, cầm cố, thế chấp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy định tiền gửi KHTC quy định về chuyển giao quyền sở hữu tiền gửi theo HĐTG như nào",
+    "choices": [
+      "KH không được chuyển nhượng tiền gửi theo HĐTG bằng ngoại tệ",
+      "KH  không chuyển nhượng tiền gửi theo HĐTG cho các tổ chức, cá nhân nước ngoài.",
+      "KH được phép chuyển giao quyền sở hữu tiền gửi theo HĐTG cho các tổ chức đáp ứng các điều kiện mở HĐTG theo quy định tiền gửi KHTC và các cá nhân đáp ứng yêu cầu mở HĐTG theo quy định tiền gửi KHCN"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "KH đã có thẻ hạn mức 0 đồng ở chi nhánh A, KH có thể mở thẻ hạn mức 0 đồng ở chi nhánh B được không? Môi trường của thẻ cũ và thẻ mới ở CN nào?",
+    "choices": [
+      "Không thể phát hành thẻ tại CN B",
+      "Có thể phát hành thẻ tại CN B, môi trường của thẻ cũ và thẻ mới ở CN A",
+      "Có thể phát hành thẻ tại CN B, môi trường của thẻ cũ và thẻ mới ở CN B"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một người làm chủ tài khoản của nhiều công ty, thì có thể cài nhiều D-OTP trên cùng 1 thiết bị để sử dụng BIZ được không? Tối đa bao nhiêu D-OTP?",
+    "choices": [
+      "Không",
+      "Có. Tối đa 1.000 user gắn DOTP khác nhau."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Rủi ro cho ĐVCNT gặp phải khi liên quan đến các GD thanh toán thẻ giả mạo, gian lận",
+    "choices": [
+      "ĐVCNT sẽ nhận cảnh báo từ ngân hàng và các tổ chức thẻ do có phát sinh các giao dịch gian lận. Ngân hàng có thể sẽ chấm dứt hợp đồng đối với ĐVCNT nếu các giao dịch tại ĐVCNT bị đánh giá là rủi ro",
+      "ĐVCNT sẽ chịu rủi ro bồi hoàn lại số tiền giao dịch cho chủ thẻ trong trường hợp không xuất trình được bộ chứng từ hợp lệ theo quy định của tổ chức thẻ",
+      "Cả 1, 2 đều đúng",
+      "ĐVCNT không chịu RR, chủ thẻ phải chịu hoàn toàn RR phát sinh"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Luồng phê duyệt gia hạn và miễn bổ sung chứng từ đối với giao dịch TTR trả trước do đơn vị nào thực hiện ?",
+    "choices": [
+      "ĐVKD",
+      "Phòng Thanh toán",
+      "Khối SME",
+      "Khối CIB"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quy trình thư tín dụng nhập khẩu hiện hành, những cách quy định nào sau đây đối với vận đơn (B/L)  thỏa mãn nguyên tắc \"MB kiểm soát quyền sở hữu hàng hóa\"",
+    "choices": [
+      "B/L made out to order of Military Commercial Joint Stock Bank",
+      "B/L made out to order and endorsed to order of Military Commercial Joint Stock Bank",
+      "B/L consigned to Military Commercial Joint Stock Bank",
+      "BL consigned to the applicant"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Thời hạn tạm treo Giao dich CTQT chiều đến tai MB là bao nhiêu ngày?",
+    "choices": [
+      "5 ngày",
+      "10 ngày",
+      "15 ngày",
+      "1 tháng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, đối với chỉ thị chưa xác thực về việc giảm trị giá đòi tiền bộ chứng từ nhờ thu nhập khẩu, MB sẽ xử lý như thế nào?",
+    "choices": [
+      "Xử lý theo chỉ thị nhận được vì không có rủi ro",
+      "Từ chối xử lý chỉ thị nhận được",
+      "Chấp thuận xử lý chỉ thị với điều kiện:\n+ Người trả tiền nộp đủ phần trị giá sau khi giảm, và\n+ Người trả tiền đề nghị MB thanh toán trị giá sau khi giảm, cam kết thanh toán phần chênh lệch giữa trị giá nhờ thu ban đầu và trị giá sau khi giảm nếu ngân hàng nhờ thu tiếp tục đòi phần chênh lệch này",
+      "Chấp thuận xử lý chỉ thị với điều kiện:\n+ Người trả tiền nộp đủ 100% trị giá nhờ thu ban đầu, và\n+ Người trả tiền đề nghị MB thanh toán trị giá sau khi giảm, phong tỏa phần chênh lệch cho đến khi MB nhận được chỉ thị xác thực"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Mục tiêu cuối cùng của chuyển dịch số tại MB là gì ?",
+    "choices": [
+      "Tối đa hóa lợi nhuận",
+      "Giúp giảm giao dịch tiềm năng",
+      "Tạo cho Khách hàng trải nghiệm tốt nhất",
+      "Để phát triển thương hiệu MB trên thị trường"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Yêu cầu cung cấp đồng thời Giấy xác nhận tình trạng hôn nhân tại thời điểm hình thành TSBĐ và Giấy xác nhận tình trạng hôn nhân trong vòng 06 tháng kể từ thời điểm cấp đến thời điểm giải ngân.",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chuyên viên hỗ trợ thực hiện in văn kiện từ hệ thống và có cần ký nháy trên văn kiện không?",
+    "choices": [
+      "Không",
+      "Có, ký nháy văn kiện tối thiểu tại vị trí đại diện của MB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khoản vay A đảm bảo bằng TSĐB A, khoản vay B đảm bảo bằng TSĐB B, KH tất toán khoản vay A và yêu cầu xuất kho TSĐB A phạm vi thực hiện ở Vận hành là Trung tâm HTTD hay hỗ trợ chi nhánh",
+    "choices": [
+      "Phạm vi tại chi nhánh",
+      "Phạm vi tại HTTD",
+      "Thực hiện tại HTTD hay tại chi nhánh đều được",
+      "Tất cả các đáp án trên đều đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong mọi trường hợp, đơn vị nào phải thực hiện KYC khách hàng, xác thực giao dịch đảm bảo giao dịch là có thực, không bị giả tạo",
+    "choices": [
+      "Phòng Thanh toán",
+      "ĐVKD",
+      "Khối quản trị rủi ro",
+      "Ban pháp chế"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình TTTM chiều đến hiện hành, trường hợp người hưởng lợi đề nghị MB cấp lại bản gốc thông báo và điện LCXK/Sửa đổi LCXK, chi nhánh xử lý đề nghị này như thế nào?",
+    "choices": [
+      "Cấp lại duy nhất 1 bản gốc khác cho người hưởng lợi",
+      "Cấp lại số bản gốc theo đề nghị của người hưởng lợi",
+      "Chỉ thực hiện cấp lại bản COPY, không cấp lại bản gốc.",
+      "Từ chối cấp lại"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Bộ phận xử lý phàn nàn tập trung MB247 tiếp nhận phàn nàn của KH được chuyển tiếp từ bộ phận nào",
+    "choices": [
+      "Phàn nàn được chuyển đến từ CN/PGD",
+      "Phàn nàn được chuyển tiếp từ NV OS/ CV MB247",
+      "Cả 2 đáp án 1&2"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo Quy trình tra soát giao dịch yêu cầu hoàn trả và điều chỉnh nội dung chuyển tiền trong hệ thống nội bộ MB, đối với trường hợp giao dịch chuyển nhầm tiền cho người nhận là KH tổ chức, việc hoàn trả giao dịch cho người chuyển nhầm nếu KH nhận đồng ý hoàn trả được thực hiện như thế nào?",
+    "choices": [
+      "KH có thể xác nhận đồng ý qua cuộc gọi ghi âm qua MB247",
+      "KH xác nhận đồng ý hoàn trả qua email",
+      "KH là đơn vị hưởng thực hiện lập UNC hoặc chứng từ đồng ý hoàn trả có đầy đủ mẫu dấu  (nếu có) và chữ ký của chủ TK doanh nghiệp"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy định hiện hành về thời gian xử lý tra soát đối với giao dịch thẻ quốc tế của MB tại máy ATM là bao lâu?",
+    "choices": [
+      "Giao dịch tại ATM MB là 4 ngày làm việc; tại ATM NH khác là 45 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày lịch; tại ATM NH khác là 45 ngày lịch.",
+      "Giao dịch tại ATM MB là 3 ngày làm việc; tại ATM NH khác là 45 ngày làm việc.",
+      "Giao dịch tại ATM MB là 4 ngày làm việc; tại ATM NH khác là 40 ngày làm việc."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Việc giám sát trạng thái hoạt động của ATM/CRM của MB được thực hiện trên hệ thống nào?",
+    "choices": [
+      "Cardportal",
+      "T24",
+      "BPM",
+      "TMS"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trên tờ niêm phong bì kho TSĐB phải có đầy đủ họ tên và chữ ký của các thành phần niêm phong  nào sau đây?",
+    "choices": [
+      "TQ/KN/GDV chính quản lý kho tiền",
+      "Người đứng đầu đơn vị/người được ủy quyền (theo quy định của MB từng thời kỳ)...",
+      "Cả 2 đáp án"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Các chức danh hiện tại được triển khai tính năng định danh trên App MyMB?",
+    "choices": [
+      "Thu thập hình ảnh định danh: UB; Phê duyệt kết quả định danh: KSV,TP/PP DVKH, GĐDV",
+      "Thu thập hình ảnh định danh: UB, GDV; Phê duyệt kết quả định danh: KSV,TP/PP DVKH GĐDV",
+      "Thu thập hình ảnh định danh: UB, GDV; Phê duyệt kết quả định danh: KSV,TP/PP DVKH, GĐUB, GĐDV"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cấu phần chất lượng dịch vụ trong bộ KPI của Sàn giao dịch bao gồm các nhóm tiêu chí nào ?",
+    "choices": [
+      "Đảm bảo chất lượng, Hài lòng khách hàng, Đảm bảo chất lượng",
+      "Chương trình khác hàng bí mật",
+      "Tỷ lệ sẵn sàng hoạt động ATM,CRM. Tỷ lệ hạn mức tồn quỹ",
+      "FTR TTQT & TTTM, SLA HTTD"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Loại tiền mở tài khoản vốn đầu tư gián tiếp nước ngoài vào VN?",
+    "choices": [
+      "USD",
+      "Ngoại tệ",
+      "VND",
+      "2&3"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong sổ tay quản lý trải nghiệm (số 367/TB-HS ngày 24/03/2022): Hệ thống đo lường trài nghiệm tại sàn bao gồm các cấu phần nào? Tương ứng tỷ trọng bao nhiêu?",
+    "choices": [
+      "Đảo bảo chất lượng (30%); Cam kết chất lượng dịch vụ (30%); Chỉ số hài lòng khách hàng (40%)",
+      "Đảo bảo chất lượng (40%); Cam kết chất lượng dịch vụ (20%); Chỉ số hài lòng khách hàng (40%)",
+      "Đảo bảo chất lượng (20%); Cam kết chất lượng dịch vụ (40%); Chỉ số hài lòng khách hàng (40%)",
+      "Đảo bảo chất lượng (40%); Cam kết chất lượng dịch vụ (30%); Chỉ số hài lòng khách hàng (30%)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  }
+]
