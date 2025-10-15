@@ -21,11 +21,11 @@ let questionHistory = []; // Store previous questions and their states
 
 // Topic configuration with display names
 const topicConfig = {
-    "saa_questions.json": { name: "SAA C03", maxQuestions: 710 },
     "Bộ đề chung 2025 - ôn tập.json": { name: "Bộ đề chung 2025 - ôn tập", maxQuestions: 50 },
     "ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 260 },
-    "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 264 },
-    "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 }
+    "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 3 - TTPT", maxQuestions: 264 },
+    "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 },
+    "1688.json": { name: "1688", maxQuestions: 50 }
 };
 
 const QUESTION_COUNT = parseInt(localStorage.getItem("questionCount")) || 71; // You can change this value to customize number of questions
@@ -116,12 +116,12 @@ getNewQuestion = () => {
 
     // Show multiple answers indicator if question has more than one correct answer
     const correctAnswersCount = currentQuestion.correct_answers.length;
-    if (correctAnswersCount > 1) {
+    // if (correctAnswersCount > 1) {
         multipleAnswersIndicator.innerHTML = `Chọn ${correctAnswersCount} đáp án đúng`;
-        multipleAnswersIndicator.classList.remove("hidden");
-    } else {
-        multipleAnswersIndicator.classList.add("hidden");
-    }
+    //     multipleAnswersIndicator.classList.remove("hidden");
+    // } else {
+    //     multipleAnswersIndicator.classList.add("hidden");
+    // }
 
     choices.forEach((choice, index) => {
         if (currentQuestion.choices[index]) {
