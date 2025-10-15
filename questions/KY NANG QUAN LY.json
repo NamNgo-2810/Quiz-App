@@ -1,0 +1,719 @@
+[
+  {
+    "question": "Theo tài liệu chuyển giao coaching tại MB, Buổi huấn luyện được triển khai căn cứ vào mô hình nào sau đây",
+    "choices": [
+      "GROW",
+      "SCORE",
+      "UFUL"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để buổi coaching hiệu quả, cần chuẩn bị các nội dung theo nguyên tắc nào sau đây?",
+    "choices": [
+      "CARE",
+      "KASH",
+      "SMART",
+      "GROW"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Với tư duy huấn luyện ai sẽ là người xác định vấn đề, đưa ra giải pháp và kế hoạch hành động để giải quyết",
+    "choices": [
+      "CBQL",
+      "Nhân viên",
+      "Cả hai",
+      "Không có đáp án đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trách nhiệm về nội dung của buổi huấn luyện gồm",
+    "choices": [
+      "Quyết định về chủ đề, mục tiêu",
+      "Thông tin, ý tưởng giải pháp, bước hành động",
+      "Quyết định và cam kết thực hiện",
+      "Tất cả các đáp án đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nội dung nguyên tắc CARE trước buổi coaching là gì?",
+    "choices": [
+      "Customer mindset: Lấy coachee làm trung tâm, thấu hiểu, khách quan và vì lợi ích coachee",
+      "Accomadate - Sắp xếp buổi coach",
+      "Ready- Sẵn sàng",
+      "Energy - Năng lượng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Mô hình GROW trong huấn luyện là gì?",
+    "choices": [
+      "Goal - Thiết lập mục tiêu",
+      "Reality - Thực trạng",
+      "Options - Giải pháp",
+      "Will - Kế hoạch và cam kết"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "GROW trong coaching là viết tắt của những nội dung nào",
+    "choices": [
+      "Goal, Reality, Options, Will",
+      "Goal, Reactive, Options, Will",
+      "Goal, Representative, Objective, Will",
+      "Goal, Reality, Objective, World"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Buổi huấn luyện theo mô hình GROW gồm các bước nào sau đây",
+    "choices": [
+      "G: Goal R: Reality O: Objective W: Will",
+      "G: Goal R: Receive O: Objective W: Will",
+      "G: Goal R: Result O: Option W: Will",
+      "G: Goal R: Reality O: Option W: Will"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong quy trình huấn luyện, bước đầu tiên là bước nào",
+    "choices": [
+      "Thiết lập vấn đề",
+      "Thiết lập giải pháp",
+      "Thiết lập kế hoạch",
+      "Thiết lập mục tiêu"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Người huấn luyện hiểu biết về tầm nhìn chiến lược của MB nhằm",
+    "choices": [
+      "Định hướng cho sự phát triển của nhân viên phù hợp",
+      "Thể hiện cái tôi cá nhân",
+      "Thực hiện được phong cách chỉ huy đúng định hướng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tình huống: Khi người được huấn luyện đang mô tả lại vấn đề vướng mắc gặp phải, người huấn luyện nên thực hiện các việc sau:",
+    "choices": [
+      "Cắt ngang ngay khi cảm thấy người được huấn luyện đang mô tả sai vấn đề",
+      "Nói xen vào trong khi người được huấn luyện đang diễn tả để nêu quan điểm của cá nhân",
+      "Lắng nghe tập trung, thỉnh thoảng đưa ra nụ cười thận thiện hoặc biểu cảm bằng mắt để thể hiện sự lắng nghe",
+      "Tranh thủ đọc văn bản/ tờ trình trong lúc người được huấn luyện trình bày"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục đích của huấn luyện là gì?",
+    "choices": [
+      "Gợi mở, nhận ra các vấn đề liên quan đến năng lực",
+      "Đưa ra kế hoạch phát triển để giải quyết vấn đề",
+      "Nâng cao năng lực bản thân.",
+      "Đáp án 1 và 3"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Việc gắn kết đội ngũ tạo ra lợi ích gì cho tổ chức?",
+    "choices": [
+      "Hiệu suất cao hơn",
+      "Hiệu suất cao hơn. Giảm tỷ lệ nghỉ việc của nhân sự.",
+      "Hiệu suất cao hơn. Giảm tỷ lệ nghỉ việc của nhân sự. Giảm các rủi ro trong công việc."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Việc gắn kết đội ngũ tạo ra lợi ích gì cho cá nhân?",
+    "choices": [
+      "Kết quả làm việc tốt hơn.",
+      "Kết quả làm việc tốt hơn. Tinh thần hào hứng, hạnh phúc. Học hỏi và thúc đẩy việc phát triển bản thân.",
+      "Kết quả làm việc tốt hơn. Tinh thần hào hứng, hạnh phúc."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đội ngũ -Team là gì?",
+    "choices": [
+      "Là một đội ngũ có 2 người trở lên.",
+      "Là một đội ngũ có 2 người trở lên, được lập nên dể hoàn thành một mục tiêu, tồn tại với mục đích nhất định.",
+      "Là một đội ngũ có 2 người trở lên, được lập nên dể hoàn thành một mục tiêu, tồn tại với mục đích nhất định. Một team thường có team leader với chiến lược, kế hoạch, sự phân chia nhiệm vụ giữa các thành viên.",
+      "Là một đội ngũ có 2 người trở lên, được lập nên dể hoàn thành một mục tiêu, tồn tại với mục đích nhất định. Một team thường có team leader với chiến lược, kế hoạch, sự phân chia nhiệm vụ và đòi hỏi sự tương tác, kết nối giữa các thành viên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đặc điểm của một đội ngũ gắn kết?",
+    "choices": [
+      "Có mục tiêu chung khát vọng.",
+      "03 cao (Cam kết, Năng lực và kết quả).",
+      "Đồng hành & Hỗ trợ.",
+      "Sáng tạo, kỷ luật, hợp tác.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Các bước xây dựng đội ngũ gắn kết?",
+    "choices": [
+      "B1: Chia sẻ mục tiêu, tầm nhìn và ý nghĩa công việc đang làm. B2: Xây dựng tinh thần trách nhiệm, cho các thành viên cơ hội tham gia sâu. B3: Tạo môi trường làm việc cởi mở, an toàn. B4: Cải tiến liên tục và thúc đẩy phát triển cá nhân.",
+      "B1: Chia sẻ mục tiêu, tầm nhìn và ý nghĩa công việc đang làm. B2:Tạo môi trường làm việc cởi mở, an toàn. B3: Xây dựng tinh thần trách nhiệm, cho các thành viên cơ hội tham gia sâu. B4: Cải tiến liên tục và thúc đẩy phát triển cá nhân.",
+      "B1: Tạo môi trường làm việc cởi mở, an toàn. B2: Xây dựng tinh thần trách nhiệm, cho các thành viên cơ hội tham gia sâu. B3: Chia sẻ mục tiêu, tầm nhìn và ý nghĩa công việc đang làm. B4: Cải tiến liên tục và thúc đẩy phát triển cá nhân.",
+      "B1: Cải tiến liên tục và thúc đẩy phát triển cá nhân. B2: Xây dựng tinh thần trách nhiệm, cho các thành viên cơ hội tham gia sâu. B3: Chia sẻ mục tiêu, tầm nhìn và ý nghĩa công việc đang làm. B4: Tạo môi trường làm việc cởi mở, an toàn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vai trò của CBQL ở Bước 1 - Chia sẻ mục tiêu, tầm nhìn và ý nghĩa công việc đang làm?",
+    "choices": [
+      "Truyển đạt đầy cảm hứng. Tăng tương tác để tạo sự hứng khởi với mục tiêu công việc.",
+      "Cởi mở, sẵn sàng lắng nghe. Thấu hiểu ý nghĩa công việc. Cam kết cao với mục tiêu đề ra.",
+      "Truyển đạt đầy cảm hứng. Tăng tương tác để tạo sự hứng khởi với mục tiêu công việc. Cởi mở, sẵn sàng lắng nghe. Thấu hiểu ý nghĩa công việc. Cam kết cao với mục tiêu đề ra."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vai trò của CBQL ở Bước 2 - Xây dựng tinh thần trách nhiệm, cho các thành viên cơ hội tham gia sâu?",
+    "choices": [
+      "Thấu hiểu năng lực và thúc đẩy, tạo cơ hội cho các thành viên phát huy.",
+      "Phản hồi 2 chiều, đặt câu hỏi, thảo luận tích cực để cải thiện hiệu suất.",
+      "Làm gương.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Vai trò của CBQL ở Bước 3 - Tạo môi trường làm việc cởi mở, an toàn?",
+    "choices": [
+      "Tạo môi trường làm việc an toàn cả vật chất và tinh thần.",
+      "Tổ chức các cuộc gặp gỡ hàng tuần ngoài công việc (EQ questions).",
+      "Điều phối công việc nhịp nhàng.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Vai trò của CBQL ở Bước 4 - Cải tiến liên tục và thúc đẩy phát triển cá nhân?",
+    "choices": [
+      "Khích lệ sự tự chủ và dẫn dắt để đội ngũ tự tìm giải pháp.",
+      "Phát triển đội ngũ thông qua huấn luyện.",
+      "Ghi nhận và khen thưởng.",
+      "Thúc đẩy việc học tập, phát triển bản thân",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Có bao nhiêu công cụ gắn kết đội ngũ",
+    "choices": [
+      "5: Thiết lập không gian gắn kết -  SOAR TOOLs (Xác định vai trò) - TEAM'S PAUSE (Tái tạo tinh thần và hiệu suất) - BRAINSTORMING (Ý kiến sáng tạo) - AGILE TOOLs",
+      "4: TEAM'S PAUSE (Tái tạo tinh thần và hiệu suất) - BRAINSTORMING (Ý kiến sáng tạo) - AGILE TOOLs",
+      "3:  SOAR TOOLs (Xác định vai trò) - TEAM'S PAUSE (Tái tạo tinh thần và hiệu suất) - BRAINSTORMING (Ý kiến sáng tạo)",
+      "4: Thiết lập không gian gắn kết -  SOAT TOOLs (Xác định vai trò) - TEAM'S PAUSE (Tái tạo tinh thần và hiệu suất) - AGILE TOOLs"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các bước thiết lập sự đồng thuận và cam kết trong bước thiết lập không gian gắn kết đội ngũ:",
+    "choices": [
+      "Liệt kê các Well point & Pain point đang tồn tại.",
+      "Phân tích và trả lời câu hỏi WHY.",
+      "Still - Stop - Start",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Vai trò ROLE trong SOAR TOOLs là gì",
+    "choices": [
+      "Strengths - Opportunities - Aspirations - Results",
+      "Strengths - Options - Aspirations - Results",
+      "Strengths - Options - Aspirations - Reality",
+      "Starts - Opportunities - Aspirations - Results"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các năng lực cần có của Leader?",
+    "choices": [
+      "Huấn luyện và kèm cặp. Tạo động lực và truyền cản hứng. Chăm sóc sức khỏe tinh thần.",
+      "Huấn luyện và kèm cặp. Tạo động lực và truyền cản hứng. Điều phối. Chăm sóc sức khỏe tinh thần.",
+      "Huấn luyện và kèm cặp. Trao quyền. Tạo động lực và truyền cản hứng. Điều phối. Chăm sóc sức khỏe tinh thần."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nguyên tắc thi đua khen thưởng bao gồm?",
+    "choices": [
+      "Đảm bảo nguyên tắc công khai, minh bạch, khách quan, chính xác, công bằng , dân chủ, toàn diện, kịp thời, bình đẳng giới, căn cứ vào thành tích cá nhân, tập thể đạt được đạt được trong phong trào thi đua của MB và đơn vị trực thuộc.",
+      "Chú trọng khen thưởng các cá nhân, tập thể có thành tích xuất sắc, lao động sáng tạo hiệu quả, khắc phục khó khăn, mang lại kết quả tốt cho hoạt động quản lý và kinh doanh của MB.",
+      "Tạm dừng việc khen thưởng hoặc đề nghị cấp trên khen thưởng tập thể, cá nhân đang trong thời gian xem xét thi hành kỷ luật hoặc bị điền tra, thanh tra, kiểm tra khi có dấu hiệu vi phạm.",
+      "Tổ chức Đảng và TCQC của MB phối hợp chặt chẽ với HĐQT, BĐH tong việc phát động, tổ chức các phong trào thi đua nhằm đảm bảo hiệu quả chung của các phong trào thi đua.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Chủ tịch của HĐTĐKT cấp cơ sở (cấp đơn vị) là?",
+    "choices": [
+      "Bí thư chi bộ",
+      "Người đứng đầu đơn vị",
+      "Chủ tịch công đoàn bộ phận"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cơ cấu của HĐTĐKT cấp cơ sở (cấp đơn vị) bao gồm?",
+    "choices": [
+      "Chủ tịch",
+      "Ủy viên",
+      "Thư ký và cơ quan giúp việc",
+      "Chủ tịch công đoàn bộ phận"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Nhiệm vụ và quyền hạn của HĐTĐKT cấp cơ sở?",
+    "choices": [
+      "Xét duyệt hoặc đề nghị khen thưởng kịp thời các cá nhân, tập thể trực thuộc",
+      "Giải quyết các khiếu nại về thi đua khen thưởng theo phạm vi thẩm quyền thuộc HĐTĐKT cấp cơ sở.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Ủy viên của của HĐTĐKT cấp cơ sở tối đa bao nhiêu thành viên?",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nguyên tắc làm việc của HĐTĐKT cấp cơ sở?",
+    "choices": [
+      "Chủ tịch là người điều hành.",
+      "Nguyên tắc tập trung dân chủ và quyết định đa số. Ý kiến của chủ tịch HĐTĐKT là ý kiến quyết định.",
+      "Việc bình xét thu đua khen thưởng được lấy kết quả từ cao xuống thấp theo tiêu chí từng chương trình.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nguyên tắc của QTTT?",
+    "choices": [
+      "Đồng nhất với chiến lược, mục tiêu của MB trong từng giai đoạn cụ thể.",
+      "Cá nhân, tập thể có trách nhiệm chủ động nắm bắt và đề xuất mục tiêu và được đánh giá nhằm xác định những việc đã làm được, chưa làm được so với mục tiêu đã đề ra.",
+      "Là cơ sở để xây dựng lộ trình nghề nghiệp, khuyến khích và gia tăng nhân sự có thành tích vượt trội.",
+      "Ghi nhận thành tích kịp thời và là cơ sở xem xét thi đua khen thưởng cá nhân tập thể.",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Các bước QTTT hiệu quả?",
+    "choices": [
+      "Giao mục tiêu. Giám sát/Hiệu chỉnh mục tiêu. Đánh giá THCV.",
+      "Giao mục tiêu. Giám sát/Hiệu chỉnh mục tiêu. Đánh giá THCV. Khen thưởng đột xuất.",
+      "Giao mục tiêu. Giám sát/Hiệu chỉnh mục tiêu. Đánh giá THCV. Khen thưởng định kỳ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Giao mục tiêu/Chương trình hành động được thực hiện",
+    "choices": [
+      "HCM",
+      "HRIS",
+      "SC",
+      "ORS"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kết cấu mục tiêu tập thể?",
+    "choices": [
+      "100%KPI",
+      "90%KPI + 10%Mục tiêu bổ trợ",
+      "80%KPI + 20%Mục tiêu bổ trợ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kết cấu mục tiêu cá nhân?",
+    "choices": [
+      "100%KPI",
+      "90%KPI + 10%Mục tiêu bổ trợ",
+      "80%KPI + 20%Mục tiêu bổ trợ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thời gian giao mục tiêu tập thể?",
+    "choices": [
+      "Chậm nhất Quý 1",
+      "Chậm nhất tháng 1",
+      "Chậm nhất tháng 2"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thời gian giao mục tiêu cá nhân?",
+    "choices": [
+      "Chậm nhất Quý 1",
+      "Chậm nhất tháng 1",
+      "Chậm nhất tháng 2",
+      "Chậm nhất 02 tuần sau khi nhận mục tiêu"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phương pháp giao mục tiêu hiệu quả?",
+    "choices": [
+      "Smart - Kết nối - Phù hợp - Chủ động- Thống nhất.",
+      "Smart - Kết nối - Thách thức - Chủ động- Thống nhất .",
+      "Smart - Kết nối - Thách thức - Chủ động- Thống nhất .",
+      "Smart - cá nhân - Phù hợp - Chủ động- Thống nhất."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phương pháp giám sát mục tiêu hiệu quả?",
+    "choices": [
+      "Smart - Kết nối - Phù hợp - Chủ động- Thống nhất.",
+      "Cập nhật - Thường xuyên -Định hướng - Khuyến khích - Lắng nghe.",
+      "Xuyên suốt - Phản hồi - Tôn trọng - Phù hợp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phương pháp đánh giá THCV hiệu quả?",
+    "choices": [
+      "Smart - Kết nối - Phù hợp - Chủ động- Thống nhất.",
+      "Cập nhật - Thường xuyên -Định hướng - Khuyến khích - Lắng nghe.",
+      "Xuyên suốt - Phản hồi - Tôn trọng - Phù hợp."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hình thức huấn luyện được sử dụng hiệu quả khi nào",
+    "choices": [
+      "Đúng đối tượng",
+      "Đúng vấn đề",
+      "Đúng thời điểm",
+      "Cả ba đáp án trên đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Huấn luyện phát huy hiệu quả với những vấn đề nào?",
+    "choices": [
+      "Cải thiện thành tích thực hiện công việc",
+      "Liên quan đến mục tiêu phát triển nghề nghiệp của cá nhân trong tổ chức",
+      "Cần một phương án giải quyết sáng tạo, đổi mới"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Lợi ích của tổ chức khi thực hiện phương pháp huấn luyện",
+    "choices": [
+      "Tăng năng suất lao động",
+      "Nhân viên gắn bó",
+      "Phát triển đội ngũ"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Việc ghi chép trong buổi huấn luyện là cần thiết vì",
+    "choices": [
+      "Giúp tăng sự tập trung trong buổi huấn luyện, đảm bảo đầy đủ thông tin tiếp nhận",
+      "Giúp người huấn luyện đánh giá đầy đủ về người được huấn luyện",
+      "Giúp người được huấn luyện hiểu về người huấn luyện một cách chân thực nhất"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Việc tạo sự tin cậy giữa người huấn luyện và người được huấn luyện nhằm mục đích",
+    "choices": [
+      "• Người huấn luyện dễ dàng gợi mở, thu thập được thông tin từ người được huấn luyện",
+      "• Người được huấn luyện dễ dàng tiếp nhận những gợi ý, nhận xét của người huấn luyện",
+      "• Người huấn luyện dễ dàng nhận diện và hiểu được vấn đề một cách toàn diện",
+      "• Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Liệt kê một số hành động để người huấn luyện xây dựng được sự tin cậy với người được huấn luyện",
+    "choices": [
+      "• Tìm kiếm điểm chung",
+      "• Nhận xét và khen ngợi hành vi tích cực của người được huấn luyện",
+      "• Quan tâm và cảm thông các vấn đề của người được huấn luyện",
+      "• Tất cả đều đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Những điều cần lưu ý khi sử dụng kĩ năng phản hồi tích cực là gì?",
+    "choices": [
+      "• Đưa ra ý kiến cụ thể kèm bằng chứng",
+      "• Không chỉ trích các vấn đề cá nhân của người được huấn luyện",
+      "• Tránh sử dụng từ ngữ mang tính quy chụp khái quát",
+      "• Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Làm thế nào để việc lắng nghe của bạn khuyến khích người được huấn luyện chia sẻ cởi mở",
+    "choices": [
+      "• Thể hiện bạn đang lắng nghe họ",
+      "• Cười thân thiện",
+      "• Tóm tắt nhắc lại ý",
+      "• Tất cả đều đúng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Người huấn luyện thể hiện sự đồng cảm khi lắng nghe người được huấn luyện trình bày vấn đề thông qua hành động/ thái độ nào",
+    "choices": [
+      "• Gật đầu nhẹ nhàng với ánh mắt thân thiện",
+      "• Thường xuyên xua tay phủ nhận trước những vấn đề được nêu ra",
+      "• Gương mặt lạnh lùng thể hiện sự nghiêm nghị",
+      "• Ánh mắt xa xăm, tỏ vẻ đang suy nghĩ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "\" Bạn có nghĩ tới việc sẽ thay đổi cách thức gọi điện bán hàng trong thời gian tới hay không?\" là loại câu hỏi gì trong kỹ năng Coaching",
+    "choices": [
+      "• Câu hỏi mở",
+      "• Câu hỏi đóng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Người huấn luyện cần trang bị những kỹ năng nào sau đây",
+    "choices": [
+      "• 2 kỹ năng: lắng nghe, đặt câu hỏi",
+      "• 3 kỹ năng: Đồng cảm, lắng nghe, đặt câu hỏi",
+      "• 4 kỹ năng: Đồng cảm, lắng nghe, đặt câu hỏi, phản hồi tích cực",
+      "• 4 kỹ năng: Xây dựng mối quan hệ tin cậy và đồng cảm, lắng nghe chủ động, đặt câu hỏi, phản hồi tích cực"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Người huấn luyện sử dụng các câu hỏi khi huấn luyện để?",
+    "choices": [
+      "• Tập trung sự chú ý",
+      "• Gợi mở các ý tưởng mới",
+      "• Thúc đẩy tính cam kết, khuyến khích sự khám phá"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Kỹ năng lắng nghe chủ động bao gồm các yếu tố nào?",
+    "choices": [
+      "• Tiếp nhận thông tin và phân tích để thấu hiểu ý nghĩa của thông tin một cách chủ động.",
+      "• Yêu cầu sự tập trung cao.",
+      "• Sử dụng kết hợp nhiều giác quan.",
+      "• Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trình tự các bước theo mô hình G.R.O.W",
+    "choices": [
+      "• B1. Thảo luận, đồng thuận về vấn đề B2. Thảo luận, thống nhất giải pháp B3.Thiết lập mục tiêu của buổi Huấn luyện B4.Lập kế hoạch và cam kết",
+      "• B1. Thiết lập mục tiêu của buổi Huấn luyện B2. Thảo luận, đồng thuận về thực trạng B3. Thảo luận, thống nhất giải pháp B4.Lập kế hoạch và cam kết",
+      "• B1. Thảo luận, đồng thuận về vấn đề B2.Thiết lập mục tiêu của buổi Huấn luyện B3.Lập kế hoạch và cam kết B4. Thảo luận, thống nhất giải pháp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Biểu hiện nào sau đây cho thấy, người huấn luyện đặt người được huấn luyện làm trung tâm",
+    "choices": [
+      "• CBQL xác định vấn đề một cách công bằng, vì lợi ích của người được huấn luyện",
+      "• Người huấn luyện xác định vấn đề một cách cởi mở vì lợi ích của người được huấn luyện",
+      "• Cùng thảo luận, đồng thuận vấn đề một cách công bằng, khách quan, cởi mở vì lợi ích của người được huấn luyện",
+      "• Không có đáp án đúng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trách nhiệm của người được huấn luyện gồm",
+    "choices": [
+      "• Chịu trách nhiệm về nội dung",
+      "• Chịu trách nhiệm về quá trình huấn luyện",
+      "• Cả hai đáp án đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục đích của bước thảo luận đồng thuận về thực trạng khi huấn luyện theo mô hình GROW tại MB là",
+    "choices": [
+      "• Đạt được sự đồng thuận về giải pháp được chọn",
+      "• Đạt được sự đồng thuận về thực trạng thực sự người được huấn luyện đang gặp phải",
+      "• Đạt được sự đồng thuận về các nguyên nhân chính gây ra thực trạng mà người được huấn luyện đang gặp phải",
+      "• Đáp án 2 và 3"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Mục đích của bước thảo luận đồng thuận về giải pháp khi huấn luyện theo mô hình GROW tại MB là",
+    "choices": [
+      "• Nhằm đạt được sự đồng thuận về giải pháp tốt nhất",
+      "• Nhằm liệt kê càng nhiều giải pháp càng tốt",
+      "• Tất cả đều sai"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình huấn luyện, đâu không phải là trách nhiệm chính của người huấn luyện?",
+    "choices": [
+      "• Đặt câu hỏi khám phá, gợi mở",
+      "• Đưa ra những thách thức một cách hợp lý để Người được Huấn luyện nhìn nhận vấn đề ở góc độ mới",
+      "• Chủ động đưa ra các giải pháp thay người được huấn luyện",
+      "• Giám sát thời gian, không gian, bầu không khí"
+    ],
+    "correct_answers": [
+      2
+    ]
+  }
+]
