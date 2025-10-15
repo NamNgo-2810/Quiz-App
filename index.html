@@ -18,11 +18,12 @@
         <form>
           <select id="topicSelect" onchange="updateQuestionLimit()">
             <option value="">Select a topic...</option>
-            <option value="saa_questions.json">SAA C03 (710 questions)</option>
+            <!-- <option value="saa_questions.json">SAA C03 (710 questions)</option> -->
             <option value="Bộ đề chung 2025 - ôn tập.json">Bộ đề chung 2025 - ôn tập (50 questions)</option>
             <option value="ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json">ĐỀ 2 - TTBA.TTĐBCLPM (260 questions)</option>
             <option value="ĐỀ 3 - TTPT_ Hệ thống LMS.json">ĐỀ 3 - TTPT (264 questions)</option>
             <option value="ĐỀ CHUNG_ Hệ thống LMS.json">ĐỀ CHUNG - Hệ thống LMS (50 questions)</option>
+            <option value="1688.json">1688 (50 questions)</option>
           </select>
 
           <input
@@ -30,7 +31,6 @@
           id="questionCount"
           placeholder="Enter number of questions (e.g., 10)"
           min="1"
-          max="710"
           disabled
           />
         </form>
@@ -44,11 +44,11 @@
     <script>
       // Topic configuration with max questions for each topic
       const topicConfig = {
-        "saa_questions.json": { name: "SAA C03", maxQuestions: 710 },
         "Bộ đề chung 2025 - ôn tập.json": { name: "Bộ đề chung 2025 - ôn tập", maxQuestions: 50 },
         "ĐỀ 2 - TTBA.TTĐBCLPM_ Hệ thống LMS.json": { name: "ĐỀ 2 - TTBA.TTĐBCLPM", maxQuestions: 260 },
         "ĐỀ 3 - TTPT_ Hệ thống LMS.json": { name: "ĐỀ 3 - TTPT", maxQuestions: 264 },
-        "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 }
+        "ĐỀ CHUNG_ Hệ thống LMS.json": { name: "ĐỀ CHUNG - Hệ thống LMS", maxQuestions: 50 },
+        "1688.json": { name: "1688", maxQuestions: 50 }
       };
 
       function updateQuestionLimit() {
@@ -62,7 +62,7 @@
           const maxQuestions = topicConfig[selectedTopic].maxQuestions;
           questionCountInput.disabled = false;
           questionCountInput.max = maxQuestions;
-          questionCountInput.placeholder = `Enter number of questions (max: ${maxQuestions})`;
+          questionCountInput.placeholder = `Enter number of questions you want to do`;
           startBtn.disabled = false;
         } else {
           questionCountInput.disabled = true;
