@@ -2320,18 +2320,14 @@
   {
     "question": "Ví dụ bảng EMPLOYEES có cấu trúc sau:\nEMPLOYEE_ID NUMBER Primary Key\nFIRST_NAME VARCHAR2(25)\nLAST_NAME VARCHAR2(25)\nBa câu lệnh nào chèn một hàng vào bảng?",
     "choices": [
-      "INSERT INTO employees VALUES ( NULL, ‘John’,‘Smith’);",
-      "INSERT INTO employees( first_name, last_name) VALUES(‘John’,‘Smith’);",
-      "INSERT INTO employees VALUES (‘1000’,‘John’,NULL);",
-      "INSERT INTO employees(first_name,last_name, employee_id) VALUES ( 1000, ‘John’,‘Smith’);",
-      "INSERT INTO employees (employee_id) VALUES (1000);",
-      "INSERT INTO employees (employee_id, first_name, last_name) VALUES ( 1000, ‘John’,‘’);"
+      "INSERT INTO employees\nVALUES ( NULL, 'John','Smith');",
+      "INSERT INTO employees( first_name, last_name)\nVALUES('John','Smith'); .",
+      "INSERT INTO employees\nVALUES ('1000','John',NULL);",
+      "INSERT INTO employees(first_name,last_name, employee_id)\nVALUES ( 1000, 'John','Smith');",
+      "INSERT INTO employees (employee_id)\nVALUES (1000); .",
+      "INSERT INTO employees (employee_id, first_name, last_name)\nVALUES ( 1000, 'John',''); ."
     ],
-    "correct_answers": [
-      1,
-      4,
-      5
-    ]
+    "correct_answers": [2, 4, 5]
   },
   {
     "question": "Bảng STUDENTS có cấu trúc:\nSTD_ ID NUMBER(4)\nCOURSE_ID VARCHARD2(10)\nSTART_DATE DATE\nEND_DATE DATE\nHai hàm tính nào hợp lệ trên cột START_DATE?",
@@ -2343,10 +2339,7 @@
       "MIN(start_date) .",
       "MAXIMUM(start_date)"
     ],
-    "correct_answers": [
-      3,
-      4
-    ]
+    "correct_answers": [2, 4]
   },
   {
     "question": "Bảng EMPLOYEE có 3 cột sau:\nLAST_NAME VARCHAR2(35)\nSALARY NUMBER(8,2)\nCOMMISSION_PCT NUMBER(5,2)\nBạn muốn hiển thị tên và mức lương hàng năm nhân với commission_pct của tất cả nhân viên. Đối với các bản ghi có commission_pct NULL, phải hiển thị số 0 trên cột được tính toán.\nCâu lệnh SQL nào hiển thị kết quả mong muốn?",
@@ -2390,20 +2383,18 @@
     ]
   },
   {
-    "question": "Bảng STUDENT_GRADES có 3 cột:STUDENT_ ID NUMBER(12)\nSEMESTER_END DATE\nGPA NUMBER(4,3)\nSổ đăng ký đã yêu cầu một báo cáo liệt kê điểm trung bình tích lũy (GPA) của sinh viên, được sắp xếp từ điểm trung bình tích lũy cao nhất đến thấp nhất trong mỗi học kỳ, bắt đầu từ ngày đầu tiên. Câu lệnh nào thực hiện được điều này?\nMột số nhân viên có thể không có số điện thoại.\nBạn sử dụng câu lệnh DML nào?",
+    "question": "Bảng STUDENT_GRADES có 3 cột:\nSTUDENT_ ID NUMBER(12)\nSEMESTER_END DATE\nGPA NUMBER(4,3)\nSổ đăng ký đã yêu cầu một báo cáo liệt kê điểm trung bình tích lũy (GPA) của sinh viên, được sắp xếp từ điểm trung bình tích lũy cao nhất đến thấp nhất trong mỗi học kỳ, bắt đầu từ ngày đầu tiên. Câu lệnh nào thực hiện được điều này?",
     "choices": [
-      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end DESC, gpa DESC;",
-      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end ASC, gpa ASC;",
-      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY semester_end, gpa DESC;",
-      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY gpa DESC, semester_end DESC;",
-      "SELECT student_id, semester_end, gpa FROM student_grades ORDER BY gpa DESC, semester_end ASC;"
+      "SELECT student_id, semester_end, gpa\nFROM student_grades\nORDER BY semester_end DESC, gpa DESC;",
+      "SELECT student_id, semester_end, gpa\nFROM student_grades\nORDER BY semester_end ASC, gpa ASC;",
+      "SELECT student_id, semester_end, gpa\nFROM student_grades\nORDER BY semester_end, gpa DESC;",
+      "SELECT student_id, semester_end, gpa\nFROM student_grades\nORDER BY gpa DESC, semester_end DESC;",
+      "SELECT student_id, semester_end, gpa\nFROM student_grades\nORDER BY gpa DESC, semester_end ASC; ."
     ],
-    "correct_answers": [
-      4
-    ]
+    "correct_answers": [2]
   },
   {
-    "question": "Bạn đã thêm cột PHONE_NUMBER thuộc kiểu dữ liệu NUMBER vào bảng EMPLOYEES hiện có. Bảng EMPLOYEES đã chứa các bản ghi của 100 nhân viên. Bây giờ, bạn muốn nhập số điện thoại của từng nhân viên trong số 100 nhân viên vào bảng.",
+    "question": "Bạn đã thêm cột PHONE_NUMBER thuộc kiểu dữ liệu NUMBER vào bảng EMPLOYEES hiện có. Bảng EMPLOYEES đã chứa các bản ghi của 100 nhân viên. Bây giờ, bạn muốn nhập số điện thoại của từng nhân viên trong số 100 nhân viên vào bảng.\nMột số nhân viên có thể không có số điện thoại.\nBạn sử dụng câu lệnh DML nào?",
     "choices": [
       "MERGE",
       "INSERT.",
@@ -2412,9 +2403,7 @@
       "ENTER",
       "You cannot enter the phone numbers for the existing employee records."
     ],
-    "correct_answers": [
-      1
-    ]
+    "correct_answers": [2]
   },
   {
     "question": "Bảng EMP có 3 cột:\nENAME VARCHAR2(35)\nSALARY NUMBER(8,2)\nHIRE_DATE DATE\nManager muốn có danh sách tên của những nhân viên đã làm việc tại công ty hơn năm năm. Câu lệnh SQL nào sẽ hiển thị kết quả?",
@@ -2429,17 +2418,15 @@
     ]
   },
   {
-    "question": "Bạn muốn hiển thị system date theo format \"Monday, 01 June, 2001\".",
+    "question": "Bạn muốn hiển thị system date theo format \"Monday, 01 June, 2001\".\nCâu lệnh nào sau đây đúng?",
     "choices": [
-      "SELECT TO_DATE(SYSDATE, 'FMDAY, DD Month, YYYY') FROM dual;",
-      "SELECT TO_CHAR(SYSDATE, 'FMDD, DY Month, 'YYY') FROM dual;",
-      "SELECT TO_CHAR(SYSDATE, 'FMDay, DD Month, YYYY') FROM dual; .",
-      "SELECT TO_CHAR(SYSDATE, 'FMDY, DDD Month, YYYY') FROM dual;",
-      "SELECT TO_DATE(SYSDATE, 'FMDY, DDD Month, YYYY') FROM dual;"
+      "SELECT TO_DATE(SYSDATE, 'FMDAY, DD Month,\nYYYY') FROM dual;",
+      "SELECT TO_CHAR(SYSDATE, 'FMDD, DY Month,\n'YYY') FROM dual;",
+      "SELECT TO_CHAR(SYSDATE, 'FMDay, DD Month,\nYYYY') FROM dual; .",
+      "SELECT TO_CHAR(SYSDATE, 'FMDY, DDD Month,\nYYYY') FROM dual;",
+      "SELECT TO_DATE(SYSDATE, 'FMDY, DDD Month,\nYYYY') FROM dual;"
     ],
-    "correct_answers": [
-      2
-    ]
+    "correct_answers": [2]
   },
   {
     "question": "Bảng CUSTOMERS có 3 cột:\nCUSTOMER_ID NUMBER(4) NOT NULL\nCUSTOMER_NAME VARCHAR2(100) NOT NULL\nSTREET_ADDRESS VARCHAR2(150)\nCITY_ADDRESS VARCHAR2(50)\nSTATE_ADDRESS VARCHAR2(50)\nPROVINCE_ADDRESS VARCHAR2(50)\nCOUNTRY_ADDRESS VARCHAR2(50)\nPOSTAL_CODE VARCHAR2(12)\nCUSTOMER_PHONE VARCHAR2(20)\nCâu lệnh nào tìm các rows trong bảng CUSTOMERS table mà postal_code là null?",
@@ -2508,15 +2495,13 @@
   {
     "question": "Bạn cần tạo báo cáo gửi thư cho tất cả khách hàng. Thông tin gửi thư chứa id, tên, địa chỉ, điện thoại của khách hàng. Bảng CUSTOMERS có các cột sau:\nCUST_ID NUMBER(4) NOT NULL\nCUST_NAME VARCHAR2(100)\nCUST_ADDRESS VARCHAR2(150)\nCUST_PHONE VARCHAR2(20)\nCâu lệnh SELECT nào thực hiện nhiệm vụ này?",
     "choices": [
-      "SELECT * FROM customers;",
-      "SELECT name, address FROM customers;",
-      "SELECT id, name, address, phone FROM customers;",
-      "SELECT cust_name, cust_address FROM customers;",
-      "SELECT cust_id, cust_name, cust_address, cust_ phone FROM customers;"
+      "SELECT*\nFROM customers;",
+      "SELECT name, address\nFROM customers;",
+      "SELECT id, name, address, phone\nFROM customers;",
+      "SELECT cust_name, cust_address\nFROM customers; .",
+      "SELECT cust_id, cust_name, cust_address, cust_ phone\nFROM customers;"
     ],
-    "correct_answers": [
-      3
-    ]
+    "correct_answers": [4]
   },
   {
     "question": "NoSQL là gì?",
@@ -2667,28 +2652,25 @@
   {
     "question": "Câu lệnh SQL nào định nghĩa ràng buộc KHÓA NGOẠI trên cột DEPTNO của bảng EMP?",
     "choices": [
-      "CREATE TABLE EMP (empno NUMBER(4), ename VARCNAR2(35), deptno NUMBER(7,2) NOT NULL CONSTRAINT emp_deptno_fk FOREIGN KEY deptno REFERENCES dept deptno);",
-      "CREATE TABLE EMP (empno NUMBER(4),ename VARCNAR2(35), deptno NUMBER(7,2) CONSTRAINT emp_deptno_fk REFERENCES dept (deptno));",
-      "CREATE TABLE EMP (empno NUMBER(4) ename VARCHAR2(35), deptno NUMBER(7,2) NOT NULL, CONSTRAINT emp_deptno_fk REFERENCES dept (deptno) FOREIGN KEY (d eptno)); .",
-      "CREATE TABLE EMP (empno NUMBER(4), ename VARCNAR2(35), deptno NUMBER(7,2) FOREIGN KEY CONSTRAINT emp deptno fk REFERENCES dept (deptno));"
+      "CREATE TABLE EMP (\nempno NUMBER(4),\nename VARCHAR2(35),\ndeptno NUMBER(7,2) NOT NULL,\nCONSTRAINT emp_deptno_fk FOREIGN KEY (deptno)\n   REFERENCES dept (deptno);",
+      "CREATE TABLE EMP\n(empno NUMBER(4),\nename VARCNAR2(35),\ndeptno NUMBER(7,2)\nCONSTRAINT emp_deptno_fk REFERENCES dept (deptno));",
+      "CREATE TABLE EMP\n(empno NUMBER(4)\nename VARCHAR2(35),\ndeptno NUMBER(7,2) NOT NULL,\nCONSTRAINT emp_deptno_fk REFERENCES dept (deptno)\nFOREIGN KEY (d eptno)); .",
+      "CREATE TABLE EMP (empno NUMBER(4),\nename VARCNAR2(35),\ndeptno NUMBER(7,2) FOREIGN KEY\nCONSTRAINT emp deptno fk REFERENCES dept (deptno));"
     ],
-    "correct_answers": [
-      2
-    ]
+    "correct_answers": [0]
   },
   {
-    "question": "Đánh giá câu lệnh SQL: SELECT ROUND(TRUNC(MOD(1600,10),-1),2) FROM dual; \nKết quả gì sẽ được hiển thị?",
+    "question": "Đánh giá câu lệnh SQL:\nSELECT ROUND(TRUNC(MOD(1600,10),-1),2)\nFROM dual;\nKết quả gì sẽ được hiển thị?",
     "choices": [
-      0,
-      1,
+      "0",
+      "1",
+      "0.00",
       "An error statement"
     ],
-    "correct_answers": [
-      0
-    ]
+    "correct_answers": [0]
   },
   {
-    "question": "Cho câu lệnh SQL tạo ra bảng ORDERS: \nCREATE TABLE orders\n(SER_NO NUMBER UNIQUE,\nORDER_ ID NUMBER,\nORDER_DATE DATE NOT NULL\nSTATUS VARCHARD2(10)\nCHECK (status IN (‘CREDIT’,’CASH’)),\nPROD_ID_NUMBER\nREFERENCES PRODUCTS(PRODUCT_ID),\nORD_TOTAL NUMBER,\nPRIMARY KEY (order id, order date));\nChỉ mục (index) sẽ tự động được tạo cho những cột nào khi bạn thực thi câu lệnh SQL trên?",
+    "question": "Cho câu lệnh SQL tạo ra bảng ORDERS:\nCREATE TABLE orders\n(SER_NO NUMBER UNIQUE,\nORDER_ ID NUMBER,\nORDER_DATE DATE NOT NULL\nSTATUS VARCHARD2(10)\nCHECK (status IN ('CREDIT','CASH')),\nPROD_ID_NUMBER\nREFERENCES PRODUCTS(PRODUCT_ID),\nORD_TOTAL NUMBER,\nPRIMARY KEY (order id, order date));\nChỉ mục (index) sẽ tự động được tạo cho những cột nào khi bạn thực thi câu lệnh SQL trên?",
     "choices": [
       "SER_NO",
       "ORDER_ ID",
@@ -2697,9 +2679,7 @@
       "ORD_TOTAL",
       "Composite index on ORDER_ID and ORDER_DATE ."
     ],
-    "correct_answers": [
-      5
-    ]
+    "correct_answers": [0, 5]
   },
   {
     "question": "Oracle DB ngầm tạo ra chỉ mục (index) duy nhất cho các ràng buộc nào?",
