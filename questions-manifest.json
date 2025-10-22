@@ -49,6 +49,36 @@
       "path": "questions/CBAP.json"
     },
     {
+      "filename": "CBAP_Mini_1.json",
+      "displayName": "CBAP Mini 1",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_1.json"
+    },
+    {
+      "filename": "CBAP_Mini_2.json",
+      "displayName": "CBAP Mini 2",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_2.json"
+    },
+    {
+      "filename": "CBAP_Mini_3.json",
+      "displayName": "CBAP Mini 3",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_3.json"
+    },
+    {
+      "filename": "CBAP_Mini_4.json",
+      "displayName": "CBAP Mini 4",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_4.json"
+    },
+    {
+      "filename": "CBAP_Mini_5.json",
+      "displayName": "CBAP Mini 5",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_5.json"
+    },
+    {
       "filename": "VH1.json",
       "displayName": "Văn hóa 1",
       "questionCount": 250,
