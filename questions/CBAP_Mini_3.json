@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Which of the following models demonstrates the attributes, operations, and relationship to entities within the solution?",
+    "choices": [
+      "Entity Relationship",
+      "Data dictionary",
+      "Class model",
+      "CRUD matrix"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You have identified several stakeholders that you believe are kinesthetic learners. Which statement best describes the kinesthetic learning approach?",
+    "choices": [
+      "The learners learn best by reading and pondering.",
+      "The learners learn best be experiencing the topic.",
+      "The learners learn best by seeing the topic in a model or through storyboards.",
+      "The learners are not interested in the topic unless they can immediately apply it to their lives or jobs."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following documents is described in the statement below? \"It is a type of procurement document used to request proposals from prospective sellers of products or services.\"",
+    "choices": [
+      "Request for quote",
+      "Request for information",
+      "Request for bid",
+      "Request for proposal"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is a procurement document?",
+    "choices": [
+      "Project Work Breakdown Structure",
+      "Project charter",
+      "Vision document",
+      "Invitation for bid"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are completing the prepare for elicitation process for an identified problem in your organization. The prepare for elicitation process requires three inputs for this process. Which one of the following is not an input that will help you prepare for the elicitation activities?",
+    "choices": [
+      "Stakeholder list",
+      "Stakeholder concerns",
+      "Business need",
+      "Solution scope"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following tasks does not rely on other activities, and no other activities rely on this task completing?",
+    "choices": [
+      "Analysis task",
+      "Independent task",
+      "Predecessor task",
+      "Dependent task"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following processes can start with the source of problems or with the problem itself?",
+    "choices": [
+      "Risk estimation",
+      "Risk analysis",
+      "Risk management",
+      "Risk identification"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "In risk analysis, which of the following can be identified as a consequence of a disaster?",
+    "choices": [
+      "Loss of operating capability",
+      "Loss of goodwill",
+      "Loss of competitive edge",
+      "Loss of stockholder confidence"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "____ is a process to determine the completeness of the project work and to gain the customer's acceptance to move the project forward.",
+    "choices": [
+      "Phase gate review",
+      "Inspection of key results",
+      "Verify scope",
+      "Quality control"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following phases is the first step towards creating a business continuity plan?",
+    "choices": [
+      "Business Continuity Plan Development",
+      "Scope and Plan Initiation",
+      "Business Impact Assessment",
+      "Plan Approval and Implementation"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following charts is a quality control tool to show categories of defects?",
+    "choices": [
+      "Pareto chart",
+      "RACI chart",
+      "Gantt chart",
+      "RAM chart"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which one of the following diagrams when properly laid out is always laid in a left to right display to properly reflect the chronology of all project work?",
+    "choices": [
+      "Influence diagram",
+      "Project schedule network diagram",
+      "Arrow diagramming method",
+      "Time-scaled schedule network diagram"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following is a visual decomposition of the program scope and the resources needed in order to create the things defined within the program scope?",
+    "choices": [
+      "Resource breakdown structure (RBS)",
+      "product breakdown structure (PBS)",
+      "Budgeted Cost of Work Scheduled (BCWS)",
+      "Work Breakdown Structure (WBS)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "When does the lessons learned document is updated?",
+    "choices": [
+      "At planning phase.",
+      "At execution phase.",
+      "At closing phase.",
+      "Throughout the project lifecycle."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following stages of a project defines the number of risks and opportunities, including intense planning and anticipation of risk events?",
+    "choices": [
+      "Planning",
+      "Executing",
+      "Initiation",
+      "Closing"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following roles works with the project team to understand the deliverables and then teaches the users of the deliverables how to utilize the project's product?",
+    "choices": [
+      "End user",
+      "Database analyst",
+      "Stakeholder",
+      "Trainer"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following qualitative techniques involves a disciplined analysis of the event sequences that could transform a potential hazard into an accident?",
+    "choices": [
+      "Failure mode and effects criticality analysis",
+      "HAZOP technique",
+      "Failure mode and effects analysis",
+      "Preliminary Risk Analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following establishes organizational checks and balances with a proper segregation of front, back, and middle office functions for effective risk management?",
+    "choices": [
+      "Risk response plan",
+      "Risk analysis",
+      "Risk management plan",
+      "Risk governance"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "As a program manager, you decided to overlap two phases of your program. Which of the following terms best describe your act?",
+    "choices": [
+      "Lead time",
+      "Rolling",
+      "Fast tracking",
+      "Crashing"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following software development life cycles is a methodology that divides the project into phases, and the project manager focuses on control of time, cost, and scope?",
+    "choices": [
+      "Spiral",
+      "Agile",
+      "Waterfall",
+      "Incremental"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following graphical presentations of a project plan is most appropriate for presenting to upper management?",
+    "choices": [
+      "Pie chart",
+      "Pareto Chat",
+      "Critical Path Method",
+      "Scatter chart"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following diagrams is used to display sensitivity analysis data?",
+    "choices": [
+      "Decision tree",
+      "Ishikawa",
+      "Influence",
+      "Tornado"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is a visual decomposition of the project scope?",
+    "choices": [
+      "Budgeted Cost of Work Scheduled (BCWS)",
+      "Resource Breakdown Structure (RBS)",
+      "product breakdown structure (PBS)",
+      "Work Breakdown Structure (WBS)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "________ are timeless events that show progress in the project. These are typically achieved at the end of phase in the project lifecycle.",
+    "choices": [
+      "Achievements",
+      "Millstones",
+      "Phases",
+      "Templates"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following authorizes the project to exist within the organization?",
+    "choices": [
+      "Project charter",
+      "Project network diagram",
+      "Project integration management",
+      "Project boundaries"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following tasks cannot start until other tasks are completed?",
+    "choices": [
+      "Analysis task",
+      "Dependent task",
+      "Predecessor task",
+      "Independent task"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following roles approves the project scope statement, phase gate reviews, solution validations, scope changes, and project success criteria?",
+    "choices": [
+      "Project manager",
+      "Subject matter expert",
+      "Solution owner",
+      "Stakeholder"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following processes includes tasks and roles, risk categories, schedules for risk management activities, definitions of probability and impact, and the stakeholders' tolerances?",
+    "choices": [
+      "Risk management plan",
+      "Risk register",
+      "Risk analysis",
+      "Risk response plan"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is the process of identifying and assessing factors that may jeopardize the success of a project or the achievement of a goal?",
+    "choices": [
+      "Risk analysis",
+      "Risk identification",
+      "Risk retention",
+      "Risk communication"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "As a milestone is reached, the project is funded for enough capital to reach the next milestone. This approach is called _________.",
+    "choices": [
+      "Step funding",
+      "Phase funding",
+      "Stakeholders funding",
+      "Milestone funding"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following roles helps assess the data requirements of a project, identifies data assets, and helps the project team complete data modeling requirements?",
+    "choices": [
+      "Database analyst",
+      "End user",
+      "Subject matter expert",
+      "Information architect"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following processes is used by organizations to set the risk tolerance, identify the potential risks, and prioritize the tolerance for risk?",
+    "choices": [
+      "Risk communication",
+      "Risk identification",
+      "Risk analysis",
+      "Risk management"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following terms is used to describe a major deliverable or key even in the project used to measure project progress?",
+    "choices": [
+      "Project life cycle",
+      "Phase",
+      "Achievement",
+      "Milestone"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is the process of analyzing the areas of a project that are most affected by risk?",
+    "choices": [
+      "Risk Identification",
+      "Risk Urgency Assessment",
+      "Risk Categorization",
+      "Risk Analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following charts is important to ensure that the roles and responsibilities of those involved in a task are tracked?",
+    "choices": [
+      "Pie chart",
+      "Line chart",
+      "RACI chart",
+      "Gantt chart"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following quantitative risk analysis techniques relies on experience and past data to compute the probability and impact of risks on project objectives?",
+    "choices": [
+      "Probability distribution",
+      "Sensitivity analysis",
+      "Modeling and simulation",
+      "Interviewing"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following types of charts shows which resources are needed in the project and allows you to group the resources by project phase or other attributes?",
+    "choices": [
+      "Pareto chart",
+      "Organizational Breakdown Structure",
+      "Gantt chart",
+      "Resource Breakdown Structure"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following types of elicitation allows each stakeholder to freely discuss their role in a particular process?",
+    "choices": [
+      "Focus group",
+      "Structured interview",
+      "Quick Interview",
+      "Unstructured interview"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following chart shows the correlation between project team members and the work they've been assigned to complete?",
+    "choices": [
+      "Pie chart",
+      "Responsibility Assignment Matrix (RAM) chart",
+      "Gantt chart",
+      "RACI chart"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following participants have to keep the minutes and details of the conversation during Interviews?",
+    "choices": [
+      "Stakeholder",
+      "Scribe",
+      "Business Analyst",
+      "End user"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following describes the actual users who interact with one another, a system, or data moved between two users?",
+    "choices": [
+      "Device interface",
+      "User interface",
+      "Data interface",
+      "Communication port"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following defines the deliverable the customer is expecting?",
+    "choices": [
+      "Project charter",
+      "Procurement management plan",
+      "Product scope statement",
+      "Project network diagram"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following document is created first after project is awarded and statement of work is handed over to the project manager?",
+    "choices": [
+      "Work breakdown structure (WBS)",
+      "WBS dictionary",
+      "Project scope statement",
+      "Project charter"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following are directed conversations for gathering ideas, opinions about a product, service, problem, or opportunity?",
+    "choices": [
+      "Interviews",
+      "Group discussions",
+      "Feedback loops",
+      "Focus groups"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is the process of developing a document that formally authorizes a project or a phase?",
+    "choices": [
+      "Define Scope",
+      "Develop Schedule",
+      "Develop Project Charter",
+      "Create Work Breakdown Structure"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following techniques involves coordinating and collaborating with other credible sources in risk?",
+    "choices": [
+      "Risk identification",
+      "Risk management",
+      "Risk communication",
+      "Risk analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following is the formal acceptance of the project?",
+    "choices": [
+      "A project review",
+      "A sign-off",
+      "Risk assessment",
+      "Inspection trend analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "There are 50 stakeholders in the current project. How many communication channels exist in this project?",
+    "choices": [
+      "1200",
+      "1225",
+      "1500",
+      "500"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following communicates from the program-level perspective \"\" a clear understanding and statement of the technical objectives and the end products, services, or results of the work to be performed?",
+    "choices": [
+      "Scope statement",
+      "Preliminary scope statement",
+      "Program work breakdown structure",
+      "Program charter"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following is a conversation between one or more speakers centering on one specific topic?",
+    "choices": [
+      "Feedback loop",
+      "Presentation",
+      "Survey",
+      "Formal requirements review"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "What portion of the communications model could be defined as the translator?",
+    "choices": [
+      "Receiver",
+      "Medium",
+      "Translator",
+      "Sender"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following is derived from a schedule model to meet the project execution plan and achieve management approval for use as a baseline?",
+    "choices": [
+      "Updating",
+      "Impacts",
+      "Baseline schedule",
+      "Dumping"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The ____, an output of the define scope process, does document the process and criteria for accepting completed products.",
+    "choices": [
+      "Statement of Work",
+      "Contract",
+      "Project scope statement",
+      "Project management plan"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following requires that all parties in the conflict must give up something?",
+    "choices": [
+      "Barrier",
+      "Problem solving",
+      "Withdrawal",
+      "Compromising"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following defines how the project scope should be created, executed, monitored and controlled, and then validated?",
+    "choices": [
+      "Scope variance plan",
+      "Scope management plan",
+      "Staffing management plan",
+      "Schedule management plan"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following component of the communication model is responsible for transferring the message between two or more entities?",
+    "choices": [
+      "Sender",
+      "Medium",
+      "Decoder",
+      "Receiver"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following processes is must at the end of each project phase to determine the completeness of the project work and to gain the customer's acceptance to move the project forward?",
+    "choices": [
+      "Scope verification",
+      "Inspection of key results",
+      "Quality control",
+      "Phase gate review"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is the comparison of planned project results with actual project results?",
+    "choices": [
+      "Variance analysis",
+      "Cost-benefit analysis",
+      "Statistical Sampling",
+      "Trend analysis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is a table of all stakeholders showing the mapping of which stakeholders will contribute information to other stakeholders?",
+    "choices": [
+      "RACI Chart",
+      "Communications Requirements Matrix",
+      "Project scope statement",
+      "Organizational Breakdown Structure"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following is not a hygiene agent according to Frederick Herzberg theory?",
+    "choices": [
+      "The chance to excel",
+      "Job security",
+      "A paycheck",
+      "Clean and safe working conditions"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following techniques is used to test customer acceptance of the solution and to measure marketplace demand?",
+    "choices": [
+      "Interviews",
+      "Market Survey",
+      "Technology Assessment",
+      "Prototyping"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following displays the relative importance of the defects?",
+    "choices": [
+      "Pareto diagram",
+      "User Documentation",
+      "Gantt chart",
+      "Flowchart"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is responsible for preparing the business architecture, feasibility studies, and business cases?",
+    "choices": [
+      "Security Administrator",
+      "Developer",
+      "Business analyst",
+      "Project leader"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following is a method of displaying the timelines of all the various subtasks that are involved in any project?",
+    "choices": [
+      "Pie chart",
+      "Scatter chart",
+      "Activity network diagram",
+      "Cost-benefit analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following can be used in root cause analysis?",
+    "choices": [
+      "Pareto chart",
+      "Data-flow diagram",
+      "Gantt chart",
+      "Fishbone diagram"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following diagrams is known as Ishikawa diagram?",
+    "choices": [
+      "Activity",
+      "Data-flow",
+      "Cost-Benefit",
+      "Cause-and Effect"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "All of the following are examples of transference risk response except for which one?",
+    "choices": [
+      "Warranties",
+      "Performance bonds",
+      "Life cycle costing",
+      "Use of insurance"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following represents the duration of activities against a calendar?",
+    "choices": [
+      "Scatter chart",
+      "Gantt chart",
+      "Pie chart",
+      "Pareto chart"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following compares two or more systems, states, services, products, or things to determine the best viable choice?",
+    "choices": [
+      "Benchmarking",
+      "Risk Identification",
+      "Risk analysis",
+      "Cost-benefit analysis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is described in the statement below? \"It shows the history and pattern of variation. It is a line graph that shows data points plotted in the order in which they occur. They show trends in a process over time, variation over time, or declines or improvements in a process over time. Trend analysis is performed using them.\"",
+    "choices": [
+      "Cause and effect diagram",
+      "Histogram",
+      "Run chart",
+      "Pareto chart"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following is the process of defining and analyzing the dangers to individuals, businesses, and government agencies posed by potential natural and human-caused adverse events?",
+    "choices": [
+      "Risk analysis",
+      "Risk identification",
+      "Risk management",
+      "Risk communication"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following process groups occurs at the beginning of the project?",
+    "choices": [
+      "Executing",
+      "Planning",
+      "Initiating",
+      "Controlling and Monitoring E. Closing"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following defines how the project will be estimated, budgeted, and how changes to cost will be managed?",
+    "choices": [
+      "Cost management plan",
+      "Cost variance reports",
+      "Control chart",
+      "Coercive power"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following techniques involves attempting to make and numerically determine the probability of various adverse events and measuring the likely extent of the losses?",
+    "choices": [
+      "Risk analysis",
+      "Qualitative risk analysis",
+      "Risk assessment",
+      "Quantitative risk analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following captures all of the activities within a business, the inputs and outputs of each activity, and the required resources to complete each activity?",
+    "choices": [
+      "Business scenario",
+      "Business process model",
+      "Business architecture",
+      "Business case"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following is a graphical representation of roles and responsibilities of different project team members?",
+    "choices": [
+      "RACI chart",
+      "Pareto chart",
+      "Resource histogram chart",
+      "Organization chart"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which one of the following diagrams visualize the result of the root cause analysis study?",
+    "choices": [
+      "Activity diagrams",
+      "State diagrams",
+      "Tornado diagrams",
+      "Cause-and effect diagrams"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The business process model is also known as _________.",
+    "choices": [
+      "Organization model",
+      "Activity model",
+      "Relational model",
+      "Data flow model"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following techniques is used to divide a project into controllable parts?",
+    "choices": [
+      "Gantt Chart",
+      "Pareto Chart",
+      "WBS",
+      "CPM"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following can be an effective tool during quality control to help determine the how the problem occurred?",
+    "choices": [
+      "Rework",
+      "Trend Analysis",
+      "Flowcharting",
+      "Pareto Diagram"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following directs the improvement efforts to those areas that will have the biggest impact?",
+    "choices": [
+      "Flowchart",
+      "Gantt chart",
+      "Pareto diagram",
+      "User Documentation"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following involves defining the various threats, determining the extent of vulnerabilities, and devising countermeasures against a possible attack?",
+    "choices": [
+      "Qualitative risk analysis",
+      "Risk analysis",
+      "Risk assessment",
+      "Quantitative risk analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following requirement attributes lacks any ambiguous characteristics?",
+    "choices": [
+      "Understandable",
+      "User Requirements Document (URD)",
+      "Unambiguous",
+      "Urgency"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following charts is described in the statement below? \"It shows the causes of a certain event. A common use of this diagram is to identify potential factors causing an overall effect. It helps identify causal factors and contributing causes.\"",
+    "choices": [
+      "Ishikawa",
+      "Flowchart",
+      "Process configuration chart",
+      "Control chart"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following processes measures the maturity level of the security program?",
+    "choices": [
+      "Risk analysis",
+      "Risk mitigation",
+      "Risk assessment",
+      "GAP analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations. Due to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time. Customers who want to utilize the pay per use mobile device fast charging stations may choose one of two features: fully charged (F1) or partially charged (F2). If partially charged is selected, the customer needs to specify their charging needs. What is the relationship between Fl and F2?",
+    "choices": [
+      "Validate",
+      "Derive",
+      "Depends",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is facilitating a meeting between process owners to capture the business rules for a workflow solution. One of the attendees expresses a strong opinion that the solution will not deliver the expected value. How will the BA ensure the process owner remains engaged and will support the change?",
+    "choices": [
+      "Update the requirements",
+      "Record the feedback and continue",
+      "Review the future state",
+      "Change the governance approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A project's change in scope is assessed and a newly assigned business analyst (BA) is unsure how to communicate the findings and final decision to the wider stakeholder group. In which of the following can the BA find this information?",
+    "choices": [
+      "Stakeholder Communications Plan",
+      "Business case",
+      "Business policies",
+      "Governance approach"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A local manufacturer that serves about 1000 retail stores is experiencing a slow yet steady decrease of its customer base over the last couple of years. Attributing the situation to increased competition, management has hired a team of sales representatives to attract new clients and promote the manufacturer's products. However, after four months there is still no progress. Management has engaged a business analyst (BA) to investigate this issue. What should the BA do first?",
+    "choices": [
+      "Perform market research to identify on which competitive advantages the sales team should focus",
+      "Create a training program to close potential skill gaps for the sales team",
+      "Review historic sales and related data to understand what is happening to the customer base",
+      "Identify appropriate training providers and send out a request for proposal"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A new project has to implement a cyber security release in China, Italy, Germany, the United States, and Canada. The project is a $5 million initiative and must 'go live' in production in all countries on the same day and time to be effective. Which of the approaches mentioned is suitable for this project based on the size and complexity?",
+    "choices": [
+      "An agile and iterative approach",
+      "A waterfall and dynamic approach",
+      "A kanban and predictive approach",
+      "A proven and tailored analysis approach"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "While defining what necessary conditions are required to achieve the business need for a highly regulated government client, a business analyst (BA) discovers that some legacy policies will either constrain or are insufficient to achieve value desired by the future state. How should the BA proceed?",
+    "choices": [
+      "Modify the solution to comply with the policies",
+      "Identify an assumption about future state value",
+      "Model two future states, one with and another without these policies",
+      "Obtain approval to change the policies"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "In performing the task of planning for business analysis governance for a software implementation project, the business analyst (BA) recommends that prioritization of requirements be done based on the amount of work that the project team is capable of delivering in a given period of time. Which of the following techniques is the BA recommending?",
+    "choices": [
+      "Negotiation",
+      "Grouping",
+      "Time Boxing",
+      "Budgeting"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) plans to hold a workshop next week to elicit requirements for a project. In an informal conversation, another employee mentioned that one of the attendees is likely to be unhappy about the project's impact on their work. Which of the following techniques will the BA use to avoid disrupting the workshop?",
+    "choices": [
+      "Elicitation Activity Plan",
+      "Collaborative Games",
+      "Stakeholder List",
+      "Risk Analysis and Management"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) at a regional bank has recently been assigned to assist on a project to expand into new markets. The chief executive officer (CEO) envisions the bank as a national brand and has asked the chief financial officer (CFO) to monitor project progress closely. The project manager (PM) has asked the BAs on the team to recommend an appropriate business analysis approach. Based on the nature of the project and the industry, which approach should they recommend?",
+    "choices": [
+      "An unstructured approach utilizing informal team interaction, model-driven documentation standards, and iterative requirements development",
+      "An agile approach with frequent team interaction, adaptive documentation standards, and iterative requirements development",
+      "A moderate approach utilizing the bank's existing waterfall project lifecycle and documentation deliverables not requiring formal approval",
+      "A formal approach with planned team interaction, agreed upon documentation deliverables requiring formal approval, and front-loaded requirements development"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "While reviewing a subset of requirements with stakeholders, a business analyst (BA) finds a requirement that does not deliver benefit to any of the stakeholders. After much discussion, the stakeholders decide that the requirement does not align with the solution scope. What recommendation will the BA make?",
+    "choices": [
+      "Update the solution design",
+      "Re-evaluate the future state",
+      "Change the solution scope",
+      "Eliminate the requirement"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "An innovative pizza restaurant announces a new pizza topping each week. Once advertised, the new topping on the regular dough constitutes the sole pizza type offered during the week. No other pizza toppings are offered. Which of the following processes is a strong candidate to be addressed while planning for requirements reuse?",
+    "choices": [
+      "Dough preparation",
+      "Toppings preparation",
+      "Topping recipes",
+      "Ad images"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is outlining who should participate in an upcoming requirements elicitation meeting. From whom should the BA obtain approval before selecting the participants?",
+    "choices": [
+      "Sponsor",
+      "End user",
+      "Project manager",
+      "Subject matter expert"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) in a large financial institution, responsible for the management of requirements, has completed all the activities related to tracing requirements and is now pursuing to maintain them. The BA has identified a large number of requirements which have long term reuse and is now looking for guidance to manage these requirements. Which of the following will indicate how requirements will be managed for reuse?",
+    "choices": [
+      "Legal Regulatory Information",
+      "Architectural Repositories",
+      "Information Management Approach",
+      "Business Rules Analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is in the process of allocating requirements to various releases of a solution. On what should the BA base requirements to maximize the value of the solution?",
+    "choices": [
+      "Priority set by stakeholders",
+      "Available resources",
+      "Timing of the release and its impact on business",
+      "Components in scope for that release"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A team is working on a user privilege and access control system. A business analyst (BA) selects use cases as the technique for requirements specification. What is the relationship between use cases \"Create a role\" and \"Find a role\" when there is a high level of formality?",
+    "choices": [
+      "Validate",
+      "Derive",
+      "Necessity",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      2
+    ]
+  }
+]
