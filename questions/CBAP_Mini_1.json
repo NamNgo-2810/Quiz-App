@@ -1,0 +1,1203 @@
+[
+  {
+    "question": "What is the term used to describe the cost of the solution after the solution has been implemented in production by a vendor?",
+    "choices": [
+      "Total ownership costing",
+      "Lifecycle maintenance fees",
+      "Sustainability fees",
+      "Total cost of ownership"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Enterprise analysis creates just five outputs. Which one of the following is an output of the enterprise analysis tasks?",
+    "choices": [
+      "Assumptions and constraints",
+      "Stakeholder concerns",
+      "Solution performance assessment",
+      "Solution approach"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "All of the following stakeholders participate in the prioritization of requirements except for which one?",
+    "choices": [
+      "Implementation subject matter expert",
+      "Project team",
+      "Domain subject matter expert",
+      "Project manager"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that you create a model of the requirements so the stakeholders can better understand the requirements and the project as a whole. Which of the following statements best describes a model?",
+    "choices": [
+      "Models are slices of the project solution.",
+      "Models simplify the requirements for common stakeholders.",
+      "Models are statistics for the return on investment, time saved, and other mathematics.",
+      "Models abstract and simplify reality."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "What plan will describe the stakeholder groups, communication needs, and the level of formality that is appropriate for the requirements?",
+    "choices": [
+      "Requirements management plan",
+      "Project management plan",
+      "Scope management plan",
+      "Business analysis communication plan"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for a smaller project where there are few requirements. Management would still like you to create a method to trace the few requirements for this project. What type of matrix would be best in this instance?",
+    "choices": [
+      "Roles and responsibility matrix",
+      "RACI matrix",
+      "Coverage matrix",
+      "Requirements trace matrix"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and have many solutions available to an identified problem. You would like a way to quickly and fairly determine which solution is the best choice for your organization. Which of the following approaches would allow you to determine the top-rated solutions for your organization?",
+    "choices": [
+      "Scoring system",
+      "Acceptance and evaluation criteria",
+      "Vendor assessment",
+      "Voting system"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "When an organization is using a change-driven approach to business analysis, how are communications managed?",
+    "choices": [
+      "Communications in a change-driven approach to business analysis focus more on the frequency of communication.",
+      "Communications in a change-driven approach typically use face-to-face channels.",
+      "Communications in a change-driven approach focus more on formal communications.",
+      "Communications in a change-driven approach are all ad hoc."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that you create a method to store the project requirements including those under development, under review, and the requirements which have been approved. What is management asking you to create?",
+    "choices": [
+      "A change management system",
+      "A repository",
+      "A project scope statement",
+      "A requirements register"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and working with Tim to identify the assumptions within the business solution. Which one of the following is an assumption?",
+    "choices": [
+      "The vendor believes the hardware should arrive by December 1",
+      "The software must be compatible with Windows Vista",
+      "The software must cost less than $99 per license",
+      "The hardware must cost less than $450 per unit."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are working with Terry on the conduct stakeholder analysis task as part of the business analysis duties in your company. Terry wants to know why it's so important to identify stakeholders so early in the business analysis duties. Which one of the following statements best addresses the need to identify the stakeholders early on in the business analysis duties?",
+    "choices": [
+      "It's important to identify the stakeholders so the business analyst knows who to report to.",
+      "It's important to identify the stakeholders so the business analyst knows who to bill for the project.",
+      "It's important to identify the stakeholder so the business analyst can help ensure the timely delivery of the requirements deliverables.",
+      "It's important to identify the stakeholders so the stakeholders know who the business analyst is."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nancy has asked you to trace a particular requirement for her. What does 'to trace a requirement' mean?",
+    "choices": [
+      "Tracing a requirement means to look at a requirement and the others to which it is related. It links risk, cost, quality, and scope elements to stakeholder and solution requirements to other artifacts created by the team and to solution components.",
+      "Tracing a requirement means to look at a requirement and the others to which it is related. It links business requirements to stakeholder and solution requirements to other artifacts created by the team and to solution components.",
+      "Tracing a requirement means to look at a requirement and the others to which it is related. It links business requirements to components in the project's work breakdown structure.",
+      "Tracing a requirement means to track a requirements from its first identification all the way to its completion to see what issues, risks, costs, quality, and defects have surrounded the requirement"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "When do change requests generally increase in a project?",
+    "choices": [
+      "During the project's launch.",
+      "Towards the beginning of the project.",
+      "During the project scope management processes.",
+      "Towards the end of the project."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Ben is the business analyst for his organization. Ben is currently working on a solution to improve a laser printer. He has taken the laser printer apart, identified each component, and documented each component's purpose. What type of requirements organization is Ben doing in this scenario?",
+    "choices": [
+      "Process modeling",
+      "Data modeling",
+      "Functional decomposition",
+      "Scope modeling"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Fred's organization is using a plan-driven approach for the business analysis deliverables. In this approach how will the requirements be captured?",
+    "choices": [
+      "Fred will use the appropriate documentation at the discretion of the business analysis team .",
+      "Fred will use the project management information system.",
+      "Fred will use whatever business analysis forms are most appropriate.",
+      "Fred will use standardized templates."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "What part of defining the business needs process will evaluate the ends that the organization is seeking to achieve?",
+    "choices": [
+      "Business goals and objectives",
+      "Alternative identification",
+      "Solution assessment",
+      "Requirements"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "What type of a business analysis approach focuses on the rapid delivery of business value in short iterations?",
+    "choices": [
+      "Risk-driven",
+      "Change-driven",
+      "Risk-laden",
+      "Profit-driven"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Wanda is the business analyst for her organization and she is currently working on the specify and model requirements process. One of the elements of this process is the documentation of the textual requirements. Wanda must describe the capabilities of the solution, any conditions that must exist for the requirements to operate, and what third component of the textual requirement?",
+    "choices": [
+      "Any constraints that may prevent the solution from fulfilling the requirement",
+      "Write in the active voice",
+      "Describe a situation or problem",
+      "Express only one requirement at a time"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "The business analysis approach generally defines all of the following attributes except for which one?",
+    "choices": [
+      "Requirements for solutions acceptance",
+      "Deliverables",
+      "Team roles",
+      "Analysis technique"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gary is the business analyst for his organization and he is preparing a presentation about the requirements for a large software development project. Before Gary makes the presentation what should he do as part of his preparation for the presentation?",
+    "choices": [
+      "Determine an appropriate format for the presentation.",
+      "Confirm that he has the authority to host the presentation.",
+      "Confirm that the stakeholders have signed off on the requirements.",
+      "Hire a scribe to keep the minutes of the meeting."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are creating the solution scope definition. Which of the following should be included in the solution scope definition?",
+    "choices": [
+      "Business case",
+      "Technical dependencies",
+      "Elicitation techniques",
+      "Organization readiness assessment"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "What business analysis element tries to identify as many potential options as possible to meet the business objectives and fill identified gaps in capabilities?",
+    "choices": [
+      "Ranking of approaches",
+      "Decision analysis",
+      "Documentation of assumptions and constraints",
+      "Alternative generation"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Paul is the business analyst for his organization. He is examining a single solution to determine if the solution he and his team have identified carries enough business value to justify its implementation. What business analysis process is Paul performing in this scenario?",
+    "choices": [
+      "Define transition requirements",
+      "Assess proposed solution",
+      "Assess organizational readiness",
+      "Allocate requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Gary and Janet, two key stakeholders in the project, are in disagreement over a requirement for the type of software to be installed on the server your solution calls for. What must happen in this instance before formal approval can be offered?",
+    "choices": [
+      "The conflict will need to be resolved through research, resolution, or through a third-party mediation.",
+      "Gary and Janet will need to determine who has seniority in the company to determine which requirement takes precedence.",
+      "The conflict will need to be removed from the solution scope until Gary and Janet come to a solution.",
+      "The business analyst will need to make a decision on which requirement is most appropriate."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "One of the processes within requirements analysis is to prioritize requirements. As a business analyst why would you ever want to prioritize requirements?",
+    "choices": [
+      "You may need to determine the cost of each requirement.",
+      "You may need to determine the schedule for each requirement.",
+      "You may need to determine which requirements are most critical so the analysis and implementation efforts focus on the most critical requirements.",
+      "You may need to determine which requirements are most critical so additional risk analysis can be completed on those requirements."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are working with Jennifer to conduct stakeholder analysis. You would like to create a RACI chart to help with the roles of the people involved in the stakeholder analysis process. Jennifer is not familiar with this chart and asks what does RACI mean. Which one of the following best describes the RACI chart in the conduct stakeholder analysis process?",
+    "choices": [
+      "It's a matrix that uses the Responsible, Accountable, Consult, and Inform tasks as part of the stakeholder analysis process.",
+      "It's a role and responsibility chart that identifies when stakeholders are needed in the business analyst duties.",
+      "It's a matrix that uses Role, Action, Consult, and Inform as part of the conduct stakeholder analysis process.",
+      "It's a rule that the business analyst can use to identify all of the needed stakeholders: roles, actions, communications, and interest."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management wants you to prioritize the identified requirements by the requirements that have the highest likelihood of success. Why would management want you to prioritize the requirements with this factor even though some of the requirements may be difficult to implement?",
+    "choices": [
+      "They want a fast return on investment.",
+      "They want to show early success in the implementation to the project stakeholders.",
+      "They don't understand the requirements.",
+      "They want to avoid penalties or fines due to a pending law."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are creating the solution scope for an identified problem in your organization. You are working with several stakeholders during this process including the domain subject matter expert, the implementation subject matter expert, the project manager, and the sponsor. Which of these stakeholders will be responsible for writing the project scope?",
+    "choices": [
+      "Domain subject matter expert",
+      "Business analyst",
+      "Project manager",
+      "Sponsor"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You have identified a task in your task list that cannot be completed until the inspector for the project signs off on the initial deliverables. The inspector's signoff on the initial deliverables is called what?",
+    "choices": [
+      "Assumption",
+      "Dependency",
+      "Milestone",
+      "Constraint"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sally is the business analyst for her organization. Sally and her business analysis team is currently using a business analysis approach to determine what the competition of her organization is offering prospective clients. She is trying to identify solutions to increase revenue by remaining competitive with the competition. What business analysis approach is Sally and her business analysis team using?",
+    "choices": [
+      "Business rules analysis",
+      "Functional decomposition",
+      "Focus groups",
+      "Benchmarking"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You need to identify assumptions as part of the assessment of capability gaps. Which of the following is an example of an assumption?",
+    "choices": [
+      "The project manager believes that her project team members can program in COBOL.",
+      "All vendors must have security clearance.",
+      "The software must be compatible with the current operating system.",
+      "The risk in the project must be quantified."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are to conduct stakeholder analysis. Which of the following statements best describes the conduct stakeholder analysis task?",
+    "choices": [
+      "This task identifies organizations and lines of business that may be affected by a proposed initiative or who share a common business need.",
+      "This task identifies stakeholders who may be affected by a proposed initiative or who share a common business need.",
+      "This task identifies the organizations that are likely affected by a problem that a project must solve.",
+      "This task identifies the people who may be affected by a proposed initiative or who share a common business need."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "When can changes to requirements occur in a business analysis planning and monitoring assignment?",
+    "choices": [
+      "Change to requirements can occur any time before the project scope statement is created.",
+      "Changes to requirements can occur at any time.",
+      "Changes to requirements can occur any time after the project's change control system has been enacted.",
+      "Change to requirements can occur at any time before the key stakeholders approve the identified requirements."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "What does the T in SWOT analysis mean?",
+    "choices": [
+      "Trial",
+      "Threats",
+      "Test",
+      "Time"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for the NGQ Company. Management is concerned that their company is not able to meet an identified business need with their current existing structure, people, processes and technology. They've asked you to complete an analysis of their organization's ability to meet the identified business need. What business analysis process are you completing for your organization?",
+    "choices": [
+      "Determining the solution approach",
+      "Assessing the capability gaps",
+      "Requirements elicitation",
+      "Verifying the requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are working on prioritizing the project requirements. Management has asked you to prioritize the requirements based on the cost-benefit analysis for the requirements' value to the organization. What basis for prioritization are you using in this instance?",
+    "choices": [
+      "Business value",
+      "Stakeholder agreement",
+      "Likelihood of success",
+      "Urgency"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and management has asked that you identify opportunities to improve the operations of the business. You notice that some of the stakeholders use several pieces of software and several duplicate activities within each software package to generate data reports for customers. What type of recommendation can you make in regard to this observation?",
+    "choices": [
+      "You can address the automation of how the workers perform.",
+      "You will need to perform active observation first to understand the processes in more detail.",
+      "You can address the non-functional requirements of the activities.",
+      "You will need to perform passive observation first to understand the processes in moredetail."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are beginning the requirements analysis processes. Which one of the following statements best describes the requirements analysis processes?",
+    "choices": [
+      "It ensures that analysis and implementation efforts focus on the most critical requirements.",
+      "It covers the definition of stakeholder requirements, which describe what a solution must be capable of doing.",
+      "It defines all of the work, and only the required work, to complete the project objectives.",
+      "It is conformity to requirements and a fitness for use."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Management has asked you, a business analyst for your organization, to create the solution scope for an identified problem. In order to complete this task, you'll need three elements. All of the following are elements you'll need in order to write the solution scope except for which one?",
+    "choices": [
+      "Work breakdown structure",
+      "Implementation approach",
+      "Solution scope definition",
+      "Dependencies"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and you are preparing the business case for a proposed solution. You need to include the management horizon in your business case. What is the management horizon?",
+    "choices": [
+      "It is the expected deliverables that will be beneficial for the organization.",
+      "It is the point in time when the solution will be completed.",
+      "It is the duration of each phase of the project until the solution earns a profit.",
+      "It is the point in time for the solution to break even on cost and begin earning a profit."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "What two factors must the business analyst consider when conducting stakeholder analysis?",
+    "choices": [
+      "Politics and influence",
+      "Influence and attitude",
+      "Attitude and position",
+      "Position and politics"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Donna is leading a brainstorming session for her organization. She has asked the participants in this group to come up with at least ten ideas for possible solutions to an identified problem. What is the problem with setting the goal as ten ideas for possible solutions in this session?",
+    "choices": [
+      "The goal should be to come up with as many solutions as possible, not just ten ideas.",
+      "The goal should be to generate ten ideas within a set time period.",
+      "The goal should be to come up with the best solution for the problem, not ten ideas.",
+      "The goal should be to include everyone's input to the solutions."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and working with the stakeholders to prioritize the requirements. The stakeholders are concerned about the financial impact of the requirements should some of them fail during the implementation. You would like to rank the risk tolerance of the stakeholders based on their comments about the solution and the requirements. The following are the three categories of risk tolerance associated with the stakeholders except for which one?",
+    "choices": [
+      "Mitigation",
+      "Risk-aversion",
+      "Risk-seeking",
+      "Neutrality"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "What business analysis process ensures that requirements specifications and models meet the necessary standard of quality to allow them to be used effectively to guide further work?",
+    "choices": [
+      "Identify constraints and assumptions",
+      "Validate requirements",
+      "Verify requirements",
+      "Specify and model requirements"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Paul has been asked to complete SWOT analysis for his solution scope. What does SWOT analysis mean?",
+    "choices": [
+      "Strengths, Weaknesses, Opportunities, Time",
+      "Stakeholder Weaknesses, Organizational Threats",
+      "Stakeholders Weaknesses, Organization, Threats",
+      "Strengths, Weaknesses, Opportunities, Threats"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which one of the following is an example of a non-negotiable demand by a stakeholder during the requirements prioritization session?",
+    "choices": [
+      "All requirements are ranked as high",
+      "Communication",
+      "All requirements are prioritized by cost-benefits ratio",
+      "Cost"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are working with Virginia on the allocation of requirements for a new solution. You have assigned Virginia the task of breaking down the solution scope into smaller components for allocation. What technique have you asked Virginia to complete in this scenario?",
+    "choices": [
+      "Decision analysis",
+      "Business rules analysis",
+      "Process modeling",
+      "Functional decomposition"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for a large project in your organization. While your company prefers face-to-face communications there are many stakeholders located in different geographical locations. How can you still effectively serve as a business analyst when the stakeholders are not collocated?",
+    "choices": [
+      "You will need to travel on a regular rotation to each of the geographical locations to complete the business analyst duties.",
+      "You will need to implement videoconferences.",
+      "Add more business analysts in each of the geographical location.",
+      "You will need the stakeholders to periodically gather in one locale."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which one of the following business analysis planning and monitoring techniques can be used to define and document the business analysis approach?",
+    "choices": [
+      "Process modeling",
+      "Structured walkthrough",
+      "Decision analysis",
+      "Control charts"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Henry is the business analyst for his organization. Management has created a pre-determined budget of $450,000 for his solution. Henry has identified the project requirements but now wants to prioritize them based on timeboxing and budgeting. Henry examines the cost of the requirements and begins removing the requirements from the allowed list in order to meet the $450,000 budget. What timeboxing or budgeting approach is Henry using?",
+    "choices": [
+      "Parametric",
+      "All in",
+      "Selective",
+      "All out"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are hosting a collection of stakeholders from across the organization to identify the ideas and attitudes about your company's help desk. You want the stakeholders to honestly share their opinions about the help desk service so you can identify problems, solutions, and take actions to improve the service. What type of requirements elicitation activity is this?",
+    "choices": [
+      "Stakeholder analysis",
+      "Focus groups",
+      "Workshop",
+      "Root cause analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which stakeholder must approve the business analysis approach to ensure that the business analysis approach is compatible with the other project activities?",
+    "choices": [
+      "Project sponsor",
+      "Project manager",
+      "Project customer",
+      "Change control board"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You and Tom are writing the solution scope for a new project in your organization. You need to create a method to define what solution will and will not provide for the organization. What technique can you and Tom use to establish appropriate boundaries for the solution?",
+    "choices": [
+      "Interviews with the key stakeholders",
+      "User stories",
+      "Functional decomposition",
+      "Scope modeling"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Your organization is trying to determine which one of two opportunities they will pursue. The Project A is worth $235,987 and Project B is worth $567,000 but carries significant risk. The organization elects to purse Project B and not Project",
+    "choices": [
+      "What is the opportunity cost in this scenario?",
+      "$331013",
+      "There is not enough information to know as the risk for Project B has not been quantified.",
+      "$235,987",
+      "$567,000"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for the TGH Organization and are determining if you should buy or build a solution for your company. You have determined that you can create the in-house solution for $78,000 with a monthly support cost of $8,765. A vendor can create the solution for $61,000 with a monthly support costs of $7,990. How long will it take your company to break even if you choose the internal solution versus the vendor's solution?",
+    "choices": [
+      "36 months",
+      "12 months",
+      "6 months",
+      "22 months"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management realizes that a proposed solution has risks that may cause the entire project to fail. They would like you to prioritize the requirements with maximum risks first so that if the project fails, there is little loss of capital in the project implementation. What requirements prioritization approach is management asking you to create in this instance?",
+    "choices": [
+      "Implementation difficulty",
+      "Business or technical risk",
+      "Likelihood of success",
+      "Relationship to other requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that you create a stakeholder map as part of the conduct stakeholder analysis process. What is a stakeholder map?",
+    "choices": [
+      "A stakeholder map is a visual diagram that shows the connection among positive and negative stakeholder",
+      "A stakeholder map is a visual diagram that illustrates where the stakeholders are geographically located.",
+      "A stakeholder map is a visual diagram that depicts the stakeholders' actions as responsible, accountable consult, and inform.",
+      "A stakeholder map is a visual diagram that depicts the relationship of the stakeholders to the solution and to one another."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which conduct stakeholder analysis technique identifies stakeholder roles that may serve as a useful starting point for identifying actors and roles?",
+    "choices": [
+      "Scope modeling",
+      "Requirements workshops",
+      "Scenario and uses cases and user stories",
+      "Interviews"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are completing enterprise analysis. Management has asked you to create a document that will help them create a go/no go decision to invest and more forward with a proposed project. What document does management want you to create?",
+    "choices": [
+      "Feasibility study",
+      "Project scope",
+      "Solution scope",
+      "Business case"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Some of the requirements in the solution must be completed because of laws and regulations in your industry. Management would like you, the business analyst, to rank the requirements according to the relevant laws. What type of requirements prioritization is management having you complete?",
+    "choices": [
+      "Regulatory ranking",
+      "Business value ranking",
+      "Constraint ranking",
+      "Risk ranking"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is concerned with determining whether the information used for risk analysis is probable, of high class, or accurate?",
+    "choices": [
+      "Risk Urgency Assessment",
+      "Risk Probability and Impact Assessment",
+      "Risk Categorization",
+      "Risk Data Quality Assessment"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are working with several business analysts to determine the solution approach for an identified problem. All of the following techniques are acceptable for identifying the solution approach except for which one?",
+    "choices": [
+      "Benchmarking",
+      "Decision analysis",
+      "Risk analysis",
+      "Brainstorming"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are in the process of creating the solution approach for a technology problem. Which one of the following definitions best describes the solution approach?",
+    "choices": [
+      "It is the documentation and control of changes to the product scope as approved by the project stakeholders.",
+      "Defines the general approach that will be taken to create or acquire new capabilities required to meet the business need.",
+      "It is an uncertain event or condition that may have a positive or negative impact on the abilities of the chartered project.",
+      "Decomposes the project scope into smaller deliverables; each deliverable is subdivided repeatedly until the deliverable cannot or should not be broken down any further."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. You are currently working with Steve on the organize requirements process. You and Steve have elected to use the user stories approach for this process. What is the user stories approach for requirements organization?",
+    "choices": [
+      "Stakeholders' experiences equate to the stakeholder requirements.",
+      "Stakeholders are interviewed and their experiences are recorded to help identify the requirements.",
+      "Stakeholders' objectives are described to identify the requirements that the solution will need to support.",
+      "Stakeholders are interviewed and their stories are recorded as part of the requirements."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following processes is used to make certain that the project team members are completing the project work according to the project plan?",
+    "choices": [
+      "Project time management",
+      "Project scope management",
+      "Quality management plan",
+      "Quality control"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which one of the following terms is not a business analysis planning and monitoring approach?",
+    "choices": [
+      "Structured walkthroughs",
+      "Decision analysis",
+      "Requirements elicitation",
+      "Process modeling"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "What technique used during the manage business analysis performance process can help identify the underlying causes of failures or difficulties in accomplishing business analysis work?",
+    "choices": [
+      "Problem tracking",
+      "Pareto charts",
+      "Trend analysis",
+      "Root cause analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "What document defines the business needs, identifies key stakeholders, and describes the positive impact the solution will provide on the key stakeholders?",
+    "choices": [
+      "Project charter",
+      "Project scope statement",
+      "Solution scope",
+      "Vision statement"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Your organization is using a plan-driven approach to business analysis. What characteristic must be true of changes in the approach that your organization is using?",
+    "choices": [
+      "All the changes only occur if they are less than an agreed factor, such as ten percent of the solution's overall cost or a percentage of the project's schedule.",
+      "All the changes only occur if they are less than ten percent of the solution's overall cost.",
+      "All the changes only occur if they are genuinely necessary.",
+      "Changes are generally not permitted in the plan-driven approach to business analysis."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are preparing to complete the allocate requirements process. This process assigns stakeholder and solution requirements to solution components and to releases. One of the elements of this process is solution components. All of the following are solution components except for which one?",
+    "choices": [
+      "Assessment of proposed solution",
+      "Business processes to be performed and managed",
+      "Business policies and business rules",
+      "Software applications and application components used in the solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and you are completing the manage requirements traceability process. You are tracking the requirements to determine how the requirements are interrelated with one another and with the actual delivery of the project scope. There are actually three reasons why the business analyst should trace requirements. Which one of the following is not one of the three reasons why trace requirements is useful?",
+    "choices": [
+      "Impact analysis",
+      "Requirements coverage",
+      "Requirements allocation",
+      "Quality control"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Ned is the business analyst for the NHQ Company. He is working with Stan on completing the requirements prioritization of all the identified requirements. Why would Stan and Ned complete requirements prioritization?",
+    "choices": [
+      "To determine which requirements should be completed first",
+      "To determine which requirements should not be completed at all",
+      "To determine which requirements carry the most risk",
+      "To determine who created what requirement based on their position in the organization"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. You are coaching Tom about the different approaches to business analysis. Which type of business analysis approach has the most business analysis work at the beginning of the project or during the start of a project phase?",
+    "choices": [
+      "Change-driven approach",
+      "Value-driven approach",
+      "Plan-driven approach",
+      "Requirements-driven approach"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. You are currently identifying opportunities for a customer to improve their business processes. The customer wants to streamline their business efforts either through new technologies, better processes, or a combination of both. The customer demands, however, that the solution should not cost more than $300,000 to implement and support for one year. What does the $300,000 represent?",
+    "choices": [
+      "Solution cost",
+      "Budget",
+      "Requirements",
+      "Constraint"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are with another business analyst, Steve, on the requirements elicitation for a new solution. You warn Steve that you'll need to be tracing the requirements in an effort to prevent scope creep. What is scope creep?",
+    "choices": [
+      "The scope grows slightly larger as more requirements, often unneeded, are added to the scope",
+      "The scope slips on the schedule which in turn delays the project delivery date",
+      "Gold plating",
+      "The scope shifts from the original intent of the business case"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "What element of the plan business analysis process affects the business analysis duties that need to be performed?",
+    "choices": [
+      "The experience of the business analyst",
+      "The experience of the project manager",
+      "The expected completion date of the business analysis duties",
+      "The type of project or initiative"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Holly's organization uses a plan-driven approach to business analysis. When it comes to communication in Holly's organization what type of communication will likely be required?",
+    "choices": [
+      "Face-to-face",
+      "Chain of command",
+      "Formal",
+      "Ad hoc"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Henry is the business analyst for the UUH Organization. Currently Henry is working on several work products as part of the requirements development process. He may need to share these work products with the stakeholders. Which of the following is not an example of a work product?",
+    "choices": [
+      "Requirements documentation",
+      "Interview questions and notes",
+      "Meeting agendas and minutes",
+      "Presentation slides"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. On your current project you'll be using the change-driven approach for defining requirements and gathering feedback. Which of the following statements best describes the change-driven approach?",
+    "choices": [
+      "The change-driven approach favors defining requirements through experimentation.",
+      "The change-driven approach does not define the requirements until after a solution for the problem has been identified.",
+      "The change-driven approach favors defining requirements standardized templates.",
+      "The change-driven approach favors defining requirements through team interaction."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Jane is the business analyst for her organization and she is completing passive observation to identify improvement opportunities in the workflow. She notices that some of the employees perform certain customer-facing activities in a different format than the other workers. Is this a problem that can be addressed as part of an improvement opportunity?",
+    "choices": [
+      "It can be a problem as customers could become confused or frustrated because of the different approaches to the work.",
+      "It is not a problem unless there is a drop in sales so it should be left alone.",
+      "It can be a problem as the enterprise environmental factors always call for consistency in all processes.",
+      "It is not a problem unless the customer complains. If Jane has not noticed the customers complaining then the process should be left along."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. A customer has approached your organization and is requesting that your company create new software for them that will help them collect customer information. In regard to enterprise analysis this business needs stems from which one of the following need generation approaches?",
+    "choices": [
+      "Bottom-up",
+      "External drivers",
+      "Middle management",
+      "Top-down"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are creating the solution scope for a proposed solution in your organization. You need to understand the scope of work that needs to be completed. You elect to identify the solution scope and then break the solution scope into smaller work products or deliverables. What technique are you using in this instance?",
+    "choices": [
+      "Interface analysis",
+      "Scope modeling",
+      "Vision statement creation",
+      "Functional decomposition"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for a solution that has 435 stakeholders. How many communication channels exist in this project?",
+    "choices": [
+      "188,790",
+      "189,225",
+      "94,395",
+      "435"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and you are completing the verify requirements process. There are eight characteristics each requirement should have: cohesive, complete, consistent, correct, and feasible. Which one of the following four is not a characteristic of a requirement?",
+    "choices": [
+      "Functional",
+      "Modifiable",
+      "Unambiguous",
+      "Testable"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. You are preparing the business needs documentation for a new solution to an identified problem. Parts of your input for this process are the business goals and objectives set by your organization. What approach can you use to assess the business goal and their validity and longevity?",
+    "choices": [
+      "Functional decomposition",
+      "POLDAT",
+      "SMART",
+      "Root cause analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are working on organizing the identified requirements for a new solution. Nancy, your assistant in this process, says that these requirements aren't very complex. You agree but add that it's this thing that makes the overall solution complex. What thing adds to the level of complexity among requirements?",
+    "choices": [
+      "Relationships among the requirements",
+      "Management in the project",
+      "Stakeholders in the project",
+      "Cost and schedule constraints"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is an estimate based on past projects to predict the current cost and/or duration of the current project?",
+    "choices": [
+      "Current estimate",
+      "Past project cost",
+      "Past estimate",
+      "Top-down estimate"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for a large project for your organization. Your project has 65 stakeholders and this will greatly increase the complexity of the communication in this project. To demonstrate how complex this project and its communication will be, you show the management the number of communication channels in this project. How many channels exist in this project based on the number of stakeholders?",
+    "choices": [
+      "2080",
+      "4160",
+      "4225",
+      "65"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are creating a model for your requirements. Which model type categorizes and describes the people who directly interact with a solution?",
+    "choices": [
+      "Rules",
+      "User classes, profiles, or roles",
+      "Concepts and relationships",
+      "Events"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "When is stakeholder analysis performed?",
+    "choices": [
+      "As soon as the project charter is created.",
+      "As soon as the project sponsor is named.",
+      "As soon as a business need is identified.",
+      "As soon as a business solution is identified."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You are preparing a business case for your organization to determine the justification of the costs of the solution in relation to benefits the solutions will bring the organization. You need four inputs to complete this process. Which one of the following is not an input that will help you write the business case?",
+    "choices": [
+      "Feasibility study",
+      "Stakeholder concerns",
+      "Assumptions and constraints",
+      "Business need"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are the business analyst for the YGT Organization. You have just completed a capabilities gap assessment and have determined that your organization does not have the necessary resources and technology to seize a business opportunity. What is the most likely course of action for the organization?",
+    "choices": [
+      "Hire additional resources.",
+      "Launch a new project.",
+      "Hire contractors to complete the project work.",
+      "Move onto the next opportunity."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "What plan includes the description of the scope of work, the deliverable Work Breakdown Structure, the activity list, and estimates for the business analysis activities?",
+    "choices": [
+      "Project management plan",
+      "Implementation plan",
+      "Requirements management plan",
+      "Business analysis plan"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization and are coaching Roberta on how business analysis works. Roberta is confused about what a business analysis methodology is during the business analysis planning and monitoring phase of the business analysis duties. What is a methodology?",
+    "choices": [
+      "A methodology is a formalized and repeatable business analysis approach.",
+      "A methodology is a short term endeavor to create a unique product or service.",
+      "A methodology is an approach that the business analyst believes will work but it has not been proven to work yet in the business analysis domain.",
+      "A methodology is a formalized plan that describes how the business analyst will complete the elicitation of requirements."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Your organization completes software development for other companies as its core business. Management would like to streamline the requirements gathering processes as many of the projects your company do are similar in nature. What approach could you as a business analyst do to help streamline the requirements gathering process for your organization?",
+    "choices": [
+      "Implement a requirements re-use repository",
+      "Implement project template",
+      "Implement a requirements gathering form",
+      "Implement scope solution models"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are coaching Marcy, a new business analyst for your organization, on business analysis processes. Marcy is concerned about the define solution scope process, especially the implementation approach element. Which of the following statements best defines the implementation approach element for Marcy?",
+    "choices": [
+      "The implementation approach is described in terms of the major features and functions that are to be included.",
+      "The implementation approach defines major business and technical dependencies that impose constraints to the effort to deploy the solution.",
+      "The implementation approach describes the new capabilities required to meet the business need.",
+      "The implementation approach describes how the chosen solution approach will deliver the solution scope."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are the business analyst for your organization. Management has asked that in the business case you're creating that you also include the projected costs and benefits to be realized and how those and benefits will be assessed and evaluated. What term matches management's request?",
+    "choices": [
+      "Cost-benefits justification",
+      "Risk assessment",
+      "SWOT analysis",
+      "Results measurements"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gary is the business analyst for his organization. He has realized that he has overlooked a key group of stakeholders during the conduct stakeholder analysis process. What is the danger in overlooking a key set of stakeholders?",
+    "choices": [
+      "The newly identified stakeholders will now have to pay for any requirements they want to add to the requirements.",
+      "The newly identified stakeholders will need to spend extra time to learn about the project and how it will affect them.",
+      "The newly identified stakeholders will be excluded from decisions that affect the deliverables that have already been created in the project.",
+      "The newly identified stakeholders may have requirements that require additions to the project or may nullify other requirements already in the project."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Rachel is writing the business case for her organization. As she's completing this process Rachel is concerned that she's including all the correct information for management. Which one of the following should Rachel not include in her business case?",
+    "choices": [
+      "Time to break even",
+      "Opportunities to prioritize requirements",
+      "Follow-on opportunities",
+      "Qualitative and quantitative benefits"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Your organization uses the MoSCoW approach to requirements prioritization. What does MoSCoW mean?",
+    "choices": [
+      "Must, Should, Could, Would",
+      "Must, Should, Could, Won't",
+      "Mission, Schedule, Cost, Willingness",
+      "Must not, Should not, Could not, Will not"
+    ],
+    "correct_answers": [
+      1
+    ]
+  }
+]
