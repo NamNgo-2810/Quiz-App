@@ -89,6 +89,12 @@
       "displayName": "Văn hóa 2",
       "questionCount": 390,
       "path": "questions/VH2.json"
+    },
+    {
+      "filename": "AI_Test_1.json",
+      "displayName": "AI Test 1",
+      "questionCount": 386,
+      "path": "questions/AI_Test_1.json"
     }
   ],
   "lastUpdated": "2025-10-15T02:26:21.929Z"
