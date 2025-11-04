@@ -1,0 +1,4819 @@
+[
+  {
+    "question": "Mục tiêu chính của cuốn \"The Generative AI Product Playbook\" là gì?",
+    "choices": [
+      "Cung cấp một lý thuyết về AI tạo sinh.",
+      "Hướng dẫn cách lập trình các mô hình AI.",
+      "Cung cấp hướng dẫn thực tế để xây dựng một \"product playbook\" (sổ tay sản phẩm) và tư duy sản phẩm trong thời đại AI.",
+      "So sánh các công cụ AI tạo sinh khác nhau trên thị trường."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách cho rằng AI tạo sinh sẽ KHÔNG thể sửa chữa được điều gì?",
+    "choices": [
+      "Quy trình onboarding chậm.",
+      "Văn hóa sản phẩm bị rạn nứt (broken product culture).",
+      "Các thử nghiệm A/B tốn kém.",
+      "Việc thiếu dữ liệu khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá khứ, các PM (Product Manager) dựa vào lý thuyết nào để mô tả việc thâm nhập thị trường?",
+    "choices": [
+      "Diffusion of Innovation (Khuếch tán Đổi mới) của Everett Rogers.",
+      "The Hook Model (Mô hình Móc) của Nir Eyal.",
+      "The Hype Cycle (Chu kỳ Hưng phấn) của Gartner.",
+      "The Agile Manifesto (Tuyên ngôn Agile)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mô hình \"Shark-Fin Curve\" (Đường cong Vây Cá mập) mô tả hiện tượng gì?",
+    "choices": [
+      "Sản phẩm được áp dụng từ từ nhưng ổn định theo thời gian.",
+      "Sản phẩm tăng vọt nhanh chóng (rapid spike) rồi sụt giảm đột ngột (sudden drop-off) nếu không mang lại giá trị.",
+      "Sản phẩm chỉ dành cho \"Innovators\" (Người đổi mới) và \"Early Adopters\" (Người chấp nhận sớm).",
+      "Sản phẩm có lợi nhuận ổn định như vây cá mập."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo mô hình \"Gartner Hype Cycle\", giai đoạn \"Trough of Disillusionment\" (Đáy của sự vỡ mộng) còn có tên gọi khác là gì?",
+    "choices": [
+      "Valley of Tears (Thung lũng Nước mắt).",
+      "Peak of Inflated Expectations (Đỉnh của Kỳ vọng Bị thổi phồng).",
+      "Slope of Enlightenment (Dốc của sự Khai sáng).",
+      "Plateau of Productivity (Cao nguyên Năng suất)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vào năm 2023, theo sách, GenAI bắt đầu ở giai đoạn nào của Hype Cycle?",
+    "choices": [
+      "Peak of Inflated Expectations (Đỉnh của Kỳ vọng Bị thổi phồng).",
+      "Plateau of Productivity (Cao nguyên Năng suất).",
+      "Innovation Trigger (Kích hoạt Đổi mới).",
+      "Trough of Disillusionment (Đáy của sự Vỡ mộng)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý (Tenet) \"Simplicity Over Perfection\" (Đơn giản hơn Hoàn hảo) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles (Nguyên lý Lấy người dùng làm trung tâm).",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Financial Principles (Nguyên lý Tài chính)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Quantifying Results Over Assumptions\" (Đo lường Kết quả hơn Giả định) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles.",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles.",
+      "Agile Principles."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Empowered Team Over Micromanagement\" (Đội nhóm được trao quyền hơn Vi quản lý) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles.",
+      "Result-Driven Principles.",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Leadership Principles."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Câu trích dẫn \"Fall in love with the problem, not the solution\" (Hãy yêu vấn đề, đừng yêu giải pháp) của Uri Levin (Waze) minh họa cho nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Shipping to Learn Over Shipping When Perfect."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Shipping to Learn Over Shipping When Perfect\" (Ra mắt để Học hỏi hơn Ra mắt khi Hoàn hảo) có nghĩa là gì?",
+    "choices": [
+      "Phải trì hoãn ra mắt cho đến khi sản phẩm không còn lỗi.",
+      "Ra mắt nhanh (launching quickly) một sản phẩm \"đủ tốt để học\" (good enough to learn), thu thập phản hồi và lặp lại (iterate) nhanh chóng.",
+      "Chỉ ra mắt khi sản phẩm đã hoàn hảo (perfect).",
+      "Việc học hỏi quan trọng hơn việc ra mắt sản phẩm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách định nghĩa MVP (Minimum Viable Product) là gì?",
+    "choices": [
+      "Một sản phẩm truyền cảm hứng và làm hài lòng người dùng.",
+      "Một sản phẩm có chức năng (functional product) với nỗ lực tối thiểu (minimal effort) chỉ để kiểm tra các giả định thị trường.",
+      "Một sản phẩm được cá nhân hóa động (dynamic personalization).",
+      "Một sản phẩm đã hoàn thiện và sẵn sàng để nhân rộng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách định nghĩa MLP (Minimum Lovable Product) là gì?",
+    "choices": [
+      "Một sản phẩm chỉ có các chức năng cốt lõi.",
+      "Một sản phẩm không chỉ hoạt động (work) mà còn thực sự truyền cảm hứng và làm hài lòng (inspire and delight) người dùng.",
+      "Một sản phẩm được xây dựng trong vài giờ bằng GenAI.",
+      "Một sản phẩm tập trung vào việc sửa lỗi."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "\"Product Tenets\" (Các nguyên lý sản phẩm) được mô tả là gì?",
+    "choices": [
+      "Các lý tưởng trừu tượng.",
+      "Các giá trị thực tế (practical values) và niềm tin không thể thương lượng (non-negotiable beliefs) hướng dẫn cách chúng ta xây dựng sản phẩm.",
+      "Một danh sách các tính năng bắt buộc.",
+      "Các quy tắc bắt buộc của phương pháp Scrum."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "GenAI giúp các PM (Product Manager) như thế nào trong việc \"Hiểu người dùng\" (Understand Users)?",
+    "choices": [
+      "Bằng cách thay thế các cuộc phỏng vấn người dùng.",
+      "Bằng cách tự động sàng lọc (sift through) lượng lớn feedback của khách hàng để tìm ra nhu cầu thực sự.",
+      "Bằng cách tạo ra các persona ngẫu nhiên.",
+      "Bằng cách chỉ tập trung vào dữ liệu định lượng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "GenAI giúp các PM \"Học nhanh hơn\" (Learn Way Faster) bằng cách nào?",
+    "choices": [
+      "Bằng cách tăng tốc chu kỳ \"build-test-learn\" (xây dựng-kiểm thử-học hỏi) và tạo mẫu (prototypes) nhanh hơn.",
+      "Bằng cách đọc sách nhanh hơn.",
+      "Bằng cách loại bỏ hoàn toàn nhu cầu kiểm thử (testing).",
+      "Bằng cách chỉ tập trung vào các giả định (assumptions)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tác giả Jeff Bezos được trích dẫn về việc nhấn mạnh điều gì?",
+    "choices": [
+      "\"Tối đa hóa tỷ lệ thử nghiệm\" (maximize the rate of experimentation).",
+      "\"Đơn giản hơn Hoàn hảo\" (Simplicity Over Perfection).",
+      "\"Yêu vấn đề, không yêu giải pháp\" (Love the problem, not the solution).",
+      "\"Tập trung vào đối thủ cạnh tranh\" (Focus on the competitor)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Empowering the Ecosystems\" (Trao quyền cho Hệ sinh thái) có nghĩa là gì?",
+    "choices": [
+      "Chỉ sử dụng các công cụ nội bộ (private ownership).",
+      "Xây dựng các sản phẩm \"cô lập\" (isolate users).",
+      "Xây dựng các sản phẩm \"phù hợp\" (fit into) và \"bổ sung\" (compliments) cho các giải pháp hiện có, tạo ra trải nghiệm gắn kết.",
+      "Chỉ tập trung vào một sản phẩm duy nhất."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả GenAI như một \"Force Multiplier\" (Hệ số nhân) cho các đội nhóm, nghĩa là gì?",
+    "choices": [
+      "AI thay thế các thành viên trong nhóm.",
+      "AI tự động hóa các tác vụ lặp lại (routine tasks), giải phóng thời gian cho đội nhóm tập trung vào chiến lược và đổi mới.",
+      "AI làm cho mọi người làm việc nhiều giờ hơn.",
+      "AI chỉ hữu ích cho các kỹ sư (engineers)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo sách, GenAI đang định hình lại nghề quản lý sản phẩm như thế nào?",
+    "choices": [
+      "Nó chỉ là một xu hướng công nghệ mới.",
+      "Nó đang định hình lại (reshaping) cách PM khám phá nhu cầu người dùng, cách giao hàng và học hỏi từ việc sử dụng thực tế.",
+      "Nó làm cho vai trò PM trở nên ít quan trọng hơn.",
+      "Nó chỉ hữu ích cho việc viết release notes."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đặc điểm chính của \"Shark-Fin Curve\" (Đường cong Vây Cá mập) là gì?",
+    "choices": [
+      "Sự tăng trưởng người dùng đột biến, nhanh chóng (rapid spike).",
+      "Sự sụt giảm đột ngột (sudden drop-off) nếu sản phẩm không mang lại giá trị lâu dài.",
+      "Một đường cong rủi ro hơn (riskier curve), đòi hỏi ra quyết định nhanh.",
+      "Sự thâm nhập từ từ qua 5 nhóm người dùng (Rogers)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại sao mô hình \"Shark-Fin Curve\" lại đòi hỏi các nhóm sản phẩm phải \"thử nghiệm nhanh\" (quick experiments)?",
+    "choices": [
+      "Bởi vì người dùng ngày nay kiên nhẫn hơn.",
+      "Bởi vì 100 người dùng đầu tiên có thể đến trong vài giờ (thay vì vài tháng) và cũng có thể biến mất nhanh như vậy.",
+      "Bởi vì chi phí quảng cáo đã giảm.",
+      "Bởi vì mô hình Rogers yêu cầu như vậy."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vào năm 2024 (theo sách), các công ty gặp phải vấn đề gì khiến họ rơi vào \"Valley of Tears\" (Thung lũng Nước mắt)?",
+    "choices": [
+      "Các dự án PoC (Proof-of-concept) không thể nhân rộng (didn't scale).",
+      "Chất lượng dữ liệu kém (Poor data quality).",
+      "Chi phí cao (High costs) và các thách thức về tích hợp (integration challenges).",
+      "Tất cả các ý trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Các công ty đang (giả định) vào năm 2025 vượt qua \"Valley of Tears\" để đi lên \"Slope of Enlightenment\" đã làm gì?",
+    "choices": [
+      "Họ đầu tư sớm vào hạ tầng dữ liệu hiện đại, nhân tài agile, và hệ thống phản hồi lặp lại.",
+      "Họ quay lại sử dụng mô hình Rogers.",
+      "Họ ngừng tất cả các dự án AI.",
+      "Họ chỉ tập trung vào các PoC (Proof-of-concept) nhỏ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sách nói GenAI chuyển PM từ \"Discovery\" sang \"Co-Creation\" (Đồng sáng tạo), điều đó có nghĩa là gì?",
+    "choices": [
+      "PM không còn cần khám phá (discovery) nữa.",
+      "PM có thể tổng hợp feedback, phân tích cảm xúc và \"đồng sáng tạo\" các đề xuất giá trị với người dùng trong vài giờ, thay vì vài tuần.",
+      "Người dùng tự viết code.",
+      "AI tự động tạo ra sản phẩm hoàn chỉnh."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Bảng Hướng dẫn Quyết định (Decision Guide) so sánh MVP và MLP ngụ ý điều gì?",
+    "choices": [
+      "MVP là lựa chọn tốt nhất nếu mục tiêu chính là \"tốc độ và học hỏi\" (speed and learning).",
+      "MLP là lựa chọn tốt nhất nếu mục tiêu là \"lòng trung thành thương hiệu\" (brand loyalty).",
+      "MVP là để kiểm tra xem \"vấn đề có thật hay không\" (problem is real).",
+      "GenAI làm cho cả hai cách tiếp cận MVP và MLP đều trở nên nhanh hơn và tốt hơn (ví dụ: mô phỏng, cá nhân hóa)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Tại sao nguyên lý \"End-User Needs Over Stakeholder Opinions\" (Nhu cầu Người dùng cuối > Ý kiến Các bên liên quan) lại quan trọng?",
+    "choices": [
+      "Vì các bên liên quan (stakeholders) luôn sai.",
+      "Vì các quyết định sản phẩm không thể chỉ dựa trên ý kiến (opinion alone) mà phải dựa trên dữ liệu và tập trung vào khách hàng.",
+      "Vì người dùng cuối là người trả tiền.",
+      "Vì các bên liên quan không tham gia vào quá trình phát triển."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Quantifying Results\" (Đo lường Kết quả) và \"Shipping to Learn\" (Ra mắt để Học hỏi) như thế nào?",
+    "choices": [
+      "Tự động hóa việc phân tích KPI và tạo báo cáo.",
+      "Đề xuất các điều chỉnh sản phẩm dựa trên phân tích dữ liệu.",
+      "Tăng tốc đáng kể việc tạo ra các MVP và nguyên mẫu (prototypes).",
+      "Tạo dữ liệu tổng hợp (synthetic data) để kiểm thử sớm."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Empowered Team\" (Đội nhóm được trao quyền) và \"Empowering Ecosystems\" (Trao quyền cho Hệ sinh thái) như thế nào?",
+    "choices": [
+      "Tự động hóa các tác vụ lặp lại (ví dụ: tóm tắt cuộc họp, báo cáo) để giải phóng thời gian cho tư duy chiến lược.",
+      "Phá vỡ các \"data silos\" (kho chứa dữ liệu) bằng cách kết nối các nguồn dữ liệu (CRM, analytics) và tạo báo cáo hợp nhất.",
+      "Tạo ra các cơ sở kiến thức (knowledge bases) và tài liệu dùng chung.",
+      "Thay thế vai trò của các nhà quản lý (managers)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một PM nhận được yêu cầu từ CEO (Stakeholder) về một tính năng mới. Thay vì làm ngay, PM sử dụng GenAI để phân tích feedback của người dùng và dữ liệu thị trường, sau đó trình bày lại rằng tính năng này không giải quyết nhu cầu cốt lõi. PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Empowered Team Over Micromanagement."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc \"hiểu bối cảnh\" (understanding the context) lại quan trọng đối với nguyên lý \"Understanding the Problem\"?",
+    "choices": [
+      "Vì nó giúp tạo ra nhiều giải pháp (solutions) hơn.",
+      "Vì nó giúp PM đồng cảm (empathy) và hiểu được \"tại sao\" (why) đằng sau vấn đề của người dùng, thay vì chỉ giải quyết các triệu chứng bề mặt.",
+      "Vì bối cảnh giúp xác định chi phí (costs).",
+      "Vì nó là yêu cầu của stakeholder."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo sách, một \"Product Manifesto\" (Tuyên ngôn Sản phẩm) tốt nên là gì?",
+    "choices": [
+      "Một tài liệu lý thuyết trừu tượng (abstract ideals).",
+      "Một danh sách các quy tắc cứng nhắc (rigid rules).",
+      "Một \"ngôi sao phương bắc\" (north star) và là nền tảng (baseline) cho một văn hóa sản phẩm hiện đại.",
+      "Một tài liệu chỉ dành cho các Product Manager."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả sự thay đổi tư duy (mindset shift) của PM trong thời đại GenAI là gì?",
+    "choices": [
+      "Từ \"facilitators\" (người điều phối) sang \"systems thinkers\" (người tư duy hệ thống) và \"experience architects\" (kiến trúc sư trải nghiệm).",
+      "Từ \"strategists\" (chiến lược gia) sang \"backlog managers\" (người quản lý backlog).",
+      "Từ \"coders\" (lập trình viên) sang \"managers\" (quản lý).",
+      "Từ \"data analysts\" (nhà phân tích dữ liệu) sang \"facilitators\" (người điều phối)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Các nguyên lý (Tenets) thuộc nhóm \"User-Centric Principles\" (Nguyên lý Lấy người dùng làm trung tâm) là gì?",
+    "choices": [
+      "Simplicity over Perfection.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "MVP vs. MLP."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Trích dẫn của Jeff Bezos về việc \"tối đa hóa tỷ lệ thử nghiệm\" và \"giảm chi phí thử nghiệm\" liên quan trực tiếp đến nguyên lý nào?",
+    "choices": [
+      "Empowered Team Over Micromanagement.",
+      "Quantifying Results Over Assumptions.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Simplicity Over Perfection."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao việc GenAI giúp tạo ra các \"micro-experiments\" (thí nghiệm vi mô) lại quan trọng trong mô hình \"Shark-Fin Curve\"?",
+    "choices": [
+      "Vì nó giúp sản phẩm trông đẹp hơn.",
+      "Vì \"Shark-Fin Curve\" rất rủi ro; các thí nghiệm vi mô cho phép PM \"nhanh chóng loại bỏ những gì không hiệu quả\" (quickly discard what doesn't resonate) trước khi đầu tư lớn.",
+      "Vì nó làm giảm nhu cầu về \"End-User Needs\".",
+      "Vì nó giúp sản phẩm được áp dụng từ từ (giống mô hình Rogers)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Tác giả khẳng định GenAI đang định nghĩa lại (redefining) vòng đời sản phẩm như thế nào?",
+    "choices": [
+      "Tương lai sẽ KHÔNG bị định hình bởi các lộ trình tĩnh (static roadmaps).",
+      "Tương lai sẽ KHÔNG bị định hình bởi tư duy cũ (legacy mindsets).",
+      "Tương lai sẽ được dẫn dắt bởi các đội nhóm \"Al-native\" (thuần AI).",
+      "Tương lai sẽ thích ứng và mở rộng quy mô theo thời gian thực (adapt, evolve, and scale in real time)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Khi một công ty đang ở giai đoạn \"Peak of Inflated Expectations\" (Đỉnh của Kỳ vọng Bị thổi phồng), họ thường làm gì?",
+    "choices": [
+      "Triển khai nhiều dự án thí điểm (Pilots) với tầm nhìn không thực tế (unrealistic Visions).",
+      "Xây dựng hạ tầng dữ liệu và AI hiện đại.",
+      "Đã đạt đến \"Plateau of Productivity\" (Cao nguyên Năng suất).",
+      "Chỉ mới bắt đầu với các PoC (Proof-of-concept)."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Nguyên lý \"Empowered Team Over Micromanagement\" ngụ ý điều gì về vai trò của người lãnh đạo (leader)?",
+    "choices": [
+      "Vai trò của lãnh đạo là vi quản lý (micromanaging) các công việc hàng ngày.",
+      "Vai trò của lãnh đạo chuyển sang \"thiết lập mục tiêu và đo lường kết quả\" (setting goals and measuring results).",
+      "Vai trò của lãnh đạo là \"cung cấp lời khuyên\" (offering advice) và \"góc nhìn từ bên ngoài\" (external perspective).",
+      "Vai trò của lãnh đạo là trao quyền tự chủ (autonomy) và quyền sở hữu (ownership) cho đội nhóm."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Empowering the Ecosystems\" (Trao quyền cho Hệ sinh thái) bằng cách nào?",
+    "choices": [
+      "Phá vỡ các \"data silos\" (kho chứa dữ liệu) bằng cách kết nối các nguồn dữ liệu (CRM, analytics) và tạo báo cáo hợp nhất.",
+      "Tạo ra các cơ sở kiến thức (knowledge bases) và tài liệu dùng chung để mọi người đều có thông tin.",
+      "Phân tích code từ các phần khác nhau của hệ sinh thái và đề xuất cách cải thiện tích hợp (integration).",
+      "Khuyến khích sở hữu riêng tư (private ownership) và các hệ thống biệt lập."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Chúng ta cần ra mắt nhanh tính năng này để xem người dùng có dùng nó không, ngay cả khi nó chưa đẹp.\" PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Quantifying Results Over Assumptions.",
+      "Understanding the Problem Over Thinking of Solutions."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Tôi sẽ không xây dựng tính năng này chỉ vì bộ phận Sales (Stakeholder) nói nó 'khẩn cấp'. Tôi muốn xem 10 cuộc phỏng vấn người dùng cuối (End-User) để hiểu 'nỗi đau' (pain point) thực sự là gì trước.\" PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "End-User Needs Over Stakeholder Opinions.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Quantifying Results Over Assumptions.",
+      "Empowered Team Over Micromanagement."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trích dẫn của Reid Hoffman \"nếu bạn không xấu hổ (embarrassed) về phiên bản đầu tiên... bạn đã ra mắt quá muộn\" minh họa cho nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Quantifying Results Over Assumptions."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách lập luận rằng tư duy \"me too\" (sao chép đối thủ) là một chiến lược tồi, đặc biệt là đối với các công ty dẫn đầu thị trường. Điều này củng cố nguyên lý nào?",
+    "choices": [
+      "Customer Obsession (Ám ảnh Khách hàng) / User-Centricity.",
+      "Empowered Team Over Micromanagement.",
+      "Simplicity Over Perfection.",
+      "Quantifying Results Over Assumptions."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI thay đổi cách tiếp cận MLP (Minimum Lovable Product) như thế nào?",
+    "choices": [
+      "GenAI cho phép cá nhân hóa (personalization) và trí tuệ cảm xúc (emotional intelligence) ở quy mô lớn.",
+      "GenAI có thể tạo ra nội dung, thiết kế và trải nghiệm được tối ưu hóa cho \"kết nối cảm xúc\" (emotional connection).",
+      "GenAI biến MLP từ \"sản phẩm đáng yêu\" thành \"hệ thống thích ứng\" (adaptive systems) tự điều chỉnh theo nhu cầu.",
+      "GenAI làm cho MLP rẻ hơn MVP."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Mục tiêu của \"Product Manifesto\" (Tuyên ngôn Sản phẩm) được mô tả trong sách là gì?",
+    "choices": [
+      "Để cung cấp các giá trị thực tế (practical values) cho công việc sản phẩm.",
+      "Để tạo ra một \"ngôi sao phương bắc\" (north star) cho văn hóa sản phẩm.",
+      "Để cung cấp các hướng dẫn thực tế và có thể lặp lại (practical and repeatable guidelines) cho các nhóm sản phẩm.",
+      "Để thay thế hoàn toàn nhu cầu về Agile hoặc Scrum."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Phép loại suy (analogy) \"Backlog như Sushi\" có nghĩa là gì?",
+    "choices": [
+      "Vì backlog càng cũ càng có giá trị (như rượu vang).",
+      "Vì backlog phải \"tươi\" (fresh) mới có giá trị; một backlog cũ (như sushi cũ) sẽ mất hiệu lực và có thể gây hiểu lầm.",
+      "Vì cả hai đều đắt tiền.",
+      "Vì backlog chỉ nên được sử dụng ở Nhật Bản."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Ba nhóm nguyên lý (Tenet Principles) chính trong \"Product Manifesto\" là gì?",
+    "choices": [
+      "User-Centric Principles (Nguyên lý Lấy người dùng làm trung tâm).",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Generative AI Principles (Nguyên lý AI tạo sinh)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) \"Product Manifesto\" (Tuyên ngôn Sản phẩm) được thiết kế để giải quyết những thách thức văn hóa nào?",
+    "choices": [
+      "Sự rõ ràng (Clarity) thắng Kiểm soát (Control).",
+      "Học hỏi (Learning) thắng Lập kế hoạch (Planning).",
+      "Hợp tác (Collaboration) thắng các Silo (Silos).",
+      "Giúp các nhóm sản phẩm đang gặp khó khăn trong việc xác định mục tiêu."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một PM sử dụng GenAI để tạo nhanh 5 phiên bản UI khác nhau cho một tính năng mới và đưa cho người dùng thử nghiệm ngay lập tức. PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Cả hai.",
+      "Không có cái nào."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả vai trò của GenAI trong \"Product Manifesto\" (Tuyên ngôn Sản phẩm) là gì?",
+    "choices": [
+      "Thay thế các nguyên lý (Tenets) cũ.",
+      "Là một nguyên lý (Tenet) thứ 8.",
+      "Để \"khuếch đại\" (amplify) các giá trị cốt lõi đã có.",
+      "Chỉ dành cho các đội nhóm kỹ thuật (technical teams)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi sách nói về \"Customer Obsession\" (Ám ảnh Khách hàng), nó có nghĩa là gì?",
+    "choices": [
+      "Chỉ làm những gì khách hàng yêu cầu.",
+      "Tập trung không ngừng vào việc hiểu những gì khách hàng thực sự muốn (truly want), chứ không chỉ là những gì họ yêu cầu (ask for).",
+      "Ám ảnh về việc đánh bại đối thủ cạnh tranh (competitor-obsessed).",
+      "Chỉ tập trung vào các khiếu nại (complaints) của khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao chiến lược \"competitor-obsessed\" (ám ảnh về đối thủ cạnh tranh) lại rủi ro?",
+    "choices": [
+      "Vì nó kìm hãm (stifle) sự đổi mới (innovation) và khác biệt hóa (differentiation) thực sự.",
+      "Vì nó quá tốn kém.",
+      "Vì nó đòi hỏi quá nhiều dữ liệu.",
+      "Vì nó dẫn đến các sản phẩm quá đơn giản (simplicity)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "\"Voice of the Customer\" (VoC) KHÔNG bao gồm điều gì sau đây?",
+    "choices": [
+      "Các bài đánh giá (Reviews) và khảo sát (Surveys).",
+      "Các ticket hỗ trợ (Support tickets).",
+      "Các giả định (assumptions) nội bộ của đội nhóm.",
+      "Các phân tích sử dụng (Usage analytics)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "GenAI giúp chuyển đổi việc lắng nghe VoC (Voice of the Customer) như thế nào?",
+    "choices": [
+      "Bằng cách tự động hóa việc tóm tắt (summarizing) VoC và phân tích cảm xúc (sentiment analysis) trên quy mô lớn.",
+      "Bằng cách thay thế nhu cầu lắng nghe VoC.",
+      "Bằng cách chỉ tập trung vào các khiếu nại tiêu cực.",
+      "Bằng cách làm cho VoC trở nên phức tạp hơn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là những ví dụ về \"Busywork\" (công việc bận rộn) mà GenAI có thể giúp \"Cut Out\" (cắt bỏ)?",
+    "choices": [
+      "Các tác vụ lặp đi lặp lại (Repetitive tasks).",
+      "Phân tích dữ liệu phức tạp (Complex data analysis).",
+      "Tư duy sáng tạo (Creative thinking).",
+      "Kết nối với khách hàng (Connecting with customers)."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Đội của tôi được trao toàn quyền (autonomy) để tìm giải pháp tốt nhất. Tôi ở đây để cung cấp mục tiêu (goals) và góc nhìn (perspective), không phải để quản lý từng bước (micromanage).\" PM này đang thể hiện nguyên lý nào?",
+    "choices": [
+      "Empowered Team Over Micromanagement.",
+      "Vai trò của lãnh đạo (leader's duty) là \"setting goals and measuring results\" (thiết lập mục tiêu và đo lường kết quả) và \"providing that essential external perspective\" (cung cấp góc nhìn thiết yếu từ bên ngoài).",
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sách mô tả văn hóa sản phẩm (product culture) mà Manifesto hướng tới là gì?",
+    "choices": [
+      "Một nơi mà Kiểm soát (Control) thắng Sự rõ ràng (Clarity).",
+      "Một nơi mà Lập kế hoạch (Planning) thắng Học hỏi (Learning).",
+      "Một nơi mà các Silo (Silos) thắng Hợp tác (Collaboration).",
+      "Một nơi mà Sự rõ ràng (Clarity) thắng Kiểm soát (Control), Học hỏi (Learning) thắng Lập kế hoạch (Planning), và Hợp tác (Collaboration) thắng các Silo (Silos)."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Theo sách, GenAI đang làm cho vai trò của PM (Product Manager) trở nên như thế nào?",
+    "choices": [
+      "Ít quan trọng hơn vì AI tự động hóa mọi thứ.",
+      "Nhiều chiến lược (data-driven, human-centered) hơn.",
+      "Không còn là \"backlog managers\" (người quản lý backlog) nữa.",
+      "Trở thành \"systems thinkers\" (người tư duy hệ thống) và \"experience architects\" (kiến trúc sư trải nghiệm)."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM sử dụng GenAI để phân tích các ticket hỗ trợ và nhận thấy 30% người dùng gặp sự cố ở bước X. PM này ngay lập tức tạo một prototype (nguyên mẫu) bằng GenAI để kiểm tra một quy trình (flow) mới đơn giản hơn. PM này đang áp dụng các nguyên lý nào?",
+    "choices": [
+      "Understanding the Problem (Hiểu vấn đề - từ dữ liệu ticket).",
+      "Simplicity over Perfection (Tạo flow đơn giản hơn).",
+      "Shipping to Learn (Tạo prototype nhanh để kiểm tra).",
+      "Quantifying Results (Phân tích 30% ticket)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của cuốn \"The Generative AI Product Playbook\" là gì?",
+    "choices": [
+      "Cung cấp một lý thuyết về AI tạo sinh.",
+      "Hướng dẫn cách lập trình các mô hình AI.",
+      "Cung cấp hướng dẫn thực tế để xây dựng một \"product playbook\" (sổ tay sản phẩm) và tư duy sản phẩm trong thời đại AI.",
+      "So sánh các công cụ AI tạo sinh khác nhau trên thị trường."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách cho rằng AI tạo sinh sẽ KHÔNG thể sửa chữa được điều gì?",
+    "choices": [
+      "Quy trình onboarding chậm.",
+      "Văn hóa sản phẩm bị rạn nứt (broken product culture).",
+      "Các thử nghiệm A/B tốn kém.",
+      "Việc thiếu dữ liệu khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá khứ, các PM (Product Manager) dựa vào lý thuyết nào để mô tả việc thâm nhập thị trường?",
+    "choices": [
+      "Diffusion of Innovation (Khuếch tán Đổi mới) của Everett Rogers.",
+      "The Hook Model (Mô hình Móc) của Nir Eyal.",
+      "The Hype Cycle (Chu kỳ Hưng phấn) của Gartner.",
+      "The Agile Manifesto (Tuyên ngôn Agile)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mô hình \"Shark-Fin Curve\" (Đường cong Vây Cá mập) mô tả hiện tượng gì?",
+    "choices": [
+      "Sản phẩm được áp dụng từ từ nhưng ổn định theo thời gian.",
+      "Sản phẩm tăng vọt nhanh chóng (rapid spike) rồi sụt giảm đột ngột (sudden drop-off) nếu không mang lại giá trị.",
+      "Sản phẩm chỉ dành cho \"Innovators\" (Người đổi mới) và \"Early Adopters\" (Người chấp nhận sớm).",
+      "Sản phẩm có lợi nhuận ổn định như vây cá mập."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo mô hình \"Gartner Hype Cycle\", giai đoạn \"Trough of Disillusionment\" (Đáy của sự vỡ mộng) còn có tên gọi khác là gì?",
+    "choices": [
+      "Valley of Tears (Thung lũng Nước mắt).",
+      "Peak of Inflated Expectations (Đỉnh của Kỳ vọng Bị thổi phồng).",
+      "Slope of Enlightenment (Dốc của sự Khai sáng).",
+      "Plateau of Productivity (Cao nguyên Năng suất)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vào năm 2023, theo sách, GenAI bắt đầu ở giai đoạn nào của Hype Cycle?",
+    "choices": [
+      "Peak of Inflated Expectations (Đỉnh của Kỳ vọng Bị thổi phồng).",
+      "Plateau of Productivity (Cao nguyên Năng suất).",
+      "Innovation Trigger (Kích hoạt Đổi mới).",
+      "Trough of Disillusionment (Đáy của sự Vỡ mộng)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý (Tenet) \"Simplicity Over Perfection\" (Đơn giản hơn Hoàn hảo) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles (Nguyên lý Lấy người dùng làm trung tâm).",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Financial Principles (Nguyên lý Tài chính)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Quantifying Results Over Assumptions\" (Đo lường Kết quả hơn Giả định) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles.",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles.",
+      "Agile Principles."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Empowered Team Over Micromanagement\" (Đội nhóm được trao quyền hơn Vi quản lý) thuộc nhóm nào?",
+    "choices": [
+      "User-Centric Principles.",
+      "Result-Driven Principles.",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Leadership Principles."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Câu trích dẫn \"Fall in love with the problem, not the solution\" (Hãy yêu vấn đề, đừng yêu giải pháp) của Uri Levin (Waze) minh họa cho nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Shipping to Learn Over Shipping When Perfect."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Shipping to Learn Over Shipping When Perfect\" (Ra mắt để Học hỏi hơn Ra mắt khi Hoàn hảo) có nghĩa là gì?",
+    "choices": [
+      "Phải trì hoãn ra mắt cho đến khi sản phẩm không còn lỗi.",
+      "Ra mắt nhanh (launching quickly) một sản phẩm \"đủ tốt để học\" (good enough to learn), thu thập phản hồi và lặp lại (iterate) nhanh chóng.",
+      "Chỉ ra mắt khi sản phẩm đã hoàn hảo (perfect).",
+      "Việc học hỏi quan trọng hơn việc ra mắt sản phẩm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách định nghĩa MVP (Minimum Viable Product) là gì?",
+    "choices": [
+      "Một sản phẩm truyền cảm hứng và làm hài lòng người dùng.",
+      "Một sản phẩm có chức năng (functional product) với nỗ lực tối thiểu (minimal effort) chỉ để kiểm tra các giả định thị trường.",
+      "Một sản phẩm được cá nhân hóa động (dynamic personalization).",
+      "Một sản phẩm đã hoàn thiện và sẵn sàng để nhân rộng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách định nghĩa MLP (Minimum Lovable Product) là gì?",
+    "choices": [
+      "Một sản phẩm chỉ có các chức năng cốt lõi.",
+      "Một sản phẩm không chỉ hoạt động (work) mà còn thực sự truyền cảm hứng và làm hài lòng (inspire and delight) người dùng.",
+      "Một sản phẩm được xây dựng trong vài giờ bằng GenAI.",
+      "Một sản phẩm tập trung vào việc sửa lỗi."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "\"Product Tenets\" (Các nguyên lý sản phẩm) được mô tả là gì?",
+    "choices": [
+      "Các lý tưởng trừu tượng.",
+      "Các giá trị thực tế (practical values) và niềm tin không thể thương lượng (non-negotiable beliefs) hướng dẫn cách chúng ta xây dựng sản phẩm.",
+      "Một danh sách các tính năng bắt buộc.",
+      "Các quy tắc bắt buộc của phương pháp Scrum."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "GenAI giúp các PM (Product Manager) như thế nào trong việc \"Hiểu người dùng\" (Understand Users)?",
+    "choices": [
+      "Bằng cách thay thế các cuộc phỏng vấn người dùng.",
+      "Bằng cách tự động sàng lọc (sift through) lượng lớn feedback của khách hàng để tìm ra nhu cầu thực sự.",
+      "Bằng cách tạo ra các persona ngẫu nhiên.",
+      "Bằng cách chỉ tập trung vào dữ liệu định lượng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "GenAI giúp các PM \"Học nhanh hơn\" (Learn Way Faster) bằng cách nào?",
+    "choices": [
+      "Bằng cách tăng tốc chu kỳ \"build-test-learn\" (xây dựng-kiểm thử-học hỏi) và tạo mẫu (prototypes) nhanh hơn.",
+      "Bằng cách đọc sách nhanh hơn.",
+      "Bằng cách loại bỏ hoàn toàn nhu cầu kiểm thử (testing).",
+      "Bằng cách chỉ tập trung vào các giả định (assumptions)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tác giả Jeff Bezos được trích dẫn về việc nhấn mạnh điều gì?",
+    "choices": [
+      "\"Tối đa hóa tỷ lệ thử nghiệm\" (maximize the rate of experimentation).",
+      "\"Đơn giản hơn Hoàn hảo\" (Simplicity Over Perfection).",
+      "\"Yêu vấn đề, không yêu giải pháp\" (Love the problem, not the solution).",
+      "\"Tập trung vào đối thủ cạnh tranh\" (Focus on the competitor)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên lý \"Empowering the Ecosystems\" (Trao quyền cho Hệ sinh thái) có nghĩa là gì?",
+    "choices": [
+      "Chỉ sử dụng các công cụ nội bộ (private ownership).",
+      "Xây dựng các sản phẩm \"cô lập\" (isolate users).",
+      "Xây dựng các sản phẩm \"phù hợp\" (fit into) và \"bổ sung\" (compliments) cho các giải pháp hiện có, tạo ra trải nghiệm gắn kết.",
+      "Chỉ tập trung vào một sản phẩm duy nhất."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả GenAI như một \"Force Multiplier\" (Hệ số nhân) cho các đội nhóm, nghĩa là gì?",
+    "choices": [
+      "AI thay thế các thành viên trong nhóm.",
+      "AI tự động hóa các tác vụ lặp lại (routine tasks), giải phóng thời gian cho đội nhóm tập trung vào chiến lược và đổi mới.",
+      "AI làm cho mọi người làm việc nhiều giờ hơn.",
+      "AI chỉ hữu ích cho các kỹ sư (engineers)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo sách, GenAI đang định hình lại nghề quản lý sản phẩm như thế nào?",
+    "choices": [
+      "Nó chỉ là một xu hướng công nghệ mới.",
+      "Nó đang định hình lại (reshaping) cách PM khám phá nhu cầu người dùng, cách giao hàng và học hỏi từ việc sử dụng thực tế.",
+      "Nó làm cho vai trò PM trở nên ít quan trọng hơn.",
+      "Nó chỉ hữu ích cho việc viết release notes."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đặc điểm chính của \"Shark-Fin Curve\" (Đường cong Vây Cá mập) là gì?",
+    "choices": [
+      "Sự tăng trưởng người dùng đột biến, nhanh chóng (rapid spike).",
+      "Sự sụt giảm đột ngột (sudden drop-off) nếu sản phẩm không mang lại giá trị lâu dài.",
+      "Một đường cong rủi ro hơn (riskier curve), đòi hỏi ra quyết định nhanh.",
+      "Sự thâm nhập từ từ qua 5 nhóm người dùng (Rogers)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại sao mô hình \"Shark-Fin Curve\" lại đòi hỏi các nhóm sản phẩm phải \"thử nghiệm nhanh\" (quick experiments)?",
+    "choices": [
+      "Bởi vì người dùng ngày nay kiên nhẫn hơn.",
+      "Bởi vì 100 người dùng đầu tiên có thể đến trong vài giờ (thay vì vài tháng) và cũng có thể biến mất nhanh như vậy.",
+      "Bởi vì chi phí quảng cáo đã giảm.",
+      "Bởi vì mô hình Rogers yêu cầu như vậy."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vào năm 2024 (theo sách), các công ty gặp phải vấn đề gì khiến họ rơi vào \"Valley of Tears\" (Thung lũng Nước mắt)?",
+    "choices": [
+      "Các dự án PoC (Proof-of-concept) không thể nhân rộng (didn't scale).",
+      "Chất lượng dữ liệu kém (Poor data quality).",
+      "Chi phí cao (High costs) và các thách thức về tích hợp (integration challenges).",
+      "Tất cả các ý trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Các công ty đang (giả định) vào năm 2025 vượt qua \"Valley of Tears\" để đi lên \"Slope of Enlightenment\" đã làm gì?",
+    "choices": [
+      "Họ đầu tư sớm vào hạ tầng dữ liệu hiện đại, nhân tài agile, và hệ thống phản hồi lặp lại.",
+      "Họ quay lại sử dụng mô hình Rogers.",
+      "Họ ngừng tất cả các dự án AI.",
+      "Họ chỉ tập trung vào các PoC (Proof-of-concept) nhỏ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sách nói GenAI chuyển PM từ \"Discovery\" sang \"Co-Creation\" (Đồng sáng tạo), điều đó có nghĩa là gì?",
+    "choices": [
+      "PM không còn cần khám phá (discovery) nữa.",
+      "PM có thể tổng hợp feedback, phân tích cảm xúc và \"đồng sáng tạo\" các đề xuất giá trị với người dùng trong vài giờ, thay vì vài tuần.",
+      "Người dùng tự viết code.",
+      "AI tự động tạo ra sản phẩm hoàn chỉnh."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Bảng Hướng dẫn Quyết định (Decision Guide) so sánh MVP và MLP ngụ ý điều gì?",
+    "choices": [
+      "MVP là lựa chọn tốt nhất nếu mục tiêu chính là \"tốc độ và học hỏi\" (speed and learning).",
+      "MLP là lựa chọn tốt nhất nếu mục tiêu là \"lòng trung thành thương hiệu\" (brand loyalty).",
+      "MVP là để kiểm tra xem \"vấn đề có thật hay không\" (problem is real).",
+      "GenAI làm cho cả hai cách tiếp cận MVP và MLP đều trở nên nhanh hơn và tốt hơn (ví dụ: mô phỏng, cá nhân hóa)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Tại sao nguyên lý \"End-User Needs Over Stakeholder Opinions\" (Nhu cầu Người dùng cuối > Ý kiến Các bên liên quan) lại quan trọng?",
+    "choices": [
+      "Vì các bên liên quan (stakeholders) luôn sai.",
+      "Vì các quyết định sản phẩm không thể chỉ dựa trên ý kiến (opinion alone) mà phải dựa trên dữ liệu và tập trung vào khách hàng.",
+      "Vì người dùng cuối là người trả tiền.",
+      "Vì các bên liên quan không tham gia vào quá trình phát triển."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Quantifying Results\" (Đo lường Kết quả) và \"Shipping to Learn\" (Ra mắt để Học hỏi) như thế nào?",
+    "choices": [
+      "Tự động hóa việc phân tích KPI và tạo báo cáo.",
+      "Đề xuất các điều chỉnh sản phẩm dựa trên phân tích dữ liệu.",
+      "Tăng tốc đáng kể việc tạo ra các MVP và nguyên mẫu (prototypes).",
+      "Tạo dữ liệu tổng hợp (synthetic data) để kiểm thử sớm."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Empowered Team\" (Đội nhóm được trao quyền) và \"Empowering Ecosystems\" (Trao quyền cho Hệ sinh thái) như thế nào?",
+    "choices": [
+      "Tự động hóa các tác vụ lặp lại (ví dụ: tóm tắt cuộc họp, báo cáo) để giải phóng thời gian cho tư duy chiến lược.",
+      "Phá vỡ các \"data silos\" (kho chứa dữ liệu) bằng cách kết nối các nguồn dữ liệu (CRM, analytics) và tạo báo cáo hợp nhất.",
+      "Tạo ra các cơ sở kiến thức (knowledge bases) và tài liệu dùng chung.",
+      "Thay thế vai trò của các nhà quản lý (managers)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một PM nhận được yêu cầu từ CEO (Stakeholder) về một tính năng mới. Thay vì làm ngay, PM sử dụng GenAI để phân tích feedback của người dùng và dữ liệu thị trường, sau đó trình bày lại rằng tính năng này không giải quyết nhu cầu cốt lõi. PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Empowered Team Over Micromanagement."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc \"hiểu bối cảnh\" (understanding the context) lại quan trọng đối với nguyên lý \"Understanding the Problem\"?",
+    "choices": [
+      "Vì nó giúp tạo ra nhiều giải pháp (solutions) hơn.",
+      "Vì nó giúp PM đồng cảm (empathy) và hiểu được \"tại sao\" (why) đằng sau vấn đề của người dùng, thay vì chỉ giải quyết các triệu chứng bề mặt.",
+      "Vì bối cảnh giúp xác định chi phí (costs).",
+      "Vì nó là yêu cầu của stakeholder."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo sách, một \"Product Manifesto\" (Tuyên ngôn Sản phẩm) tốt nên là gì?",
+    "choices": [
+      "Một tài liệu lý thuyết trừu tượng (abstract ideals).",
+      "Một danh sách các quy tắc cứng nhắc (rigid rules).",
+      "Một \"ngôi sao phương bắc\" (north star) và là nền tảng (baseline) cho một văn hóa sản phẩm hiện đại.",
+      "Một tài liệu chỉ dành cho các Product Manager."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả sự thay đổi tư duy (mindset shift) của PM trong thời đại GenAI là gì?",
+    "choices": [
+      "Từ \"facilitators\" (người điều phối) sang \"systems thinkers\" (người tư duy hệ thống) và \"experience architects\" (kiến trúc sư trải nghiệm).",
+      "Từ \"strategists\" (chiến lược gia) sang \"backlog managers\" (người quản lý backlog).",
+      "Từ \"coders\" (lập trình viên) sang \"managers\" (quản lý).",
+      "Từ \"data analysts\" (nhà phân tích dữ liệu) sang \"facilitators\" (người điều phối)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Các nguyên lý (Tenets) thuộc nhóm \"User-Centric Principles\" (Nguyên lý Lấy người dùng làm trung tâm) là gì?",
+    "choices": [
+      "Simplicity over Perfection.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "End-User Needs Over Stakeholder Opinions.",
+      "MVP vs. MLP."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Trích dẫn của Jeff Bezos về việc \"tối đa hóa tỷ lệ thử nghiệm\" và \"giảm chi phí thử nghiệm\" liên quan trực tiếp đến nguyên lý nào?",
+    "choices": [
+      "Empowered Team Over Micromanagement.",
+      "Quantifying Results Over Assumptions.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Simplicity Over Perfection."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao việc GenAI giúp tạo ra các \"micro-experiments\" (thí nghiệm vi mô) lại quan trọng trong mô hình \"Shark-Fin Curve\"?",
+    "choices": [
+      "Vì nó giúp sản phẩm trông đẹp hơn.",
+      "Vì \"Shark-Fin Curve\" rất rủi ro; các thí nghiệm vi mô cho phép PM \"nhanh chóng loại bỏ những gì không hiệu quả\" (quickly discard what doesn't resonate) trước khi đầu tư lớn.",
+      "Vì nó làm giảm nhu cầu về \"End-User Needs\".",
+      "Vì nó giúp sản phẩm được áp dụng từ từ (giống mô hình Rogers)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Tác giả khẳng định GenAI đang định nghĩa lại (redefining) vòng đời sản phẩm như thế nào?",
+    "choices": [
+      "Tương lai sẽ KHÔNG bị định hình bởi các lộ trình tĩnh (static roadmaps).",
+      "Tương lai sẽ KHÔNG bị định hình bởi tư duy cũ (legacy mindsets).",
+      "Tương lai sẽ được dẫn dắt bởi các đội nhóm \"Al-native\" (thuần AI).",
+      "Tương lai sẽ thích ứng và mở rộng quy mô theo thời gian thực (adapt, evolve, and scale in real time)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Khi một công ty đang ở giai đoạn \"Peak of Inflated Expectations\" (Đỉnh của Kỳ vọng Bị thổi phồng), họ thường làm gì?",
+    "choices": [
+      "Triển khai nhiều dự án thí điểm (Pilots) với tầm nhìn không thực tế (unrealistic Visions).",
+      "Xây dựng hạ tầng dữ liệu và AI hiện đại.",
+      "Đã đạt đến \"Plateau of Productivity\" (Cao nguyên Năng suất).",
+      "Chỉ mới bắt đầu với các PoC (Proof-of-concept)."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Nguyên lý \"Empowered Team Over Micromanagement\" ngụ ý điều gì về vai trò của người lãnh đạo (leader)?",
+    "choices": [
+      "Vai trò của lãnh đạo là vi quản lý (micromanaging) các công việc hàng ngày.",
+      "Vai trò của lãnh đạo chuyển sang \"thiết lập mục tiêu và đo lường kết quả\" (setting goals and measuring results).",
+      "Vai trò của lãnh đạo là \"cung cấp lời khuyên\" (offering advice) và \"góc nhìn từ bên ngoài\" (external perspective).",
+      "Vai trò của lãnh đạo là trao quyền tự chủ (autonomy) và quyền sở hữu (ownership) cho đội nhóm."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI giúp khuếch đại nguyên lý \"Empowering the Ecosystems\" (Trao quyền cho Hệ sinh thái) bằng cách nào?",
+    "choices": [
+      "Phá vỡ các \"data silos\" (kho chứa dữ liệu) bằng cách kết nối các nguồn dữ liệu (CRM, analytics) và tạo báo cáo hợp nhất.",
+      "Tạo ra các cơ sở kiến thức (knowledge bases) và tài liệu dùng chung để mọi người đều có thông tin.",
+      "Phân tích code từ các phần khác nhau của hệ sinh thái và đề xuất cách cải thiện tích hợp (integration).",
+      "Khuyến khích sở hữu riêng tư (private ownership) và các hệ thống biệt lập."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Chúng ta cần ra mắt nhanh tính năng này để xem người dùng có dùng nó không, ngay cả khi nó chưa đẹp.\" PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Quantifying Results Over Assumptions.",
+      "Understanding the Problem Over Thinking of Solutions."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Tôi sẽ không xây dựng tính năng này chỉ vì bộ phận Sales (Stakeholder) nói nó 'khẩn cấp'. Tôi muốn xem 10 cuộc phỏng vấn người dùng cuối (End-User) để hiểu 'nỗi đau' (pain point) thực sự là gì trước.\" PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "End-User Needs Over Stakeholder Opinions.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Quantifying Results Over Assumptions.",
+      "Empowered Team Over Micromanagement."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Trích dẫn của Reid Hoffman \"nếu bạn không xấu hổ (embarrassed) về phiên bản đầu tiên... bạn đã ra mắt quá muộn\" minh họa cho nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Understanding the Problem Over Thinking of Solutions.",
+      "Quantifying Results Over Assumptions."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách lập luận rằng tư duy \"me too\" (sao chép đối thủ) là một chiến lược tồi, đặc biệt là đối với các công ty dẫn đầu thị trường. Điều này củng cố nguyên lý nào?",
+    "choices": [
+      "Customer Obsession (Ám ảnh Khách hàng) / User-Centricity.",
+      "Empowered Team Over Micromanagement.",
+      "Simplicity Over Perfection.",
+      "Quantifying Results Over Assumptions."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) GenAI thay đổi cách tiếp cận MLP (Minimum Lovable Product) như thế nào?",
+    "choices": [
+      "GenAI cho phép cá nhân hóa (personalization) và trí tuệ cảm xúc (emotional intelligence) ở quy mô lớn.",
+      "GenAI có thể tạo ra nội dung, thiết kế và trải nghiệm được tối ưu hóa cho \"kết nối cảm xúc\" (emotional connection).",
+      "GenAI biến MLP từ \"sản phẩm đáng yêu\" thành \"hệ thống thích ứng\" (adaptive systems) tự điều chỉnh theo nhu cầu.",
+      "GenAI làm cho MLP rẻ hơn MVP."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Mục tiêu của \"Product Manifesto\" (Tuyên ngôn Sản phẩm) được mô tả trong sách là gì?",
+    "choices": [
+      "Để cung cấp các giá trị thực tế (practical values) cho công việc sản phẩm.",
+      "Để tạo ra một \"ngôi sao phương bắc\" (north star) cho văn hóa sản phẩm.",
+      "Để cung cấp các hướng dẫn thực tế và có thể lặp lại (practical and repeatable guidelines) cho các nhóm sản phẩm.",
+      "Để thay thế hoàn toàn nhu cầu về Agile hoặc Scrum."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Phép loại suy (analogy) \"Backlog như Sushi\" có nghĩa là gì?",
+    "choices": [
+      "Vì backlog càng cũ càng có giá trị (như rượu vang).",
+      "Vì backlog phải \"tươi\" (fresh) mới có giá trị; một backlog cũ (như sushi cũ) sẽ mất hiệu lực và có thể gây hiểu lầm.",
+      "Vì cả hai đều đắt tiền.",
+      "Vì backlog chỉ nên được sử dụng ở Nhật Bản."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Ba nhóm nguyên lý (Tenet Principles) chính trong \"Product Manifesto\" là gì?",
+    "choices": [
+      "User-Centric Principles (Nguyên lý Lấy người dùng làm trung tâm).",
+      "Result-Driven Principles (Nguyên lý Hướng đến Kết quả).",
+      "Team-Focused Principles (Nguyên lý Tập trung vào Đội nhóm).",
+      "Generative AI Principles (Nguyên lý AI tạo sinh)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) \"Product Manifesto\" (Tuyên ngôn Sản phẩm) được thiết kế để giải quyết những thách thức văn hóa nào?",
+    "choices": [
+      "Sự rõ ràng (Clarity) thắng Kiểm soát (Control).",
+      "Học hỏi (Learning) thắng Lập kế hoạch (Planning).",
+      "Hợp tác (Collaboration) thắng các Silo (Silos).",
+      "Giúp các nhóm sản phẩm đang gặp khó khăn trong việc xác định mục tiêu."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một PM sử dụng GenAI để tạo nhanh 5 phiên bản UI khác nhau cho một tính năng mới và đưa cho người dùng thử nghiệm ngay lập tức. PM này đang áp dụng nguyên lý nào?",
+    "choices": [
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect.",
+      "Cả hai.",
+      "Không có cái nào."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách mô tả vai trò của GenAI trong \"Product Manifesto\" (Tuyên ngôn Sản phẩm) là gì?",
+    "choices": [
+      "Thay thế các nguyên lý (Tenets) cũ.",
+      "Là một nguyên lý (Tenet) thứ 8.",
+      "Để \"khuếch đại\" (amplify) các giá trị cốt lõi đã có.",
+      "Chỉ dành cho các đội nhóm kỹ thuật (technical teams)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi sách nói về \"Customer Obsession\" (Ám ảnh Khách hàng), nó có nghĩa là gì?",
+    "choices": [
+      "Chỉ làm những gì khách hàng yêu cầu.",
+      "Tập trung không ngừng vào việc hiểu những gì khách hàng thực sự muốn (truly want), chứ không chỉ là những gì họ yêu cầu (ask for).",
+      "Ám ảnh về việc đánh bại đối thủ cạnh tranh (competitor-obsessed).",
+      "Chỉ tập trung vào các khiếu nại (complaints) của khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao chiến lược \"competitor-obsessed\" (ám ảnh về đối thủ cạnh tranh) lại rủi ro?",
+    "choices": [
+      "Vì nó kìm hãm (stifle) sự đổi mới (innovation) và khác biệt hóa (differentiation) thực sự.",
+      "Vì nó quá tốn kém.",
+      "Vì nó đòi hỏi quá nhiều dữ liệu.",
+      "Vì nó dẫn đến các sản phẩm quá đơn giản (simplicity)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "\"Voice of the Customer\" (VoC) KHÔNG bao gồm điều gì sau đây?",
+    "choices": [
+      "Các bài đánh giá (Reviews) và khảo sát (Surveys).",
+      "Các ticket hỗ trợ (Support tickets).",
+      "Các giả định (assumptions) nội bộ của đội nhóm.",
+      "Các phân tích sử dụng (Usage analytics)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "GenAI giúp chuyển đổi việc lắng nghe VoC (Voice of the Customer) như thế nào?",
+    "choices": [
+      "Bằng cách tự động hóa việc tóm tắt (summarizing) VoC và phân tích cảm xúc (sentiment analysis) trên quy mô lớn.",
+      "Bằng cách thay thế nhu cầu lắng nghe VoC.",
+      "Bằng cách chỉ tập trung vào các khiếu nại tiêu cực.",
+      "Bằng cách làm cho VoC trở nên phức tạp hơn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là những ví dụ về \"Busywork\" (công việc bận rộn) mà GenAI có thể giúp \"Cut Out\" (cắt bỏ)?",
+    "choices": [
+      "Các tác vụ lặp đi lặp lại (Repetitive tasks).",
+      "Phân tích dữ liệu phức tạp (Complex data analysis).",
+      "Tư duy sáng tạo (Creative thinking).",
+      "Kết nối với khách hàng (Connecting with customers)."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM nói: \"Đội của tôi được trao toàn quyền (autonomy) để tìm giải pháp tốt nhất. Tôi ở đây để cung cấp mục tiêu (goals) và góc nhìn (perspective), không phải để quản lý từng bước (micromanage).\" PM này đang thể hiện nguyên lý nào?",
+    "choices": [
+      "Empowered Team Over Micromanagement.",
+      "Vai trò của lãnh đạo (leader's duty) là \"setting goals and measuring results\" (thiết lập mục tiêu và đo lường kết quả) và \"providing that essential external perspective\" (cung cấp góc nhìn thiết yếu từ bên ngoài).",
+      "Simplicity Over Perfection.",
+      "Shipping to Learn Over Shipping When Perfect."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sách mô tả văn hóa sản phẩm (product culture) mà Manifesto hướng tới là gì?",
+    "choices": [
+      "Một nơi mà Kiểm soát (Control) thắng Sự rõ ràng (Clarity).",
+      "Một nơi mà Lập kế hoạch (Planning) thắng Học hỏi (Learning).",
+      "Một nơi mà các Silo (Silos) thắng Hợp tác (Collaboration).",
+      "Một nơi mà Sự rõ ràng (Clarity) thắng Kiểm soát (Control), Học hỏi (Learning) thắng Lập kế hoạch (Planning), và Hợp tác (Collaboration) thắng các Silo (Silos)."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Theo sách, GenAI đang làm cho vai trò của PM (Product Manager) trở nên như thế nào?",
+    "choices": [
+      "Ít quan trọng hơn vì AI tự động hóa mọi thứ.",
+      "Nhiều chiến lược (data-driven, human-centered) hơn.",
+      "Không còn là \"backlog managers\" (người quản lý backlog) nữa.",
+      "Trở thành \"systems thinkers\" (người tư duy hệ thống) và \"experience architects\" (kiến trúc sư trải nghiệm)."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một PM sử dụng GenAI để phân tích các ticket hỗ trợ và nhận thấy 30% người dùng gặp sự cố ở bước X. PM này ngay lập tức tạo một prototype (nguyên mẫu) bằng GenAI để kiểm tra một quy trình (flow) mới đơn giản hơn. PM này đang áp dụng các nguyên lý nào?",
+    "choices": [
+      "Understanding the Problem (Hiểu vấn đề - từ dữ liệu ticket).",
+      "Simplicity over Perfection (Tạo flow đơn giản hơn).",
+      "Shipping to Learn (Tạo prototype nhanh để kiểm tra).",
+      "Quantifying Results (Phân tích 30% ticket)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Case Study) Yếu tố nào giúp Bible App tăng mạnh \"Ability\" (Khả năng) cho người dùng thực hiện \"Hành động\" (Action) đọc Kinh Thánh?",
+    "choices": [
+      "Chỉ cung cấp phiên bản King James.",
+      "[cite_start]Cung cấp các \"Kế hoạch đọc\" (Reading Plans) chia nhỏ nội dung và tùy chọn nghe Audio. [cite: 8318-8319, 8351]",
+      "Yêu cầu người dùng đăng nhập trước khi đọc.",
+      "Gửi thông báo đẩy (push notification) mỗi giờ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Case Study) Bible App sử dụng \"Kế hoạch đọc\" (Reading Plans) để làm gì?",
+    "choices": [
+      "[cite_start]Để tăng sự tương tác hàng ngày (daily engagement) của người dùng. [cite: 8323]",
+      "Để bán các gói nội dung cao cấp.",
+      "Để cạnh tranh trực tiếp với các ứng dụng thiền định.",
+      "Để giảm số lượng Kích hoạt Bên trong (Internal Triggers)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Case Study) Kích hoạt (Trigger) nào mà Bible App ban đầu lo sợ khi sử dụng, nhưng sau đó lại thấy cực kỳ hiệu quả?",
+    "choices": [
+      "Email nhắc nhở hàng tuần.",
+      "[cite_start]Thông báo đẩy (push notification). [cite: 8326]",
+      "Quảng cáo trả phí (Paid Triggers) trên Facebook.",
+      "Kích hoạt Quan hệ (Relationship Trigger) từ bạn bè."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Case Study) Việc người dùng highlight, bookmark, và bình luận trong Bible App là ví dụ của giai đoạn nào?",
+    "choices": [
+      "Kích hoạt (Trigger)",
+      "Hành động (Action)",
+      "Phần thưởng Biến đổi (Variable Reward)",
+      "Đầu tư (Investment)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "(Habit Testing) \"Habit Testing\" là một quy trình gồm 3 bước. Chúng là gì?",
+    "choices": [
+      "1. Xây dựng (Build)\n\n2. Đo lường (Measure)\n\n3. Học hỏi (Learn)",
+      "1. Kích hoạt (Trigger)\n\n2. Hành động (Action)\n\n3. Phần thưởng (Reward)",
+      "1. Nhận diện (Identify)\n\n2. Mã hóa (Codify)\n\n3. [cite_start]Điều chỉnh (Modify) [cite: 8433-8460]",
+      "1. Thu hút (Acquire)\n\n2. Kích hoạt (Activate)\n\n3. Giữ chân (Retain)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "(Habit Testing) \"Habit Path\" (Con đường Thói quen) là gì?",
+    "choices": [
+      "[cite_start]Chuỗi hành động chung mà người dùng trung thành (devotees) thực hiện. [cite: 8456]",
+      "Lộ trình các tính năng mới sẽ được phát triển.",
+      "Cảm xúc mà người dùng trải qua khi dùng sản phẩm.",
+      "Cách người dùng mô tả sản phẩm cho bạn bè."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Habit Testing) Đâu KHÔNG phải là một \"nơi\" (cơ hội) để tìm kiếm các sản phẩm tạo thói quen mới được đề cập trong Ch. 8?",
+    "choices": [
+      "[cite_start]Các hành vi sơ khai (Nascent Behaviors) [cite: 8493]",
+      "Các trải nghiệm có tính biến đổi hữu hạn (Finite Variability)",
+      "[cite_start]Các công nghệ hỗ trợ (Enabling Technologies) [cite: 8521]",
+      "[cite_start]Các thay đổi về giao diện (Interface Change) [cite: 8536]"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Habit Testing) Ví dụ về \"Nascent Behavior\" (Hành vi sơ khai) trở thành xu hướng chủ đạo là gì?",
+    "choices": [
+      "[cite_start]Việc Facebook ban đầu chỉ dành cho sinh viên Harvard. [cite: 8511]",
+      "Việc Google tối ưu hóa thuật toán tìm kiếm.",
+      "Việc Amazon bán sách trực tuyến.",
+      "Việc Microsoft tạo ra hệ điều hành Windows."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Case Study) \"Phần thưởng Biến đổi\" (Variable Reward) chính trong Bible App là gì?",
+    "choices": [
+      "Màn hình \"Day Complete!\" (Phần thưởng Tự thân)[cite_start]. [cite: 8367]",
+      "[cite_start]Lời động viên từ cộng đồng (Phần thưởng Xã hội). [cite: 8341]",
+      "[cite_start]Sự không chắc chắn về \"Verse of the Day\" (Câu Kinh thánh của Ngày) và nó liên quan đến cuộc sống người dùng như thế nào (Phần thưởng Săn lùng/Tự thân). [cite: 8365-8366]",
+      "Số lượng thông báo đẩy (push notification) nhận được."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "(Case Study) Việc Bible App hiển thị màn hình \"Day Complete!\" và đánh dấu check vào lịch là ví dụ của Heuristic nào (từ Ch. 3)?",
+    "choices": [
+      "Hiệu ứng Khan hiếm (Scarcity Effect).",
+      "[cite_start]Hiệu ứng Tiến triển được Ban tặng (Endowed Progress Effect). [cite: 8369]",
+      "Hiệu ứng Mỏ neo (Anchoring Effect).",
+      "Hiệu ứng Đóng khung (Framing Effect)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Habit Testing) Trong bước \"Identify\" (Nhận diện), quy tắc chung (rule of thumb) về số lượng người dùng trung thành tối thiểu bạn cần tìm là bao nhiêu?",
+    "choices": [
+      "0.01",
+      "[cite_start]5% [cite: 8449]",
+      "0.2",
+      "0.5"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Habit Testing) Ví dụ về việc Buffer được tạo ra (Joel Gascoigne) minh họa cho cơ hội nào?",
+    "choices": [
+      "[cite_start]\"Gãi đúng chỗ ngứa của bạn\" (Scratching your own itch) / Trở thành \"Facilitator\". [cite: 8477-8487]",
+      "Khai thác Hành vi Sơ khai (Nascent Behavior).",
+      "Tận dụng Công nghệ Hỗ trợ (Enabling Technology) mới.",
+      "Tận dụng sự thay đổi Giao diện (Interface Change)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) (Case Study) Những khoản \"Đầu tư\" (Investment) nào trong Bible App giúp \"Lưu trữ Giá trị\" (Store Value) và tăng chi phí chuyển đổi (switching cost)?",
+    "choices": [
+      "[cite_start]Các câu Kinh thánh đã highlight. [cite: 8391]",
+      "[cite_start]Các bookmark đã lưu. [cite: 8391]",
+      "[cite_start]Các bình luận (notes) đã viết. [cite: 8391]",
+      "[cite_start]Số ngày đọc liên tục (streaks) đã tích lũy. [cite: 8367-8369]"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Habit Testing) Twitter phát hiện ra rằng người dùng mới \"theo dõi 30 người\" là điểm bùng phát (tipping point). Đây là kết quả của bước nào trong Habit Testing?",
+    "choices": [
+      "Bước 1: Identify (Nhận diện)",
+      "[cite_start]Bước 2: Codify (Mã hóa \"Habit Path\") [cite: 8456-8457]",
+      "Bước 3: Modify (Điều chỉnh)",
+      "Phân tích Vùng Thói quen (Habit Zone Analysis)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) (Case Study) Bible App đã sử dụng những Kích hoạt Bên ngoài (External Triggers) nào để kéo người dùng quay lại?",
+    "choices": [
+      "[cite_start]Thông báo đẩy \"Đừng quên...\" (Kích hoạt Sở hữu - Owned). [cite: 8333-8334]",
+      "[cite_start]Email nhắc nhở khi lỡ nhịp (Kích hoạt Sở hữu - Owned). [cite: 8339]",
+      "[cite_start]Bình luận từ cộng đồng (Kích hoạt Quan hệ - Relationship). [cite: 8341-8342]",
+      "[cite_start]Mục sư yêu cầu \"Hãy mở App YouVersion của bạn\" (Kích hoạt Quan hệ - Relationship). [cite: 8388]"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Habit Testing) (Chọn nhiều) Đâu là những ví dụ về việc \"Enabling Technologies\" (Công nghệ hỗ trợ) hoặc \"Interface Changes\" (Thay đổi Giao diện) tạo ra cơ hội cho thói quen mới?",
+    "choices": [
+      "[cite_start]Việc camera tích hợp vào smartphone (Interface Change) tạo cơ hội cho Instagram. [cite: 8549]",
+      "[cite_start]Việc Giao diện đồ họa (GUI) thay thế dòng lệnh (Interface Change) tạo cơ hội cho Microsoft/Apple. [cite: 8543]",
+      "[cite_start]Việc Internet tốc độ cao (Enabling Technology) tạo cơ hội cho YouTube. [cite: 8532-8533]",
+      "Việc game Angry Birds (Application) tạo cơ hội cho Farmville (Application)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) (Case Study) Phân tích Bible App qua 4 bước của Mô hình Móc (Hook Model):",
+    "choices": [
+      "1. [cite_start]Trigger: Thông báo đẩy (External) [cite: 8333][cite_start]/ Cảm giác cần được an ủi (Internal)[cite: 8357].",
+      "2. [cite_start]Action: Mở app và đọc (được làm dễ bằng audio/chunking). [cite: 8318-8319, 8351]",
+      "3. [cite_start]Reward: Cảm giác hoàn thành (Self) [cite: 8367][cite_start], \"Verse of the Day\" (Hunt/Self) [cite: 8365-8366][cite_start], Lời động viên (Tribe)[cite: 8341].",
+      "4. [cite_start]Investment: Highlight, share (tải trigger tiếp theo). [cite: 8376-8377, 8391]"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) [cite_start](Case Study & Ch. 5) Việc người dùng Bible App \"chia sẻ (share) Verse of the Day\" [cite: 8376] là một ví dụ xuất sắc của giai đoạn \"Đầu tư\" (Investment) vì nó thực hiện cả hai chức năng:",
+    "choices": [
+      "1. Tăng Động lực (Motivation) VÀ 2. Tăng Khả năng (Ability).",
+      "1. [cite_start]Lưu trữ Giá trị (Store Value - xây dựng Danh tiếng/Hình ảnh xã hội) VÀ 2. Tải Kích hoạt Tiếp theo (Load the Next Trigger - Kích hoạt Quan hệ cho bạn bè). [cite: 8377]",
+      "1. Nó là Hành động (Action) VÀ 2. Nó là Phần thưởng (Reward).",
+      "1. Nó là Kích hoạt Bên trong (Internal) VÀ 2. Kích hoạt Bên ngoài (External)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Habit Testing) Mục tiêu của bước \"Modify\" (Điều chỉnh) trong Habit Testing là gì?",
+    "choices": [
+      "Thêm càng nhiều tính năng (features) càng tốt để xem cái nào hấp dẫn người dùng.",
+      "Sao chép chính xác những gì đối thủ cạnh tranh đang làm.",
+      "[cite_start]Thay đổi quy trình onboarding (giới thiệu) hoặc sản phẩm để dẫn dắt (nudge) người dùng mới đi theo \"Habit Path\" của người dùng trung thành. [cite: 8461-8462]",
+      "Tăng số lượng Kích hoạt Trả phí (Paid Triggers) để tăng số lượng người dùng."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "(Habit Testing) Tại sao việc tìm kiếm cơ hội ở \"các giao diện đang thay đổi\" (Interface Change) (ví dụ: Google Glass, wearables) lại quan trọng?",
+    "choices": [
+      "Vì các giao diện mới luôn rẻ hơn để phát triển.",
+      "[cite_start]Vì các giao diện mới (ví dụ: mobile) thường làm cho các hành động cũ trở nên đơn giản hơn (tăng \"Ability\"), từ đó tạo ra các thói quen mới (ví dụ: Instagram). [cite: 8540-8541, 8549]",
+      "Vì các giao diện mới luôn có Kích hoạt Bên trong (Internal Triggers) mạnh mẽ hơn.",
+      "Vì các giao diện mới tự động tạo ra Phần thưởng Biến đổi (Variable Rewards)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo \"Hooked\", định nghĩa tâm lý học nhận thức của \"thói quen\" (habits) là gì?",
+    "choices": [
+      "Các hành vi tự động được kích hoạt bởi các tín hiệu tình huống (situational cues).",
+      "Các hành vi lặp đi lặp lại hàng ngày.",
+      "Các hành vi mà người dùng bị ép buộc phải làm.",
+      "Một sự phụ thuộc (dependency) có hại, tương tự như nghiện (addiction)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "4 giai đoạn của Mô hình Móc (Hook Model) theo đúng thứ tự là gì?",
+    "choices": [
+      "1. Kích hoạt (Trigger)\n\n2. Phần thưởng (Reward)\n\n3. Hành động (Action)\n\n4. Đầu tư (Investment)",
+      "1. Kích hoạt (Trigger)\n\n2. Hành động (Action)\n\n3. Phần thưởng Biến đổi (Variable Reward)\n\n4. Đầu tư (Investment)",
+      "1. Hành động (Action)\n\n2. Đầu tư (Investment)\n\n3. Kích hoạt (Trigger)\n\n4. Phần thưởng (Reward)",
+      "1. Kích hoạt (Trigger)\n\n2. Động lực (Motivation)\n\n3. Phần thưởng (Reward)\n\n4. Thói quen (Habit)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục tiêu cuối cùng (ultimate goal) của Mô hình Móc (Hook Model) là gì?",
+    "choices": [
+      "Khiến người dùng nhấp vào quảng cáo.",
+      "Giúp người dùng đạt được sự tương tác không cần thúc đẩy (unprompted user engagement).",
+      "Bán được nhiều sản phẩm ảo trong ứng dụng.",
+      "Thu thập càng nhiều dữ liệu cá nhân của người dùng càng tốt."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi một sản phẩm liên kết dịch vụ của nó với các thói quen và cảm xúc hàng ngày của người dùng, nó được gọi là gì?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External Trigger)",
+      "Kích hoạt Bên trong (Internal Trigger)",
+      "Lợi thế Cạnh tranh (Competitive Advantage)",
+      "Vùng Thói quen (Habit Zone)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cụm từ \"First-to-Mind Wins\" (Giải pháp đầu tiên xuất hiện trong tâm trí sẽ thắng) mô tả điều gì?",
+    "choices": [
+      "Công ty ra mắt sản phẩm đầu tiên sẽ thắng thị trường.",
+      "Khi người dùng cảm thấy một Kích hoạt Bên trong (như buồn chán), họ tìm đến giải pháp đầu tiên xuất hiện trong tâm trí (ví dụ: mở Twitter).",
+      "Quảng cáo xuất hiện đầu tiên sẽ hiệu quả nhất.",
+      "Công ty có ngân sách marketing lớn nhất sẽ thắng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Não bộ lưu trữ các phản ứng tự động (thói quen) ở đâu để giải phóng sự tập trung cho các việc khác?",
+    "choices": [
+      "Vỏ não trước trán (Prefrontal Cortex)",
+      "Hồi hải mã (Hippocampus)",
+      "Hạch nền (Basal Ganglia)",
+      "Tiểu não (Cerebellum)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo Chương 1, hai yếu tố nào xác định một hành vi có nằm trong \"Vùng Thói quen\" (Habit Zone) hay không?",
+    "choices": [
+      "1. Tần suất (Frequency)\n\n2. Tiện ích nhận thức (Perceived Utility)",
+      "1. Động lực (Motivation)\n\n2. Khả năng (Ability)",
+      "1. Kích hoạt (Trigger)\n\n2. Phần thưởng (Reward)",
+      "1. Chi phí (Cost)\n\n2. Phần thưởng (Reward)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo quan điểm \"Vitamin vs. Thuốc giảm đau\" (Vitamins vs. Painkillers), các sản phẩm công nghệ tạo thói quen thường...",
+    "choices": [
+      "Bắt đầu là \"thuốc giảm đau\" (painkiller) và vẫn là \"thuốc giảm đau\".",
+      "Bắt đầu là \"vitamin\" (nice-to-have) và dần trở thành \"thuốc giảm đau\" (must-have).",
+      "Luôn luôn là \"vitamin\" và không bao giờ trở nên thiết yếu.",
+      "Không phải \"vitamin\" hay \"thuốc giảm đau\", mà là \"kẹo\" (gây nghiện)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là hai loại Kích hoạt (Triggers) chính?",
+    "choices": [
+      "1. Kích hoạt Bên trong (Internal)\n\n2. Kích hoạt Bên ngoài (External)",
+      "1. Kích hoạt Có trả phí (Paid)\n\n2. Kích hoạt Lan truyền (Viral)",
+      "1. Kích hoạt Cảm xúc (Emotional)\n\n2. Kích hoạt Logic (Logical)",
+      "1. Kích hoạt Chủ động (Active)\n\n2. Kích hoạt Bị động (Passive)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "\"FOMO\" (Sợ bỏ lỡ) là một ví dụ của loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External) - Kiếm được",
+      "Kích hoạt Bên ngoài (External) - Quan hệ",
+      "Kích hoạt Bên trong (Internal)",
+      "Kích hoạt Bên ngoài (External) - Sở hữu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kích hoạt Bên ngoài (External Trigger) là gì?",
+    "choices": [
+      "Một cảm xúc (ví dụ: buồn chán) khởi phát từ tâm trí người dùng.",
+      "Một thông tin trong môi trường cho người dùng biết phải làm gì tiếp theo (ví dụ: một nút \"Click Me\").",
+      "Một hành vi tự động không cần suy nghĩ.",
+      "Một phần thưởng mà người dùng nhận được sau khi hành động."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kích hoạt Bên trong (Internal Trigger) là gì?",
+    "choices": [
+      "Một quảng cáo trả phí (Paid Ad).",
+      "Một thông báo đẩy (Push Notification).",
+      "Một liên kết (association) trong tâm trí người dùng, thường gắn với cảm xúc hoặc thói quen có sẵn.",
+      "Một lời giới thiệu từ bạn bè."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cảm giác buồn chán, cô đơn, bối rối, sợ hãi là những ví dụ phổ biến nhất của loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên trong (Internal)",
+      "Kích hoạt Bên ngoài (External)",
+      "Kích hoạt Quan hệ (Relationship)",
+      "Kích hoạt Trả phí (Paid)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Bốn loại Kích hoạt Bên ngoài (External Triggers) là gì?",
+    "choices": [
+      "1. Trả phí (Paid)\n\n2. Kiếm được (Earned)\n\n3. Quan hệ (Relationship)\n\n4. Sở hữu (Owned)",
+      "1. Đẩy (Push)\n\n2. Kéo (Pull)\n\n3. Cá nhân (Personal)\n\n4. Xã hội (Social)",
+      "1. Cảm xúc (Emotional)\n\n2. Logic (Logical)\n\n3. Xã hội (Social)\n\n4. Môi trường (Environmental)",
+      "1. Thông báo (Notification)\n\n2. Email\n\n3. Quảng cáo (Ad)\n\n4. Biểu tượng (Icon)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một biểu tượng (icon) ứng dụng trên màn hình điện thoại của bạn là loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External) - Trả phí (Paid)",
+      "Kích hoạt Bên ngoài (External) - Sở hữu (Owned)",
+      "Kích hoạt Bên ngoài (External) - Kiếm được (Earned)",
+      "Kích hoạt Bên trong (Internal)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một bài báo PR (ví dụ: trên TechCrunch) về sản phẩm của bạn là loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External) - Trả phí (Paid)",
+      "Kích hoạt Bên ngoài (External) - Sở hữu (Owned)",
+      "Kích hoạt Bên ngoài (External) - Kiếm được (Earned)",
+      "Kích hoạt Bên trong (Internal)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một người bạn \"tag\" bạn vào một bức ảnh trên Facebook. Đây là loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External) - Quan hệ (Relationship)",
+      "Kích hoạt Bên ngoài (External) - Sở hữu (Owned)",
+      "Kích hoạt Bên trong (Internal) - Cảm xúc",
+      "Kích hoạt Bên ngoài (External) - Trả phí (Paid)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một quảng cáo biểu ngữ (banner ad) cho một trò chơi di động là loại Kích hoạt (Trigger) nào?",
+    "choices": [
+      "Kích hoạt Bên ngoài (External) - Trả phí (Paid)",
+      "Kích hoạt Bên ngoài (External) - Sở hữu (Owned)",
+      "Kích hoạt Bên ngoài (External) - Kiếm được (Earned)",
+      "Kích hoạt Bên trong (Internal)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục tiêu cuối cùng của tất cả các Kích hoạt Bên ngoài (External Triggers) là gì?",
+    "choices": [
+      "Khiến người dùng mua hàng ngay lập tức.",
+      "Khiến người dùng chia sẻ (share) sản phẩm với bạn bè.",
+      "Đẩy người dùng đi qua Mô hình Móc (Hook Model) đủ số lần để họ hình thành Kích hoạt Bên trong (Internal Trigger).",
+      "Thay thế hoàn toàn nhu cầu về Kích hoạt Bên trong (Internal Trigger)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Lợi ích nào KHÔNG phải là lợi thế cạnh tranh trực tiếp của việc tạo dựng thói quen người dùng?",
+    "choices": [
+      "Tăng Giá trị Vòng đời Khách hàng (CLTV).",
+      "Tăng trưởng siêu tốc (Supercharging Growth).",
+      "Giảm chi phí sản xuất ban đầu của sản phẩm.",
+      "Mang lại sự linh hoạt về giá (Pricing Flexibility)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Điều gì phân biệt Mô hình Móc (Hook Model) với một vòng lặp phản hồi (feedback loop) thông thường (ví dụ: đèn tủ lạnh)?",
+    "choices": [
+      "Nó có 4 bước thay vì 3.",
+      "Nó có khả năng tạo ra sự khao khát (craving).",
+      "Nó luôn bắt đầu bằng Kích hoạt Bên trong (Internal Trigger).",
+      "Nó dựa trên Phần thưởng Biến đổi (Variable Reward) thay vì phần thưởng có thể đoán trước."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là ví dụ của các sản phẩm KHÔNG cần hình thành thói quen người dùng để thành công?",
+    "choices": [
+      "Bảo hiểm nhân thọ (Life insurance).",
+      "Ứng dụng mạng xã hội (ví dụ: Facebook).",
+      "Ứng dụng email (ví dụ: Gmail).",
+      "Dịch vụ bán hàng qua tư vấn (ví dụ: bán chính sách công ty)."
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Biểu đồ \"Smile Graph\" (Đồ thị Nụ cười) của Evernote cho thấy điều gì?",
+    "choices": [
+      "Tỷ lệ sử dụng (usage) ban đầu giảm mạnh.",
+      "Tỷ lệ sử dụng (usage) tăng vọt trở lại sau một thời gian khi người dùng hình thành thói quen.",
+      "Tỷ lệ người dùng trả tiền (willingness to pay) tăng theo thời gian sử dụng.",
+      "Hầu hết người dùng trả tiền ngay trong tháng đầu tiên."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là ví dụ về các Kích hoạt Bên trong (Internal Triggers)?",
+    "choices": [
+      "Cảm giác cô đơn (loneliness).",
+      "Một thông báo đẩy (push notification) từ Facebook.",
+      "Cảm giác bối rối (confusion).",
+      "Một biểu tượng (icon) ứng dụng trên màn hình."
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là ví dụ về các Kích hoạt Bên ngoài (External Triggers)?",
+    "choices": [
+      "Cảm giác buồn chán (boredom).",
+      "Một email nhắc nhở từ Mint.com.",
+      "Một quảng cáo (advertisement).",
+      "Một lời giới thiệu (word-of-mouth) từ bạn bè."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) \"Hành vi LIFO\" ('last in, first out') có nghĩa là gì trong bối cảnh hình thành thói quen?",
+    "choices": [
+      "Các thói quen bạn mới hình thành gần đây (Last In) là những thói quen dễ bị mất nhất (First Out).",
+      "Các thói quen cũ (old habits) rất khó chết (die hard).",
+      "Các đường dẫn thần kinh (neural pathways) của thói quen cũ vẫn còn, sẵn sàng được kích hoạt lại.",
+      "Phải mất 2 năm để một thói quen mới trở nên vĩnh viễn."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là những lợi thế cạnh tranh mà các sản phẩm tạo thói quen mang lại cho doanh nghiệp?",
+    "choices": [
+      "Tăng Giá trị Vòng đời Khách hàng (CLTV).",
+      "Mang lại sự linh hoạt về giá (Pricing Flexibility).",
+      "Tăng tốc độ tăng trưởng (Supercharging Growth).",
+      "Giảm chi phí Nghiên cứu & Phát triển (R&D) ban đầu."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Tại sao các sản phẩm tạo thói quen (ví dụ: Google) lại có lợi thế cạnh tranh sắc bén (Competitive Edge) so với đối thủ (ví dụ: Bing)?",
+    "choices": [
+      "Vì họ chi nhiều tiền hơn cho marketing.",
+      "Vì người dùng đã hình thành thói quen và việc chuyển đổi (sang Bing) đòi hỏi nỗ lực nhận thức (cognitive effort).",
+      "Vì công nghệ của họ luôn luôn tốt hơn ít nhất 9 lần.",
+      "Vì thói quen của người dùng tạo ra rào cản chuyển đổi (switching cost) dựa trên sự quen thuộc."
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Khi sách định nghĩa \"pain\" (nỗi đau) mà sản phẩm thói quen giải quyết, nó thực sự có nghĩa là gì?",
+    "choices": [
+      "Một vấn đề rõ ràng, cấp bách mà thị trường nhận thức được.",
+      "Một cảm giác \"ngứa ngáy\" (itch) khó chịu trong tâm trí cho đến khi được thỏa mãn.",
+      "Một nỗi đau thể xác thực sự.",
+      "Sự vắng mặt của một tính năng \"nice-to-have\" (vitamin)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Chọn các phát biểu đúng về 4 loại Kích hoạt Bên ngoài (External Triggers):",
+    "choices": [
+      "Kích hoạt Trả phí (Paid) (như quảng cáo) là không bền vững (unsustainable) để duy trì sự tương tác lặp lại.",
+      "Kích hoạt Sở hữu (Owned) (như icon app, email opt-in) là rất quan trọng để thúc đẩy tương tác lặp lại (repeat engagement) cho đến khi thói quen hình thành.",
+      "Kích hoạt Kiếm được (Earned) (như lên báo) thường tồn tại ngắn ngủi (short-lived).",
+      "Kích hoạt Quan hệ (Relationship) (như giới thiệu) có thể bị lạm dụng thành \"dark patterns\" (mẫu tối) nếu lừa người dùng."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Phương pháp \"5 Whys\" (5 Câu hỏi Tại sao) được sử dụng để làm gì?",
+    "choices": [
+      "Để tìm ra 5 cảm xúc tiêu cực phổ biến nhất.",
+      "Để đào sâu từ một hành động bề mặt xuống đến Kích hoạt Bên trong (Internal Trigger) cảm xúc gốc rễ.",
+      "Để hỏi 5 người dùng khác nhau về cùng một vấn đề.",
+      "Để xác định 5 lý do hàng đầu khiến người dùng rời bỏ sản phẩm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là ví dụ của Kích hoạt Bên trong (Internal Triggers)?",
+    "choices": [
+      "Cảm giác cô đơn (loneliness).",
+      "Một thông báo đẩy (push notification) từ Facebook.",
+      "Cảm giác bối rối (confusion).",
+      "Một biểu tượng (icon) ứng dụng trên màn hình."
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là ví dụ của Kích hoạt Bên ngoài (External Triggers)?",
+    "choices": [
+      "Cảm giác buồn chán (boredom).",
+      "Một email nhắc nhở từ Mint.com.",
+      "Một quảng cáo (advertisement).",
+      "Một lời giới thiệu (word-of-mouth) từ bạn bè."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Tại sao các công ty nên cố gắng chuyển người dùng từ Kích hoạt Bên ngoài sang Kích hoạt Bên trong?",
+    "choices": [
+      "Vì Kích hoạt Bên trong rẻ hơn Kích hoạt Bên ngoài.",
+      "Vì Kích hoạt Bên ngoài (như quảng cáo) không bền vững (unsustainable) để duy trì sự tương tác lặp lại.",
+      "Vì Kích hoạt Bên trong (gắn với cảm xúc/thói quen) là thứ giữ chân người dùng quay lại mà không cần thúc đẩy (unprompted engagement).",
+      "Cả Option 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Đâu là sự khác biệt chính giữa \"Thói quen\" (Habit) và \"Nghiện\" (Addiction) theo định nghĩa của sách?",
+    "choices": [
+      "Thói quen (Habits) có thể có ảnh hưởng tích cực đến cuộc sống.",
+      "Nghiện (Addictions) được định nghĩa là sự phụ thuộc \"tự hủy hoại\" (self-destructive).",
+      "Thói quen (Habits) là các hành vi tự động không cần suy nghĩ; Nghiện (Addictions) là sự phụ thuộc \"dai dẳng, bắt buộc\" (persistent, compulsive).",
+      "Thói quen (Habits) không bao giờ có hại, Nghiện (Addictions) luôn có hại."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Phân tích biểu đồ \"Vùng Thói quen\" (Habit Zone), những kết luận nào là đúng?",
+    "choices": [
+      "Một hành vi có \"Tiện ích nhận thức\" (Perceived Utility) cực cao nhưng \"Tần suất\" (Frequency) cực thấp (ví dụ: mua bảo hiểm nhân thọ) sẽ không trở thành thói quen.",
+      "Một hành vi có \"Tiện ích nhận thức\" (Perceived Utility) rất thấp nhưng \"Tần suất\" (Frequency) cực cao vẫn có thể trở thành thói quen.",
+      "Google (tần suất cao, tiện ích mỗi lần tìm kiếm thấp) và Amazon (tần suất thấp hơn, tiện ích mỗi lần mua sắm cao) đều nằm trong Vùng Thói quen nhưng ở các vị trí khác nhau trên đường cong.",
+      "Luôn mất 21 ngày để hình thành một thói quen."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Kích hoạt Bên ngoài (External Triggers) loại nào là tốt nhất để thu hút (acquire) người dùng mới?",
+    "choices": [
+      "Trả phí (Paid).",
+      "Kiếm được (Earned).",
+      "Quan hệ (Relationship).",
+      "Sở hữu (Owned)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Phân tích trường hợp của Instagram, những Kích hoạt (Triggers) nào đã góp phần vào thành công ban đầu của nó?",
+    "choices": [
+      "Kích hoạt Bên ngoài - Quan hệ: (VD: Bạn bè tag/share ảnh lên Facebook/Twitter).",
+      "Kích hoạt Bên ngoài - Kiếm được: (VD: Được Apple vinh danh trên App Store hoặc báo chí viết bài).",
+      "Kích hoạt Bên trong: (VD: Nỗi sợ đánh mất khoảnh khắc - \"fear of losing a special moment\" hoặc \"FOMO\").",
+      "Kích hoạt Bên ngoài - Sở hữu: (VD: Thông báo đẩy (push notification) khi có người \"like\" ảnh của bạn)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Một startup ra mắt ứng dụng Lịch (Calendar) mới, tốt hơn Google Calendar 10% (ví dụ: giao diện đẹp hơn). Tuy nhiên, không ai chuyển sang dùng. Dựa trên Ch.1, những lý do thất bại có thể là gì?",
+    "choices": [
+      "Ứng dụng mới không đủ tốt (không tốt hơn 9 lần) để phá vỡ thói quen cũ.",
+      "Người dùng \"định giá quá cao một cách phi lý\" (irrationally overvalue) sự quen thuộc của Google Calendar.",
+      "Việc chuyển đổi (switching) đòi hỏi \"nỗ lực nhận thức\" (cognitive effort) mà người dùng không muốn bỏ ra.",
+      "Ứng dụng mới thất bại vì nó là \"Vitamin\", trong khi Google Calendar là \"Thuốc giảm đau\" (Painkiller)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Dựa trên định nghĩa \"Vitamin\" và \"Thuốc giảm đau\" (Painkiller), những phát biểu nào sau đây là chính xác?",
+    "choices": [
+      "Một thói quen là khi việc không thực hiện một hành động gây ra một chút \"đau đớn\" (pain) hay \"ngứa ngáy\" (itch).",
+      "Các sản phẩm như Facebook ban đầu là \"Vitamin\" (nice-to-have).",
+      "Theo thời gian và thói quen hình thành, \"Vitamin\" (như Facebook) sẽ trở thành \"Thuốc giảm đau\" (remedy).",
+      "Các nhà đầu tư thường thích \"Thuốc giảm đau\" hơn vì chúng giải quyết nhu cầu rõ ràng, có thể định lượng được."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Người dùng (Yin) nói \"Tôi không nghiện, tôi chỉ dùng Instagram khi thấy thứ gì đó hay ho.\" Phân tích tâm lý của Nir Eyal về phát biểu này là gì?",
+    "choices": [
+      "Người dùng chưa hình thành thói quen vì cô ấy chỉ phản ứng với Kích hoạt Bên ngoài (External Trigger).",
+      "Người dùng đã hình thành thói quen, liên kết một Kích hoạt Bên trong (Internal Trigger - \"nỗi sợ mất khoảnh khắc\") với việc sử dụng ứng dụng.",
+      "Người dùng đang ở trong Vùng Thói quen (Habit Zone) nhưng chưa đạt đến mức \"nghiện\" (addiction).",
+      "Người dùng này là \"Entertainer\" trong Ma trận Thao túng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Tại sao tác giả viết rằng \"việc tích lũy hàng triệu người dùng không còn đủ tốt nữa\" (amassing millions of users is no longer good enough)?",
+    "choices": [
+      "Vì giá trị kinh tế (economic value) của công ty ngày nay là một hàm số của sức mạnh của thói quen (strength of the habits) mà họ tạo ra.",
+      "Vì mô hình \"Shark-Fin\" (Vây cá mập) cho thấy người dùng có thể rời đi nhanh như khi họ đến.",
+      "Vì chi phí quảng cáo (expensive marketing) để thu hút người dùng mới là không bền vững.",
+      "Vì các nhà đầu tư chỉ quan tâm đến lợi nhuận hàng ngày."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "(Chọn nhiều) Các nhà thiết kế nên sử dụng phương pháp nào để khám phá Kích hoạt Bên trong (Internal Trigger) của người dùng?",
+    "choices": [
+      "Phương pháp \"5 Whys\" (5 Câu hỏi Tại sao) để đào sâu đến cảm xúc.",
+      "Phân tích \"Declared Preferences\" (Sở thích được Tuyên bố) (ví dụ: khảo sát).",
+      "Phân tích \"Revealed Preferences\" (Sở thích được Tiết lộ) (ví dụ: quan sát những gì người dùng thực sự làm).",
+      "Xây dựng \"User Narratives\" (Câu chuyện Người dùng) (theo Jack Dorsey) để đồng cảm với bối cảnh và cảm xúc."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Theo phần Mở đầu, \"knowing-doing gap\" (khoảng cách biết-làm) liên quan đến Generative AI (Gen AI) nghĩa là gì?",
+    "choices": [
+      "Chỉ 15% nhà quản lý tin rằng Gen AI hữu ích.",
+      "Các nhà lãnh đạo không muốn đầu tư vào Gen AI.",
+      "95% tổ chức quan tâm, nhưng chỉ 15% nhà quản lý sử dụng nó hàng ngày.",
+      "Gen AI biết cách thực thi, nhưng nhà quản lý không biết cách ra lệnh."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sách định nghĩa Generative AI (Gen AI) là gì?",
+    "choices": [
+      "Một loại AI chỉ có thể phân tích dữ liệu có cấu trúc.",
+      "Một loại AI có thể học hỏi và bắt chước lượng lớn dữ liệu để tạo ra nội dung mới.",
+      "Một loại AI chỉ dành cho các chuyên gia CNTT và nhà khoa học dữ liệu.",
+      "Một loại AI có thể thay thế hoàn toàn công việc của nhà quản lý."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quan điểm nào sau đây là SAI về việc sử dụng Gen AI theo phần Mở đầu?",
+    "choices": [
+      "Gen AI không yêu cầu kỹ năng viết mã (coding).",
+      "Bất kỳ ai cũng có thể tương tác với Gen AI thông qua ngôn ngữ tự nhiên.",
+      "Các nhà quản lý có thể ủy thác (delegate) hoàn toàn việc sử dụng Gen AI cho nhân viên cấp dưới.",
+      "Gen AI đi kèm với các rủi ro về đạo đức, pháp lý và bảo mật."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Chương 1 mô tả sự tiến hóa của máy móc theo trình tự nào?",
+    "choices": [
+      "Công cụ -> Cộng tác viên -> Trợ lý.",
+      "Trợ lý -> Công cụ -> Cộng tác viên.",
+      "Công cụ -> Trợ lý -> Cộng tác viên.",
+      "Cộng tác viên -> Trợ lý -> Công cụ."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo Mô hình Cũ (Machines as Tools), lĩnh vực nào được xem là nằm ngoài phạm vi của máy móc?",
+    "choices": [
+      "Phân tích dữ liệu.",
+      "Tự động hóa tác vụ lặp đi lặp lại.",
+      "Sáng tạo và tư duy chiến lược.",
+      "Giao tiếp (ví dụ: email)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sự khác biệt cốt lõi giữa \"Trợ lý ảo\" (ví dụ: Siri 2011) và \"Cộng tác viên AI\" (ví dụ: ChatGPT 2022) là gì?",
+    "choices": [
+      "Trợ lý ảo dùng giọng nói, Cộng tác viên AI dùng văn bản.",
+      "Trợ lý ảo bị giới hạn bởi các phản hồi được lập trình trước, Cộng tác viên AI linh hoạt và có khả năng hội thoại giống người.",
+      "Trợ lý ảo miễn phí, Cộng tác viên AI luôn phải trả phí.",
+      "Trợ lý ảo chỉ có trên điện thoại, Cộng tác viên AI chỉ có trên máy tính."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Adobe Firefly và OpenAI Sora được phân loại là loại mô hình Gen AI nào?",
+    "choices": [
+      "Mô hình ngôn ngữ lớn (LLM) công cộng chung.",
+      "Mô hình Gen AI công cộng cụ thể cho các ứng dụng cụ thể.",
+      "Mô hình Gen AI tùy chỉnh cho nhu cầu kinh doanh cụ thể.",
+      "Mô hình được tích hợp vào các bộ phần mềm (ví dụ: Microsoft 365)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu là hai (2) chế độ cộng tác chính mà nhà quản lý có thể sử dụng với Gen AI được giới thiệu trong Chương 2?",
+    "choices": [
+      "Co-Pilot (Phụ lái) và Co-Thinker (Đồng-Tư-duy).",
+      "Co-Worker (Đồng nghiệp) và Co-Manager (Đồng-Quản lý).",
+      "Assistant (Trợ lý) và Automator (Tự động hóa).",
+      "Creator (Sáng tạo) và Analyst (Phân tích)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu Gen AI: \"Tóm tắt 5 email gần nhất trong hòm thư của tôi thành 3 gạch đầu dòng.\" Họ đang sử dụng chế độ nào?",
+    "choices": [
+      "Co-Thinker.",
+      "Co-Pilot.",
+      "Cả hai chế độ.",
+      "Không chế độ nào."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu Gen AI: \"Hãy đóng vai một khách hàng khó tính và phản biện kế hoạch ra mắt sản phẩm mới của tôi.\" Họ đang sử dụng chế độ nào?",
+    "choices": [
+      "Co-Thinker.",
+      "Co-Pilot.",
+      "Cả hai chế độ.",
+      "Không chế độ nào."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kỹ thuật \"few-shot\" trong prompting nghĩa là gì?",
+    "choices": [
+      "Cung cấp cho AI một vài ví dụ cụ thể về kết quả mong muốn.",
+      "Yêu cầu AI cung cấp một vài lựa chọn trả lời.",
+      "Giới hạn số lượng từ trong câu trả lời của AI.",
+      "Chỉ hỏi AI những câu hỏi ngắn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao sách khuyên bạn nên \"đặt ranh giới\" (set boundaries) khi prompting Gen AI?",
+    "choices": [
+      "Để tiết kiệm chi phí sử dụng AI.",
+      "Để ngăn AI truy cập vào dữ liệu bí mật.",
+      "Để giúp AI tập trung vào chủ đề cụ thể và cung cấp phân tích chính xác, tùy chỉnh hơn.",
+      "Để đảm bảo AI trả lời trong vòng 5 giây."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "\"Hallucinations\" (ảo giác) hoặc \"Fabrications\" (bịa đặt) của AI là gì?",
+    "choices": [
+      "Là các câu trả lời sáng tạo và đột phá.",
+      "Là các câu trả lời nghe có vẻ tự tin nhưng không đúng sự thật hoặc bịa đặt hoàn toàn.",
+      "Là các câu trả lời vi phạm chính sách bảo mật của công ty.",
+      "Là các câu trả lời được tạo ra quá nhanh."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Bốn (4) bước để chuẩn bị cho một cuộc đối thoại Co-Thinking hiệu quả là gì?",
+    "choices": [
+      "(1) Giao vai trò, (2) Xác định bối cảnh, (3) Phác thảo đối thoại, (4) Tạo prompt.",
+      "(1) Thu thập dữ liệu, (2) Phân tích dữ liệu, (3) Trực quan hóa, (4) Tạo prompt.",
+      "(1) Đặt câu hỏi, (2) Chờ trả lời, (3) Đánh giá, (4) Lặp lại.",
+      "(1) Viết mã, (2) Chạy mã, (3) Gỡ lỗi, (4) Tạo prompt."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sử dụng chế độ Co-Thinker, tại sao việc \"Phác thảo cuộc đối thoại\" (Outline the dialogue) lại quan trọng?",
+    "choices": [
+      "Để đảm bảo AI hiểu đúng thuật ngữ kỹ thuật.",
+      "Để cuộc đối thoại không bị đi chệch hướng và tạo ra giá trị hạn chế.",
+      "Để đảm bảo bạn không vi phạm bản quyền.",
+      "Để AI có thể trả lời nhanh hơn."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một ví dụ về \"rào cản quy trình\" (process guardrail) khi phác thảo đối thoại Co-Thinking là gì?",
+    "choices": [
+      "\"Hãy sử dụng ngôn ngữ chuyên nghiệp.\"",
+      "\"Chỉ sử dụng dữ liệu từ năm 2023 trở về sau.\"",
+      "\"Trong mỗi bước, vui lòng đợi phản hồi của tôi trước khi chuyển sang bước tiếp theo.\"",
+      "\"Đừng bịa đặt thông tin.\""
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kỹ thuật \"Chain of thought\" (Chuỗi tư duy) hữu ích khi nào?",
+    "choices": [
+      "Khi bạn muốn câu trả lời ngắn gọn nhất có thể.",
+      "Khi bạn muốn AI trả lời ngay lập tức.",
+      "Khi bạn muốn AI giải quyết một vấn đề phức tạp bằng cách đi qua từng bước một thay vì nhảy đến kết luận.",
+      "Khi bạn muốn AI tạo ra hình ảnh."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khác biệt nào sau đây mô tả đúng nhất về Co-Pilot và Co-Thinker?",
+    "choices": [
+      "Co-Pilot giúp bạn đi nhanh (go quickly), Co-Thinker giúp bạn dừng lại và suy ngẫm (pause and reflect).",
+      "Co-Pilot dùng để viết email, Co-Thinker dùng để phân tích dữ liệu.",
+      "Co-Pilot miễn phí, Co-Thinker tốn phí.",
+      "Co-Pilot thực thi cho bạn, Co-Thinker cũng thực thi cho bạn nhưng chậm hơn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý chuẩn bị cho buổi họp. Họ dùng Gen AI (Co-Pilot) để tóm tắt tài liệu, sau đó chuyển sang (Co-Thinker) để mô phỏng các câu hỏi phản biện. Điều này cho thấy điều gì?",
+    "choices": [
+      "Họ đã sử dụng sai công cụ.",
+      "Họ nên dùng Co-Pilot cho cả hai việc.",
+      "Hai chế độ Co-Pilot và Co-Thinker không loại trừ lẫn nhau và có thể dùng nối tiếp.",
+      "Họ nên dùng Co-Thinker cho cả hai việc."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Chương 3 chỉ ra 3 yếu tố nền tảng (building blocks) của tư duy Gen AI mới. Chúng là:",
+    "choices": [
+      "Gen AI nói chuyện với bạn, Gen AI tiến hóa nhanh, Gen AI có thể \"ảo giác\".",
+      "Gen AI nhanh, Gen AI rẻ, Gen AI dễ dùng.",
+      "Gen AI viết mã, Gen AI phân tích, Gen AI thiết kế.",
+      "Gen AI bảo mật, Gen AI riêng tư, Gen AI tuân thủ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "\"Bẫy tin tưởng\" (Trust trap) xảy ra khi nào?",
+    "choices": [
+      "Khi con người quá tin tưởng vào đầu ra của Gen AI mà không dùng tư duy phản biện.",
+      "Khi Gen AI bịa đặt các nguồn tin không có thật.",
+      "Khi con người chỉ dùng Gen AI cho các ý tưởng an toàn, phổ biến.",
+      "Khi con người dùng Gen AI quá nhanh mà không suy nghĩ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý dùng Gen AI để tạo 5 ý tưởng marketing. Gen AI đưa ra 5 ý tưởng rất chung chung (generic). Nhà quản lý chấp nhận và sử dụng chúng. Họ đang mắc bẫy nào?",
+    "choices": [
+      "Bẫy tin tưởng (Trust trap).",
+      "Bẫy bịa đặt (Fabrication trap).",
+      "Bẫy tuân thủ (Conformity trap).",
+      "Bẫy đơn độc (Solo trap)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "\"Bẫy đơn độc\" (Solo trap) là gì?",
+    "choices": [
+      "Dùng Gen AI khi không có kết nối internet.",
+      "Dùng Gen AI một mình mà không tích cực tương tác với đồng đội con người.",
+      "Chỉ tin tưởng vào kết quả của Gen AI.",
+      "Chỉ dùng một mô hình Gen AI duy nhất."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Để xây dựng tư duy Gen AI, sách khuyên nên \"Thử nghiệm và chia sẻ thường xuyên\" (Test and share regularly) vì sao?",
+    "choices": [
+      "Vì bạn không thể ủy thác việc học hỏi này.",
+      "Vì Gen AI rất đắt đỏ.",
+      "Vì Gen AI thường xuyên mắc lỗi.",
+      "Vì chỉ có chuyên gia IT mới nên thử nghiệm."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đâu là một rủi ro lớn khi đưa dữ liệu độc quyền (proprietary information) của công ty vào một mô hình Gen AI công cộng (public)?",
+    "choices": [
+      "Dữ liệu có thể bị sử dụng để huấn luyện mô hình và vô tình bị lộ cho người dùng khác.",
+      "AI sẽ từ chối xử lý dữ liệu.",
+      "Dữ liệu sẽ bị xóa ngay lập tức.",
+      "AI sẽ yêu cầu trả thêm phí."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Ba đặc điểm của tư duy (mindset) mới mà nhà quản lý cần có là gì?",
+    "choices": [
+      "Kỹ thuật, Phân tích, Báo cáo.",
+      "Đối thoại (Conversational), Thử nghiệm (Experimental), Trách nhiệm (Responsible).",
+      "Nhanh chóng, Tiết kiệm, Hiệu quả.",
+      "Sáng tạo, Đổi mới, Đột phá."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chương 4 chia 35 tác vụ quản lý có thể được tăng cường bởi Gen AI thành mấy loại chính?",
+    "choices": [
+      "3 loại: Quản lý Bản thân, Quản lý Nhóm, Quản lý Kinh doanh.",
+      "4 loại: Quản lý Bản thân, Quản lý Nhóm, Quản lý Kinh doanh, Quản lý Thay đổi.",
+      "5 loại: Lên kế hoạch, Tổ chức, Lãnh đạo, Kiểm soát, Báo cáo.",
+      "2 loại: Co-Pilot và Co-Thinker."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Bảng 4-1, tác vụ \"Email management\" (Quản lý email) thuộc chế độ và danh mục nào?",
+    "choices": [
+      "Co-Pilot / Quản lý bản thân.",
+      "Co-Thinker / Quản lý bản thân.",
+      "Co-Pilot / Quản lý nhóm.",
+      "Co-Thinker / Quản lý kinh doanh."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo Bảng 4-1, tác vụ \"Facilitating conflict resolution\" (Điều phối giải quyết xung đột) thuộc chế độ và danh mục nào?",
+    "choices": [
+      "Co-Pilot / Quản lý bản thân.",
+      "Co-Thinker / Quản lý nhóm.",
+      "Co-Pilot / Quản lý nhóm.",
+      "Co-Thinker / Quản lý kinh doanh."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Bảng 4-1, tác vụ \"Formulating business strategy\" (Xây dựng chiến lược kinh doanh) thuộc chế độ và danh mục nào?",
+    "choices": [
+      "Co-Pilot / Quản lý kinh doanh.",
+      "Co-Thinker / Quản lý kinh doanh.",
+      "Co-Pilot / Quản lý thay đổi.",
+      "Co-Thinker / Quản lý nhóm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý mới bắt đầu sử dụng Gen AI. Họ nên đọc sách theo thứ tự nào?",
+    "choices": [
+      "Đọc thẳng từ đầu đến cuối.",
+      "Đọc Chương 4 trước, sau đó nhảy đến bất kỳ chương nào họ quan tâm.",
+      "Chỉ đọc Section 1 (Chương 1-4) và bỏ qua các phần còn lại.",
+      "Chỉ đọc các chương về Co-Pilot."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đã hiểu rõ cơ bản về Gen AI (ví dụ: đã dùng ChatGPT nhiều lần). Họ nên đọc sách theo thứ tự nào?",
+    "choices": [
+      "Vẫn phải đọc thẳng từ đầu đến cuối.",
+      "Đọc Section 1 (Chương 1-4) để làm quen với thuật ngữ chính, sau đó nhảy đến bất kỳ chương nào họ quan tâm.",
+      "Chỉ đọc các chương về Co-Thinker.",
+      "Đọc từ cuối lên đầu."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách mô tả Gen AI có thể trở thành \"Co-Thinker\" cho nhà quản lý, hỗ trợ giải quyết vấn đề. Điều này khác với việc Gen AI chỉ là \"công cụ\" ở chỗ nào?",
+    "choices": [
+      "Co-Thinker cung cấp các quan điểm mới và thách thức các giả định.",
+      "Co-Thinker chạy nhanh hơn \"công cụ\".",
+      "Co-Thinker chỉ tóm tắt văn bản.",
+      "Co-Thinker không bao giờ mắc lỗi."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao một nhà quản lý không thể phớt lờ Gen AI theo quan điểm của sách?",
+    "choices": [
+      "Vì nếu không dùng Gen AI, họ sẽ bị sa thải ngay lập tức.",
+      "Vì nếu không hiểu cách làm việc với Gen AI, họ có nguy cơ bỏ lỡ lợi ích và gặp rủi ro nghề nghiệp.",
+      "Vì Gen AI là công nghệ duy nhất quan trọng trong thập kỷ này.",
+      "Vì đối thủ cạnh tranh đang sử dụng nó."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích của việc cung cấp \"bối cảnh và chi tiết\" (context and details) khi yêu cầu Gen AI (Co-Pilot) thực hiện một nhiệm vụ là gì?",
+    "choices": [
+      "Để tăng chi phí tính toán.",
+      "Để làm cho AI trả lời chậm hơn.",
+      "Để tránh các kết quả chung chung (generic) và không chính xác.",
+      "Để kiểm tra xem AI có thể xử lý bao nhiêu văn bản."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đâu là một rủi ro khi quá phụ thuộc vào bản thảo đầu tiên (first drafts) của Gen AI ở chế độ Co-Pilot?",
+    "choices": [
+      "Nội dung có thể thiếu chất lượng, độ chính xác hoặc độ tin cậy cần thiết trong môi trường kinh doanh.",
+      "Gen AI sẽ tính phí cao hơn cho các bản thảo sau.",
+      "Công ty sẽ bị phạt vì vi phạm bản quyền.",
+      "Bản thảo đầu tiên luôn luôn quá dài."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong đối thoại Co-Thinking, vai trò của con người (human) là gì?",
+    "choices": [
+      "Cung cấp bối cảnh, đưa ra tiêu chí, phản hồi, và đưa ra quyết định cuối cùng.",
+      "Chỉ đặt câu hỏi và chờ đợi câu trả lời.",
+      "Chấp nhận tất cả các đề xuất của AI mà không cần phản biện.",
+      "Viết mã để tùy chỉnh mô hình AI."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Điều gì xảy ra nếu bạn đưa ra một phác thảo đối thoại (dialogue outline) quá cứng nhắc cho Co-Thinker?",
+    "choices": [
+      "AI sẽ hoạt động hiệu quả nhất.",
+      "Nó có thể làm giảm sự tham gia cảm xúc (emotional engagement).",
+      "Nó có thể dẫn đến các câu trả lời bịa đặt (fabrication).",
+      "AI sẽ từ chối trả lời."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sự khác biệt chính giữa \"Bẫy tin tưởng\" (Trust trap) và \"Bẫy bịa đặt\" (Fabrication trap) là gì?",
+    "choices": [
+      "Chúng giống hệt nhau.",
+      "Trust trap là lười biếng chấp nhận (\"nghe đủ tốt\"), Fabrication trap là chấp nhận thông tin AI bịa ra (ví dụ: nguồn giả) là thật.",
+      "Trust trap xảy ra với Co-Pilot, Fabrication trap xảy ra với Co-Thinker.",
+      "Trust trap là về tốc độ, Fabrication trap là về sự tuân thủ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nhà quản lý A dùng Gen AI để tạo 10 ý tưởng. Họ thấy 3 ý tưởng đầu tiên không hay nên dừng lại. Nhà quản lý B cũng làm vậy, nhưng họ yêu cầu AI \"Hãy sáng tạo hơn, tôi biết bạn có thể làm tốt hơn.\" và \"Hãy thử kết hợp ý tưởng từ ngành X vào bối cảnh Y.\" Ai đang áp dụng tư duy đúng?",
+    "choices": [
+      "Nhà quản lý A, vì họ tiết kiệm thời gian.",
+      "Nhà quản lý B, vì họ đang áp dụng tư duy \"Đối thoại\" (Conversational) và \"Thử nghiệm\" (Experimental).",
+      "Cả hai đều sai, họ nên tự mình suy nghĩ.",
+      "Nhà quản lý A, vì họ nhận ra giới hạn của AI."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Làm thế nào để tránh \"Bẫy tuân thủ\" (Conformity trap) khi dùng Gen AI?",
+    "choices": [
+      "Chỉ chấp nhận 3 ý tưởng đầu tiên.",
+      "Cung cấp cho AI bối cảnh cụ thể (ví dụ: giá trị công ty, thương hiệu) và yêu cầu nó tư duy đột phá (lateral thinking).",
+      "Yêu cầu AI viết dài hơn.",
+      "Yêu cầu AI tóm tắt lại."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc sử dụng Gen AI một mình (Solo trap) lại có thể gây hại cho nhóm?",
+    "choices": [
+      "Nó làm tốn tài nguyên máy chủ của công ty.",
+      "Nó làm giảm giao tiếp giữa các cá nhân, chia sẻ kiến thức và sự đa dạng trong quan điểm.",
+      "Nó khiến người quản lý không thể kiểm soát nhân viên.",
+      "Nó luôn dẫn đến các câu trả lời sai."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sách khuyên các nhà quản lý nên làm gì để hình thành \"Thói quen Gen AI\" (Gen AI Habit)?",
+    "choices": [
+      "Đặt một ghi chú dính (sticky note) trên máy tính với câu hỏi \"Bạn đã hỏi Gen AI chưa?\".",
+      "Chỉ sử dụng Gen AI vào thứ Sáu hàng tuần.",
+      "Cấm nhân viên sử dụng các công cụ truyền thống.",
+      "Yêu cầu mọi email phải được viết bởi Gen AI."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao việc thử nghiệm nhiều mô hình Gen AI khác nhau (ví dụ: ChatGPT, Gemini, Claude) lại quan trọng?",
+    "choices": [
+      "Vì mỗi mô hình có điểm mạnh riêng cho các tác vụ khác nhau (ví dụ: tóm tắt, tìm kiếm, sáng tạo).",
+      "Vì bạn cần tìm ra mô hình rẻ nhất.",
+      "Vì chỉ một trong số chúng là an toàn.",
+      "Vì công ty của bạn yêu cầu điều đó."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Rủi ro \"Thành kiến và công bằng\" (Bias and fairness) của Gen AI có nghĩa là gì?",
+    "choices": [
+      "AI luôn công bằng hơn con người.",
+      "AI có thể phản ánh các thành kiến (ví dụ: về giới tính, dân tộc) có trong dữ liệu huấn luyện của nó.",
+      "AI sẽ từ chối các yêu cầu không công bằng.",
+      "AI thiên vị những người dùng trả nhiều tiền hơn."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi prompt ở chế độ Co-Pilot, những yếu tố nào sau đây giúp cải thiện chất lượng đầu ra? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Cung cấp bối cảnh (context) và sự chính xác.",
+      "Chỉ định định dạng đầu ra mong muốn (ví dụ: bảng, danh sách).",
+      "Cung cấp ví dụ (kỹ thuật 'few-shot').",
+      "Giữ prompt càng mơ hồ càng tốt để AI tự do sáng tạo."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Chế độ Co-Thinker khác biệt với Co-Pilot ở những điểm nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Co-Thinker tham gia vào đối thoại, Co-Pilot chỉ trả lời câu hỏi.",
+      "Co-Thinker cộng tác với bạn, Co-Pilot thực thi cho bạn.",
+      "Co-Thinker giúp bạn đi nhanh, Co-Pilot giúp bạn dừng lại suy ngẫm.",
+      "Co-Thinker giúp bạn dừng lại suy ngẫm, Co-Pilot giúp bạn đi nhanh."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Những rủi ro nào sau đây liên quan đến việc sử dụng Gen AI trong doanh nghiệp? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Rò rỉ dữ liệu cá nhân và độc quyền của công ty.",
+      "Vi phạm sở hữu trí tuệ (ví dụ: AI \"nhả\" lại dữ liệu có bản quyền).",
+      "AI luôn đưa ra các quyết định công bằng và không thiên vị.",
+      "Tạo ra các thành kiến (bias) dựa trên dữ liệu huấn luyện."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Để tránh các 'bẫy' (traps) khi cộng tác với AI, nhà quản lý nên làm gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Luôn chấp nhận bản thảo đầu tiên của AI để tiết kiệm thời gian.",
+      "Xác minh (validate) các thông tin, sự thật từ các nguồn uy tín (tránh Fabrication trap).",
+      "Tích cực cung cấp bối cảnh cụ thể của công ty (tránh Conformity trap).",
+      "Tích cực tương tác với đồng đội con người, không chỉ làm việc một mình với AI (tránh Solo trap)."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Theo Bảng 4-1, những tác vụ nào sau đây thuộc danh mục 'Managing yourself' (Quản lý bản thân)? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Tóm tắt (Summarization).",
+      "Phân tích nguyên nhân gốc rễ (Root cause analysis).",
+      "Chuẩn bị cho bài phát biểu (Speech preparation).",
+      "Sáng tạo nội dung (Content generation)."
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Theo Chương 5, lợi ích chính của việc dùng Gen AI (Co-Pilot) cho các tác vụ 'Quản lý bản thân' (Managing yourself) là gì?",
+    "choices": [
+      "Tốc độ.",
+      "Sáng tạo.",
+      "Định hướng chiến lược.",
+      "Phát triển kỹ năng lãnh đạo."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo Chương 5, lợi ích chính của việc dùng Gen AI (Co-Thinker) cho các tác vụ 'Quản lý bản thân' (Managing yourself) là gì?",
+    "choices": [
+      "Soạn email nhanh hơn.",
+      "Hướng dẫn phương pháp luận và phản tư có cấu trúc.",
+      "Tóm tắt tài liệu tự động.",
+      "Tạo slide thuyết trình."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý soạn thảo một email quan trọng bằng Co-Pilot, sau đó chuyển sang Co-Thinker để mô phỏng các câu hỏi phỏng vấn dựa trên email đó. Đây là ví dụ về điều gì?",
+    "choices": [
+      "Sử dụng sai công cụ.",
+      "Một tác vụ chỉ nên dùng Co-Pilot.",
+      "Việc chuyển đổi giữa hai chế độ Co-Pilot và Co-Thinker để hoàn thành tác vụ.",
+      "Một tác vụ chỉ nên dùng Co-Thinker."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Quản lý email' (Email Management) bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Tóm tắt các chuỗi email dài.",
+      "Soạn thảo email mới hoặc email phản hồi.",
+      "Phát hiện các thành kiến vô thức (unconscious biases) trong thông điệp.",
+      "Tự động gửi email mà không cần người dùng phê duyệt."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Franck, một quản lý, thường viết email chứa nhiều thuật ngữ kỹ thuật khó hiểu. Anh ấy dùng Gen AI (Co-Pilot) để cải thiện. Anh ấy nên yêu cầu Gen AI làm gì?",
+    "choices": [
+      "\"Hãy viết email này dài hơn.\"",
+      "\"Hãy thêm nhiều thuật ngữ kỹ thuật hơn.\"",
+      "\"Hãy đề xuất các bản sửa đổi để cải thiện sự súc tích.\" và \"Hãy đảm nhận góc nhìn của một đồng nghiệp bên bộ phận tài chính.\"",
+      "\"Hãy gửi email này cho tôi.\""
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Quản lý thời gian' (Time Management) bằng cách nào?",
+    "choices": [
+      "Phân loại các cuộc họp trong tuần của bạn.",
+      "Quét email để tìm các lời mời họp khẩn cấp.",
+      "Chuẩn bị các điểm thảo luận (talking points) cho một cuộc họp cụ thể.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Kỹ thuật 'Chain of Density' (Chuỗi Mật độ) được sử dụng để làm gì?",
+    "choices": [
+      "Tạo ra một chuỗi các bản tóm tắt có cùng độ dài nhưng chứa đựng thông tin ngày càng chi tiết và cô đọng hơn.",
+      "Tạo ra các bản tóm tắt ngày càng dài hơn.",
+      "Liên kết nhiều tài liệu lại với nhau thành một bản tóm tắt duy nhất.",
+      "Tạo ra một hình ảnh từ văn bản tóm tắt."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sử dụng Gen AI (Co-Pilot) để 'Tạo văn bản' (Text Writing), làm thế nào để tránh văn phong \"nghe như robot\" và đảm bảo tính chân thực (authenticity)?",
+    "choices": [
+      "Yêu cầu AI sử dụng nhiều từ ngữ phức tạp nhất có thể.",
+      "Chấp nhận bản thảo đầu tiên mà AI tạo ra.",
+      "Chia sẻ các đoạn văn bản bạn đã viết trước đây để AI \"bắt chước\" phong cách của bạn.",
+      "Yêu cầu AI viết ngắn hơn 100 từ."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Đâu là những rủi ro khi dùng Gen AI (Co-Pilot) để 'Tạo văn bản' (Text Writing)? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "AI có thể tạo ra thông tin không chính xác (inaccurate) hoặc có thành kiến (biased).",
+      "Văn phong của AI có thể không phù hợp với văn hóa công ty.",
+      "AI có thể bịa đặt (hallucinations).",
+      "AI luôn tạo ra văn bản hoàn hảo 100%."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Kate, một giám đốc, chỉ có 1 giờ để chuẩn bị slide cho khách hàng. Cô ấy nên dùng Gen AI (Co-Pilot) như thế nào?",
+    "choices": [
+      "Yêu cầu AI tạo một bài thuyết trình 10 slide dựa trên các ghi chú (notes) của cô ấy và chỉ định rõ mục tiêu, khán giả.",
+      "Yêu cầu AI tìm kiếm trên mạng về chủ đề đó và tự tạo nội dung.",
+      "Yêu cầu AI tạo 100 slide khác nhau để cô ấy lựa chọn.",
+      "Không dùng AI vì không đủ thời gian."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi dùng Gen AI (Co-Pilot) để tạo slide, tại sao bạn cần cẩn thận với 'Bẫy tuân thủ' (Conformity trap)?",
+    "choices": [
+      "Vì bạn muốn bài thuyết trình của mình nổi bật và có dấu ấn cá nhân, không phải trông giống hệt của người khác.",
+      "Vì AI sẽ luôn tuân thủ chính xác 100% yêu cầu của bạn.",
+      "Vì AI có thể tạo ra các slide vi phạm pháp luật.",
+      "Vì AI sẽ tạo ra quá nhiều slide."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý muốn dùng Gen AI (Co-Thinker) để 'Tự phản tư về phong cách lãnh đạo' (Self-Reflection on Leadership Styles). Họ nên bắt đầu như thế nào?",
+    "choices": [
+      "Yêu cầu AI viết một báo cáo về hiệu suất của nhóm.",
+      "Yêu cầu AI tóm tắt một cuốn sách về lãnh đạo.",
+      "Yêu cầu AI đóng vai một chuyên gia coach, giải thích 6 phong cách lãnh đạo của Goleman và cho nhà quản lý làm quiz.",
+      "Yêu cầu AI gửi email cho các thành viên trong nhóm để thu thập phản hồi."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Chatbot Huấn luyện' (Coaching Chatbots) trong tương lai, như chatbot của Marshall Goldsmith, hoạt động như thế nào?",
+    "choices": [
+      "Chúng thay thế hoàn toàn các coach con người.",
+      "Chúng được huấn luyện dựa trên toàn bộ tài liệu, bài viết, video của một coach cụ thể để bắt chước phong cách của họ.",
+      "Chúng chỉ có thể trả lời các câu hỏi về lịch trình.",
+      "Chúng là các mô hình AI thông thường không có gì đặc biệt."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc 'Thu thập phản hồi' (Soliciting Feedback) lại là một kỹ năng quan trọng mà Gen AI (Co-Thinker) có thể hỗ trợ?",
+    "choices": [
+      "Vì nhân viên thường ngần ngại đưa ra phản hồi thẳng thắn cho sếp.",
+      "Vì AI có thể tự động gửi khảo sát ẩn danh.",
+      "Vì AI có thể viết email phản hồi giúp bạn.",
+      "Vì AI có thể cho bạn biết chính xác bạn đang làm tốt hay không."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Thu thập phản hồi' (Soliciting Feedback), bước đầu tiên Gen AI (Co-Thinker) làm là gì?",
+    "choices": [
+      "Đề xuất 3 phương pháp thu thập phản hồi.",
+      "Chia sẻ các cạm bẫy cần tránh.",
+      "Yêu cầu nhà quản lý mô tả cách tiếp cận hiện tại và những khó khăn họ gặp phải.",
+      "Đưa ra một kế hoạch hành động cụ thể."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một nhà quản lý dùng Gen AI (Co-Thinker) để 'Chuẩn bị bài phát biểu' (Speech Preparation). Gen AI nên tập trung vào 'CÁI GÌ' (what) và 'NHƯ THẾ NÀO' (how)?",
+    "choices": [
+      "CÁI GÌ' là số lượng slide, 'NHƯ THẾ NÀO' là tốc độ nói.",
+      "CÁI GÌ' là cốt truyện và thông điệp, 'NHƯ THẾ NÀO' là tông giọng và ngôn ngữ cơ thể.",
+      "CÁI GÌ' là dữ liệu, 'NHƯ THẾ NÀO' là biểu đồ.",
+      "CÁI GÌ' là khán giả, 'NHƯ THẾ NÀO' là địa điểm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn trở thành một người thuyết trình tốt hơn bằng cách nào?",
+    "choices": [
+      "Cung cấp phản hồi về bản ghi âm/video bài phát biểu của bạn (ví dụ: về sự rõ ràng, nhịp điệu, cử chỉ).",
+      "Yêu cầu bạn cung cấp phản hồi trung thực và khách quan.",
+      "Đề xuất các bài tập về nhà (homework) và mô phỏng được cá nhân hóa.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đang 'Chuẩn bị phỏng vấn xin việc' (Job Interview Preparation). Họ nên dùng Gen AI (Co-Thinker) như một...",
+    "choices": [
+      "...người thay thế họ đi phỏng vấn.",
+      "...công cụ để viết CV và thư xin việc hoàn hảo.",
+      "...đối tác phản biện (sparring partner) để mô phỏng các kịch bản áp lực và câu hỏi khó.",
+      "...nguồn dữ liệu để tìm mức lương chính xác."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Chuẩn bị phỏng vấn xin việc', sau khi nhà quản lý chia sẻ CV và mô tả công việc, Gen AI (Co-Thinker) sẽ làm gì?",
+    "choices": [
+      "Viết lại toàn bộ CV.",
+      "Đảm bảo với nhà quản lý rằng họ sẽ trúng tuyển.",
+      "Đối chiếu kỹ năng/kinh nghiệm với mô tả công việc, chỉ ra các điểm phù hợp và các khoảng trống (gaps).",
+      "Tìm kiếm các liên hệ bên trong công ty đó."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Bạn có thể dùng Gen AI (Co-Pilot) để cải thiện email của mình bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "\"Rút ngắn các câu và loại bỏ thông tin không cần thiết.\"",
+      "\"Làm rõ các vùng có thể gây hiểu lầm hoặc mơ hồ.\"",
+      "\"Diễn đạt lại lời kêu gọi hành động (call to action) trực tiếp và tác động hơn.\"",
+      "\"Kiểm tra để đảm bảo dòng chảy logic và sự chuyển tiếp mượt mà.\""
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Một nhà quản lý muốn dùng Gen AI (Co-Pilot) để tạo slide. Các cách tiếp cận hiệu quả là gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "\"Chuyển tài liệu FAQ (câu hỏi thường gặp) này thành 10 slide onboarding.\"",
+      "\"Tạo slide về ra mắt sản phẩm mới dựa trên ghi chú từ buổi thuyết trình khách hàng này.\"",
+      "\"Làm mới (refresh) nội dung của slide này với dữ liệu mới nhất từ file [upload].\"",
+      "\"Tạo một slide về chủ đề X.\" (mà không cung cấp thêm thông tin)"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Tự phản tư về phong cách lãnh đạo' (Chương 8), quy trình của Co-Thinker là gì?",
+    "choices": [
+      "AI đưa ra 1 hành động -> Người dùng thực hiện -> AI đánh giá.",
+      "AI giải thích lý thuyết -> AI cho làm quiz -> AI đi sâu vào 1 phong cách/năng lực được chọn -> AI đề xuất hành động cụ thể.",
+      "AI yêu cầu người dùng mô tả vấn đề -> AI đề xuất 3 giải pháp -> Người dùng chọn 1 -> AI viết email.",
+      "AI thu thập phản hồi từ nhóm -> AI phân tích phản hồi -> AI tạo báo cáo cho nhà quản lý."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể hỗ trợ 'Chuẩn bị bài phát biểu' (Chương 9) ở những khâu nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Phân tích khán giả và điều chỉnh thông điệp cho phù hợp.",
+      "Giúp đóng khung câu chuyện (story framing) - phần mở đầu, thân bài, kết luận.",
+      "Đề xuất các phép ẩn dụ, ví dụ, hoặc dữ liệu để củng cố thông điệp.",
+      "Cung cấp phản hồi về các thành phần phi ngôn ngữ (nhịp điệu, cử chỉ) sau khi xem bản ghi âm."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Franck (Chương 6) đã dùng AI (Co-Pilot) như một \"email coach\". Điều này giúp anh ấy làm gì?",
+    "choices": [
+      "Chỉ để kiểm tra lỗi chính tả.",
+      "Tổ chức các ý nghĩ một cách logic trong các email phức tạp.",
+      "Sử dụng văn phong đơn giản, hiệu quả hơn để giải thích các khái niệm kỹ thuật.",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi dùng Gen AI (Co-Pilot) để 'Tóm tắt' (Summarization), bạn có thể yêu cầu nó làm gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Viết tóm tắt cho một báo cáo dài.",
+      "So sánh hai văn bản và tóm tắt sự khác biệt/giống nhau.",
+      "Tạo một bản tóm tắt (abstract) cho một sự kiện.",
+      "Đảm bảo bản tóm tắt 100% không có thành kiến."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Khi sử dụng kỹ thuật 'Chain of Density' (Chương 6), bạn lặp lại prompt nào?",
+    "choices": [
+      "\"Hãy tóm tắt tài liệu này.\"",
+      "\"Viết một bản tóm tắt mới, cô đọng hơn... giữ nguyên độ dài.\"",
+      "\"Hãy làm bản tóm tắt này dài hơn.\"",
+      "\"Hãy kiểm tra lỗi trong bản tóm tắt này.\""
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi 'Tạo văn bản' (Text Writing), tại sao bạn nên \"thêm các mẩu chuyện cá nhân (personal anecdotes)\"?",
+    "choices": [
+      "Để làm cho văn bản dài hơn.",
+      "Để tăng cường kết nối với khán giả và làm cho giao tiếp trở nên chân thực hơn.",
+      "Để kiểm tra xem AI có thể hiểu được câu chuyện cười hay không.",
+      "Để AI có thể học hỏi từ ký ức của bạn."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể giúp bạn tạo slide bằng cách nào?",
+    "choices": [
+      "Tạo slide từ một tài liệu có sẵn.",
+      "Tạo slide từ các ghi chú có sẵn.",
+      "Tạo slide từ đầu (from scratch) dựa trên một chủ đề.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Tại sao Gen AI (Co-Thinker) lại hữu ích cho 'Tự phản tư' (Self-Reflection)?",
+    "choices": [
+      "Vì nó luôn cho bạn biết bạn đã làm đúng.",
+      "Vì nó đóng vai trò là một \"người quan sát trung lập\" (neutral observer).",
+      "Vì nó có thể ghi lại cảm xúc của bạn.",
+      "Vì nó có thể thay bạn làm việc đó."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Thu thập phản hồi' (Chương 8), Co-Thinker sẽ làm gì sau khi bạn chọn một phương pháp để thảo luận?",
+    "choices": [
+      "Yêu cầu bạn tự tìm hiểu phương pháp đó.",
+      "Đi sâu vào phương pháp đó và giải thích cách thực hiện dựa trên bối cảnh bạn cung cấp.",
+      "Chuyển sang một chủ đề khác.",
+      "Tóm tắt lại cuộc trò chuyện."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý cảm thấy phản hồi của Gen AI (Co-Thinker) về bài phát biểu của họ (Chương 9) quá tích cực. Họ nên prompt như thế nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "\"Cảm ơn bạn rất nhiều!\"",
+      "\"Hãy cung cấp phản hồi trung thực và khách quan.\"",
+      "\"Tôi đang tìm kiếm sự phê bình mang tính xây dựng, không phải sự xác nhận.\"",
+      "\"Hãy xác định các lĩnh vực cần cải thiện.\""
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể hỗ trợ 'Chuẩn bị phỏng vấn xin việc' (Chương 9) bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Tìm kiếm thông tin về văn hóa công ty (ví dụ: từ Glassdoor).",
+      "Giúp bạn rà soát lại CV và thư xin việc.",
+      "Mô phỏng (simulate) các câu hỏi phỏng vấn khó.",
+      "Đảm bảo bạn 100% được nhận việc."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Lợi ích của việc dùng Gen AI (Co-Pilot) để 'Quản lý email' là gì?",
+    "choices": [
+      "Nó giúp bạn trông bận rộn hơn.",
+      "Nó giúp bạn quản lý hộp thư đến hiệu quả hơn, ví dụ như tóm tắt chuỗi email hoặc soạn thảo thư.",
+      "Nó đảm bảo bạn không bao giờ bỏ lỡ một email nào.",
+      "Nó cho phép bạn xóa tất cả email."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy phân tích danh sách việc cần làm hàng tuần của tôi và xếp hạng các tác vụ dựa trên mức độ khẩn cấp.\" Đây là ví dụ về việc sửdụng AI (Co-Pilot) cho...",
+    "choices": [
+      "...Tạo nội dung (Content Generation).",
+      "...Quản lý thời gian (Time Management).",
+      "...Quản lý email (Email Management).",
+      "...Tóm tắt (Summarization)."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi dùng AI (Co-Pilot) để tóm tắt, bạn nên làm gì nếu tài liệu quá dài so với giới hạn đầu vào (input box) của AI?",
+    "choices": [
+      "Từ bỏ việc tóm tắt.",
+      "Chỉ tóm tắt trang đầu tiên.",
+      "Cung cấp tài liệu từng phần (section by section) hoặc tải tệp lên (upload) nếu có tính năng đó.",
+      "Yêu cầu AI tự tìm tài liệu trên mạng."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao việc dùng AI (Co-Pilot) để 'Tạo văn bản' (Text Writing) không chỉ dừng lại ở việc \"kiểm tra lỗi chính tả\"?",
+    "choices": [
+      "Vì AI có thể giúp tổ chức các ghi chú của bạn thành một dòng chảy logic và viết bản thảo đầu tiên.",
+      "Vì AI có thể đề xuất các lỗi ngữ pháp tốt hơn.",
+      "Vì AI không giỏi kiểm tra lỗi chính tả.",
+      "Vì việc tạo văn bản không liên quan đến ngữ pháp."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi dùng AI (Co-Pilot) để 'Tạo slide' (Chương 7), ngoài văn bản, AI có thể thêm gì vào slide?",
+    "choices": [
+      "Chỉ hình ảnh.",
+      "Chỉ biểu đồ.",
+      "Các yếu tố đa phương tiện (multimedia) như video và các yếu tố tương tác (interactive).",
+      "Chỉ các đường link."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Lợi ích của việc dùng AI (Co-Thinker) để 'Tự phản tư' (Chương 8) so với việc tự làm một mình là gì?",
+    "choices": [
+      "AI cung cấp các lý thuyết và bộ công cụ phản tư đã được chứng minh (proven reflection theories and tool kits).",
+      "AI giúp bạn viết ra suy nghĩ của mình.",
+      "AI giúp bạn quên đi những thói quen xấu.",
+      "AI làm cho quá trình phản tư nhanh hơn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Thu thập phản hồi' (Chương 8), Co-Thinker sẽ chia sẻ điều gì ở bước cuối cùng?",
+    "choices": [
+      "Chỉ trích nhà quản lý vì đã không làm tốt.",
+      "Một danh sách những người nên sa thải.",
+      "Những cạm bẫy (pitfalls) cần đề phòng và gợi ý cách quản lý cảm xúc khi nhận phản hồi tiêu cực.",
+      "Một bản tóm tắt các phản hồi tích cực."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đang chuẩn bị cho một bài phát biểu quan trọng. Họ nên dùng AI (Co-Thinker) như thế nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Yêu cầu AI viết toàn bộ bài phát biểu và học thuộc lòng.",
+      "Thảo luận với AI về nhu cầu của khán giả để điều chỉnh thông điệp.",
+      "Yêu cầu AI đề xuất các phép ẩn dụ (metaphors) để làm rõ các điểm chính.",
+      "Yêu cầu AI đề xuất 3 câu hỏi khó mà khán giả có thể hỏi."
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Chuẩn bị phỏng vấn xin việc' (Chương 9), Co-Thinker sẽ làm gì sau khi mô phỏng phỏng vấn thử?",
+    "choices": [
+      "Chỉ nói \"Làm tốt lắm!\".",
+      "Cung cấp phản hồi về hiệu suất của nhà quản lý và đề xuất các kỹ thuật cụ thể để cải thiện.",
+      "Gửi email cho nhà tuyển dụng.",
+      "Viết thư cảm ơn."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi viết lại câu này và hoàn thành nó bằng cách cho tôi 3 lựa chọn.\" Đây là ví dụ về việc sử dụng AI (Co-Pilot) cho...",
+    "choices": [
+      "...Tạo văn bản (Text Writing) khi bị \"bí ý\" (stuck).",
+      "...Chuẩn bị phỏng vấn (Job Interview Prep).",
+      "...Quản lý thời gian (Time Management).",
+      "...Tóm tắt (Summarization)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy ngẫm về những tín hiệu của sự thiếu gắn kết (disengagement) tiềm ẩn trong nhóm của tôi.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Pilot / Quản lý bản thân.",
+      "...Co-Thinker / Quản lý nhóm (Chương 13).",
+      "...Co-Thinker / Quản lý bản thân.",
+      "...Co-Pilot / Quản lý nhóm."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi sử dụng AI (Co-Pilot) để 'Tạo slide' (Chương 7), sách khuyên bạn nên làm gì để đảm bảo tính chính xác và phù hợp?",
+    "choices": [
+      "Luôn chấp nhận bản thảo đầu tiên.",
+      "Yêu cầu AI thêm nhiều hình ảnh hơn.",
+      "Đọc lại (read over) nội dung AI tạo ra và chỉnh sửa (edit) nếu không chính xác/phù hợp.",
+      "Chỉ sử dụng AI cho các slide tiêu đề."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục tiêu của Chương 8 (Gen AI for Personal Growth) là gì?",
+    "choices": [
+      "Sử dụng Co-Pilot để hoàn thành công việc nhanh hơn.",
+      "Sử dụng Co-Thinker để thiết lập một thói quen (regular practice) phản tư và thu thập phản hồi.",
+      "Sử dụng Co-Pilot để viết CV.",
+      "Sử dụng Co-Thinker để phân tích dữ liệu bán hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao AI (Co-Thinker) có thể giúp bạn 'Chuẩn bị phỏng vấn xin việc' (Chương 9) hiệu quả hơn là chỉ tự luyện tập một mình?",
+    "choices": [
+      "Vì AI có thể mô phỏng các câu hỏi bất ngờ (unexpected) và các tình huống áp lực cao (high-pressure).",
+      "Vì AI biết chính xác nhà tuyển dụng sẽ hỏi gì.",
+      "Vì AI có thể viết email xin việc thay bạn.",
+      "Vì AI có thể đảm bảo bạn nói trôi chảy."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các tác vụ Co-Pilot trong Section 2 (Chương 6, 7) là gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Quản lý email và Thời gian.",
+      "Tóm tắt.",
+      "Tạo văn bản và Slide.",
+      "Tự phản tư về phong cách lãnh đạo."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Các tác vụ Co-Thinker trong Section 2 (Chương 8, 9) là gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Tự phản tư và Thu thập phản hồi.",
+      "Chuẩn bị phát biểu và Phỏng vấn.",
+      "Quản lý email.",
+      "Tạo slide."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Theo Chương 10, Gen AI (Co-Pilot) có thể hỗ trợ 'Quản lý nhóm' (Managing teams) như thế nào?",
+    "choices": [
+      "Hỗ trợ các tác vụ vận hành (operational tasks) tốn thời gian.",
+      "Thay nhà quản lý đưa ra quyết định cuối cùng.",
+      "Tự động sa thải các thành viên nhóm hoạt động kém hiệu quả.",
+      "Giúp nhà quản lý phản tư về mục đích của nhóm."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo Chương 10, Gen AI (Co-Thinker) có thể hỗ trợ 'Quản lý nhóm' (Managing teams) như thế nào?",
+    "choices": [
+      "Soạn thảo biên bản cuộc họp.",
+      "Giúp nhà quản lý và nhóm suy ngẫm về các vấn đề phức tạp như mục đích nhóm hoặc giải quyết xung đột.",
+      "Tự động tạo ý tưởng mới.",
+      "Lên lịch các cuộc họp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Quản lý cuộc họp' (Meeting Management) ở giai đoạn nào?",
+    "choices": [
+      "Trước cuộc họp (ví dụ: tạo agenda).",
+      "Trong cuộc họp (ví dụ: ghi chú, tóm tắt theo thời gian thực).",
+      "Sau cuộc họp (ví dụ: chuẩn bị tóm tắt và các mục hành động).",
+      "Tất cả các giai đoạn trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Arun, một quản lý, sử dụng Gen AI (Co-Pilot) để chuẩn bị cho cuộc họp nhóm. Anh ấy nên yêu cầu AI làm gì?",
+    "choices": [
+      "Yêu cầu AI tự quyết định nội dung cuộc họp.",
+      "Yêu cầu AI soạn thảo một agenda 60 phút dựa trên các ghi chú cuộc họp trước và quét các chuỗi email liên quan.",
+      "Yêu cầu AI mời thêm 10 người vào cuộc họp.",
+      "Yêu cầu AI hủy cuộc họp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong một cuộc họp, nhà quản lý có thể dùng Gen AI (Co-Pilot) để làm gì? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Yêu cầu AI ghi chú và tóm tắt các điểm thảo luận chính theo thời gian thực.",
+      "Yêu cầu AI đề xuất 3 ý tưởng đột phá (disruptive ideas) để kích thích thảo luận.",
+      "Yêu cầu AI kiểm tra xem ai là người nói nhiều nhất hoặc ai chưa phát biểu.",
+      "Yêu cầu AI kết thúc cuộc họp ngay lập tức."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sau cuộc họp, Gen AI (Co-Pilot) có thể giúp nhà quản lý theo dõi công việc bằng cách nào?",
+    "choices": [
+      "Tự động làm các mục hành động (action items) thay cho thành viên nhóm.",
+      "Soạn thảo email tóm tắt cuộc họp, liệt kê các mục hành động và hạn chót cho từng người.",
+      "Khiển trách những người đã không tham gia cuộc họp.",
+      "Lên lịch một cuộc họp khác ngay lập tức."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý có thể dùng Gen AI (Co-Pilot) để làm gì nhằm đánh giá lại kỹ năng quản lý cuộc họp của chính mình?",
+    "choices": [
+      "Yêu cầu AI phân tích: \"Tôi có chiếm hết thời gian nói không?\" hoặc \"Tôi có khuyến khích các thành viên chia sẻ mối quan ngại không?\"",
+      "Yêu cầu AI gửi khảo sát ẩn danh cho nhóm.",
+      "Yêu cầu AI so sánh cách điều hành của mình với Steve Jobs.",
+      "Yêu cầu AI xác nhận rằng mình đã làm rất tốt."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sử dụng Gen AI (Co-Pilot) để 'Thiết lập & Khớp nối Mục tiêu' (Goal Setting & Articulation), AI có thể giúp gì?",
+    "choices": [
+      "Tự động đặt mục tiêu cho nhóm mà không cần nhà quản lý.",
+      "Giải thích các framework đặt mục tiêu (như OKR, SMART) và cung cấp ví dụ.",
+      "Đảm bảo 100% các mục tiêu sẽ được hoàn thành.",
+      "Chỉ trích các mục tiêu mà nhóm đặt ra."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy kiểm tra xem mục tiêu [nêu mục tiêu] có vượt qua bài kiểm tra SMART không.\" Đây là một cách dùng Gen AI (Co-Pilot) đúng hay sai?",
+    "choices": [
+      "Sai, vì AI không hiểu SMART là gì.",
+      "Đúng, AI có thể đánh giá cấu trúc của mục tiêu (nhưng không thể quyết định đó có phải là mục tiêu đúng đắn hay không).",
+      "Sai, vì đây là nhiệm vụ của Co-Thinker.",
+      "Đúng, và AI có thể quyết định đây có phải là mục tiêu tốt nhất cho nhân viên hay không."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Lập kế hoạch & Báo cáo tác vụ' (Task Planning & Reporting) như thế nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Tạo biểu đồ Gantt từ một bản kế hoạch.",
+      "Soạn thảo báo cáo tiến độ dự án cho các bên liên quan (stakeholders).",
+      "Xem xét một dòng thời gian (timeline) và xác nhận logic trình tự (sequential logic).",
+      "Tự động hoàn thành các tác vụ bị trễ hạn."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Theo Chương 12, tại sao 'Thành phần nhóm' (Team Composition) lại quan trọng đối với các dự án đổi mới (innovation project)?",
+    "choices": [
+      "Vì bạn cần một nhóm có các kỹ năng, nền tảng và quan điểm đa dạng.",
+      "Vì bạn chỉ cần những người có cùng chuyên môn.",
+      "Vì bạn cần càng nhiều người càng tốt.",
+      "Vì bạn cần những người rẻ nhất."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đang xây dựng một nhóm dự án mới. Họ có thể dùng Gen AI (Co-Pilot) để làm gì?",
+    "choices": [
+      "Quyết định ai sẽ là trưởng nhóm.",
+      "Yêu cầu AI phân tích thành phần nhóm hiện tại và chỉ ra các kỹ năng hoặc sự đa dạng còn thiếu.",
+      "Yêu cầu AI sa thải những người không phù hợp.",
+      "Yêu cầu AI phỏng vấn các ứng viên."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao sách cảnh báo \"ĐỪNG ủy thác quyết định về con người cho Gen AI\" (Chương 12)?",
+    "choices": [
+      "Vì AI không thể đánh giá các kỹ năng mềm (soft skills), phong cách làm việc, hay động lực (motivation).",
+      "Vì AI luôn có thành kiến (biased).",
+      "Vì AI quá đắt đỏ để làm việc này.",
+      "Vì AI không thể đọc CV."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Tạo ý tưởng' (Idea Generation) trong một buổi brainstorming như thế nào?",
+    "choices": [
+      "Chỉ đưa ra 1 ý tưởng duy nhất và tốt nhất.",
+      "Tạo ra một loạt các ý tưởng (Breadth) và cung cấp các góc nhìn mới (Divergence).",
+      "Đảm bảo các ý tưởng này chắc chắn thành công về mặt tài chính.",
+      "Chỉ trích các ý tưởng do con người tạo ra."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhóm thiết kế giày (Chương 12) đã dùng công nghệ text-to-image (văn bản-thành-hình ảnh) để làm gì?",
+    "choices": [
+      "Để viết mô tả sản phẩm.",
+      "Để nhanh chóng chuyển đổi các prompt văn bản thành các thiết kế giày trực quan, giúp họ tạo ra và đánh giá nhiều concept.",
+      "Để bán giày trực tuyến.",
+      "Để tính giá thành sản xuất."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Làm thế nào để \"nâng tầm sáng tạo\" (raise the bar) của Gen AI khi brainstorming? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Cung cấp các mục tiêu rõ ràng và thông tin về thương hiệu của bạn (brand).",
+      "Yêu cầu AI \"Thúc đẩy tư duy đột phá (lateral thinking)\".",
+      "Đừng chấp nhận những ý tưởng đầu tiên; yêu cầu AI thêm nhiều lựa chọn.",
+      "Chỉ chấp nhận những ý tưởng đầu tiên để tiết kiệm thời gian."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại sao việc 'Xây dựng Mục đích Nhóm' (Crafting Team Purpose) (Chương 13) lại quan trọng?",
+    "choices": [
+      "Vì nó là yêu cầu bắt buộc của phòng Nhân sự.",
+      "Vì nó giúp các thành viên trong nhóm cảm thấy gắn kết hơn với công việc của họ.",
+      "Vì nó là \"chất keo\" gắn kết các cá nhân lại thành một đội ngũ \"chúng ta\" thực sự.",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phác thảo đối thoại 'Xây dựng Mục đích Nhóm' (Chương 13) sử dụng bối cảnh (setting) nào?",
+    "choices": [
+      "One-to-one (Một-đến-một): Chỉ nhà quản lý nói chuyện với AI.",
+      "One-to-many (Một-đến-nhiều): Nhà quản lý và các thành viên nhóm cùng tương tác với AI.",
+      "Many-to-many (Nhiều-đến-nhiều): Nhiều người nói chuyện với nhiều AI.",
+      "Không có bối cảnh nào."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi 'Thiết kế công việc chất lượng cao' (Designing High-Quality Work) (Chương 13), nhà quản lý cần cân bằng các yếu tố nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Quyền tự chủ (Autonomy).",
+      "Khối lượng công việc (Workload).",
+      "Sự tinh thông (Mastery) và Hợp tác (Collaboration).",
+      "Sự gắn kết (Engagement)."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Một nhà quản lý lo lắng về 'Khối lượng công việc' (Workload) của nhóm. Họ có thể dùng Co-Thinker (Chương 13) để làm gì?",
+    "choices": [
+      "Yêu cầu AI tự động phân bổ lại công việc.",
+      "Yêu cầu AI giúp \"suy ngẫm về các thói quen tốt (good practices) có thể tối ưu hóa việc phân bổ công việc\".",
+      "Yêu cầu AI \"liệt kê các dấu hiệu sớm và tinh tế của burnout\" mà họ cần theo dõi.",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo Chương 13, tại sao xung đột (conflict) không phải lúc nào cũng xấu?",
+    "choices": [
+      "Vì xung đột luôn dẫn đến kết quả tốt hơn.",
+      "Vì sự đa dạng về quan điểm (là nguồn gốc của xung đột) là cần thiết cho hiệu suất của nhóm.",
+      "Vì xung đột giúp mọi người giải tỏa căng thẳng.",
+      "Vì xung đột chứng tỏ mọi người quan tâm đến công việc."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đang đối mặt với xung đột trong nhóm. Họ có thể dùng Co-Thinker (Chương 13) để làm gì?",
+    "choices": [
+      "Yêu cầu AI xác định ai là người sai.",
+      "Yêu cầu AI giúp suy ngẫm về các nguyên nhân gốc rễ (root causes) của xung đột.",
+      "Yêu cầu AI đề xuất các cách tiếp cận hòa giải (mediation approaches).",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "An toàn tâm lý' (Psychological safety) (Chương 13) là gì?",
+    "choices": [
+      "Là đảm bảo không ai bị thương tích tại nơi làm việc.",
+      "Là một môi trường nơi mọi người đều đồng ý với nhau.",
+      "Là một môi trường nơi các thành viên cảm thấy an toàn để lên tiếng, chia sẻ ý tưởng và bày tỏ mối quan ngại mà không sợ hậu quả tiêu cực.",
+      "Là đảm bảo dữ liệu của nhóm được an toàn trên máy chủ."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao 'Đóng khung vấn đề' (Problem Framing) (Chương 14) lại quan trọng?",
+    "choices": [
+      "Vì nó đảm bảo bạn giải quyết đúng vấn đề, thay vì nhảy ngay đến giải pháp.",
+      "Vì nó giúp bạn tìm ra giải pháp nhanh nhất.",
+      "Vì nó là bước không bắt buộc trong giải quyết vấn đề.",
+      "Vì nó giúp bạn đổ lỗi cho người khác."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Làm thế nào Gen AI (Co-Thinker) có thể giúp bạn 'Đóng khung vấn đề' (Problem Framing)? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Giúp bạn vượt qua \"thiên kiến xác nhận\" (confirmation bias) bằng cách thách thức các giả định của bạn.",
+      "Giúp bạn xem xét vấn đề từ nhiều góc độ (perspectives) của các bên liên quan (stakeholders) khác nhau.",
+      "Đề xuất các cách đóng khung vấn đề (problem frames) đa dạng.",
+      "Cung cấp cho bạn giải pháp cuối cùng ngay lập tức."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Phác thảo đối thoại 'Phân tích Nguyên nhân Gốc rễ' (Root Cause Analysis) (Chương 14) sử dụng phương pháp nào?",
+    "choices": [
+      "Phân tích SWOT.",
+      "Sơ đồ xương cá (Fishbone approach / Ishikawa diagram).",
+      "Ma trận BCG.",
+      "5 Lực lượng cạnh tranh của Porter."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống Đa Tác nhân' (Multi-Agent System) (Chương 14) là gì?",
+    "choices": [
+      "Một nhà quản lý nói chuyện với nhiều người.",
+      "Một nhóm các tác nhân AI (agents) có thể tương tác, giao tiếp và làm việc cùng nhau để giải quyết một vấn đề phức tạp.",
+      "Một mô hình AI duy nhất có thể giải quyết nhiều vấn đề.",
+      "Một hệ thống yêu cầu nhiều kỹ năng lập trình."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kể chuyện về vấn đề' (Problem Storytelling) (Chương 14) là gì?",
+    "choices": [
+      "Là biến vấn đề thành một câu chuyện cổ tích.",
+      "Là trình bày vấn đề thông qua một cấu trúc tường thuật (narrative structure), giúp người nghe dễ đồng cảm và hiểu hơn.",
+      "Là một cách để che giấu vấn đề.",
+      "Là một báo cáo kỹ thuật về vấn đề."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một \"quest\" (nhiệm vụ) (Chương 14) trong kể chuyện về vấn đề bao gồm 3 yếu tố nào?",
+    "choices": [
+      "Vấn đề, Giải pháp, Kết quả.",
+      "Người hùng (Protagonist), Khát vọng (Aspiration), Trở ngại (Obstacle).",
+      "Mở đầu, Thân bài, Kết luận.",
+      "Dữ liệu, Biểu đồ, Báo cáo."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Arun (Chương 11) đã dùng AI (Co-Pilot) để soạn agenda. Sau đó, anh ấy làm gì?",
+    "choices": [
+      "Gửi ngay lập tức.",
+      "Chờ AI tự gửi.",
+      "Tự mình xem xét và chỉnh sửa (revised) lại agenda.",
+      "Xóa agenda và tự viết lại."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể giúp gì trong việc 'Thiết lập Mục tiêu' (Goal Setting) (Chương 11)? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Giúp kiểm tra sự liên kết (alignment) giữa mục tiêu của nhóm và mục tiêu của công ty.",
+      "Phân rã (decompose) các mục tiêu lớn thành các mục tiêu phụ.",
+      "Đề xuất các số liệu (metrics) (cả định tính và định lượng) để đo lường tiến độ.",
+      "Tự động hoàn thành mục tiêu."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại sao việc dùng AI (Co-Pilot) để 'Tạo ý tưởng' (Idea Generation) (Chương 12) không nên thay thế hoàn toàn brainstorming của con người?",
+    "choices": [
+      "Vì AI không thể tự đánh giá ý tưởng.",
+      "Vì AI có thể bị 'Bẫy tuân thủ' (Conformity trap), đưa ra các ý tưởng chung chung.",
+      "Vì con người cần tham gia để đưa ra bối cảnh (context) và đánh giá (judgment).",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy ngẫm về các thói quen tốt (good practices) để thúc đẩy Quyền tự chủ (Autonomy) trong nhóm của tôi.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Pilot / Quản lý nhóm.",
+      "...Co-Thinker / Quản lý nhóm.",
+      "...Co-Pilot / Quản lý bản thân.",
+      "...Co-Thinker / Quản lý bản thân."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn 'Giải quyết Xung đột' (Conflict Resolution) (Chương 13) bằng cách nào?",
+    "choices": [
+      "Cung cấp các mẫu câu (sample language) - nói gì và nói như thế nào - để điều hướng các cuộc trò chuyện khó khăn.",
+      "Đề xuất các cách tiếp cận hòa giải (mediation approaches) dựa trên tình hình.",
+      "Giúp bạn suy ngẫm về nguyên nhân gốc rễ (root causes) của xung đột.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi 'Đóng khung vấn đề' (Problem Framing) (Chương 14), bạn nên yêu cầu Co-Thinker làm gì để tránh \"thiên kiến xác nhận\" (confirmation bias)? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "\"Những bằng chứng nào hỗ trợ các giả định của chúng ta? Chúng ta đang bỏ qua điều gì khác?\"",
+      "\"Nếu đối thủ cạnh tranh của chúng ta nhìn vào vấn đề này, họ sẽ thấy gì?\"",
+      "\"Một người có niềm tin trái ngược với chúng ta sẽ nói gì về vấn đề này?\"",
+      "\"Hãy xác nhận rằng giả định của tôi là đúng.\""
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Lợi ích của việc dùng Gen AI (Co-Pilot) để 'Hỗ trợ Vận hành Nhóm' (Team Operational Support) (Chương 11) là gì?",
+    "choices": [
+      "Giảm bớt gánh nặng của các tác vụ hành chính, lặp đi lặp lại.",
+      "Giúp các thành viên nhóm tập trung vào công việc có giá trị gia tăng cao hơn.",
+      "Tăng cường động lực và năng suất của nhóm.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Multimodal capabilities' (khả năng đa phương thức) của Gen AI (Chương 14) có nghĩa là gì?",
+    "choices": [
+      "AI có thể nói nhiều ngôn ngữ.",
+      "AI có thể tạo ra các sơ đồ hoặc hình ảnh (visuals) để hỗ trợ phân tích văn bản.",
+      "AI có thể chạy trên nhiều thiết bị.",
+      "AI có thể giải quyết nhiều vấn đề cùng lúc."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kể chuyện về vấn đề' (Problem Storytelling) (Chương 14) đặc biệt hữu ích khi nào?",
+    "choices": [
+      "Khi giao tiếp vấn đề với các bên liên quan (stakeholders) đa dạng để truyền cảm hứng hành động.",
+      "Khi viết báo cáo kỹ thuật cho các kỹ sư.",
+      "Khi chỉ muốn tập trung vào dữ liệu thô.",
+      "Khi muốn che giấu mức độ nghiêm trọng của vấn đề."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vai trò của nhà quản lý trong việc dùng Gen AI (Co-Pilot) để 'Tạo ý tưởng' (Chương 12) là gì?",
+    "choices": [
+      "Đứng ngoài quy trình.",
+      "Chỉ chấp nhận các ý tưởng của AI.",
+      "Dẫn dắt quy trình, cung cấp bối cảnh (context), và sử dụng óc phán đoán (judgment) để đánh giá các ý tưởng.",
+      "Chỉ tạo ra ý tưởng của riêng mình và phớt lờ AI."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn 'Thiết kế công việc chất lượng cao' (Chương 13) bằng cách nào?",
+    "choices": [
+      "Tự động viết mô tả công việc mới.",
+      "Giúp bạn suy ngẫm (reflect) về các yếu tố như 'Quyền tự chủ' (Autonomy) hay 'Khối lượng công việc' (Workload) của nhóm.",
+      "Đánh giá hiệu suất của từng nhân viên.",
+      "Quyết định ai nên được thăng chức."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi 'Phân tích Nguyên nhân Gốc rễ' (Root Cause Analysis) (Chương 14), Co-Thinker giúp bạn như thế nào?",
+    "choices": [
+      "Cung cấp cho bạn nguyên nhân gốc rễ ngay lập tức.",
+      "Đóng vai trò là chuyên gia phương pháp luận (methodology expert) và hướng dẫn nhóm của bạn qua từng bước.",
+      "Đảm bảo rằng chỉ có một nguyên nhân gốc rễ duy nhất.",
+      "Chỉ tập trung vào các triệu chứng (symptoms) bề mặt."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi biến vấn đề [mô tả vấn đề] thành một 'quest' (nhiệm vụ) với Người hùng, Khát vọng, và Trở ngại.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Kể chuyện về vấn đề (Problem Storytelling).",
+      "...Co-Pilot / Tạo văn bản (Text Writing).",
+      "...Co-Thinker / Xây dựng Mục đích Nhóm (Team Purpose).",
+      "...Co-Pilot / Quản lý Tác vụ (Task Planning)."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao việc AI (Co-Pilot) có thể giúp 'Hỗ trợ Vận hành Nhóm' (Team Operational Support) (Chương 11) lại quan trọng?",
+    "choices": [
+      "Vì nó cho phép nhà quản lý sa thải bớt nhân viên hành chính.",
+      "Vì nó giải phóng thời gian của nhóm khỏi các công việc lặp đi lặp lại để tập trung vào các hoạt động có giá trị gia tăng cao hơn (như sáng tạo).",
+      "Vì nó chứng tỏ công ty rất hiện đại.",
+      "Vì nó loại bỏ hoàn toàn nhu cầu họp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sơ đồ xương cá' (Fishbone diagram) (Chương 14) giúp phân tích nguyên nhân gốc rễ bằng cách nào?",
+    "choices": [
+      "Bằng cách chỉ tập trung vào một nguyên nhân duy nhất.",
+      "Bằng cách liệt kê các giải pháp tiềm năng.",
+      "Bằng cách giúp bạn suy nghĩ về các danh mục nguyên nhân khác nhau (ví dụ: quy trình, kỹ năng, công nghệ).",
+      "Bằng cách vẽ một con cá."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy ngẫm về các dấu hiệu cảnh báo của việc thiếu Quyền tự chủ (Autonomy) trong nhóm.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Thiết kế công việc chất lượng cao.",
+      "...Co-Pilot / Quản lý Tác vụ.",
+      "...Co-Thinker / Giải quyết Xung đột.",
+      "...Co-Pilot / Báo cáo."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn 'Kể chuyện về vấn đề' (Problem Storytelling) (Chương 14) bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Giúp bạn xác định \"quest\" (nhiệm vụ) chính của câu chuyện.",
+      "Giúp bạn cá nhân hóa (personalize) câu chuyện cho các đối tượng khán giả khác nhau.",
+      "Giúp bạn trực quan hóa (visualize) câu chuyện (ví dụ: tạo hình ảnh, sơ đồ).",
+      "Đảm bảo câu chuyện 100% là sự thật."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Bối cảnh 'One-to-many' (Một-đến-nhiều) (Chương 13) có nghĩa là gì?",
+    "choices": [
+      "Một nhà quản lý và nhóm của họ cùng tương tác với một mô hình AI (đóng vai trò người điều phối).",
+      "Một nhà quản lý sử dụng nhiều mô hình AI.",
+      "Nhiều nhà quản lý cùng sử dụng một mô hình AI.",
+      "Một AI đưa ra mệnh lệnh cho nhiều người."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sửâ dụng Gen AI (Co-Pilot) để 'Hỗ trợ Sáng tạo Nhóm' (Team Creativity Support) (Chương 12), ai nên là người \"cầm lái\" (in the driver's seat)?",
+    "choices": [
+      "Chỉ Gen AI.",
+      "Chỉ nhà quản lý.",
+      "Con người (nhóm và nhà quản lý) phải luôn cầm lái và đưa ra quyết định cuối cùng.",
+      "Chỉ khách hàng."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể giúp bạn kiểm tra sự liên kết (alignment) giữa mục tiêu nhóm và mục tiêu công ty bằng cách nào?",
+    "choices": [
+      "Bằng cách yêu cầu AI: \"Hãy diễn đạt lại mục tiêu [mục tiêu nhóm] để đảm bảo nó hỗ trợ trực tiếp chiến lược [chiến lược công ty].\"",
+      "Bằng cách yêu cầu AI tự động thay đổi mục tiêu của công ty.",
+      "Bằng cách yêu\" cầu AI viết một email cho CEO.",
+      "Bằng cách yêu cầu AI phớt lờ mục tiêu của công ty."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy ngẫm về các nguyên nhân gốc rễ của [mô tả xung đột].\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Giải quyết Xung đột.",
+      "...Co-Pilot / Quản lý Email.",
+      "...Co-Thinker / Đặt mục tiêu.",
+      "...Co-Pilot / Tạo ý tưởng."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao việc dùng AI (Co-Pilot) để 'Tạo ý tưởng' (Chương 12) có thể giúp một nhóm đa dạng (inclusive)?",
+    "choices": [
+      "Vì nó cho phép những người ngại nói (ví dụ: người hướng nội) đóng góp ý tưởng qua văn bản/hình ảnh.",
+      "Vì nó chỉ tạo ra những ý tưởng an toàn.",
+      "Vì nó làm cho buổi họp nhanh hơn.",
+      "Vì nó chỉ lắng nghe trưởng nhóm."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi phân tích các kỹ năng trong nhóm [danh sách] và chỉ ra những mất cân bằng (imbalances) trong bộ kỹ năng.\" Đây là ví...",
+    "choices": [
+      "...Co-Pilot / Thành phần Nhóm.",
+      "...Co-Thinker / Giải quyết Xung đột.",
+      "...Co-Pilot / Lập kế hoạch Tác vụ.",
+      "...Co-Thinker / Đặt mục tiêu."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo Chương 15, vai trò của Gen AI (Co-Pilot) trong 'Quản lý Kinh doanh' là gì?",
+    "choices": [
+      "Đưa ra quyết định chiến lược cuối cùng.",
+      "Tăng tốc các phân tích tốn thời gian và thâm dụng dữ liệu (data-intensive).",
+      "Phản tư về các lựa chọn chiến lược.",
+      "Giúp bạn xây dựng luận điểm kinh doanh."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Chương 15, vai trò của Gen AI (Co-Thinker) trong 'Quản lý Kinh doanh' là gì?",
+    "choices": [
+      "Phân tích một tệp spreadsheet lớn.",
+      "Tạo một khảo sát khách hàng.",
+      "Giúp bạn suy ngẫm (ponder) về các lựa chọn phức tạp như đánh giá rủi ro hoặc xây dựng chiến lược.",
+      "Tìm kiếm thông tin trên web."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa 'Tìm kiếm thông tin' (Information Search) (Chương 16) bằng Gen AI so với công cụ tìm kiếm truyền thống là gì?",
+    "choices": [
+      "Bạn chỉ có thể dùng từ khóa (keywords).",
+      "Bạn có thể đặt câu hỏi phức tạp bằng ngôn ngữ tự nhiên và nhận về câu trả lời/tóm tắt, thay vì chỉ là danh sách link.",
+      "Gen AI luôn luôn chính xác 100%.",
+      "Gen AI không thể tìm kiếm trên web."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy tìm tất cả các dự án trong 3 năm qua liên quan đến công nghệ X và tóm tắt những điểm chung.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Pilot / Tìm kiếm Kiến thức Công ty (Company Knowledge).",
+      "...Co-Thinker / Xây dựng Chiến lược.",
+      "...Co-Pilot / Tìm kiếm trên Web.",
+      "...Co-Thinker / Đánh giá Rủi ro."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể giúp 'Quản lý Cộng đồng' (Community Managers) (Chương 16) bằng cách nào?",
+    "choices": [
+      "Tự động trả lời tất cả các tin nhắn.",
+      "Theo dõi các cuộc trò chuyện (chats) của chuyên gia và trích xuất (extract) các hiểu biết (insights) hàng đầu.",
+      "Xác định các chủ đề (themes) đang thịnh hành và các câu hỏi thường gặp.",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một số hệ thống Gen AI (Chương 16) được thiết kế với \"guardrails of 'humility'\" (rào cản 'khiêm tốn') để làm gì?",
+    "choices": [
+      "Để làm cho AI có vẻ lịch sự hơn.",
+      "Để thừa nhận các giới hạn của mình và nói rõ khi không có thông tin, nhằm giảm nguy cơ bịa đặt (fabrication).",
+      "Để từ chối trả lời các câu hỏi khó.",
+      "Để làm cho AI chạy chậm hơn."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Lina, một quản lý marketing (Chương 16), dùng Gen AI (Co-Pilot) để 'Phân tích Dữ liệu' (Data Analysis) trên spreadsheet. AI đã giúp cô ấy làm gì?",
+    "choices": [
+      "Viết email cho khách hàng.",
+      "Kết hợp các bộ dữ liệu, kiểm tra các giá trị thiếu/không nhất quán, và chuẩn bị một phiên bản \"sạch\" (clean) để phân tích.",
+      "Tự động tạo bài thuyết trình PowerPoint.",
+      "Đưa ra quyết định cuối cùng về ngân sách."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Yêu cầu AI \"Tạo một pivot table (bảng tổng hợp) để thể hiện doanh số theo danh mục qua thời gian\" là một ví dụ của...",
+    "choices": [
+      "...Co-Pilot / \"Nói chuyện với spreadsheet\" (Talk to your spreadsheet).",
+      "...Co-Thinker / Đánh giá Rủi ro.",
+      "...Co-Pilot / Tạo Khảo sát.",
+      "...Co-Thinker / Xây dựng Chiến lược."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao việc \"kiểm tra kỹ\" (double-check) kết quả phân tích dữ liệu của Gen AI (Chương 16) lại quan trọng?",
+    "choices": [
+      "Vì AI luôn luôn đúng.",
+      "Vì lỗi có thể xảy ra, và nhà quản lý cần lên lịch để nhóm cùng xem xét (team check) các kết quả bất thường.",
+      "Vì AI không thể tạo biểu đồ.",
+      "Vì AI làm việc quá chậm."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Trực quan hóa Dữ liệu' (Data Visualization) (Chương 16) bằng cách nào?",
+    "choices": [
+      "Chỉ tạo biểu đồ cột.",
+      "Đề xuất 3 loại biểu đồ phù hợp nhất để truyền tải thông điệp của bạn và giải thích lý do chọn.",
+      "Tự động gửi biểu đồ cho sếp của bạn.",
+      "Đảm bảo dữ liệu 100% chính xác."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "\"Phân tích Định tính\" (Qualitative Research Analysis) (Chương 17) bằng Gen AI (Co-Pilot) nghĩa là gì?",
+    "choices": [
+      "Chỉ đếm số lượng từ.",
+      "AI có thể phân tích các văn bản phi cấu trúc (ví dụ: bản ghi phỏng vấn, review sản phẩm) để xác định các mẫu (patterns), chủ đề (themes) và thậm chí là cảm xúc (sentiment).",
+      "AI chỉ có thể phân tích các con số.",
+      "AI sẽ tự động phỏng vấn khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nghiên cứu Tổng hợp' (Synthetic Research) (Chương 17) là gì?",
+    "choices": [
+      "Là tóm tắt tất cả các nghiên cứu hiện có.",
+      "Là việc Gen AI tạo ra dữ liệu khách hàng nhân tạo (ví dụ: các nhóm khách hàng) bắt chước các đặc điểm của dữ liệu thật.",
+      "Là một phương pháp nghiên cứu đã lỗi thời.",
+      "Là một cuộc khảo sát rất dài."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Dữ liệu tổng hợp một phần' (Partially synthetic data) (Chương 17) là gì?",
+    "choices": [
+      "Dữ liệu hoàn toàn là bịa đặt.",
+      "Dữ liệu được tạo ra bằng cách kết hợp (mixing) dữ liệu thật và dữ liệu tổng hợp.",
+      "Dữ liệu chỉ đúng một phần.",
+      "Dữ liệu được tạo ra bởi con người."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một ngân hàng (Chương 17) đã sử dụng 'Khách hàng Tổng hợp' (Synthetic Customers) để làm gì?",
+    "choices": [
+      "Để mở tài khoản ngân hàng ảo.",
+      "Để thử nghiệm các phản ứng (responses) với sản phẩm mới, đặc biệt là trong các tình huống khó thu thập dữ liệu thật (ví dụ: khách hàng gặp thảm họa, bị lừa đảo).",
+      "Để thay thế toàn bộ bộ phận chăm sóc khách hàng.",
+      "Để dự báo thị trường chứng khoán."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc xây dựng 'Luận điểm Kinh doanh' (Business Case) (Chương 18) lại thách thức trong bối cảnh VUCA?",
+    "choices": [
+      "Vì VUCA (Biến động, Không chắc chắn, Phức tạp, Mơ hồ) khiến việc hiểu các bên liên quan, đánh giá rủi ro và cân nhắc (trade-offs) trở nên khó khăn hơn.",
+      "Vì VUCA làm cho AI không hoạt động.",
+      "Vì chi phí quá cao.",
+      "Vì không ai quan tâm đến business case nữa."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn phân tích 'Góc nhìn của các bên liên quan' (Stakeholder Perspectives) (Chương 18) bằng cách nào?",
+    "choices": [
+      "Bằng cách gửi email cho tất cả các bên liên quan.",
+      "Bằng cách mô phỏng (emulate) vai trò của các bên liên quan khác nhau và chỉ ra các bên liên quan mà bạn có thể đã bỏ sót (overlooked).",
+      "Bằng cách quyết định góc nhìn của ai là quan trọng nhất.",
+      "Bằng cách phớt lờ các bên liên quan bên ngoài."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý đang phân vân giữa việc phát triển công nghệ 'in-house' (nội bộ) và 'partnering' (hợp tác). Họ nên dùng Co-Thinker (Chương 18) để làm gì?",
+    "choices": [
+      "Yêu cầu AI chọn 1 phương án.",
+      "Yêu cầu AI giúp cân nhắc (ponder) các ưu (pros) và nhược (cons) của mỗi lựa chọn, và các cân nhắc (trade-offs) giữa chúng.",
+      "Yêu cầu AI viết hợp đồng hợp tác.",
+      "Yêu cầu AI tuyển dụng nhân sự in-house."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi đưa ra một quyết định khó khăn, nhà quản lý có thể dùng Co-Thinker (Chương 18) để làm gì?",
+    "choices": [
+      "Để quên đi quyết định đó.",
+      "Để giúp diễn đạt (articulate) lý do (rationale) đằng sau quyết định đó một cách rõ ràng cho các bên liên quan.",
+      "Để tự động thông báo quyết định.",
+      "Để đổ lỗi cho AI nếu quyết định đó sai."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Lập kế hoạch dựa trên khám phá' (Discovery-driven planning) (Chương 18) là phương pháp dùng để làm gì?",
+    "choices": [
+      "Để đảm bảo dự án thành công 100%.",
+      "Để giảm thiểu rủi ro (de-risking) cho các dự án có độ không chắc chắn cao bằng cách kiểm tra các giả định (assumptions) quan trọng nhất.",
+      "Để lập kế hoạch cho một bữa tiệc khám phá.",
+      "Để viết một kịch bản phim."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong phác thảo đối thoại 'Xác định & Giảm thiểu Rủi ro' (Chương 18), sau khi AI giúp bạn liệt kê các giả định (assumptions), bước tiếp theo là gì?",
+    "choices": [
+      "Thực hiện dự án ngay lập tức.",
+      "AI đề xuất các tiêu chí để ưu tiên (prioritize) các giả định quan trọng nhất cần kiểm tra (test) trước.",
+      "Phớt lờ các giả định.",
+      "Yêu cầu AI viết báo cáo rủi ro."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Framework 5 câu hỏi' (Five questions framework) của Roger Martin (Chương 19) được Co-Thinker sử dụng để giúp bạn làm gì?",
+    "choices": [
+      "Đánh giá một khái niệm đổi mới.",
+      "Xây dựng chiến lược kinh doanh (Business Strategy).",
+      "Đánh giá rủi ro.",
+      "Phân tích chuỗi cung ứng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "5 câu hỏi trong framework của Roger Martin (Chương 19) bao gồm những gì?",
+    "choices": [
+      "Ai, Cái gì, Khi nào, Ở đâu, Tại sao.",
+      "Khát vọng (Aspiration), Sân chơi (Where to play), Cách thắng (How to win), Năng lực (Capabilities), Hệ thống (Systems).",
+      "Vấn đề, Giải pháp, Thị trường, Đội ngũ, Tài chính.",
+      "Mua, Bán, Giữ, Bỏ qua, Chờ đợi."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Framework 3 câu hỏi' (three-question framework) của George Day (Chương 19) được Co-Thinker sử dụng để làm gì?",
+    "choices": [
+      "Đánh giá một khái niệm đổi mới (Innovative Concept).",
+      "Xây dựng chiến lược kinh doanh.",
+      "Phân tích chuỗi cung ứng.",
+      "Giải quyết xung đột."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Ba câu hỏi trong framework của George Day (Chương 19) là gì?",
+    "choices": [
+      "Nó rẻ không? (Is it cheap?) Nó nhanh không? (Is it fast?) Nó dễ không? (Is it easy?)",
+      "Nó có thật không? (Is it real?) Chúng ta có thể thắng không? (Can we win?) Có đáng làm không? (Is it worth doing?)",
+      "Nó có hợp pháp không? (Is it legal?) Nó có đạo đức không? (Is it ethical?) Nó có lợi nhuận không? (Is it profitable?)",
+      "Mọi người có thích nó không? (Do people like it?) Nó có mới không? (Is it new?) Nó có tốt không? (Is it good?)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc 'Đánh giá Chiến lược Chuỗi cung ứng' (Assessing Supply Chain Strategy) (Chương 19) lại phức tạp?",
+    "choices": [
+      "Vì nó chỉ liên quan đến chi phí.",
+      "Vì nó liên quan đến nhiều sự cân nhắc (trade-offs) phức tạp, ví dụ: 'onshoring' (mang về nước) để tăng khả năng phục hồi (resilience) nhưng có thể làm tăng chi phí.",
+      "Vì nó không quan trọng.",
+      "Vì AI không thể hiểu được chuỗi cung ứng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thảo luận về chuỗi cung ứng với Co-Thinker (Chương 19), bạn có thể yêu cầu AI làm gì?",
+    "choices": [
+      "Quyết định nhà cung cấp cho bạn.",
+      "Giúp bạn cân nhắc (weigh) các ưu/nhược điểm của việc dùng 'một nhà cung cấp' (single-source) so với 'nhiều nhà cung cấp' (multiple suppliers).",
+      "Tự động đặt hàng.",
+      "Thanh toán cho nhà cung cấp."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) trong Chương 16 có thể 'Nói chuyện với spreadsheet' của bạn và thực hiện những hành động nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Xếp hạng (Ranking) 5 giá trị cao nhất trong cột doanh thu.",
+      "Sắp xếp (Sorting) các mục từ lớn nhất đến nhỏ nhất.",
+      "Lọc (Filtering) dữ liệu để chỉ hiển thị một khu vực cụ thể.",
+      "Thêm một cột (Calculations) tính toán lợi nhuận."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Tìm kiếm Thông tin' (Information Search) (Chương 16) từ những nguồn nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Kiến thức trên Web (Web knowledge).",
+      "Kiến thức nội bộ của Công ty (Company knowledge - ví dụ: báo cáo, tài liệu).",
+      "Kiến thức của Chuyên gia (Expert knowledge - ví dụ: các cuộc chat trong Microsoft Teams).",
+      "Những suy nghĩ riêng tư của sếp bạn."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể hỗ trợ 'Nghiên cứu Khách hàng' (Customer Insights) (Chương 17) bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Soạn thảo một bản khảo sát (survey) 10 câu hỏi.",
+      "Phân tích cảm xúc (sentiment analysis) từ các review sản phẩm.",
+      "Tạo ra 'dữ liệu tổng hợp' (synthetic data) về khách hàng để thử nghiệm.",
+      "Đảm bảo 100% khách hàng sẽ mua sản phẩm của bạn."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Khi xây dựng 'Luận điểm Kinh doanh' (Business Case) (Chương 18), Co-Thinker có thể giúp bạn ở những khâu nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Suy ngẫm về các góc nhìn (perspectives) của các bên liên quan.",
+      "Đánh giá các cân nhắc (trade-offs) giữa các lựa chọn.",
+      "Xác định và giảm thiểu rủi ro (risk identification and mitigation).",
+      "Viết toàn bộ luận điểm kinh doanh và đảm bảo nó được phê duyệt."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy phân tích các bình luận (comments) trên mạng xã hội về sản phẩm X và phân loại chúng thành tích cực, tiêu cực, trung tính.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Pilot / Phân tích Định tính (Qualitative Analysis).",
+      "...Co-Thinker / Đánh giá Rủi ro.",
+      "...Co-Pilot / Tạo Khảo sát.",
+      "...Co-Thinker / Xây dựng Chiến lược."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa 'dữ liệu tổng hợp hoàn toàn' (fully synthetic) và 'dữ liệu tổng hợp một phần' (partially synthetic) (Chương 17) là gì?",
+    "choices": [
+      "Hoàn toàn' là do AI tạo ra 100% (không cần dữ liệu thật), 'Một phần' là AI trộn (mixing) dữ liệu thật và dữ liệu tổng hợp.",
+      "Hoàn toàn' là chính xác 100%, 'Một phần' là có lỗi.",
+      "Hoàn toàn' dùng cho kinh doanh, 'Một phần' dùng cho kỹ thuật.",
+      "Hoàn toàn' là văn bản, 'Một phần' là hình ảnh."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy nghĩ về các kịch bản 'Nếu...thì' (What if) để kiểm tra các giả định chính của tôi.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Xác định Rủi ro (Risk Identification).",
+      "...Co-Pilot / Phân tích Dữ liệu.",
+      "...Co-Thinker / Đánh giá Khái niệm Đổi mới.",
+      "...Co-Pilot / Tìm kiếm Thông tin."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phác thảo đối thoại 'Xây dựng Chiến lược Kinh doanh' (Chương 19) (framework của Roger Martin) bắt đầu bằng câu hỏi nào?",
+    "choices": [
+      "Chúng ta nên thắng như thế nào? (How to win?)",
+      "Chúng ta cần những năng lực gì? (Capabilities?)",
+      "Khát vọng chiến thắng của chúng ta là gì? (Winning aspiration?)",
+      "Chúng ta nên chơi ở đâu? (Where to play?)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Phác thảo đối thoại 'Đánh giá Khái niệm Đổi mới' (Chương 19) (framework của George Day) dùng AI để làm gì?",
+    "choices": [
+      "Để xác nhận rằng ý tưởng đó là tuyệt vời.",
+      "Để đóng vai trò là chuyên gia quản lý đổi mới và thách thức (challenge) nhóm về 3 câu hỏi (Real? Win? Worth?).",
+      "Để tự động xây dựng sản phẩm.",
+      "Để tìm nhà đầu tư cho ý tưởng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi cân nhắc (ponder) các ưu/nhược điểm của việc đa dạng hóa nhà cung cấp (diversifying suppliers) so với việc giữ một nhà cung cấp tinh gọn (lean).\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Đánh giá Chiến lược Chuỗi cung ứng.",
+      "...Co-Pilot / Phân tích Dữ liệu.",
+      "...Co-Thinker / Đánh giá Rủi ro.",
+      "...Co-Pilot / Tạo Khảo sát."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục đích của việc sử dụng 'Khách hàng Tổng hợp' (Synthetic Customers) (Chương 17) là gì?",
+    "choices": [
+      "Để thay thế tất cả khách hàng thật.",
+      "Để có một 'đại diện' (proxy) cho khách hàng thật để thử nghiệm các ý tưởng (ví dụ: tính năng mới, giá cả) khi dữ liệu thật khó thu thập.",
+      "Để chứng minh rằng dữ liệu thật là sai.",
+      "Để tạo ra các tài khoản mạng xã hội giả."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi dùng Co-Thinker (Chương 18) để phân tích 'Góc nhìn của các bên liên quan', phác thảo đối thoại gợi ý AI làm gì?",
+    "choices": [
+      "Tạo một bảng liệt kê các bên liên quan, nhu cầu cụ thể của họ, và các điểm đau (pain points) chưa được giải quyết.",
+      "Gửi email cho tất cả các bên liên quan.",
+      "Chọn ra 3 bên liên quan quan trọng nhất.",
+      "Phớt lờ các bên liên quan tiêu cực."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Thinker) có thể giúp bạn 'Xác định Rủi ro' (Risk Identification) (Chương 18) bằng cách nào? (Chọn TẤT CẢ các đáp án đúng)",
+    "choices": [
+      "Giúp bạn liệt kê (mapping) một danh sách dài các rủi ro.",
+      "Giúp bạn suy ngẫm về các giả định (assumptions) quan trọng nhất và ẩn giấu (hidden) của dự án.",
+      "Giúp bạn mô phỏng (simulate) các kịch bản 'What if' để kiểm tra các giả định đó.",
+      "Đảm bảo dự án của bạn không có rủi ro."
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy nghĩ về các xu hướng công nghệ mới (ví dụ: Machine Learning) có thể tác động đến chuỗi cung ứng của tôi.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Đánh giá Chiến lược Chuỗi cung ứng.",
+      "...Co-Pilot / Tìm kiếm trên Web.",
+      "...Co-Thinker / Đánh giá Rủi ro.",
+      "...Co-Pilot / Phân tích Dữ liệu."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Lina (Chương 16) dùng AI (Co-Pilot) để 'Trực quan hóa Dữ liệu'. AI đã giúp cô ấy như thế nào?",
+    "choices": [
+      "AI tự động gửi báo cáo cho sếp của Lina.",
+      "AI đề xuất 2 loại biểu đồ, và Lina chọn loại cô ấy ưu tiên để AI tạo ra.",
+      "AI nói với Lina rằng dữ liệu của cô ấy không thú vị.",
+      "AI từ chối tạo biểu đồ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao việc phân tích 'Kiến thức Chuyên gia' (Expert knowledge) từ các cuộc chat nội bộ (Chương 16) lại có giá trị?",
+    "choices": [
+      "Vì nó giúp nhà quản lý biết ai đang không làm việc.",
+      "Vì nó biến các thông tin (knowledge) quý giá, đang bị phân mảnh và trôi mất trong các cuộc chat, thành các tài nguyên có thể tìm kiếm và sử dụng được.",
+      "Vì nó cho phép AI tham gia vào các cuộc trò chuyện.",
+      "Vì nó vi phạm quyền riêng tư."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) có thể giúp bạn 'Phân tích Dữ liệu Định tính' (Qualitative Data Analysis) (Chương 17) bằng cách nào?",
+    "choices": [
+      "Tóm tắt các điểm chính từ các cuộc phỏng vấn khách hàng.",
+      "Xác định các chủ đề chung (common themes) và sự khác biệt giữa những người được phỏng vấn.",
+      "Phân loại các review sản phẩm và tóm tắt các mẫu (patterns) lặp lại.",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi nào thì việc sử dụng 'Nghiên cứu Tổng hợp' (Synthetic Research) (Chương 17) là đặc biệt hữu ích?",
+    "choices": [
+      "Khi bạn có quá nhiều dữ liệu thật.",
+      "Khi bạn muốn chứng minh một điều gì đó là sai.",
+      "Khi bạn cần dữ liệu nhưng việc thu thập dữ liệu thật là khó khăn, tốn kém, hoặc liên quan đến các vấn đề nhạy cảm/quyền riêng tư.",
+      "Khi bạn không tin tưởng vào dữ liệu thật."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục tiêu của phác thảo đối thoại 'Đánh giá Khái niệm Đổi mới' (Chương 19) (framework của George Day) là gì?",
+    "choices": [
+      "Để đảm bảo mọi ý tưởng đều được thực hiện.",
+      "Để giúp nhóm suy nghĩ một cách có hệ thống và phản biện về một ý tưởng trước khi đầu tư nguồn lực.",
+      "Để làm cho buổi họp kéo dài hơn.",
+      "Để chứng minh rằng ý tưởng của nhà quản lý là tốt nhất."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy đóng vai là nhà đầu tư và chỉ ra 3 yếu tố trong hiệu suất của công ty tôi mà ông sẽ tập trung vào.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Đánh giá các bên liên quan (Stakeholder Perspectives).",
+      "...Co-Pilot / Phân tích Dữ liệu.",
+      "...Co-Thinker / Xây dựng Chiến lược.",
+      "...Co-Pilot / Tạo Khảo sát."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao một nhà quản lý chuỗi cung ứng có thể dùng Co-Thinker (Chương 19) để thảo luận về 'hợp đồng dài hạn' (long-term contracts) so với 'linh hoạt' (flexibility)?",
+    "choices": [
+      "Vì AI có thể dự báo chính xác giá cả trong tương lai.",
+      "Vì AI có thể giúp họ suy ngẫm (weigh) về các ưu (pros) và nhược (cons) của việc cam kết (để ổn định) so với việc linh hoạt (để thích ứng).",
+      "Vì AI có thể tự động ký hợp đồng.",
+      "Vì AI có thể tìm nhà cung cấp rẻ nhất."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích của việc yêu cầu AI (Co-Pilot) \"thêm tường thuật (narratives)\" vào biểu đồ (Chương 16) là gì?",
+    "choices": [
+      "Để làm cho biểu đồ trông phức tạp hơn.",
+      "Để biến dữ liệu đơn thuần thành một \"câu chuyện\" (data storytelling) hấp dẫn và dễ hiểu hơn.",
+      "Để kiểm tra xem AI có biết viết văn hay không.",
+      "Để thay thế hoàn toàn biểu đồ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một nhà quản lý yêu cầu AI: \"Hãy giúp tôi suy ngẫm (reflect) về 5 câu hỏi của Roger Martin cho chiến lược của đơn vị kinh doanh của tôi.\" Đây là ví dụ về...",
+    "choices": [
+      "...Co-Thinker / Xây dựng Chiến lược Kinh doanh.",
+      "...Co-Pilot / Tìm kiếm trên Web.",
+      "...Co-Thinker / Giải quyết Xung đột.",
+      "...Co-Pilot / Phân tích Dữ liệu."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao việc AI (Co-Thinker) giúp bạn 'diễn đạt lý do' (articulate the rationale) (Chương 18) lại quan trọng?",
+    "choices": [
+      "Vì nó giúp bạn che giấu lý do thật.",
+      "Vì việc giải thích 'tại sao' bạn đưa ra một quyết định (đặc biệt là quyết định có sự cân nhắc/trade-off) là rất quan trọng để có được sự đồng thuận (buy-in) của các bên liên quan.",
+      "Vì nó chứng tỏ AI thông minh hơn bạn.",
+      "Vì nó giúp bạn viết một email dài."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Gen AI (Co-Pilot) trong Chương 16 có thể 'Đọc và Làm sạch Dữ liệu' (Read and clean data) bằng cách nào?",
+    "choices": [
+      "Chỉ đọc dữ liệu.",
+      "Mô tả nội dung của bộ dữ liệu.",
+      "Xác định các giá trị bị thiếu (missing) hoặc tính toán sai.",
+      "Cả 2 phương án 2 và 3."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khảo sát dựa trên Chat Động' (Dynamic Chat-Based Surveys) (Chương 17) là gì?",
+    "choices": [
+      "Một cuộc khảo sát qua email.",
+      "Một chatbot AI điều chỉnh (adapts) các câu hỏi dựa trên các câu trả lời trước đó của người dùng, tạo ra trải nghiệm cá nhân hóa.",
+      "Một khảo sát trên giấy.",
+      "Một nhóm chat để làm khảo sát."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích của phác thảo đối thoại 'Xác định & Giảm thiểu Rủi ro' (Chương 18) là gì?",
+    "choices": [
+      "Để viết một kế hoạch dự án hoàn hảo.",
+      "Để giúp nhà quản lý suy ngẫm về các giả định (assumptions) của dự án và tạo ra một kế hoạch xác thực (validation plan) để kiểm tra chúng.",
+      "Để đảm bảo dự án không bao giờ thất bại.",
+      "Để tìm ra ai là người chịu trách nhiệm nếu dự án thất bại."
+    ],
+    "correct_answers": [
+      1
+    ]
+  }
+]
