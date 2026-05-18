@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "A business analyst (BA) working on a recently implemented project is approached by the sponsor to provide artifacts that can be used organization-wide for the long-term. Which of the following should the BA provide?",
+    "choices": [
+      "High-level business requirements document",
+      "Transition requirements document",
+      "Process models",
+      "Project solution architecture"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A martial arts organization has been expanding throughout the mid-Atlantic states and has hired a business analyst (BA) to create a system that will enable the organization to manage its growing needs. The following list describes some of the operations of the martial arts organization: \u00e2\u0153\u2018 The martial arts organization offers a variety of seminars to trainees that span the entire spectrum of the martial arts training system. \u00e2\u0153\u2018 Each seminar is made up of a set of techniques. \u00e2\u0153\u2018 Coaches in the martial arts organization are assigned seminars to teach according to the area that they specialize in and their availability. \u00e2\u0153\u2018 The martial arts organization publishes and maintains a web-based calendar of the different seminars (and the assigned coaches) every quarter for the trainees to view. \u00e2\u0153\u2018 The seminar administrator in the martial arts organization manages the seminars (including seminar content), assigns seminars to coaches, and defines the seminar schedule. To ensure understanding of the business need, the BA has created three Unified Modelling Language (UML) diagrams, which are shown below:  ===== Page 162 ===== The BA is finalizing the definition of the requirements architecture by understanding how requirements relate to each other. A key component that must be apparent in all three diagrams is that none of the requirements be linked in different or conflicting ways. What relationship quality criterion does this represent?",
+    "choices": [
+      "Correct",
+      "Unambiguous",
+      "Defined",
+      "Necessary"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A martial arts organization has been expanding throughout the mid-Atlantic states and has hired a business analyst (BA) to create a system that will enable the organization to manage its growing needs. The following list describes some of the operations of the martial arts organization: \u00e2\u0153\u2018 The martial arts organization offers a variety of seminars to trainees that span the entire spectrum of the martial arts training system. \u00e2\u0153\u2018 Each seminar is made up of a set of techniques. \u00e2\u0153\u2018 Coaches in the martial arts organization are assigned seminars to teach according to the area that they specialize in and their availability. \u00e2\u0153\u2018 The martial arts organization publishes and maintains a web-based calendar of the different seminars (and the assigned coaches) every quarter for the trainees to view. \u00e2\u0153\u2018 The seminar administrator in the martial arts organization manages the seminars (including seminar content), assigns seminars to coaches, and defines the seminar schedule. To ensure understanding of the business need, the BA has created three Unified Modelling Language (UML) diagrams, which are shown below:  ===== Page 164 ===== The BA is working on the design options for the future state at the martial arts organization. There are several design elements that need to be considered for the future state. Which of the following design elements does the Activity Diagram address?",
+    "choices": [
+      "Business processes to be performed and managed",
+      "Business policies and business rules",
+      "People who operate and maintain the solution",
+      "Operational business decisions to be made  ===== Page 165 ====="
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A martial arts organization has been expanding throughout the mid-Atlantic states and has hired a business analyst (BA) to create a system that will enable the organization to manage its growing needs. The following list describes some of the operations of the martial arts organization: \u00e2\u0153\u2018 The martial arts organization offers a variety of seminars to trainees that span the entire spectrum of the martial arts training system. \u00e2\u0153\u2018 Each seminar is made up of a set of techniques. \u00e2\u0153\u2018 Coaches in the martial arts organization are assigned seminars to teach according to the area that they specialize in and their availability. \u00e2\u0153\u2018 The martial arts organization publishes and maintains a web-based calendar of the different seminars (and the assigned coaches) every quarter for the trainees to view. \u00e2\u0153\u2018 The seminar administrator in the martial arts organization manages the seminars (including seminar content), assigns seminars to coaches, and defines the seminar schedule. To ensure understanding of the business need, the BA has created three Unified Modelling Language (UML) diagrams, which are shown below:  ===== Page 167 ===== The BA is analyzing the requirements that are represented in the Class Diagram. In addition to the diagram, the BA would like to include a separate document that has the information about the data elements to ensure a common understanding of the classes' attributes. What technique is used to define the data elements?",
+    "choices": [
+      "Data Dictionary",
+      "Data Mining",
+      "Glossary  ===== Page 168 =====",
+      "Reviews"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A martial arts organization has been expanding throughout the mid-Atlantic states and has hired a business analyst (BA) to create a system that will enable the organization to manage its growing needs. The following list describes some of the operations of the martial arts organization: \u00e2\u0153\u2018 The martial arts organization offers a variety of seminars to trainees that span the entire spectrum of the martial arts training system. \u00e2\u0153\u2018 Each seminar is made up of a set of techniques. \u00e2\u0153\u2018 Coaches in the martial arts organization are assigned seminars to teach according to the area that they specialize in and their availability. \u00e2\u0153\u2018 The martial arts organization publishes and maintains a web-based calendar of the different seminars (and the assigned coaches) every quarter for the trainees to view. \u00e2\u0153\u2018 strator in the martial arts organization manages the seminars (including seminar content), assigns seminars to coaches, and defines the seminar schedule. To ensure understanding of the business need, the BA has created three Unified Modelling Language (UML) diagrams, which are shown below:  ===== Page 170 ===== The seminar administrator reviewed these three diagrams and asked the BA to create a fourth diagram to model the various levels that a trainee goes through (e.g., while belt to yellow belt, yellow belt to green belt, etc.). What modeling technique will the BA use to create this diagram?",
+    "choices": [
+      "Organizational modelling",
+      "State modelling",
+      "Concept modelling  ===== Page 171 =====",
+      "Decision modelling"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The performance of a newly implemented document management system is falling significantly short of the measures defined as part of the project. However, the business is recognizing some level of value from the system. The business analyst (BA) considers the only option available to the company to increase performance and determines that the cost of implementing the option is ten times higher than the expected benefits. What should the BA recommend?",
+    "choices": [
+      "Plan stakeholder engagement",
+      "Retire the implemented solution",
+      "Conduct elicitation",
+      "Continue with the implemented solution"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years. The Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site. The purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims. There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows: \u00e2\u0153\u2018 Improvements to the search engine to all customers to search for articles, tools and services on the site. \u00e2\u0153\u2018 A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility. \u00e2\u0153\u2018 A promotion feature \"\" where Risk preventing Articles, and tools on the site are marketed toward a customer. \u00e2\u0153\u2018 A profile section allowing for Customer Name, Address and contact Phone number. After the 12 months pilot, the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spend a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced. Regarding the use of promotion the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry. The BA asked for a dump of all documentation of the 100 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim field were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be stored at the top giving the customer a more personalized experience. What type of recommendation has the BA made to the business sponsor?",
+    "choices": [
+      "Identify additional capabilities",
+      "Reduce complexity of interfaces",
+      "Perform organizational change.",
+      "Retire the solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years. The Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site. The purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims. There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows: \u00e2\u0153\u2018 Improvements to the search engine to all customers to search for articles, tools and services on the site. \u00e2\u0153\u2018 A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility. \u00e2\u0153\u2018 A promotion feature \"\" where Risk preventing Articles, and tools on the site are marketed toward a customer. \u00e2\u0153\u2018 A profile section allowing for Customer Name, Address and contact Phone number. After the 12 months pilot, the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spend a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced. Regarding the use of promotion the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry. The BA asked for a dump of all documentation of the 100 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim field were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be stored at the top giving the customer a more personalized experience. What technique was the BA using to understand why the promotions were not being viewed?",
+    "choices": [
+      "Use cases and scenarios",
+      "Benchmarking and market analysis",
+      "Observation",
+      "Data mining"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years. The Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site. The purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims. There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows: \u00e2\u0153\u2018 Improvements to the search engine to all customers to search for articles, tools and services on the site. \u00e2\u0153\u2018 A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility. \u00e2\u0153\u2018 A promotion feature \"\" where Risk preventing Articles, and tools on the site are marketed toward a customer. \u00e2\u0153\u2018 A profile section allowing for Customer Name, Address and contact Phone number. After the 12 months pilot, the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spend a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced. Regarding the use of promotion the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry. The BA asked for a dump of all documentation of the 100 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim field were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be stored at the top giving the customer a more personalized experience. What technique led the BA to the source of the increase in claims?",
+    "choices": [
+      "Survey",
+      "Decision modelling",
+      "Data mining",
+      "Document analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years. The Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site. The purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims. There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows: \u00e2\u0153\u2018 Improvements to the search engine to all customers to search for articles, tools and services on the site. \u00e2\u0153\u2018 A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility. \u00e2\u0153\u2018 A promotion feature \"\" where Risk preventing Articles, and tools on the site are marketed toward a customer. \u00e2\u0153\u2018 A profile section allowing for Customer Name, Address and contact Phone number. After the 12 months pilot, the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spend a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced. Regarding the use of promotion the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry. The BA asked for a dump of all documentation of the 100 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim field were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be stored at the top giving the customer a more personalized experience. What was the business sponsor looking to validate about the use of promotions?",
+    "choices": [
+      "Performance Variance",
+      "Accuracy",
+      "Risks",
+      "Market Trends"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An insurance company wants to implement a business intelligence solution to consolidate data from various different internal systems to provide a better understanding of their customer base. A business analyst (BA) is engaged to put together a tender (bid) to be sent to various business intelligence providers and implementation partners. Among other information, the business analyst requests the following: \u00e2\u0153\u2018 Licensing costs for Year 0 based on meeting 1 Central Processing Unit (CPU) license \u00e2\u0153\u2018 Licensing costs for specific user types such as Report Creators. Online Analytical Processing (OLAP) users and Power uses Predicted licensing costs for renewing in Years 1 ad 2 Full implementation costs - After reviewing the received vendor responses the project team shortlists the candidates to 3 and the BA structures the received information as follows: The BA also conducts a sensitivity analysis to compare the expected costs should the company's needs grow based on the following information: Scenario 1: Ten extra report creator, 1 extra OLAP user and 1 extra power user licenses and 2 extra CPU licenses Scenario 2: Twenty five extra report creator, 1 extra OLAP user and 1 extra power user licenses and 3 extra CPU licenses What is the time difference in days between the shortest and longest implementation?",
+    "choices": [
+      "39",
+      "51",
+      "60",
+      "19"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "An insurance company wants to implement a business intelligence solution to consolidate data from various different internal systems to provide a better understanding of their customer base. A business analyst (BA) is engaged to put together a tender (bid) to be sent to various business intelligence providers and implementation partners. Among other information, the business analyst requests the following: \u00e2\u0153\u2018 Licensing costs for Year 0 based on meeting 1 Central Processing Unit (CPU) license \u00e2\u0153\u2018 Licensing costs for specific user types such as Report Creators. Online Analytical Processing (OLAP) users and Power uses Predicted licensing costs for renewing in Years 1 ad 2 \u00e2\u0153\u2018 Full implementation costs After reviewing the received vendor responses the project team shortlists the candidates to 3 and the BA structures the received information as follows: The BA also conducts a sensitivity analysis to compare the expected costs should the company's needs grow based on the following information: Scenario 1: Ten extra report creator, 1 extra OLAP user and 1 extra power user licenses and 2 extra CPU licenses Scenario 2: Twenty five extra report creator, 1 extra OLAP user and 1 extra power user licenses and 3 extra CPU licenses What is the increased cost in Scenario 2 for Company C?",
+    "choices": [
+      "$695,448",
+      "$453,635",
+      "$653,934",
+      "$207,790"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An insurance company wants to implement a business intelligence solution to consolidate data from various different internal systems to provide a better understanding of their customer base. A business analyst (BA) is engaged to put together a tender (bid) to be sent to various business intelligence providers and implementation partners. Among other information, the business analyst requests the following: \u00e2\u0153\u2018 Licensing costs for Year 0 based on meeting 1 Central Processing Unit (CPU) license \u00e2\u0153\u2018 Licensing costs for specific user types such as Report Creators. Online Analytical Processing (OLAP) users and Power uses Predicted licensing costs for renewing in Years 1 ad 2 \u00e2\u0153\u2018 Full implementation costs After reviewing the received vendor responses the project team shortlists the candidates to 3 and the BA structures the received information as follows: The BA also conducts a sensitivity analysis to compare the expected costs should the company's needs grow based on the following information: Scenario 1: Ten extra report creator, 1 extra OLAP user and 1 extra power user licenses and 2 extra CPU licenses Scenario 2: Twenty five extra report creator, 1 extra OLAP user and 1 extra power user licenses and 3 extra CPU licenses The insurance company has a maximum budget of $810,000 for the entire implementation and operation over the first three years. Which vendor or vendors meet that criteria?",
+    "choices": [
+      "Company A",
+      "Company B",
+      "Both companies B and C",
+      "Both companies A and C"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An organization is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed: 1. There are multiple teams to define systems, functionality, and content. In many instances multiple teams are defining the same functionalities while other functionalities are not being defined at all, leading to unclear understanding of business requirements. 2. Product specification forms are published each year. A comparison tool is used to evaluate specification between yearly releases, but does not adequately identify changes between versions and needs to be improved. 3. Training consists of a new team member shadowing a seasoned team member. There are not written training materials for formal training sources therefore training is inconsistent and not meeting the needs of the organization. The BA learns that formal training programs are not often devised for teams as small and diverse as this team, but still believes it is a viable solution to the training need. What type of analysis would help the BA gain approval to proceed with creating this type of training program for this team?",
+    "choices": [
+      "Business Capabilities",
+      "Cost Benefit",
+      "Decision",
+      "Process"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "An organization is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed: 1. There are multiple teams to define systems, functionality, and content. In many instances multiple teams are defining the same functionalities while other functionalities are not being defined at all, leading to unclear understanding of business requirements. 2. Product specification forms are published each year. A comparison tool is used to evaluate specification between yearly releases, but does not adequately identify changes between versions and needs to be improved. 3. Training consists of a new team member shadowing a seasoned team member. There are not written training materials for formal training sources therefore training is inconsistent and not meeting the needs of the organization. What analysis approach must the BA use to determine changes required to address the training needs?",
+    "choices": [
+      "Future state",
+      "Decision",
+      "Market",
+      "Root cause"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An organization is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed: 1. There are multiple teams to define systems, functionality, and content. In many instances multiple teams are defining the same functionalities while other functionalities are not being defined at all, leading to unclear understanding of business requirements. 2. Product specification forms are published each year. A comparison tool is used to evaluate specification between yearly releases, but does not adequately identify changes between versions and needs to be improved. 3. Training consists of a new team member shadowing a seasoned team member. There are not written training materials for formal training sources therefore training is inconsistent and not meeting the needs of the organization. What approach would help the BA to understand the functionality definition issues?",
+    "choices": [
+      "Business Analysis Communication Plan",
+      "Business Analysis Performance Assessment",
+      "Risk Register",
+      "Requirements Traceability Repository"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "An organization is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed: 1. There are multiple teams to define systems, functionality, and content. In many instances multiple teams are defining the same functionalities while other functionalities are not being defined at all, leading to unclear understanding of business requirements. 2. Product specification forms are published each year. A comparison tool is used to evaluate specification between yearly releases, but does not adequately identify changes between versions and needs to be improved. 3. Training consists of a new team member shadowing a seasoned team member. There are not written training materials for formal training sources therefore training is inconsistent and not meeting the needs of the organization. Which stakeholders would the BA interview to determine the changes needed to the comparison tool?",
+    "choices": [
+      "Implementation Subject Matter Expert and Tester",
+      "Project Manager and Project Sponsor",
+      "Regulator and Operational Support Manager",
+      "Domain Subject Matter Expert and End User"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The table illustrates the statement of cash flows for a courier company for the last fiscal year. Due to aggressive market competition, the management of the company performed a strategy review and based on their findings and the current market conditions they came up with strategic and tactical changes in order to keep a competitive market position. In order to strengthen customer retention strategies through a new competitive advantage, the company is considering implementing a live parcel tracking system. The added value will be that the customers may determine the exact location of the parcel whether it is in a warehouse, crossing the ocean through an overseas ship, or travelling in a delivery truck at any time. The system tracks the location of the parcel by tracking the vehicle in which it is contained. However, for a group of old delivery trucks, it was noticed that the engine sound and vibration disturbed the tracking signal and caused interruptions. Therefore, the tracking does not perform accurately on these vehicles. Although the majority of management would like to sell these vehicles and replace them with newer ones, the Chief Financial Officer (CFO) was strongly against that approach. The CFO argued that instead of hanging tracking devices on the trucks' body, they can have the truck drivers manually send the truck location from a hand held mobile device every 30 minutes. The company has a total of 134 old delivery trucks that have been in service for 10 years. Each vehicle was bought at a price of $22,000. Depreciation is done using a straight line basis and it is estimated that the vehicle depreciates at $1000 per year. The estimated salvage value per vehicle is about $3,000. Another area of tactical improvement for the courier company is pricing. The management strongly believes that they can start a price war with the most aggressive competitor. Management thinks, with their variable cost of $4 per parcel and fixed cost of $6 per parcel, they can win the market. However, after implementing the tracking solution, fixed cost will jump to $8 per parcel which made management reconsider their options. The competitor has variable costs of $5 per parcel and fixed costs o $7 per parcel. The CFO's resistance to replacing the older vehicles represents which type of cost?",
+    "choices": [
+      "Sunk",
+      "Maintenance",
+      "Opportunity",
+      "Operating"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The table illustrates the statement of cash flows for a courier company for the last fiscal year. Due to aggressive market competition, the management of the company performed a strategy review and based on their findings and the current market conditions they came up with strategic and tactical changes in order to keep a competitive market position. In order to strengthen customer retention strategies through a new competitive advantage, the company is considering implementing a live parcel tracking system. The added value will be that the customers may determine the exact location of the parcel whether it is in a warehouse, crossing the ocean through an overseas ship, or travelling in a delivery truck at any time. The system tracks the location of the parcel by tracking the vehicle in which it is contained. However, for a group of old delivery trucks, it was noticed that the engine sound and vibration disturbed the tracking signal and caused interruptions. Therefore, the tracking does not perform accurately on these vehicles. Although the majority of management would like to sell these vehicles and replace them with newer ones, the Chief Financial Officer (CFO) was strongly against that approach. The CFO argued that instead of hanging tracking devices on the trucks' body, they can have the truck drivers manually send the truck location from a hand held mobile device every 30 minutes. The company has a total of 134 old delivery trucks that have been in service for 10 years. Each vehicle was bought at a price of $22,000. Depreciation is done using a straight line basis and it is estimated that the vehicle depreciates at $1000 per year. The estimated salvage value per vehicle is about $3,000. Another area of tactical improvement for the courier company is pricing. The management strongly believes that they can start a price war with the most aggressive competitor. Management thinks, with their variable cost of $4 per parcel and fixed cost of $6 per parcel, they can win the market. However, after implementing the tracking solution, fixed cost will jump to $8 per parcel which made management reconsider their options. The competitor has variable costs of $5 per parcel and fixed costs o $7 per parcel. What could the business analyst (BA) do to gain consensus between the CFO and other Management?",
+    "choices": [
+      "Calculate the costs incurred by each option",
+      "Recommend and present a completely new option",
+      "Estimate the potential value delivered by each option",
+      "Compare each option against an industry benchmark"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The table illustrates the statement of cash flows for a courier company for the last fiscal year. Due to aggressive market competition, the management of the company performed a strategy review and based on their findings and the current market conditions they came up with strategic and tactical changes in order to keep a competitive market position. In order to strengthen customer retention strategies through a new competitive advantage, the company is considering implementing a live parcel tracking system. The added value will be that the customers may determine the exact location of the parcel whether it is in a warehouse, crossing the ocean through an overseas ship, or travelling in a delivery truck at any time. The system tracks the location of the parcel by tracking the vehicle in which it is contained. However, for a group of old delivery trucks, it was noticed that the engine sound and vibration disturbed the tracking signal and caused interruptions. Therefore, the tracking does not perform accurately on these vehicles. Although the majority of management would like to sell these vehicles and replace them with newer ones, the Chief Financial Officer (CFO) was strongly against that approach. The CFO argued that instead of hanging tracking devices on the trucks' body, they can have the truck drivers manually send the truck location from a hand held mobile device every 30 minutes. The company has a total of 134 old delivery trucks that have been in service for 10 years. Each vehicle was bought at a price of $22,000. Depreciation is done using a straight line basis and it is estimated that the vehicle depreciates at $1000 per year. The estimated salvage value per vehicle is about $3,000. Another area of tactical improvement for the courier company is pricing. The management strongly believes that they can start a price war with the most aggressive competitor. Management thinks, with their variable cost of $4 per parcel and fixed cost of $6 per parcel, they can win the market. However, after implementing the tracking solution, fixed cost will jump to $8 per parcel which made management reconsider their options. The competitor has variable costs of $5 per parcel and fixed costs o $7 per parcel. In order to align with the added value required from the parcel tracking solution that would be an important requirements' category for the BA to give more focus?",
+    "choices": [
+      "Transition",
+      "Process",
+      "Stakeholder",
+      "Non functional"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper-based process. A few years ago the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a $500,000 USD loss on the cost of the software. This year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process \"\u00cb\u0153stopped'. During a design review meeting to discuss the future state, all stakeholders are in agreement except the Director of Human Resources. Who makes the final decision?",
+    "choices": [
+      "All stakeholders must be in complete agreement",
+      "The sponsor",
+      "The BA",
+      "Those identified in the governance approach"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper-based process. A few years ago the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a $500,000 USD loss on the cost of the software. This year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process \"\u00cb\u0153stopped'. During a brainstorming session on improvement opportunities, the Director of Human Resources repeatedly interrupts the group and states why the proposed ideas will not work. Which approach should the business analyst (BA) take to refocus the group?",
+    "choices": [
+      "Reschedule the session without the Director of Human Resources",
+      "Ask the Director of Human Resources to observe in",
+      "Pause the activity and reiterate the rules to the entire group",
+      "Continue the activity with the group and provide a report"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper-based process. A few years ago the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a $500,000 USD loss on the cost of the software. This year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process \"\u00cb\u0153stopped'. Which of the following is included in performing a stakeholder analysis?",
+    "choices": [
+      "Recommend excluding the Director of Human Resources as a stakeholder",
+      "Compare the expertise of the Director of Human Resources to other stakeholders",
+      "Implement all of the Director of Human Resources suggestions to relieve tension",
+      "Develop a risk plan to anticipate negative behavior from the Director of Human Resources"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A company with a big information technology (IT) department has hired a lead business analyst (BA) to enhance its business analysis practices. The lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders, including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn, feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables. All of the evidence is anecdotal and none of the groups could strongly substantiate their options. What should the lead BA implement to identify areas of improvement?",
+    "choices": [
+      "A BA time tracking system",
+      "Templates for BAs to use",
+      "Workload plans of the BA",
+      "Key performance measures"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A company with a big information technology (IT) department has hired a lead business analyst (BA) to enhance its business analysis practices. The lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders, including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn, feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables. All of the evidence is anecdotal and none of the groups could strongly substantiate their options. The lead BA wants the BAs to report anticipated and actual completion dates for their deliverables, as well as the time spent on planned and unplanned activities. What is the lead BA trying to do by analyzing the results of such measurements?",
+    "choices": [
+      "Establish an equitable compensation system",
+      "Identify typical missing or wasteful activities",
+      "Ensure even workloads of the BA",
+      "Motivate the BA to work better"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A company with a big information technology (IT) department has hired a lead business analyst (BA) to enhance its business analysis practices. The lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders, including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn, feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables. All of the evidence is anecdotal and none of the groups could strongly substantiate their options. Even after dozens of reviews, some stakeholders refuse to sign off on the requirements specification documents because of a few questionable requirements. This puts the projects at risk and creates tension between the participants. What should the lead BA do first?",
+    "choices": [
+      "Set limits on duration of sign-offs and the number of reviews",
+      "Track approvals at the level of individual requirements",
+      "Escalate the problem to the executive management",
+      "Offer the stakeholders incentives to sign off documents sooner"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A large insurance company wants to buy a new claims processing system or upgrade one of its two existing systems. Each year the claims department is given a $3,5 million budget to spend. Time is of the essence since there are some regulatory changes that will be coming the following year that will require several features that currently neither one of the two claims systems currently support. There are eight stakeholders involved in this initiative. There are local to where the claim systems are managed, while five are located across the country. The business analyst (BA) struggled to get all stakeholders to agree on the desired features but ultimately got agreement on ten identified key features for the new claims systems. The BA was able to build a current state and future state process model which included all ten key features. System A processes 75% of the company's claims. It is 5 years old and the claim processors love it because it is easy to use. However it must go offline for two hours each day. The code is very modular so it does have flexibility to be modified. To upgrade system A to have all ten features it would cost %5 million. System A would be at capacity if it were to process all of the company's claims. System B processes 25% of the company's claims. It is an older mainframe system, but rarely goes offline. It could easily handle double the number of claims that system A processes. However, it has a lot of legacy code and would cost $6 million to upgrade. Both systems have some of the ten desired key features. But neither system has all ten. The cost to buy a new system would be $7 million. Below is the estimated cost for each feature in priority order. During elicitation the BA must understand the non-functional requirements. What non-functional requirements does System B support over System A?",
+    "choices": [
+      "Compatibility",
+      "Scalability",
+      "Compliance",
+      "Usability"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A large insurance company wants to buy a new claims processing system or upgrade one of its two existing systems. Each year the claims department is given a $3,5 million budget to spend. Time is of the essence since there are some regulatory changes that will be coming the following year that will require several features that currently neither one of the two claims systems currently support. There are eight stakeholders involved in this initiative. There are local to where the claim systems are managed, while five are located across the country. The business analyst (BA) struggled to get all stakeholders to agree on the desired features but ultimately got agreement on ten identified key features for the new claims systems. The BA was able to build a current state and future state process model which included all ten key features. System A processes 75% of the company's claims. It is 5 years old and the claim processors love it because it is easy to use. However it must go offline for two hours each day. The code is very modular so it does have flexibility to be modified. To upgrade system A to have all ten features it would cost %5 million. System A would be at capacity if it were to process all of the company's claims. System B processes 25% of the company's claims. It is an older mainframe system, but rarely goes offline. It could easily handle double the number of claims that system A processes. However, it has a lot of legacy code and would cost $6 million to upgrade. Both systems have some of the ten desired key features. But neither system has all ten. The cost to buy a new system would be $7 million. Below is the estimated cost for each feature in priority order. If the budget for the initiative was firm, what is a feasible solution to make sure the project stays within budget?",
+    "choices": [
+      "Upgrade system B with the first 8 features",
+      "Buy the new system with only the first 5 features",
+      "Upgrade system A with the first 8 features",
+      "Buy the new system with only the first 7 features"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A large insurance company wants to buy a new claims processing system or upgrade one of its two existing systems. Each year the claims department is given a $3,5 million budget to spend. Time is of the essence since there are some regulatory changes that will be coming the following year that will require several features that currently neither one of the two claims systems currently support. There are eight stakeholders involved in this initiative. There are local to where the claim systems are managed, while five are located across the country. The business analyst (BA) struggled to get all stakeholders to agree on the desired features but ultimately got agreement on ten identified key features for the new claims systems. The BA was able to build a current state and future state process model which included all ten key features. System A processes 75% of the company's claims. It is 5 years old and the claim processors love it because it is easy to use. However it must go offline for two hours each day. The code is very modular so it does have flexibility to be modified. To upgrade system A to have all ten features it would cost %5 million. System A would be at capacity if it were to process all of the company's claims. System B processes 25% of the company's claims. It is an older mainframe system, but rarely goes offline. It could easily handle double the number of claims that system A processes. However, it has a lot of legacy code and would cost $6 million to upgrade. Both systems have some of the ten desired key features. But neither system has all ten. The cost to buy a new system would be $7 million. Below is the estimated cost for each feature in priority order. What kind of analysis must the BA do to determine if one of the systems is better suited to be modified and upgraded?",
+    "choices": [
+      "Stakeholder Analysis",
+      "Decision Analysis",
+      "Process Analysis",
+      "Risk Analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A large insurance company wants to buy a new claims processing system or upgrade one of its two existing systems. Each year the claims department is given a $3,5 million budget to spend. Time is of the essence since there are some regulatory changes that will be coming the following year that will require several features that currently neither one of the two claims systems currently support. There are eight stakeholders involved in this initiative. There are local to where the claim systems are managed, while five are located across the country. The business analyst (BA) struggled to get all stakeholders to agree on the desired features but ultimately got agreement on ten identified key features for the new claims systems. The BA was able to build a current state and future state process model which included all ten key features. System A processes 75% of the company's claims. It is 5 years old and the claim processors love it because it is easy to use. However it must go offline for two hours each day. The code is very modular so it does have flexibility to be modified. To upgrade system A to have all ten features it would cost %5 million. System A would be at capacity if it were to process all of the company's claims. System B processes 25% of the company's claims. It is an older mainframe system, but rarely goes offline. It could easily handle double the number of claims that system A processes. However, it has a lot of legacy code and would cost $6 million to upgrade. Both systems have some of the ten desired key features. But neither system has all ten. The cost to buy a new system would be $7 million. Below is the estimated cost for each feature in priority order. If System A is unanimously selected to be the system for upgrade but the technical lead says that System A will have to be taken offline for 3 months, what kind of strategy should the project team develop while System A is offline?",
+    "choices": [
+      "Change",
+      "Competitive",
+      "Organizational",
+      "Stakeholder"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: I. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network. II. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles. III. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request. Through requirements workshops the business analyst elicits the following detailed business requirements: 1. The company's mobile application platform must support real time integration with the following third party systems: A ) GPS System - B ) Postal Code Validation - 2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date. 3. The map display shall highlight the boundary of the search area with a dotted yellow line. 4. The extent and shape of the search area shall be determined based on one of the following user choices: A ) Postal code \"\" Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code. B ) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles. 5. Subscriber shall be able to select one of the options above and supply corresponding input. 6. System shall validate the user input and display appropriate error messages if invalid. 7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area. 8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen. 9. The list of service providers shall include the Name, Phone Number and Street Address. 10. If the subscriber specified the radius or retained the default postal code for the search area, the list shall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance. 11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan. What is the appropriate model type to assist the stakeholders in testing the performance and visual aspects of requirements 3 through 11?",
+    "choices": [
+      "Functional Prototype",
+      "Concept Model",
+      "Process Model",
+      "Usability Prototype"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: I. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network. II. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles. III. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request. Through requirements workshops the business analyst elicits the following detailed business requirements: 1. The company's mobile application platform must support real time integration with the following third party systems: A ) GPS System - B ) Postal Code Validation - 2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date. 3. The map display shall highlight the boundary of the search area with a dotted yellow line. 4. The extent and shape of the search area shall be determined based on one of the following user choices: A ) Postal code \"\" Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code. B ) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles. 5. Subscriber shall be able to select one of the options above and supply corresponding input. 6. System shall validate the user input and display appropriate error messages if invalid. 7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area. 8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen. 9. The list of service providers shall include the Name, Phone Number and Street Address. 10. If the subscriber specified the radius or retained the default postal code for the search area, the list shall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance. 11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan. Which of the following is the appropriate technique to define communication flows between the Postal Code validation system with other systems?",
+    "choices": [
+      "Capability Analysis",
+      "Interface Analysis",
+      "Process Analysis",
+      "Decision Analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: I. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network. II. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles. III. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request. Through requirements workshops the business analyst elicits the following detailed business requirements: 1. The company's mobile application platform must support real time integration with the following third party systems: A ) GPS System - B ) Postal Code Validation - 2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date. 3. The map display shall highlight the boundary of the search area with a dotted yellow line. 4. The extent and shape of the search area shall be determined based on one of the following user choices: A ) Postal code \"\" Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code. B ) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles. 5. Subscriber shall be able to select one of the options above and supply corresponding input. 6. System shall validate the user input and display appropriate error messages if invalid. 7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area. 8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen. 9. The list of service providers shall include the Name, Phone Number and Street Address. 10. If the subscriber specified the radius or retained the default postal code for the search area, the list shall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance. 11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan. What kind of relationship is used to describe the traceability between requirement 8 and the solution artifacts that implement it?",
+    "choices": [
+      "Validate",
+      "Depends",
+      "Derive",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds conflicting requirements gathered from several stakeholders. Aside from interviews, what additional activities can the BA use to safeguard against this happening?",
+    "choices": [
+      "Item tracking and mind mapping",
+      "User stories and scope modelling",
+      "Reviews and workshops",
+      "Brainstorming and estimation"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The business analyst (BA) presented a concept model during a requirements walk through to the project sponsor, implementation subject matter expert, and operational support staff. While the presentation was clear to the project sponsor, the other stakeholders were unsure about the impacts to their respective daily tasks. What should the BA include in the next walk through, so that all stakeholders have a better understanding of the requirements?",
+    "choices": [
+      "A governance architecture to contextualize the business analysis approach",
+      "An information management model to identify requirement gaps",
+      "A capability model to illustrate strategic objectives",
+      "An appropriate level of abstraction to support differing viewpoints"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is responsible for analyzing the effectiveness of a railway ticket booking system. The BA prepared a report based on observations of the booking clerk over two days (Monday and Wednesday). According to the information gathered, the booking clerk is underutilized and spends a lot of idle time waiting for customers. What should the BA do next?",
+    "choices": [
+      "Benchmark the clerk's performance against other roles and other companies",
+      "Conduct further analysis to protect against false information based on insufficient data",
+      "Propose a change in the organizational chart to give the clerk more responsibilities",
+      "Verify the expected value and its perceived performance"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A corporation is experiencing poor financial performance and needs to change many aspects of its business strategy in order to become solvent again. A business analyst (BA) is conducting a feasibility analysis and analyzing resources required. The BA has identified the existing resources, the resources that need to be increased, and the required additional capabilities. What is the other dimension this analysis should indicate?",
+    "choices": [
+      "The enterprise readiness agreement",
+      "The new resources to be developed",
+      "The new financial performance metrics",
+      "The timeline for instituting the change"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "After the implementation of a new financial solution, the business analyst (BA) observes that the performance of a solution does not meet the anticipated benefits detailed in the original business case. What is a technique the BA can use to understand the reason for this?",
+    "choices": [
+      "Interface analysis",
+      "Business capability analysis",
+      "Data flow diagram",
+      "Fishbone diagram"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing for observation. A passive approach has been selected for establishing performance metrics. What should be identified for the next step?",
+    "choices": [
+      "Dependencies",
+      "Communication channels",
+      "Performance measures",
+      "Participants"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) was developing an outline of the timing of business analysis activities with the project manager. What factors may impact the timing of the activities the BA is performing?",
+    "choices": [
+      "Solution design",
+      "Project manager's experience",
+      "Contract terms",
+      "Project sponsor interest"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The solution presented by a business analyst (BA) to the stakeholders eliminated the need to maintain different variations of ship-to-country and location-to-route for various freight carriers. Instead, the routing would use a standard carrier code, giving the business the flexibility to just ship to new countries without raising a change request to IT which was the current road-block to business. What opportunity did the BA present to the stakeholders?",
+    "choices": [
+      "Increase efficiencies",
+      "Increase access to information",
+      "Decrease stakeholder involvement",
+      "Decrease project timeline"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "While working on a major project to replace the billing mechanism at a bank, a major change in scope is discussed. Which approach does the business analyst (BA) use to help determine the formality of the assessment process to be followed to understand the impacts of the scope change?",
+    "choices": [
+      "Governance",
+      "Information management",
+      "Solution",
+      "Stakeholder engagement"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "During the testing phase, a new requirement surfaced and the stakeholder asked the developer to modify the code without informing the business analyst (BA). The BA became aware of the new functionality after a defect was raised against another component of the design. The BA can keep this situation from occurring in the future by creating a:",
+    "choices": [
+      "stakeholder engagement plan",
+      "change control process",
+      "risk strategy",
+      "prioritization approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The project manager wants to have the requirements analysis phase approved and asks the business analyst (BA) if this is possible. The BA wants to ensure that the requirements package is complete prior to closing the analysis phase. What would help the BA expedite the approval process for the analysis phase?",
+    "choices": [
+      "Solution performance measures",
+      "Business analysis information architecture",
+      "Solution functional capabilities",
+      "Business analysis approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "After having created several prototypes of a new web-based application, a business analyst (BA) would like to meet with the organization's stakeholders to elicit their perception, ideas, and attitudes about the prototypes. Which of the following techniques should the BA use?",
+    "choices": [
+      "Focus Groups",
+      "Prioritization",
+      "Decision Analysis",
+      "Brainstorming"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A Business Analyst (BA) is tasked with presenting the requirements for an auto insurance product to domain and implementation subject matter experts (SMEs). What requirements viewpoints should be used by the BA?",
+    "choices": [
+      "Logical Data Model",
+      "Organization Model",
+      "Scope Model",
+      "Business Process Model"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) on a project is in the process of validating requirements and finds that there is a high degree of uncertainty related to one of the assumptions being true. The BA adds the assumption to the risk register and performs a full risk analysis to handle this situation. What type of strategy is in place if the organization is risk-averse?",
+    "choices": [
+      "Acceptance",
+      "Avoidance",
+      "Mitigation",
+      "Transfer"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds that the proposed solution has features used by a small group of stakeholders for business scenarios which may occur up to three times a year but require a high effort to implement. What should the BA recommend in this case?",
+    "choices": [
+      "Assign it a lower priority for future release",
+      "Deliver as part of the initial release",
+      "Change the related business process",
+      "Remove the requirement"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Manufacturer O has received a merger proposal from Manufacturer K. There is concern among the senior management of Manufacturer O that regulations could shift in the future, prompting Manufacturer K to move headquarters elsewhere and close operations at the current Manufacturer O site. In assessing the proposal limitations and as part of identifying enterprise limitations, a culture assessment is completed. As part of this work, what else would the BA perform?",
+    "choices": [
+      "Organization and functional modelling",
+      "Scope and requirements prioritization",
+      "Financial and risk analysis",
+      "Stakeholder impact and operational analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing a governance approach. The BA is trying to define the approval process. Which factors should the BA consider?",
+    "choices": [
+      "The organizational culture and type of information being approved",
+      "The solution performance measures",
+      "The formality and rigor of the prioritization process",
+      "The associated risks of foregoing or delaying an approval"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "The stakeholders are interested in ensuring that expected value is assessed prior to acceptance. To determine if the solution is providing expected value and ensure the accuracy of the measurements, the stakeholders and the business analyst (BA) determine that they need to measure:",
+    "choices": [
+      "performance, trends, and variances",
+      "benefits, penalties, and costs",
+      "impacts, problems, and dependencies",
+      "strategy, solution, and scope"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "In a risk assessment exercise of a software implementation program, the business analyst (BA) has successfully computed the probability of occurrence (POC) and the cost of impact for each of the identified risks as follows: Which of the following will have the highest negative impact to value?",
+    "choices": [
+      "System security",
+      "Natural disasters",
+      "Human errors",
+      "Power surges"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is tasked with developing a business analysis plan and must decide the best approach to use. Which of the following factors would drive the decision towards an adaptive approach?",
+    "choices": [
+      "Requirements can effectively be defined ahead of implementation.",
+      "The risk of an incorrect implementation is unacceptably high.",
+      "Engaging stakeholders presents significant challenges.",
+      "The organization's tolerance for uncertainty is high."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Several commercial-off-the-shelf (COTS) software packages exist that would enable the business analyst (BA) to meet the needs of the business. For the potential design option the BA included one of the COTS packages as a solution approach. What kind of solution approach is this?",
+    "choices": [
+      "Purchase",
+      "Outsource",
+      "Exploit",
+      "Create"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A company is in the middle of a large-scale project. Safety concerns have been brought up by several stakeholders, and this has led to numerous proposed changes. The business analyst (BA) must now assess the impact that marking these changes will have on the project. When assessing the impact of safety concerns, which of the following should be considered?",
+    "choices": [
+      "Cost/benefit analysis",
+      "Urgency",
+      "Risk register",
+      "Design"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) wants to create a high-level overview of a business process as a part of an exploratory analysis. The sponsor has asked for a model that demonstrates the movement and transformation of data between entities and processes. What technique should the BA use?",
+    "choices": [
+      "Data flow diagram",
+      "Process modelling",
+      "Entity relationship diagram",
+      "Scope modelling"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A service provider has seen significant erosion of its profit margin so engages an external consultancy firm to assess its business operations and recommend options to improve profitability. What is the first step that the business analyst (BA) will perform as part of this engagement?",
+    "choices": [
+      "Hold a strategy session to understand how best to achieve increased profitability",
+      "Organize a requirements elicitation meeting to determine the desired increase in the profit margin",
+      "Perform a brainstorming session to determine the desired profit margins for the future state of operations",
+      "Conduct activities to understand the reasons behind the erosion of profitability in the current state"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The stakeholder of a new product that is in early adaptive development has requested a change to an approved feature. How should the business analyst (BA) handle this change?",
+    "choices": [
+      "Change the business analysis approach to predictive",
+      "Obtain formal approval through change request process",
+      "Add the feature to the product backlog for future prioritization",
+      "Include the requirement in the next iteration"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assigned a new project to improve a delivery process. Which of the following does the BA create as an output of the initial meeting with experts?",
+    "choices": [
+      "Information management approach",
+      "Elicitation activity plan",
+      "Entity relationship diagram",
+      "Current state flowchart"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) conducts a process analysis on the business analysis practices that were used on the previous major implementation. From this the BA identifies and documents that there are three improvement areas which would make the business analysis process more efficient. In which business analysis artifact does the BA document these measures of improvement for the next piece of analysis work?",
+    "choices": [
+      "Skills assessment",
+      "Engagement approach",
+      "Governance approach",
+      "Performance assessment"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) conducts a business rules analysis exercise to identify the organizational rules constraining the project. In addition to existing regulations and contracts, what else does the BA check?",
+    "choices": [
+      "Backlogs",
+      "Permissions matrix",
+      "Policies",
+      "Business case"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "After determining that the enterprise culture was the driving force behind recent solution change decisions, a business analyst (BA) has decided to conduct an enterprise-wide cultural assessment. What information can the BA expect to learn from the results?",
+    "choices": [
+      "Whether the stakeholders view the solution as something beneficial",
+      "Whether there will be an organizational impact as a result of the change.",
+      "That changes to the enterprise culture will better drive its actions",
+      "That internal dependencies limit the performance of the entire solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "In a requirements management effort, the business analyst (BA) has reviewed all the requirements and has completed assessing the various impacts of changes to some of the requirements. The BA is planning to share the impact of the changes to all the stakeholders and obtain a consensus in resolution of some of the changes. Which technique will help the BA obtain a resolution on the impact of the requirement changes?",
+    "choices": [
+      "Focus groups",
+      "Workshops",
+      "Interviews",
+      "Surveys"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A company is reconfiguring its business processes to improve the quality of its products and lower operational costs. This includes defining metrics that will be used to evaluate the effectiveness of future change strategy. Which of the following techniques achieves this goal?",
+    "choices": [
+      "Business case",
+      "Decision modelling",
+      "Financial analysis",
+      "Balanced scorecard"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Company A has been engaged to provide solution software to Company B as part of a combined service offering to Company C. This initiative requires a sub- project for Companies A and B to learn Company C's statutory requirements, a sub-project for Company A to write custom functionality for the solution, and a sub- project for Company B to develop infrastructure and support for the solution as well as the main project of implementation and cutover from Company C's current data processing solution to the service from Company B. How does the business analyst (BA) assign requirements to the various solution components to ensure all objectives are met?",
+    "choices": [
+      "This initiative requires a sub- project for Companies A and B to learn Company C's statutory requirements, a sub-project for Company A to write custom functionality for the solution, and a sub- project for Company B to develop infrastructure and support for the solution as well as the main project of implementation and cutover from Company C's current data processing solution to the service from Company",
+      "How does the business analyst (BA) assign requirements to the various solution components to ensure all objectives are met?",
+      "Define Solution Approaches",
+      "Identify Improvement Opportunities",
+      "Allocate Requirements",
+      "Describe Design Options"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A utility company found that its current billing system charges customers for their usage, but does so incorrectly when the system estimates reads on meters rather than performs actual reads. Company stakeholders would like to improve this aspect of the system but are hesitant to make changes because they are otherwise pleased with the system. A business analyst (BA) has completed a current state diagram and would like to start discussions on what the future state may look like. What information can the BA determine by having a current state diagram?",
+    "choices": [
+      "The strengths and weaknesses of the current system",
+      "The cost/benefit measures for the new system",
+      "The change management plan for implementation",
+      "The needs for the future state solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds that the solution service level agreement (SLA) cannot be met in one out of five identified scenarios, as there is a dependency on a requirement which is a part of a future release. How should the BA approach the solution limitation?",
+    "choices": [
+      "Modify the SLA",
+      "Change the business process",
+      "Increase the scope and include the dependent requirement",
+      "Assess the impact on the business operations"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "When determining the success criteria for an initiative, a business analyst (BA) engages end users in order to understand what they would define as an effective solution. What two types of data will the end users need to perform the evaluation?",
+    "choices": [
+      "Risk and value",
+      "Assessment and performance",
+      "Quantitative and qualitative",
+      "Impact and dependencies"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is eliciting requirements to automate existing manual processes for fulfilling end users service requests. There is pressure from management to automate the process quickly using a commercial off-the-shelf (COTS) tool. The COTS solution has various modules including one for service request automation that has yet to be implemented in the organization. What is the BA's first step?",
+    "choices": [
+      "Implement the COTS tool's modules",
+      "Create a change strategy",
+      "Perform a gap analysis to understand missing capabilities",
+      "Modify the COTS tools to fit the existing process"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has recently completed a comprehensive stakeholder analysis. Next, the BA would like to consider ways in which to ensure that the stakeholders remain engaged throughout the change strategy. Some of the considerations include timing and frequency, location, available tools, delivery methods, and the stakeholders' preferences. In which of the following plans would the BA document these considerations?",
+    "choices": [
+      "Communications Management Plan",
+      "Business Analysis Plan",
+      "Stakeholder Analysis Plan",
+      "Stakeholder Collaboration Plan"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "During a retrospective, the project team agrees the way they organized the user stories during the first sprint could be improved. The business analyst (BA) plans to make the stories more accessible going forward. Which of the following will the BA update?",
+    "choices": [
+      "Organizational performance standards",
+      "Information management approach",
+      "Business analysis performance assessment",
+      "Project lessons learned register"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Before investing further in the project, a customer and the key stakeholders of the project want to be able to visualize the final product. Which elicitation technique should the business analyst (BA) select?",
+    "choices": [
+      "Interface Analysis",
+      "Prototyping",
+      "Observation",
+      "Reverse Engineering"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing a requirement package for access management system. A state diagram for entity \"User\" has been prepared. The BA wants to check the completeness of requirements by comparing different models. Which diagram should be used with a state diagram to verify that all functions are defined to work with entity \"User\" for the different roles?",
+    "choices": [
+      "Data flow diagram",
+      "Sequence diagram",
+      "Use case diagram",
+      "Functional diagram"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Before the start of a large, cross functional change effort, the team of business analysts (BAs) assigned decided they need something to help them ensure requirements collectively support one another and do not conflict. What option would provide the consistency they are looking for?",
+    "choices": [
+      "Requirements Architecture",
+      "Functional decomposition",
+      "Checklists",
+      "Process modelling"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on an initiative to decommission a legacy system and has discovered the requirement: \"Ability to view policies created in the legacy system for a period of 6 months.\" How should the BA classify the requirement based on the requirements classification schema?",
+    "choices": [
+      "Business Requirement",
+      "Non-functional Requirement",
+      "Functional Requirement",
+      "Transition Requirement"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is capturing the requirements for an application which displays information on a mobile device. The information will be extracted from a database owned by another department within the organization. Which of the following will identify the stakeholder who can approve access to the database?",
+    "choices": [
+      "Solution Scope",
+      "Governance Approach",
+      "Change Strategy",
+      "Requirements Architecture"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) assigned to a project has been asked to implement regulatory requirements based on priority. What type of traceability relationship can the BA use to find all the solution components that need to be implemented?",
+    "choices": [
+      "Validate",
+      "Satisfy",
+      "Derive",
+      "Dependency"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A company is about to embark upon a large organizational change initiative that involves restructuring its service offerings. A senior business analyst (BA) is assigned the work of establishing performance measures for the business analysis work to be performed by the BA team. Which of the following performance measures is appropriate to assess the value delivered by the work products against the cost, time, and resource investments expended to create them?",
+    "choices": [
+      "Effectiveness",
+      "Significance",
+      "Strategic",
+      "Knowledge"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company wants to develop a product roadmap to guide future development efforts. The product owner asks a business analyst (BA) to lead the analysis effort. Feature suggestions have been compiled from customer support calls. Which of the following should the BA do first?",
+    "choices": [
+      "Determine the value of each feature",
+      "Compare the implementation costs of each feature",
+      "Prioritize the features in the backlog",
+      "Confirm the feature requests"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A customer has provided a business analyst (BA) with many business requirements and some have inter-dependencies with other requirements. To ensure the requirements are delivered according to customer expectations, which requirements attribute should the BA consider including in the project requirements document?",
+    "choices": [
+      "Priority",
+      "Constraints",
+      "Unique identifier",
+      "Acceptance criteria"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Following a recent, successful deployment, a business analyst (BA) has noticed that several of the requirements are candidates for reuse in multiple upcoming change initiatives. Which type of requirement is a potential candidate for re-use?",
+    "choices": [
+      "Stakeholder requirements",
+      "Business requirements",
+      "Non-Functional requirements",
+      "Transition requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is compiling a communication plan by reviewing stakeholders and identifying the needs of the stakeholders. The BA organizes the stakeholders based on their needs and decides that all communication will be handled through e-mail so that information can be disseminated quickly and easily while maintaining a record. What has the BA missed in the stakeholder analysis?",
+    "choices": [
+      "Presentation materials",
+      "Preferences",
+      "Business objectives",
+      "Retention"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) was tasked with eliciting requirements for a new product scheduling system. The BA interviewed and discussed the requirements with the manager and supervisor. The requirements were written and approved by both the supervisor and manager. Which stakeholders were missed in the requirements?",
+    "choices": [
+      "IT support",
+      "Project manager",
+      "Upper management",
+      "End users"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The business analyst (BA) works in a global company and the majority of stakeholders are located in different countries. The BA already explained the core requirements during the initial meetings. However, due to the time zone differences it has been cumbersome to organize further meetings. What method should the BA use so the stakeholders can review the document before final approval?",
+    "choices": [
+      "Group collaboration",
+      "E-mail",
+      "Brainstorming",
+      "Collaborative games"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "An automobile manufacturer is undertaking a project intended to modify or replace the company's current timekeeping system. Negative employee reaction to change follows as word of the proposed solution spreads throughout the company. What could a business analyst (BA) do to prevent or reduce employee discontent?",
+    "choices": [
+      "Relay upper management support to stakeholders",
+      "Record negative employee reaction as a project risk",
+      "Propose cultural changes for the organization",
+      "Report potential sources of dissent to management"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assessing the different solution proposals. What type of financial calculation would the BA use to determine which solution is worth investing in based on its breakeven point?",
+    "choices": [
+      "Internal rate of return",
+      "Discount rate",
+      "Return on investment",
+      "Net present value"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on improving solution performance and increasing value. The BA discovers that a set of interfaces and activities do not contribute to the final product either directly or indirectly. What should the BA recommend?",
+    "choices": [
+      "Provide a single solution for stakeholders thus reducing the cost of implementation",
+      "Remove or minimize interfaces and activities that do not provide value to the final product",
+      "Retire the current solution as it is not fulfilling the need for which it was created",
+      "Propose an organizational change to automate the work people perform"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) had identified redundancy in the process for the first contact resolution for customer issues; currently two separate divisions handle this task. A new solution identifies a single point of contact that will eliminate the redundancy. What can the BA do to highlight the required changes to the structure?",
+    "choices": [
+      "Business capability analysis",
+      "Current state description",
+      "Organizational modelling",
+      "Policies and procedures"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A conservative company with rigorous risk control plans and internal audit rules has a recurrent problem with a core business application. As a result, access to this application must be restricted and controlled and maintenance must be on-site. However, the company feels that the application must have an emergency service team. The routine maintenance of this solution is provided by an external vendor and the vendor requested 24 hours remote access to quality and production data. In this context, what is the company's response to the vendor's request?",
+    "choices": [
+      "Denied, because the vendor requested it",
+      "Denied, because of the company's risk aversion",
+      "Accepted, because the company has an urgent problem to solve",
+      "Accepted, because immediate remote access will resolve any issue"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assigned to a project which has two main stakeholders: a highly regulated government agency and a less formal private company. To select the business analysis approach, the BA will conduct a meeting with representatives from each entity to decide on the level of formality needed for requirements and design specifications. During the meeting, what should the BA's strategy be?",
+    "choices": [
+      "Develop consensus on a tailored approach for formality",
+      "Use a formal approach to appeal to the government entity's higher authority",
+      "Ask the government entity to accept a flexible collaborative approach",
+      "Employ the standard business analysis level of formality"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has defined a business analysis approach and presented the documents to the sponsors, the senior executives, the domain experts, the project manager, and the head of technology, to obtain agreement from all. At this juncture, the project manager objected to some of the estimates determined in the budget and refused to agree with the estimates. Which guideline or tool, if followed by the BA, would have helped in avoiding such disagreements?",
+    "choices": [
+      "Risk Analysis and Management",
+      "Business Analysis Performance Assessment",
+      "Requirements Classification Schema",
+      "Stakeholder Engagement Approach"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Due to the complexity of a project, the project board is concerned that the business analyst (BA) will not be able to ensure all requirements are verified. What tool can the BA present to the project board to mitigate their concern?",
+    "choices": [
+      "Data model",
+      "Use case diagram",
+      "Business analysis checklist",
+      "Risk register"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has a meeting next week with the project sponsor to ensure that the requirements align with the objective of the project. Prior to the meeting, the BA must ensure that the requirements are:",
+    "choices": [
+      "correct, capable, and strategic",
+      "parametric, analogous, and decomposed",
+      "atomic, feasible, and testable",
+      "predictive, diagnostic and descriptive"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has just finished verifying requirements for a new application that impacts various business processes for product setup, sales, and support. Which of the following methods should be used to validate the requirements with key stakeholders?",
+    "choices": [
+      "Team review",
+      "Joint application design",
+      "Product backlog prioritization",
+      "Brainstorming"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "While reviewing the data feeds on a project the business analyst (BA) realizes there is a feed that contains complex relationships. In order to help understand the data and accurately reflect a set of requirements the BA decides to prioritize the requirements. What modeling format could the BA use?",
+    "choices": [
+      "Matrix",
+      "User interface",
+      "Data dictionary",
+      "Data model"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) asks participants in a workshop to write down their ideas about the feature being built on sticky notes, place them on the wall, and then group the ideas into similar themes. The BA is using this technique to:",
+    "choices": [
+      "prepare for requirements elicitation",
+      "manage stakeholder collaboration",
+      "identify organizational capabilities",
+      "prioritize requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has completed requirements elicitation and modelling on a project to implement a new case management system. During analysis of the requirements, the BA notices that one of the requirements appears to be in conflict with the company's case management policies. What should the BA do?",
+    "choices": [
+      "Request modification to the policies and identify the changes as an assumption and a dependency",
+      "Modify the requirements to adhere to the existing policies and note the change in the models.",
+      "Identify the policies as a potential constraint and review with management",
+      "Create a requirement to indicate the change to the current policies and update the information in the models"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A bank moves currency from the main office to the branches daily for operational use. To avoid paying overnight interest, the branches return the currency at the end of the business day. The bank requires a new inventory management system to account for the whereabouts of the cash at all times. A software provider has proposed a heavily customized version of their standard inventory management software. As the project progresses, the business analyst (BA) identifies a number of subtleties that would suggest a fully made to order solution may be a better option for the bank. What inputs does the BA need to perform the analysis?",
+    "choices": [
+      "Change strategy and performance objectives",
+      "Requirements and business policies",
+      "Potential value and design options",
+      "Needs and business analysis approach"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which conduct stakeholder analysis technique identifies stakeholder roles that may serve as a useful starting point for identifying actors and roles?",
+    "choices": [
+      "Interviews",
+      "Scenario and uses cases and user stories",
+      "Scope modeling",
+      "Requirements workshops"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "You are currently working on creating the activity list for an initiative in your organization. What characteristic must be assigned to each task in your task list?",
+    "choices": [
+      "Risk level",
+      "Unique number",
+      "Procurement needs",
+      "Roles and responsibilities"
+    ],
+    "correct_answers": [
+      1
+    ]
+  }
+]

@@ -43,10 +43,40 @@
       "path": "questions/KY NANG QUAN LY.json"
     },
     {
-      "filename": "saa_questions.json",
-      "displayName": "SAA C03",
-      "questionCount": 710,
-      "path": "questions/saa_questions.json"
+      "filename": "CBAP.json",
+      "displayName": "CBAP",
+      "questionCount": 500,
+      "path": "questions/CBAP.json"
+    },
+    {
+      "filename": "CBAP_Mini_1.json",
+      "displayName": "CBAP Mini 1",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_1.json"
+    },
+    {
+      "filename": "CBAP_Mini_2.json",
+      "displayName": "CBAP Mini 2",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_2.json"
+    },
+    {
+      "filename": "CBAP_Mini_3.json",
+      "displayName": "CBAP Mini 3",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_3.json"
+    },
+    {
+      "filename": "CBAP_Mini_4.json",
+      "displayName": "CBAP Mini 4",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_4.json"
+    },
+    {
+      "filename": "CBAP_Mini_5.json",
+      "displayName": "CBAP Mini 5",
+      "questionCount": 100,
+      "path": "questions/CBAP_Mini_5.json"
     },
     {
       "filename": "VH1.json",
@@ -59,6 +89,24 @@
       "displayName": "Văn hóa 2",
       "questionCount": 390,
       "path": "questions/VH2.json"
+    },
+    {
+      "filename": "AI_Test_1.json",
+      "displayName": "AI Test 1",
+      "questionCount": 503,
+      "path": "questions/AI_Test_1.json"
+    },
+    {
+      "filename": "AI_Test_300_câu.json",
+      "displayName": "AI Test 300 câu",
+      "questionCount": 300,
+      "path": "questions/AI_Test_300_câu.json"
+    },
+    {
+      "filename": "onthi(ngantt.dd).json",
+      "displayName": "onthi - ngantt.dd",
+      "questionCount": 264,
+      "path": "questions/onthi(ngantt.dd).json"
     }
   ],
   "lastUpdated": "2025-10-15T02:26:21.929Z"

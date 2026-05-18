@@ -1,0 +1,3170 @@
+[
+  {
+    "question": "A company has a process improvement initiative that is projected to increase revenue by $150,000 USD non-compounded per year. The budgeted cost of the initiative is $200.000 and supporting the initiative will cost $30.000 for years two and three.What is the projected return on investment over the first 3 years?",
+    "choices": [
+      "0.44",
+      "0.73",
+      "0.4",
+      "0.51"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q19]If an additional recommendation to reduce Verification Rejects by 50% were to be introduced into the mortgage origination process, what is the potential success rate of the mortgage origination process?",
+    "choices": [
+      "0.86",
+      "0.83",
+      "0.7",
+      "0.74"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q19]Assuming the BA's recommendation to be true, what will be the new success rate of the mortgage closure process?",
+    "choices": [
+      "0.9",
+      "0.85",
+      "0.1",
+      "0.2"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q43] If the driver's average throughput is 0.6 tons/hour, how many hours per day would 15 drivers have to work to deliver 100 tons of merchandise?",
+    "choices": [
+      "12",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A financial institution engaged in mortgage lending has embarked on a business process improvement initiative to eliminate the activities that hinder growth to ultimately improve the success rate of its mortgage business. As a benchmark for identification, the institution is keen on improving any business process that has less than a 75% success rate. The institution has appointed a business analyst (BA) to review the business transactions for the processes of origination, payments, and closures, as well as identify opportunities for improvements and recommend solutions.\nThe BA has collected the following information over the last three months pertaining to these business processes:\n\"¢ All the business processes are at their maximum capacity in terms of the current number of transactions.\n\"¢ Each business process has a certain number of rejects and the reasons for rejection include documentation, verification, collateral, and funding. Funding rejects occur when the bank's customers have failed to make payment of their mortgage processing fee or mortgage closure payment.\nThe BA has also recommended the use of documentation checklists as a solution to eliminate the documentation rejects.\n-----\nIf the financial institution always works at full capacity month to month and the new success rate continues to remain the same after implementing the BA's recommendation, what is the average number of successes per month for the mortgage closure process, if the current process capability were increased by 50%?",
+    "choices": [
+      "15",
+      "14",
+      "12",
+      "11"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "An insurance company wants to implement a business intelligence solution to consolidate data from various different internal systems to provide a better understanding of their customer base.\nA business analyst (BA) is engaged to put together a tender (bid) to be sent to various business intelligence providers and implementation partners. Among other information, the business analyst requests the following:\n✑ Licensing costs for Year 0 based on meeting 1 Central Processing Unit (CPU) license\n✑ Licensing costs for specific user types such as Report Creators. Online Analytical Processing (OLAP) users and Power uses Predicted licensing costs for renewing in Years 1 ad 2",
+    "choices": [
+      "39",
+      "51",
+      "60",
+      "19"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q11] \nWhat is the increased cost in Scenario 2 for Company C?",
+    "choices": [
+      "695448",
+      "453635",
+      "653934",
+      "207790"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q43] Each truck can only make two trips a day. The BA has noticed that only 30% of trips have their orders available for loading when a truck arrives.Otherwise the truck has to wait one extra hour until the orders are picked and brought to the loading bay.If trucks are the only constraint, approximately how many hours are lost due to this downtime?",
+    "choices": [
+      "18 hours",
+      "20 hours",
+      "15 hours",
+      "17 hours"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business unit of a transnational manufacturer wants to implement a robust process for addressing integrity-critical equipment deterioration incidents. Timely and complete resolution of such incidents is vital for the business unit's continuous safe and profitable operation. Treating each incident involves many employees from different departments extensively collaborating and exchanging information. That information is spread across multiple systems having their access limited to particular user groups. With the current manual process, some incidents get forgotten and remain unresolved for years. \nThe project's Sponsor is an Equipment Integrity and Reliability Advisor, who moved into this position from another business unit. That business unit implemented a proprietary application to integrate the information and to assist in tracking and managing the incidents. Having a positive experience with the application, the Sponsor is suggesting to customize it and reuse in the new business unit. \nThe business unit's Enterprise Architect (EA), who is responsible for assessing solution options and presenting them to executive decision makers, has a few concerns with adopting the existing application. The application uses point-to-point interfaces with other data sources whereas the business unit's target architecture relies on a data warehouse-based integration. Moreover, the two business units use different legacy systems, as well as different front-end implementation technologies. Additionally, the existing application is monolingual, while the business unit needs user interfaces and some data to be presented in two languages. With all of this, it may be easier to build a new application from scratch than to customize the existing one. To understand which option is better, the EA asks a business analyst (BA) to define business requirements. \n----\nThrough the elicitation process, the BA identifies the following requirement: ‘Particular incident-related activities require approval by authorized  personnel before beginning them, as well as confirmation of acceptance of their completion’. What kind of asset should the BA provide to fully specify the approval requirement?",
+    "choices": [
+      "A process diagram",
+      "A RACI matrix",
+      "A use case model",
+      "A business rule"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "After releasing its beta version of a travel assistance mobile application, a travel company has received feedback from a public survey proposing new features. The company is struggling with the large number of ideas and would like to make a decision on which to consider in the next implementation cycle. Which of the following considerations should be used first for filtering ideas?",
+    "choices": [
+      "Measurability of customer satisfaction",
+      "Cost of implementation",
+      "Alignment with solution scope",
+      "Time to market"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Company A has been engaged to provide solution software to Company B as part of a combined service offering to Company C. This initiative requires a sub- project for Companies A and B to learn Company C's statutory requirements, a sub-project for Company A to write custom functionality for the solution, and a sub- project for Company B to develop infrastructure and support for the solution as well as the main project of implementation and cutover from Company C's current data processing solution to the service from Company B. How does the business analyst (BA) assign requirements to the various solution components to ensure all objectives are met?",
+    "choices": [
+      "Define Solution Approaches",
+      "Identify Improvement Opportunities",
+      "Allocate Requirements",
+      "Describe Design Options"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A new project has to implement a cyber security release in China, Italy, Germany, the United States, and Canada. The project is a $5 million initiative and must 'go live' in production in all countries on the same day and time to be effective.Which of the approaches mentioned is suitable for this project based on the size and complexity?",
+    "choices": [
+      "An agile and iterative approach",
+      "A waterfall and dynamic approach",
+      "A kanban and predictive approach",
+      "A proven and tailored analysis approach"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) at a regional bank has recently been assigned to assist on a project to expand into new markets. The chief executive officer (CEO) envisions the bank as a national brand and has asked the chief financial officer (CFO) to monitor project progress closely. The project manager (PM) has asked the BAs on the team to recommend an appropriate business analysis approach.\nBased on the nature of the project and the industry, which approach should they recommend?",
+    "choices": [
+      "An unstructured approach utilizing informal team interaction, model-driven documentation standards, and iterative requirements development",
+      "An agile approach with frequent team interaction, adaptive documentation standards, and iterative requirements development",
+      "A moderate approach utilizing the bank's existing waterfall project lifecycle and documentation deliverables not requiring formal approval",
+      "A formal approach with planned team interaction, agreed upon documentation deliverables requiring formal approval, and front-loaded requirements development"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The business analyst (BA) presented a concept model during a requirements walk through to the project sponsor, implementation subject matter expert, and operational support staff. While the presentation was clear to the project sponsor, the other stakeholders were unsure about the impacts to their respective daily tasks. What should the BA include in the next walk through, so that all stakeholders have a better understanding of the requirements?",
+    "choices": [
+      "A governance architecture to contextualize the business analysis approach",
+      "An information management model to identify requirement gaps",
+      "A capability model to illustrate strategic objectives",
+      "An appropriate level of abstraction to support differing viewpoints"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The business analyst (BA) is not having great success scheduling stakeholder meetings. Stakeholders say they are too busy or there are higherpriority meetings on their calendars. The BA is concerned, knowing that stakeholder availability, attitude, and willingness to engage will impact the timeliness of project delivery as well as the __________.",
+    "choices": [
+      "test execution.",
+      "approval process",
+      "requirements reuse",
+      "risk analysis process"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has engaged various groups from across the organization to define the business opportunity a potential project will address. The BA must consolidate the information collected from the groups.The BA should ensure the business needs __________.",
+    "choices": [
+      "are traceable to their source stakeholders.",
+      "are articulated from the enterprise perspective.",
+      "describe the potential solutions that they will satisfy.",
+      "have minimal risk associated with them."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds that the solution service level agreement (SLA) cannot be met in one out of five identified scenarios, as there is a dependency on a requirement which is a part of a future release. How should the BA approach the solution limitation?",
+    "choices": [
+      "Modify the SLA",
+      "Change the business process",
+      "Increase the scope and include the dependent requirement",
+      "Assess the impact on the business operations"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds that the proposed solution has features used by a small group of stakeholders for business scenarios which may occur up to three times a year but require a high effort to implement. What should the BA recommend in this case?",
+    "choices": [
+      "Assign it a lower priority for future release",
+      "Deliver as part of the initial release",
+      "Change the related business process",
+      "Remove the requirement"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q29]Which of the following characteristics is violated by requirement 5?",
+    "choices": [
+      "Feasible",
+      "Concise",
+      "Consistent",
+      "Atomic"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has a meeting next week with the project sponsor to ensure that the requirements align with the objective of the project.\nPrior to the meeting, the BA must ensure that the requirements are:",
+    "choices": [
+      "correct, capable, and strategic",
+      "parametric, analogous, and decomposed",
+      "atomic, feasible, and testable",
+      "predictive, diagnostic and descriptive"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A company is reconfiguring its business processes to improve the quality of its products and lower operational costs. This includes defining metrics that will be used to evaluate the effectiveness of future change strategy. Which of the following techniques achieves this goal?",
+    "choices": [
+      "Business case",
+      "Decision modelling",
+      "Financial analysis",
+      "Balanced scorecard"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q7] \nWhat technique was the BA using to understand why the promotions were not being viewed?",
+    "choices": [
+      "Use cases and scenarios",
+      "Benchmarking and market analysis",
+      "Observation",
+      "Data mining"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Due to the complexity of a project, the project board is concerned that the business analyst (BA) will not be able to ensure all requirements are verified. What tool can the BA present to the project board to mitigate their concern?",
+    "choices": [
+      "Data model",
+      "Use case diagram",
+      "Business analysis checklist",
+      "Risk register"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The project manager wants to have the requirements analysis phase approved and asks the business analyst (BA) if this is possible. The BA wants to ensure that the requirements package is complete prior to closing the analysis phase. What would help the BA expedite the approval process for the analysis phase?",
+    "choices": [
+      "Solution performance measures",
+      "Business analysis information architecture",
+      "Solution functional capabilities",
+      "Business analysis approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such aproject has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by the successful adoption of the product, which will be developed over the next 12 months.The team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with senior management to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.What has the BA evaluated to help determine value of the project?",
+    "choices": [
+      "Internal assets",
+      "External inuencers",
+      "Change strategy",
+      "Business architecture"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q23]\nWhat tool will help the BA understand the changes needed to keep the majority of the stores open?",
+    "choices": [
+      "Capability Model",
+      "Business capability analysis",
+      "Transition State Diagram",
+      "Stakeholder Matrix"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A large company has thousands of geographically dispersed employees and dozens of IT systems. Multiple business analysts (BAs) work in parallel on various requirements with different stakeholders. When considered in isolation, the requirements look meaningful and valuable to those who approved them. However, when it comes to implementation, some of the requirements appear to be contradicting each other. A lead BA recognizes that adding some traceability information would help uncover such conflicts early in the process.\nTo what should the BA trace the requirements?",
+    "choices": [
+      "Stakeholder tasks",
+      "Business needs",
+      "Organizational functions",
+      "Solution components"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A Business Analyst (BA) is tasked with presenting the requirements for an auto insurance product to domain and implementation subject matter experts (SMEs).\nWhat requirements viewpoints should be used by the BA?",
+    "choices": [
+      "Logical Data Model",
+      "Organization Model",
+      "Scope Model",
+      "Business Process Model"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q2]\nThe BA is working on the design options for the future state at the martial arts organization. There are several design elements that need to be considered for the future state. Which of the following design elements does the Activity Diagram address?",
+    "choices": [
+      "Business processes to be performed and managed",
+      "Business policies and business rules",
+      "People who operate and maintain the solution",
+      "Operational business decisions to be made"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q27] If the budget for the initiative was firm, what is a feasible solution to make sure the project stays within budget?",
+    "choices": [
+      "Upgrade system B with the first 8 features",
+      "Buy the new system with only the first 5 features",
+      "Upgrade system A with the first 8 features",
+      "Buy the new system with only the first 7 features"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations. Due to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.\nBy proposing this change, what type of view did the BA use to analyze the current manufacturer's state?",
+    "choices": [
+      "Data-centric",
+      "Capability-centric",
+      "Process-centric",
+      "People-centric"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q27] If System A is unanimously selected to be the system for upgrade but the technical lead says that System A will have to be taken offline for 3 months, what kind of strategy should the project team develop while System A is offline?",
+    "choices": [
+      "Change",
+      "Competitive",
+      "Organizational",
+      "Stakeholder"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "During the testing phase, a new requirement surfaced and the stakeholder asked the developer to modify the code without informing the business analyst (BA).\nThe BA became aware of the new functionality after a defect was raised against another component of the design. The BA can keep this situation from occurring in the future by creating a:",
+    "choices": [
+      "stakeholder engagement plan",
+      "change control process",
+      "risk strategy",
+      "prioritization approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations. Due to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.\nThe BA was able to complete requirements elicitation activities in a short period of time.Which type of elicitation approach did the BA use?",
+    "choices": [
+      "Experiment",
+      "Collaborative",
+      "Estimation",
+      "Research"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q11] \nThe insurance company has a maximum budget of $810,000 for the entire implementation and operation over the first three years. Which vendor or vendors meet that criteria?",
+    "choices": [
+      "Company A",
+      "Company B",
+      "Both companies B and C",
+      "Both companies A and C"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q26]With the team ready to consider design options, they are reviewing the following requirement: \"Appropriate stakeholders shall be timely and reliably notified on incident-related events.\"What quality criteria does this requirement fail to satisfy?",
+    "choices": [
+      "Consistent",
+      "Complete",
+      "Atomic",
+      "Understandable"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is in the process of allocating requirements to various releases of a solution.On what should the BA base requirements to maximize the value of the solution?",
+    "choices": [
+      "Priority set by stakeholders",
+      "Available resources",
+      "Timing of the release and its impact on business",
+      "Components in scope for that release"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A service provider has seen significant erosion of its profit margin so engages an external consultancy firm to assess its business operations and recommend options to improve profitability. What is the first step that the business analyst (BA) will perform as part of this engagement?",
+    "choices": [
+      "Hold a strategy session to understand how best to achieve increased profitability",
+      "Organize a requirements elicitation meeting to determine the desired increase in the profit margin",
+      "Perform a brainstorming session to determine the desired profit margins for the future state of operations",
+      "Conduct activities to understand the reasons behind the erosion of profitability in the current state"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has been given a defect during user acceptance testing. After analyzing the defect, the BA determines it is a change in the requirement.What does the BA need to do to assess the change",
+    "choices": [
+      "Close the defect \"working as designed\"",
+      "Evaluate the risk analysis and management information",
+      "Perform a root cause analysis",
+      "Conduct an impact analysis using traceability"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is responsible for analyzing the effectiveness of a railway ticket booking system. The BA prepared a report based on observations of the booking clerk over two days (Monday and Wednesday). According to the information gathered, the booking clerk is underutilized and spends a lot of idle time waiting for customers. What should the BA do next?",
+    "choices": [
+      "Benchmark the clerk's performance against other roles and other companies",
+      "Conduct further analysis to protect against false information based on insufficient data",
+      "Propose a change in the organizational chart to give the clerk more responsibilities",
+      "Verify the expected value and its perceived performance"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company wants to develop a product roadmap to guide future development efforts. The product owner asks a business analyst (BA) to lead the analysis effort.\nFeature suggestions have been compiled from customer support calls. Which of the following should the BA do first?",
+    "choices": [
+      "Determine the value of each feature",
+      "Compare the implementation costs of each feature",
+      "Prioritize the features in the backlog",
+      "Confirm the feature requests"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A software company has won a contract to implement its product for a client. As part of the implementation work, a business analyst (BA) is asked to compile information about the other client applications that will integrate with the new system and provide the information graphically. To establish the boundaries of the new system, the business leaders need to know the interfacing client applications and the type of information that will be exchanged between the existing and new systems.\nWhich type of diagram should the BA use?",
+    "choices": [
+      "Process",
+      "Sequence",
+      "Activity",
+      "Context"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The performance of a newly implemented document management system is falling significantly short of the measures defined as part of the project. However, the business is recognizing some level of value from the system. The business analyst (BA) considers the only option available to the company to increase performance and determines that the cost of implementing the option is ten times higher than the expected benefits.\nWhat should the BA recommend?",
+    "choices": [
+      "Plan stakeholder engagement",
+      "Retire the implemented solution",
+      "Conduct elicitation",
+      "Continue with the implemented solution"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) was developing an outline of the timing of business analysis activities with the project manager. What factors may impact the timing of the activities the BA is performing?",
+    "choices": [
+      "Solution design",
+      "Project manager's experience",
+      "Contract terms",
+      "Project sponsor interest"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is reviewing the performance results from a recent change initiative. One of the results stated, \"The planned schedule expected 50% of the project to be done at milestone 6. The schedule performance index (SPI) was 0.87. Three project team members worked overtime to ensure that the actual schedule would align with the planned schedule.\"\nThis is an example of what type of action?",
+    "choices": [
+      "Engagement",
+      "Preventive",
+      "Corrective",
+      "Improvement"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "An organization is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed:",
+    "choices": [
+      "Business Capabilities",
+      "Cost Benefit",
+      "Decision",
+      "Process"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q33] The solution consultants have composed a set of as-is solution documents. A spreadsheet contains a catalog of brief denitions of allrequirements with priorities assigned to them. A separate document explains data models and user interfaces. For the new and changed requirements, the BA wants to capture additional attributes such as the source, reason, complexity, and priority of change. Some of these requirements can be reused in other work.\nHow should information for these requirements be managed?",
+    "choices": [
+      "Rewrite requirements independent of the solution design",
+      "Enter the information in the company's change management system",
+      "Add the attributes to the original requirements catalog and change requirements",
+      "Create a new workbook of requirements with necessary attributes"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "After the new report \"Customer Sales by Date\" was deployed last week, the sales team is now unable to generate the previously existing report\"Consolidated Sales by Customer, \" which is causing customer dissatisfaction.What could the business analyst (BA) have assessed to prevent this situation?",
+    "choices": [
+      "Current state and stakeholder needs",
+      "Solution assessment results",
+      "Strengths, weaknesses, and threats",
+      "Balanced scorecard"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assigned a new project to improve a delivery process. Which of the following does the BA create as an output of the initial meeting with experts?",
+    "choices": [
+      "Information management approach",
+      "Elicitation activity plan",
+      "Entity relationship diagram",
+      "Current state flowchart"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The BA is analyzing the requirements that are represented in the Class Diagram. In addition to the diagram, the BA would like to include a separate document that has the information about the data elements to ensure a common understanding of the classes' attributes. What technique is used to define the data elements?",
+    "choices": [
+      "Data Dictionary",
+      "Data Mining",
+      "Glossary",
+      "Reviews"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) wants to create a high-level overview of a business process as a part of an exploratory analysis. The sponsor has asked for a model that demonstrates the movement and transformation of data between entities and processes.\nWhat technique should the BA use?",
+    "choices": [
+      "Data flow diagram",
+      "Process modelling",
+      "Entity relationship diagram",
+      "Scope modelling"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q7] \nWhat technique led the BA to the source of the increase in claims?",
+    "choices": [
+      "Survey",
+      "Decision modelling",
+      "Data mining",
+      "Document analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: \n\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network. \nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles. \nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request. \n\n\nThrough requirements workshops the business analyst elicits the following detailed business requirements: \n1. The company's mobile application platform must support real time integration with the following third party systems: \nA ) GPS System - \nB ) Postal Code Validation - \n2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date. \n3. The map display shall highlight the boundary of the search area with a dotted yellow line. \n4. The extent and shape of the search area shall be determined based on one of the following user choices: \nA ) Postal code \"\" Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code. \nB ) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles. \n5. Subscriber shall be able to select one of the options above and supply corresponding input. \n6. System shall validate the user input and display appropriate error messages if invalid. \n7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area. \n8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen. \n9. The list of service providers shall include the Name, Phone Number and Street Address. \n10. If the subscriber specified the radius or retained the default postal code for the search area, the list shall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance. \n11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan. \n------\nWhat is the appropriate diagram type to describe the association between the subscriber, the medical plan and the participating service providers?",
+    "choices": [
+      "Data Model",
+      "Data Dictionary",
+      "Use Case Diagram",
+      "Data Flow"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "While reviewing the data feeds on a project the business analyst (BA) realizes there is a feed that contains complex relationships. In order to help understand the data and accurately reflect a set of requirements the BA decides to prioritize the requirements. What modeling format could the BA use?",
+    "choices": [
+      "Matrix",
+      "User interface",
+      "Data dictionary",
+      "Data model"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q27] What kind of analysis must the BA do to determine if one of the systems is better suited to be modified and upgraded?",
+    "choices": [
+      "Stakeholder Analysis",
+      "Decision Analysis",
+      "Process Analysis",
+      "Risk Analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A team of business analysts (BAs) were assigned to review an enhancement request that would involve changes in a stockroom and the inventory of products.The changes will impact several groups of people and the amount of savings is in excess of $1 million dollars. The recommended process improvement will be presented to management for approval.What should the team do first?",
+    "choices": [
+      "Create a business case",
+      "Produce an organizational model",
+      "Define the change strategy",
+      "Validate the cost savings"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) works for a financial institution that wants to acquire new systems and migrate all future business operations to the new systems. The BA is responsible for performing a gap analysis and has reviewed the current state of systems.What is the next task that the BA needs to do to complete the gap analysis?",
+    "choices": [
+      "Identify performance measures",
+      "Define the future state capabilities",
+      "Categorize risks factors",
+      "Select the stakeholder engagement approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A conservative company with rigorous risk control plans and internal audit rules has a recurrent problem with a core business application. As a result, access to this application must be restricted and controlled and maintenance must be on-site. However, the company feels that the application must have an emergency service team. The routine maintenance of this solution is provided by an external vendor and the vendor requested 24 hours remote access to quality and production data. In this context, what is the company's response to the vendor's request?",
+    "choices": [
+      "Denied, because the vendor requested it",
+      "Denied, because of the company's risk aversion",
+      "Accepted, because the company has an urgent problem to solve",
+      "Accepted, because immediate remote access will resolve any issue"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "During a requirements review, the implementation subject matter expert (SME) identied the requirement 'parsing of data' that must be implemented before other requirements. The business analyst (BA) has given this requirement high priority.\nWhat factor influenced the prioritization of the requirement",
+    "choices": [
+      "Data Dictionary",
+      "Constraint",
+      "Dependencies",
+      "Risk"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) assigned to a project has been asked to implement regulatory requirements based on priority. What type of traceability relationship can the BA use to find all the solution components that need to be implemented?",
+    "choices": [
+      "Validate",
+      "Satisfy",
+      "Derive",
+      "Dependency"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations.Due to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.Customers who want to utilize the pay per use mobile device fast charging stations may choose one of two features: fully charged (F1) or partially charged (F2). If partially charged is selected, the customer needs to specify their charging needs.\nWhat is the relationship between Fl and F2?",
+    "choices": [
+      "Validate",
+      "Derive",
+      "Depends",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q29]Which of the following relationship types correctly identifies the nature of the relationship between the 3 business capabilities and the 11 requirements?",
+    "choices": [
+      "Derives",
+      "Depends",
+      "Validates",
+      "Verifies"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q21] Which of the following is included in performing a stakeholder analysis?",
+    "choices": [
+      "Recommend excluding the Director of Human Resources as a stakeholder",
+      "Compare the expertise of the Director of Human Resources to other stakeholders",
+      "Implement all of the Director of Human Resources suggestions to relieve tension",
+      "Develop a risk plan to anticipate negative behavior from the Director of Human Resources"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assigned to a project which has two main stakeholders: a highly regulated government agency and a less formal private company. To select the business analysis approach, the BA will conduct a meeting with representatives from each entity to decide on the level of formality needed for requirements and design specifications. During the meeting, what should the BA's strategy be?",
+    "choices": [
+      "Develop consensus on a tailored approach for formality",
+      "Use a formal approach to appeal to the government entity's higher authority",
+      "Ask the government entity to accept a flexible collaborative approach",
+      "Employ the standard business analysis level of formality"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A national branch of a global company is struggling to improve business processes of its Public and Government Affairs (PGA) department. To work with external stakeholders effectively, PGA employees need to collect, manage, and exchange a vast amount of information. Complex cases involve collaboration of many employees from different departments. The ability to share information and to coordinate corresponding activities is crucial for the company's growth plans. Their current tools and practices do not serve the purpose well. The existing system, which was deployed a couple of years ago, has only a few active users. The majority of PGA employees avoid using it because the system is hard to use and lacks needed functionality. Consequently, available information is mostly unstructured and stored either locally or on a shared network drive. Some of the information exists only in a paper form. \n\n\nThe branch's PGA head, who sponsors the project, wants to implement a configurable solution that two other branched successfully deployed several months ago. Both deployments were done by three solution consultants, who will be available to assist in the project. They will be responsible for tailoring the solution to PGA needs, as well as for training the PGA staff. With their help, the sponsor plans to complete the project in approximately three months. \n\n\nThe solution consultants reside in another country 7 hours ahead of the rest of the project team. They will be available part-time, but are planning two one-week long trips to the PGA central officer to conduct initial training and to participate in the final deployment of the system into production. The consultants, in turn, expect a business analyst (BA) to assist in collecting necessary data and defining customization requirements.\n\n----------\nThe solution consultants have composed a spreadsheet with all requirements that are already implemented in the solution. The requirements in the catalog are organized partially by user tasks and partially by system features. The branch has distinct definition of PGA user roles and uses a different approach to structuring requirements specifications. How should the BA organize the customization requirements?",
+    "choices": [
+      "Devise a structure that best fits the branch's definition of user roles",
+      "Explore and apply best practices for specifying this type of requirements",
+      "Reuse the structure of the solution consultants' requirements catalog",
+      "Use the structure of requirements suggested by the corporate standard"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "In a requirements elicitation effort, the business analyst (BA) needs to define boundaries for business domains, categorize and create a hierarchy of items, and show data sources and their relationships for specific audiences.\nWhich of the following modeling formats should the BA use?",
+    "choices": [
+      "Diagrams",
+      "Graphics",
+      "Matrices",
+      "Prototype"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q14] \nWhich stakeholders would the BA interview to determine the changes needed to the comparison tool?",
+    "choices": [
+      "Implementation Subject Matter Expert and Tester",
+      "Project Manager and Project Sponsor",
+      "Regulator and Operational Support Manager",
+      "Domain Subject Matter Expert and End User"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "An innovative pizza restaurant announces a new pizza topping each week. Once advertised, the new topping on the regular dough constitutes thesole pizza type offered during the week. No other pizza toppings are offered.\nWhich of the following processes is a strong candidate to be addressed while planning for requirements reuse?",
+    "choices": [
+      "Dough preparation",
+      "Toppings preparation",
+      "Topping recipes",
+      "Ad images"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A company is about to embark upon a large organizational change initiative that involves restructuring its service offerings. A senior business analyst (BA) is assigned the work of establishing performance measures for the business analysis work to be performed by the BA team. Which of the following performance measures is appropriate to assess the value delivered by the work products against the cost, time, and resource investments expended to create them?",
+    "choices": [
+      "Effectiveness",
+      "Significance",
+      "Strategic",
+      "Knowledge"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q43] Preparing a customer order for loading takes about one hour. Upon the BA's observation, only 30% of trips have their orders available for loading when a truck arrives. This causes a waste of both the truck's and the driver's time.What should the BA recommend to eliminate such waste?",
+    "choices": [
+      "Elicit requirements for a system to coordinate in advance order processing activities with all trips",
+      "Begin assembling orders for the next trip immediately following the truck's departure",
+      "Hire more warehouse staff (workers) so that order assembly is done faster and less waiting occurs",
+      "Ask the drivers to call the operations team member if they are going to be late"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "In a software implementation project, the designated business analyst (BA) has conducted all the elicitation activities and now needs to confirm the elicitation results.What is used by the BA Professional to guide which sources of information and which results are to be compared?",
+    "choices": [
+      "Information management approach",
+      "Business analysis plan",
+      "Elicitation activity plan",
+      "Business analysis approach"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The business analyst (BA) is facilitating a requirements workshop with a large group of diverse stakeholders, some of whom are not entirely familiar with the goals and objectives of the project.The BA must understand the business domain, corporate culture, group dynamics, and expected outputs to adequately communicate the__________.",
+    "choices": [
+      "change strategy.",
+      "requirements prioritization.",
+      "elicitation scope",
+      "enterprise architecture"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "While reviewing a subset of requirements with stakeholders, a business analyst (BA) finds a requirement that does not deliver benefit to any of the stakeholders. After much discussion, the stakeholders decide that the requirement does not align with the solution scope.\nWhat recommendation will the BA make?",
+    "choices": [
+      "Update the solution design",
+      "Re-evaluate the future state",
+      "Change the solution scope",
+      "Eliminate the requirement"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The business analyst (BA) works in a global company and the majority of stakeholders are located in different countries. The BA already explained the core requirements during the initial meetings. However, due to the time zone differences it has been cumbersome to organize further meetings. What method should the BA use so the stakeholders can review the document before final approval?",
+    "choices": [
+      "Group collaboration",
+      "E-mail",
+      "Brainstorming",
+      "Collaborative games"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) was tasked with eliciting requirements for a new product scheduling system. The BA interviewed and discussed the requirements with the manager and supervisor. The requirements were written and approved by both the supervisor and manager. Which stakeholders were missed in the requirements?",
+    "choices": [
+      "IT support",
+      "Project manager",
+      "Upper management",
+      "End users"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A big construction company has grown into a group of 17 companies spread across the country. The rationale behind forming the group was to become more competitive in bidding for federal and regional government contracts. Another reason was to increase consolidated protability by lowering the cost of materials and using combined assets more efficiently. Disjointed technological capabilities of the individual companies impede gathering the data needed to make decisions on both handling materials and allocating the resources.\nWhat improvement opportunity does this represent?",
+    "choices": [
+      "Create a business model canvas to outline business needs",
+      "Deploy a new system across the companies",
+      "Enhance access to the relevant information",
+      "Develop a repository of information from each company"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) was presenting requirements to all stakeholders, after having reviewed, structured and organized the requirements. The requirements were being presented in the form of multi layered business process models, using standard notations with proper sequencing of tasks. During the presentation, the project manager points out a few of the missing, inconsistent, and contradictory requirements.What did the BA fail to perform?",
+    "choices": [
+      "Use template architecture",
+      "Develop the solution scope",
+      "Accommodate requirement viewpoints",
+      "Ensure completeness"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q18] \nWhat could the business analyst (BA) do to gain consensus between the CFO and other Management?",
+    "choices": [
+      "Calculate the costs incurred by each option",
+      "Recommend and present a completely new option",
+      "Estimate the potential value delivered by each option",
+      "Compare each option against an industry benchmark"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such aproject has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by the successful adoption of the product, which will be developed over the next 12 months.The team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with senior management to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.\nAfter the BA completed the initial analysis, the information is reviewed with leadership.\nAt this point in the project, what will the BA be presenting?",
+    "choices": [
+      "Project timeline",
+      "Project deliverables",
+      "Resource staffing",
+      "Expected benefits"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "After the implementation of a new financial solution, the business analyst (BA) observes that the performance of a solution does not meet the anticipated benefits detailed in the original business case. What is a technique the BA can use to understand the reason for this?",
+    "choices": [
+      "Interface analysis",
+      "Business capability analysis",
+      "Data flow diagram",
+      "Fishbone diagram"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) wants to estimate the potential value delivered by a set of requirements and design options by targeting a small group of stakeholders to understand their perceived value and expectations. The BA is going to organize a discussion during which feedback is collected.\nWhich technique will be used?",
+    "choices": [
+      "Focus Group",
+      "Brainstorming",
+      "Survey",
+      "Group interview"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "In a requirements management effort, the business analyst (BA) has reviewed all the requirements and has completed assessing the various impacts of changes to some of the requirements. The BA is planning to share the impact of the changes to all the stakeholders and obtain a consensus in resolution of some of the changes. Which technique will help the BA obtain a resolution on the impact of the requirement changes?",
+    "choices": [
+      "Focus groups",
+      "Workshops",
+      "Interviews",
+      "Surveys"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "After having created several prototypes of a new web-based application, a business analyst (BA) would like to meet with the organization's stakeholders to elicit their perception, ideas, and attitudes about the prototypes. Which of the following techniques should the BA use?",
+    "choices": [
+      "Focus Groups",
+      "Prioritization",
+      "Decision Analysis",
+      "Brainstorming"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An online stock trading system is under implementation.Which of the following events can be considered as a trigger for re-prioritization?",
+    "choices": [
+      "A team member has left the project and is being replaced",
+      "A new initial public offering in the stock market is introduced",
+      "Further dependencies among solution components are uncovered",
+      "Number of reported quality defects is growing through phases"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q14] \nWhat analysis approach must the BA use to determine changes required to address the training needs?",
+    "choices": [
+      "Future state",
+      "Decision",
+      "Market",
+      "Root cause"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Most users of a pilot application have experienced more efficient processing compared to the old system. However, the business analyst (BA) has observed that a few people took much longer to complete the process. The system event log shows that those users encountered errors when they attempted to sign on.\nWhich of the following would the BA recommend to improve overall performance?",
+    "choices": [
+      "Sent a reminder to all users of their user ID and password",
+      "Automate the login process",
+      "Gather more information from the individuals who had errors",
+      "Extend the pilot to more people"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "While working on a major project to replace the billing mechanism at a bank, a major change in scope is discussed. Which approach does the business analyst (BA) use to help determine the formality of the assessment process to be followed to understand the impacts of the scope change?",
+    "choices": [
+      "Governance",
+      "Information management",
+      "Solution",
+      "Stakeholder engagement"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is capturing the requirements for an application which displays information on a mobile device. The information will be extracted from a database owned by another department within the organization. Which of the following will identify the stakeholder who can approve access to the database?",
+    "choices": [
+      "Solution Scope",
+      "Governance Approach",
+      "Change Strategy",
+      "Requirements Architecture"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years.\nThe Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site.\nThe purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims. There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims.\n...\nWhat type of recommendation has the BA made to the business sponsor?",
+    "choices": [
+      "Identify additional capabilities",
+      "Reduce complexity of interfaces",
+      "Perform organizational change",
+      "Retire the solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Contracts are currently managed by more than 20 contract owners across the organization, each happily managing in their own way. A business analyst (BA) is tasked to elicit requirements for centrally managing software maintenance and license contracts.\nWhich of the following does the BA need to carry out first?",
+    "choices": [
+      "Identify business requirements",
+      "Identify future state conditions",
+      "Recommend an off the shelf product",
+      "Complete an enterprise readiness assessment"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is planning for an upcoming solution based on a signed contract with a client but has learned that one of the key subject matter experts is unavailable during the first half of the business analysis phase. The project has a tight timeline and firm deadline that is part of the contract. There are no substitutes for the key subject matter expert.\nHow should the BA proceed?",
+    "choices": [
+      "Change the solution scope by removing the subject matter expert's component and obtain approval on the new scope",
+      "Reduce the schedule to coincide with the subject matter expert's availability and reduce the formality for requirements",
+      "Document the contract terms as a risk and adjust the contract costs to plan for the changes/rework",
+      "Identify the missing stakeholder as a risk and recommend an adaptive approach for the analysis phase"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has completed requirements elicitation and modelling on a project to implement a new case management system. During analysis of the requirements, the BA notices that one of the requirements appears to be in conflict with the company's case management policies.\nWhat should the BA do?",
+    "choices": [
+      "Request modification to the policies and identify the changes as an assumption and a dependency",
+      "Modify the requirements to adhere to the existing policies and note the change in the models.",
+      "Identify the policies as a potential constraint and review with management",
+      "Create a requirement to indicate the change to the current policies and update the information in the models"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q24] \nThe lead BA wants the BAs to report anticipated and actual completion dates for their deliverables, as well as the time spent on planned and unplanned activities.\nWhat is the lead BA trying to do by analyzing the results of such measurements?",
+    "choices": [
+      "Establish an equitable compensation system",
+      "Identify typical missing or wasteful activities",
+      "Ensure even workloads of the BA",
+      "Motivate the BA to work better"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q15] As the new pricing structure was being implemented, the chief executive officer (CEO) of the company wanted to change the premiums and associated discounts offered to customers. The BA investigated the cost, anticipated benefits and the length of time the change would likely take to complete before presenting the results back to the CEO.What type of analysis has the BA just conducted?",
+    "choices": [
+      "Impact",
+      "Capability",
+      "Market",
+      "Document"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q29]Which primary subscriber business need is addressed with the enhancements?",
+    "choices": [
+      "Inability of a service provider to locate other participating service providers and their fee information",
+      "Inability of a plan subscriber to get directions to nearby participating service providers",
+      "Inability of a plan subscriber to locate and access fee information for nearby participating service providers",
+      "Inability of a service provider to be alerted of the location of new plan subscribers in their vicinity"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q37] What standard relationship should be defined between \"Change system parameters\", \"Setup new supervisor\" and \"Pass a two-factor authentication\"?",
+    "choices": [
+      "pass a two-factor authentication",
+      "extend <--pass a two-factor authentication --> extend",
+      "protect <--pass a two-factor authentication --> protect",
+      "include --> pass a two-factor authentication <- - include"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q26]The EA wants to understand whether the integration capabilities of the existing solution match the business unit's IT landscape. The requirement definition that the EA needs should read as, \"Each record of an incident shall__________.\"",
+    "choices": [
+      "be associated with the unit of equipment to which it belongs.\"",
+      "include the associated equipment's information from the asset management system.\"",
+      "contain the ID of the equipment to which it belongs.\"",
+      "be related to a unit of equipment using the Equipment ID stored in the asset management system.\""
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The solution presented by a business analyst (BA) to the stakeholders eliminated the need to maintain different variations of ship-to-country and location-to-route for various freight carriers. Instead, the routing would use a standard carrier code, giving the business the flexibility to just ship to new countries without raising a change request to IT which was the current road-block to business. What opportunity did the BA present to the stakeholders?",
+    "choices": [
+      "Increase efficiencies",
+      "Increase access to information",
+      "Decrease stakeholder involvement",
+      "Decrease project timeline"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q47] The BA is working on identifying additional improvement opportunities based on these requirements. Which of the following improvement opportunities is reflected in Requirement ID NFP0002?",
+    "choices": [
+      "Additional capability",
+      "Increased efficiency",
+      "Defined relationship to information",
+      "Improved access to information"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company wants to launch an existing product in another channel and the business analyst (BA) is starting to perform the stakeholder analysis.\nLegend: Influence/Impact 1 to 5 (1 = very limited impact/influence: 5 = very high impact/influence).Considering the analysis, what values for influence and impact will the BA assign to the marketing?",
+    "choices": [
+      "Influence = 3 and impact = 3",
+      "Influence = 1 and impact = 3",
+      "Influence = 1 and impact = 3",
+      "Influence = 5 and impact = 5"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has completed the prioritization of requirements with various risk-averse stakeholder groups. Several requirements conflict with a regulatory requirement that, if not implemented, will result in a fine from a regulatory body.\nWhat should the BA do?",
+    "choices": [
+      "Measure the value of the other requirements against the penalty of not meeting the regulatory requirement",
+      "Compare the regulatory requirement to the recommended solution",
+      "Determine a means to work around the regulatory requirement",
+      "Inform the stakeholders that the regulatory requirement takes precedence over other requirements"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Whilst working on business requirements to improve a process, a business analyst (BA) has created flowcharts from the viewpoint of several different users. The stakeholders have expressed some confusion because the flows seem inconsistent.\nWhat ensures that the process models relate to each other?",
+    "choices": [
+      "Roles and Permissions Matrix",
+      "Organizational Model",
+      "Future State Description",
+      "Information Architecture"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing to specify requirements. Various attributes can be specified for each requirement or set of requirements.\nWhich approach contains a suitable set of attributes?",
+    "choices": [
+      "Stakeholder Engagement",
+      "Information Management",
+      "Business Analysis",
+      "Governance"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "During a retrospective, the project team agrees the way they organized the user stories during the first sprint could be improved. The business analyst (BA) plans to make the stories more accessible going forward. Which of the following will the BA update?",
+    "choices": [
+      "Organizational performance standards",
+      "Information management approach",
+      "Business analysis performance assessment",
+      "Project lessons learned register"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) in a large financial institution, responsible for the management of requirements, has completed all the activities related to tracing requirements and is now pursuing to maintain them. The BA has identified a large number of requirements which have long term reuse and is now looking for guidance to manage these requirements.\nWhich of the following will indicate how requirements will be managed for reuse?",
+    "choices": [
+      "Legal Regulatory Information",
+      "Architectural Repositories",
+      "Information Management Approach",
+      "Business Rules Analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on a payment system (PS) implementation. A set of systems which should interact with a new system has been identified. The BA defined that a user with role of ‘Supervisor’ in the PS must pass two-factor authentication before an execution of the functions: \"Change system parameters\" and \"Set up new supervisor.\" \nA user must have the role of \"Supervisor\" to use the standard functions \"Send mail notification’ or ‘Send SMS notification’ \nThe BA defined the following use cases: \n\"¢ \"Change system parameters\" \n\"¢ \"Setup new supervisor\" \n\"¢ \"Send mail notification” \n\"¢ \"Send SMS notification” \n\"¢ \"Send notification” \n\"¢ \"Pass a two-factor authentication\" \nThe BA wants to create a Use Case diagram.\n —— Which technique should be used to define a communications protocol between the PS and other systems?",
+    "choices": [
+      "Vertical prototyping",
+      "Interface analysis",
+      "Concept modelling",
+      "System analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q31] Which of the following is the appropriate technique to define communication flows between the Postal Code validation system with other systems?",
+    "choices": [
+      "Capability Analysis",
+      "Interface Analysis",
+      "Process Analysis",
+      "Decision Analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is assessing the different solution proposals. What type of financial calculation would the BA use to determine which solution is worth investing in based on its breakeven point?",
+    "choices": [
+      "Internal rate of return",
+      "Discount rate",
+      "Return on investment",
+      "Net present value"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q15]Which technique would the BA use to validate the desired outcomes?",
+    "choices": [
+      "Business model canvas",
+      "Decision analysis",
+      "Key performance indicators",
+      "Use Cases"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A company with a big information technology (IT) department has hired a lead business analyst (BA) to enhance its business analysis practices.\nThe lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders, including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn, feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables. All of the evidence is anecdotal and none of the groups could strongly substantiate their options.\n-------------\nWhat should the lead BA implement to identify areas of improvement?",
+    "choices": [
+      "A BA time tracking system",
+      "Templates for BAs to use",
+      "Workload plans of the BA",
+      "Key performance measures"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "During a prioritization meeting, a business analyst (BA) mentioned that the access management system requirements are not stable. The project manager and a team lead proposed removing the requirements from discussion. A domain subject matter expert (SME) insisted on making that requirement a high priority, because it is really important from their point of view.What should the BA do?",
+    "choices": [
+      "Make the requirement a lower priority to minimize unanticipated rework and wasted effort",
+      "Set the requirements at a high priority to adhere to the SME's point of view",
+      "Remove the requirement from the project",
+      "Leave priority unfilled for these requirements"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has been assigned to manage the ongoing stakeholder collaboration after completing a project. The BA needs to understand the stakeholders' level of satisfaction and wants to offer stakeholders an opportunity to help improve the working relationships based on this information.Which technique should the BA use?",
+    "choices": [
+      "Risk analysis and management",
+      "Brainstorming",
+      "Collaborative games",
+      "Lessons learned"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The performance of the business analysis team has been reviewed by management to determine areas for improvement. The manager would like to help the business analysts (BAs) develop their skills and address the corrective actions.\nWhat is a technique that may help achieve this goal",
+    "choices": [
+      "Lessons learned",
+      "Team restructure",
+      "Weekly meetings",
+      "Weekly meetings"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "The business analyst (BA) is preparing to determine the impact of various risks associated with the business analysis effort currently underway.Which of the following would the BA use as an input into the assessment of risk?",
+    "choices": [
+      "Defined change strategy",
+      "Analysis of potential value of the recommended solution",
+      "List of prioritized requirements",
+      "Unconfirmed results of elicitation activities"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) asks participants in a workshop to write down their ideas about the feature being built on sticky notes, place them on the wall, and then group the ideas into similar themes. The BA is using this technique to:",
+    "choices": [
+      "prepare for requirements elicitation",
+      "manage stakeholder collaboration",
+      "identify organizational capabilities",
+      "prioritize requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The objective of a solution implemented was to increase the number of customer calls resolved per hour.When using basic statistical sampling concepts, what does the business analyst (BA) need to consider?",
+    "choices": [
+      "Metrics and Key Performance Indicators (KPIs)",
+      "Financial Analysis",
+      "Benchmarking and Market Analysis",
+      "Frequency and Timing"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is developing an approach for information management. The BA needs to identify and categorize which information is to be managed.\nWhich of the following techniques should the BA use to achieve this objective?",
+    "choices": [
+      "Item Tracking",
+      "Observation",
+      "Prototyping",
+      "Mind Mapping"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Several risks were identified for an upcoming change initiative. One risk is related to a slippage concern because of loose gravel at the local siteof the change initiative. The business analyst (BA) has recommended that all on-site stakeholders must wear durable, slip-resistant boots while the change initiative is being executed.This is an example of which type of risk treatment?",
+    "choices": [
+      "Transfer",
+      "Mitigate",
+      "Accept",
+      "Avoid"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) on a project is in the process of validating requirements and finds that there is a high degree of uncertainty related to one of the assumptions being true. The BA adds the assumption to the risk register and performs a full risk analysis to handle this situation. What type of strategy is in place if the organization is risk-averse?",
+    "choices": [
+      "Acceptance",
+      "Avoidance",
+      "Mitigation",
+      "Transfer"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "While defining what necessary conditions are required to achieve the business need for a highly regulated government client, a business analyst (BA) discovers that some legacy policies will either constrain or are insufficient to achieve value desired by the future state.How should the BA proceed?",
+    "choices": [
+      "Modify the solution to comply with the policies",
+      "Identify an assumption about future state value",
+      "Model two future states, one with and another without these policies",
+      "Obtain approval to change the policies"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q19]Which of the following business processes can be identified for the process improvement initiative?",
+    "choices": [
+      "Mortgage payment process",
+      "Mortgage origination process",
+      "Mortgage closure process",
+      "Collateral verication process"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A team is working on a user privilege and access control system. A business analyst (BA) selects use cases as the technique for requirements specification.\nWhat is the relationship between use cases \"Create a role\" and \"Find a role\" when there is a high level of formality?",
+    "choices": [
+      "Validate",
+      "Derive",
+      "Necessity",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "As part of defining the business analysis approach for a project, the business analyst (BA) identifies the key stakeholders responsible for upcoming activities for the initial phase. The BA emails each of these stakeholders and asks when they can be finished. One stakeholder does not reply, one angrily comments that it is not their job and is too busy, and two respond saying that they do not understand what is being asked of them.What competencies can the BA draw on that would best assist with getting agreement from all these stakeholders?",
+    "choices": [
+      "Personal accountability, time management, demonstrated trustworthiness",
+      "Negotiation, conflict resolution, effective communication",
+      "Industry knowledge, solution knowledge, organization knowledge",
+      "Learning, creative thinking, problem solving"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q18] \nIn order to align with the added value required from the parcel tracking solution that would be an important requirements' category for the BA to give more focus?",
+    "choices": [
+      "Transition",
+      "Process",
+      "Stakeholder",
+      "Non functional"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Following a recent, successful deployment, a business analyst (BA) has noticed that several of the requirements are candidates for reuse in multiple upcoming change initiatives. Which type of requirement is a potential candidate for re-use?",
+    "choices": [
+      "Stakeholder requirements",
+      "Business requirements",
+      "Non-Functional requirements",
+      "Transition requirements"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "The stakeholder of a new product that is in early adaptive development has requested a change to an approved feature. How should the business analyst (BA) handle this change?",
+    "choices": [
+      "Change the business analysis approach to predictive",
+      "Obtain formal approval through change request process",
+      "Add the feature to the product backlog for future prioritization",
+      "Include the requirement in the next iteration"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q15] What did the BA create to ensure that everyone who needed to be included had been?",
+    "choices": [
+      "Onion diagram",
+      "Concept model",
+      "Capability diagram",
+      "Context model"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "As part of identifying an enterprise's capability to adopt a potential solution, a business analyst (BA) is reviewing existing processes and tools within the enterprise for their ability to adapt to a new solution.Which of the following assessments is the BA performing?",
+    "choices": [
+      "Stakeholder",
+      "Enterprise",
+      "Organizational",
+      "Operational"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The table illustrates the statement of cash flows for a courier company for the last fiscal year.\n\nDue to aggressive market competition, the management of the company performed a strategy review and based on their findings and the current market conditions they came up with strategic and tactical changes in order to keep a competitive market position.\nIn order to strengthen customer retention strategies through a new competitive advantage, the company is considering implementing a live parcel tracking system.",
+    "choices": [
+      "Sunk",
+      "Maintenance",
+      "Opportunity",
+      "Operating"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q33] What should define the timing of business analysis work in this project?",
+    "choices": [
+      "Buy-in of the proposed solution",
+      "Approach used by the previous deployments",
+      "Availability of solution consultants",
+      "Overall project schedule"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing for observation. A passive approach has been selected for establishing performance metrics.\nWhat should be identified for the next step?",
+    "choices": [
+      "Dependencies",
+      "Communication channels",
+      "Performance measures",
+      "Participants"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q21] \nDuring a brainstorming session on improvement opportunities, the Director of Human Resources repeatedly interrupts the group and states why the proposed ideas will not work. Which approach should the business analyst (BA) take to refocus the group?",
+    "choices": [
+      "Reschedule the session without the Director of Human Resources",
+      "Ask the Director of Human Resources to observe in",
+      "Pause the activity and reiterate the rules to the entire group",
+      "Continue the activity with the group and provide a report"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is eliciting requirements to automate existing manual processes for fulfilling end users service requests. There is pressure from management to automate the process quickly using a commercial off-the-shelf (COTS) tool. The COTS solution has various modules including one for service request automation that has yet to be implemented in the organization. What is the BA's first step?",
+    "choices": [
+      "Implement the COTS tool's modules",
+      "Create a change strategy",
+      "Perform a gap analysis to understand missing capabilities",
+      "Modify the COTS tools to fit the existing process"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A solution implemented three months ago has decreased performance as the volume of transactions has increased. A business analyst (BA) is tasked with analyzing the performance of the application and providing recommendations.What actions does the BA need to take?",
+    "choices": [
+      "Develop new performance metrics",
+      "Complete a decision analysis",
+      "Perform a root cause analysis",
+      "Re-analyze the current performance metrics"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A popular department store chain wants to make computer upgrades as well as conduct a major remodeling effort to increase revenue to all their 100 stores over the next 2 years. The remodeling will occur in two phases. The two phases are required at each store and can be completed in any order, but each phase must be fully completed before the next phase can begin. \nPhase 1 will take approximately 32 weeks and will not require a store to be temporarily closed. \nPhase 2 will take approximately 20 weeks and will require a store to be temporarily closed.\nIn order to keep inventory level and total revenue for the department store chain at an operational level, 75% of the stores must remain open to the public at all times. Against the board of director's advice, the Chief Executive Officer (CEO) made a decision to start and complete the top 25 revenue-producing stores in the first year to get those stores remodeled and fully operational. \nA business analyst (BA) has been brought in to help with planning the project and gathering requirements.\n----\n\nWhat activity should the BA do to determine which stores will be the first to start the renovations?",
+    "choices": [
+      "Perform document analysis for stores annual records",
+      "Survey store managers for number of customers per day",
+      "Conduct a focus group with store managers to determine which should be first",
+      "Brainstorm with store managers on the current state of each store"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) conducts a process analysis on the business analysis practices that were used on the previous major implementation.\nFrom this the BA identifies and documents that there are three improvement areas which would make the business analysis process more efficient. In which business analysis artifact does the BA document these measures of improvement for the next piece of analysis work?",
+    "choices": [
+      "Skills assessment",
+      "Engagement approach",
+      "Governance approach",
+      "Performance assessment"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q7] \nWhat was the business sponsor looking to validate about the use of promotions?",
+    "choices": [
+      "Performance Variance",
+      "Accuracy",
+      "Risks",
+      "Market Trends"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "The stakeholders are interested in ensuring that expected value is assessed prior to acceptance. To determine if the solution is providing expected value and ensure the accuracy of the measurements, the stakeholders and the business analyst (BA) determine that they need to measure:",
+    "choices": [
+      "performance, trends, and variances",
+      "benefits, penalties, and costs",
+      "impacts, problems, and dependencies",
+      "strategy, solution, and scope"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "The stakeholders are interested in ensuring that expected value is assessed prior to acceptance. To determine if the solution is providing expected value and ensure the accuracy of the measurements, the stakeholders and the business analyst (BA) determine that they need to measure __________.",
+    "choices": [
+      "benefits, penalties, and costs.",
+      "strategy, solution, and scope.",
+      "impacts, problems, and dependencies.",
+      "performance, trends, and variances"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) conducts a business rules analysis exercise to identify the organizational rules constraining the project. In addition to existing regulations and contracts, what else does the BA check?",
+    "choices": [
+      "Backlogs",
+      "Permissions matrix",
+      "Policies",
+      "Business case"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) had identified redundancy in the process for the first contact resolution for customer issues; currently two separate divisions handle this task. A new solution identifies a single point of contact that will eliminate the redundancy. What can the BA do to highlight the required changes to the structure?",
+    "choices": [
+      "Business capability analysis",
+      "Current state description",
+      "Organizational modelling",
+      "Policies and procedures"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A bank moves currency from the main office to the branches daily for operational use. To avoid paying overnight interest, the branches return the currency at the end of the business day. The bank requires a new inventory management system to account for the whereabouts of the cash at all times. A software provider has proposed a heavily customized version of their standard inventory management software. As the project progresses, the business analyst (BA) identifies a number of subtleties that would suggest a fully made to order solution may be a better option for the bank. What inputs does the BA need to perform the analysis?",
+    "choices": [
+      "Change strategy and performance objectives",
+      "Requirements and business policies",
+      "Potential value and design options",
+      "Needs and business analysis approach"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "n a risk assessment exercise of a software implementation program, the business analyst (BA) has successfully computed the probability of occurrence (POC) and the cost of impact for each of the identified risks as follows:\n-----\nWhich of the following will have the highest negative impact to value?",
+    "choices": [
+      "Human errors",
+      "Natural disasters",
+      "System security",
+      "Power surges"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is compiling a communication plan by reviewing stakeholders and identifying the needs of the stakeholders. The BA organizes the stakeholders based on their needs and decides that all communication will be handled through e-mail so that information can be disseminated quickly and easily while maintaining a record. What has the BA missed in the stakeholder analysis?",
+    "choices": [
+      "Presentation materials",
+      "Preferences",
+      "Business objectives",
+      "Retention"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A multi-domain project has stakeholders with different technical backgrounds. The presentation prepared by the business analyst (BA) for domain1 was also used for domain 2 but the presentation was not clear and caused concerns for stakeholders in domain 2.\nWhat can the BA do to alleviate the concerns of the stakeholders in domain 2?",
+    "choices": [
+      "Create a survey applicable for the stakeholders in domain 2.",
+      "Produce an estimation applicable for the stakeholders in domain 2.",
+      "Present a model applicable for the stakeholders in domain 2.",
+      "Develop a backlog applicable for the stakeholders in domain 2."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A customer has provided a business analyst (BA) with many business requirements and some have inter-dependencies with other requirements.\nTo ensure the requirements are delivered according to customer expectations, which requirements attribute should the BA consider including in the project requirements document?",
+    "choices": [
+      "Priority",
+      "Constraints",
+      "Unique identifier",
+      "Acceptance criteria"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "An organization has a procedure for receiving requests from its customers: investigating each and then replying with an answer. The general manager asks a business analyst (BA) to identify ways to improve the current practice because it takes too long for the requests to be answered.Which of the following techniques will the BA use to review the tasks?",
+    "choices": [
+      "Data Modeling",
+      "Business Case",
+      "Item Tracking",
+      "Process Analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) working on a recently implemented project is approached by the sponsor to provide artifacts that can be used organization-wide for the long-term. Which of the following should the BA provide?",
+    "choices": [
+      "High-level business requirements document",
+      "Transition requirements document",
+      "Process models",
+      "Project solution architecture"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Before investing further in the project, a customer and the key stakeholders of the project want to be able to visualize the final product. Which elicitation technique should the business analyst (BA) select?",
+    "choices": [
+      "Interface Analysis",
+      "Prototyping",
+      "Observation",
+      "Reverse Engineering"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Several commercial-off-the-shelf (COTS) software packages exist that would enable the business analyst (BA) to meet the needs of the business.\nFor the potential design option the BA included one of the COTS packages as a solution approach. What kind of solution approach is this?",
+    "choices": [
+      "Purchase",
+      "Outsource",
+      "Exploit",
+      "Create"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "When determining the success criteria for an initiative, a business analyst (BA) engages end users in order to understand what they would define as an effective solution. What two types of data will the end users need to perform the evaluation?",
+    "choices": [
+      "Risk and value",
+      "Assessment and performance",
+      "Quantitative and qualitative",
+      "Impact and dependencies"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "An automobile manufacturer is undertaking a project intended to modify or replace the company's current timekeeping system. Negative employee reaction to change follows as word of the proposed solution spreads throughout the company. What could a business analyst (BA) do to prevent or reduce employee discontent?",
+    "choices": [
+      "Relay upper management support to stakeholders",
+      "Record negative employee reaction as a project risk",
+      "Propose cultural changes for the organization",
+      "Report potential sources of dissent to management"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is facilitating a meeting between process owners to capture the business rules for a workflow solution. One of the attendees expresses a strong opinion that the solution will not deliver the expected value.\nHow will the BA ensure the process owner remains engaged and will support the change?",
+    "choices": [
+      "Update the requirements",
+      "Record the feedback and continue",
+      "Review the future state",
+      "Change the governance approach"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on improving solution performance and increasing value. The BA discovers that a set of interfaces and activities do not contribute to the final product either directly or indirectly. What should the BA recommend?",
+    "choices": [
+      "Provide a single solution for stakeholders thus reducing the cost of implementation",
+      "Remove or minimize interfaces and activities that do not provide value to the final product",
+      "Retire the current solution as it is not fulfilling the need for which it was created",
+      "Propose an organizational change to automate the work people perform"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[Based on Q47] The BA will create a Data Model to meet which requirement?",
+    "choices": [
+      "Requirement ID F-R0002",
+      "Requirement ID FE10001",
+      "Requirement ID NFP0002",
+      "Requirement ID F-R0003"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A sports wristwatch product manufacturer wants to add a blood sugar monitoring toolkit to the watch. Market research has confirmed that the most profitable segment of the manufacturer's target customer is looking for this feature. The business analyst (BA) worked with the product owner to finalize the set of requirements and design options and then defined multiple approaches for implementing the feature. At this point, the solutions' team agreed that they were unable to accurately assess the merits of each of the proposed solutions.What is the possible reason?",
+    "choices": [
+      "Requirements are not allocated to solution components",
+      "Too many approaches are dividing the team",
+      "Business needs are unclear to the team",
+      "Requirements and design options are not detailed enough"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Before the start of a large, cross functional change effort, the team of business analysts (BAs) assigned decided they need something to help them ensure requirements collectively support one another and do not conflict. What option would provide the consistency they are looking for?",
+    "choices": [
+      "Requirements Architecture",
+      "Functional decomposition",
+      "Checklists",
+      "Process modelling"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q14] \nWhat approach would help the BA to understand the functionality definition issues?",
+    "choices": [
+      "Business Analysis Communication Plan",
+      "Business Analysis Performance Assessment",
+      "Risk Register",
+      "Requirements Traceability Repository"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A local manufacturer that serves about 1000 retail stores is experiencing a slow yet steady decrease of its customer base over the last couple of years. Attributing the situation to increased competition, management has hired a team of sales representatives to attract new clients and promote the manufacturer's products. \nHowever, after four months there is still no progress. Management has engaged a business analyst (BA) to investigate this issue. What should the BA do first?",
+    "choices": [
+      "Perform market research to identify on which competitive advantages the sales team should focus",
+      "Create a training program to close potential skill gaps for the sales team",
+      "Review historic sales and related data to understand what is happening to the customer base",
+      "Identify appropriate training providers and send out a request for proposal"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) finds conflicting requirements gathered from several stakeholders. Aside from interviews, what additional activities can the BA use to safeguard against this happening?",
+    "choices": [
+      "Item tracking and mind mapping",
+      "User stories and scope modelling",
+      "Reviews and workshops",
+      "Brainstorming and estimation"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A project is implemented using a predictive approach. Unfortunately, a lot of change requests (CR) have been raised. A project manager (PM), who should approve each change request, is overworked.What could the business analyst (BA) propose to make things better?",
+    "choices": [
+      "Approve the CRs independently for the PM",
+      "Transfer responsibility from the PM to a project's sponsor",
+      "Revisit the Business Analysis Governance approach",
+      "Decline CRs because of the approach"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Stakeholders have indicated concerns with the level of uncertainty they are willing to accept with the solution.What type of analysis can the business analyst (BA) use to alleviate these concerns?",
+    "choices": [
+      "Gap",
+      "Financial",
+      "Requirements",
+      "Risk"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "While validating requirements for a software implementation project, the business analyst (BA) needs to identify scenarios that would alter the benefit delivered by a requirement.Which of the following techniques should the BA use to identify such scenarios?",
+    "choices": [
+      "Risk Analysis and Management",
+      "Metrics and Key Performance Indicators",
+      "Data Modeling",
+      "Document Analysis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) plans to hold a workshop next week to elicit requirements for a project. In an informal conversation, another employee mentioned that one of the attendees is likely to be unhappy about the project's impact on their work.\nWhich of the following techniques will the BA use to avoid disrupting the workshop?",
+    "choices": [
+      "Elicitation Activity Plan",
+      "Collaborative Games",
+      "Stakeholder List",
+      "Risk Analysis and Management"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A large health care provider has recently purchased and installed a solution that automates some of the activities that coordinate patient recovery activities. A business analyst (BA) is in the process of evaluating this solution and analyzing the performance measures against the value it brings. At this juncture, the BA has uncovered some threats in the solution which could hamper its performance and erode the value it brings.\nWhich technique will enable the BA to record and handle these on an ongoing basis?",
+    "choices": [
+      "Risk Analysis and Management",
+      "Solution Performance Analysis",
+      "Solution Scope",
+      "Root Cause Analysis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A company finalized the implementation of a new, corporate-wide database. After nearly three months of operation, the solution is repeatedly producing invalid outputs. A business analyst (BA) has been asked to investigate the solution's problem. The BA has been able to find several instances where the outputs from the solution are below an acceptable level of quality.\nWhich of the following techniques should the BA use to identify the solution limitations?",
+    "choices": [
+      "Risk Analysis and Management",
+      "Root Cause Analysis",
+      "Acceptance and Evaluation Criteria",
+      "Business Rules Analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "An insurance company wants to increase sales by 15% and customer retention by 10% within 1 calendar year. Various strategies to achieve this were considered and a restructure to the existing pricing model is selected to help achieve these goals. \nA business analyst (BA) works with stakeholders such as actuaries, product specialists, sales staff, risk managers, and underwriters who agree to applying varying levels of discounts to customers based on:\n\"¢ Total annual premium the customer has with the company (Financial worth)\n\"¢ Time with the insurance company (Loyalty)\nVarious financial models are considered but the stakeholders agree that an initial applicable discount is determined based on the customer's overall premium:\n\nIf within the first six months, customer retention increased by 5 % and sales increased by 6%, then when will the desired sales and retention goals be achieved assuming the trend continues at the same space?",
+    "choices": [
+      "Sales \"\" 2 years; Retention \"\" 18 months",
+      "Sales \"\" 3 years; Retention \"\" 1 year",
+      "Sales \"\" 2.5 years; Retention \"\" 2 years",
+      "Sales \"\" 18 months; Retention \"\" 1 year"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) works with stakeholders such as actuaries, product specialists, sales staff, risk managers, and underwriters who agree to applying varying levels of discounts to customers based on:",
+    "choices": [
+      "Validate",
+      "Depends",
+      "Derive",
+      "Satisfy"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "\"¢ Total annual premium the customer has with the company (Financial worth)",
+    "choices": [
+      "Make more prot",
+      "Defeat competitors",
+      "Satisfy the customer",
+      "Stabilize its performance"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "\"¢ Time with the insurance company (Loyalty)",
+    "choices": [
+      "Compatibility",
+      "Scalability",
+      "Compliance",
+      "Usability"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Various financial models are considered but the stakeholders agree that an initial applicable discount is determined based on the customer's overall premium:",
+    "choices": [
+      "Interviews",
+      "Scenario and uses cases and user stories",
+      "Scope modeling",
+      "Requirements workshops"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "If within the first six months, customer retention increased by 5 % and sales increased by 6%, then when will the desired sales and retention goals be achieved assuming the trend continues at the same space?",
+    "choices": [
+      "Future state",
+      "Assets",
+      "Scope",
+      "Risk register"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q23]\n.Based on the CEO's executive decision, which risk tolerance attitude is the CEO exhibiting?",
+    "choices": [
+      "Seeking",
+      "Avoidance",
+      "Mitigation",
+      "Neutrality"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q37] Which standard relationship should be defined between \"Setup new supervisor\" and \"Send notification\"?",
+    "choices": [
+      "Send notification -> include -> Setup new supervisor",
+      "Setup new supervisor -> include -> Send notification",
+      "Setup new supervisor -> extend -> Send notification",
+      "Send notification -> extend -> Setup new supervisor"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) facilitated elicitation activities with subject matter experts and end users using observation, workshops, and interviews.After comparing the results, how should the BA resolve the variations?",
+    "choices": [
+      "Identify a few key stakeholders to resolve the conflicts",
+      "Set up additional activities to collaboratively resolve the issues",
+      "Remove requirements that cause differences",
+      "Weight the results from the observation because it is more reliable"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The technology team at a financial institution has successfully constructed a software application to be deployed as part of a digital banking strategy. A business analyst (BA) has completed a review of the current state description and now needs to evaluate the solution and determine limiting factors for value realization.What additional input is required to perform the assessment of enterprise limitations?",
+    "choices": [
+      "Operational assessment",
+      "Potential value",
+      "Solution performance analysis",
+      "Organizational structure"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A card printing solution is comprised of 4 stages: Loading, Printing, Packaging and Sorting. Loading and sorting of cards is done manually through operators, while printing and packaging are automated. The loading stage requires the operator to load 100 cards after an alarm is raised. Sorting requires an operator to distribute each package based on the printed address into the appropriate delivery box.\nWhich stage should be assessed as the most likely to increase process inefficiencies?",
+    "choices": [
+      "Loading",
+      "Packaging",
+      "Sorting",
+      "Printing"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is outlining who should participate in an upcoming requirements elicitation meeting.From whom should the BA obtain approval before selecting the participants?",
+    "choices": [
+      "Sponsor",
+      "End user",
+      "Project manager",
+      "Subject matter expert"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has recently completed a comprehensive stakeholder analysis. Next, the BA would like to consider ways in which to ensure that the stakeholders remain engaged throughout the change strategy. Some of the considerations include timing and frequency, location, available tools, delivery methods, and the stakeholders' preferences. In which of the following plans would the BA document these considerations?",
+    "choices": [
+      "Communications Management Plan",
+      "Business Analysis Plan",
+      "Stakeholder Analysis Plan",
+      "Stakeholder Collaboration Plan"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A project's change in scope is assessed and a newly assigned business analyst (BA) is unsure how to communicate the findings and final decision to the wider stakeholder group.\nIn which of the following can the BA find this information?",
+    "choices": [
+      "Stakeholder Communications Plan",
+      "Business case",
+      "Business policies",
+      "Governance approach"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has defined a business analysis approach and presented the documents to the sponsors, the senior executives, the domain experts, the project manager, and the head of technology, to obtain agreement from all. At this juncture, the project manager objected to some of the estimates determined in the budget and refused to agree with the estimates. Which guideline or tool, if followed by the BA, would have helped in avoiding such disagreements?",
+    "choices": [
+      "Risk Analysis and Management",
+      "Business Analysis Performance Assessment",
+      "Requirements Classification Schema",
+      "Stakeholder Engagement Approach"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "An insurance company has two actuarial teams: Life and Non-Life. The Life team has a specialized tool to make their calculations while the Non-life team performs calculations manually. Last year the company bought a single solution to support both groups. The Non-Life team continues todo certain calculations manually to conform to their processes.\nWhich type of analysis was missed prior to purchasing a solution?",
+    "choices": [
+      "Operational assessment",
+      "Organizational structure",
+      "Stakeholder impact analysis",
+      "Stakeholder location"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Manufacturer O has received a merger proposal from Manufacturer K. There is concern among the senior management of Manufacturer O that regulations could shift in the future, prompting Manufacturer K to move headquarters elsewhere and close operations at the current Manufacturer O site. In assessing the proposal limitations and as part of identifying enterprise limitations, a culture assessment is completed. As part of this work, what else would the BA perform?",
+    "choices": [
+      "Organization and functional modelling",
+      "Scope and requirements prioritization",
+      "Financial and risk analysis",
+      "Stakeholder impact and operational analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "The seminar administrator reviewed these three diagrams and asked the BA to create a fourth diagram to model the various levels that a trainee goes through (e.g., while belt to yellow belt, yellow belt to green belt, etc.). \nWhat modeling technique will the BA use to create this diagram?",
+    "choices": [
+      "Organizational modelling",
+      "State modelling",
+      "Concept modelling",
+      "Decision modelling"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "An organization implements a solution to increase the efficiency of its internal processes. The business analyst (BA) felt that the success of the solution is tied to the organizational structure and confirmed that the solution conforms to the organizational hierarchy. After the solution rolled out, the solution was not widely adopted among stakeholders and some features were not being utilized.\nWhich aspect of the organizational structure did the BA fail to consider?",
+    "choices": [
+      "Reporting needs",
+      "Manager ratios",
+      "Informal relationships",
+      "Structural complexity"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such aproject has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by thesuccessful adoption of the product, which will be developed over the next 12 months.The team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with seniormanagement to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.\nWhat has the BA been identifying that will be used to evaluate the solution?",
+    "choices": [
+      "Business Needs",
+      "Solution Requirements",
+      "Success Measures",
+      "Solution Limitations"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A oral company wants to gather information about each of its 30 international facilities to determine whether employees are satisfied with their jobs.Which of the following elicitation techniques should the business analyst (BA) use?",
+    "choices": [
+      "Survey",
+      "Decision analysis",
+      "Observation",
+      "Concept modelling"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is defining the decision making process for changes raised during a project and wants to understand the decision making authorities within the company.\nWhat might the BA do to gather this information?",
+    "choices": [
+      "Market analysis",
+      "Focus group",
+      "Survey",
+      "Cost benefit analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has just finished verifying requirements for a new application that impacts various business processes for product setup, sales, and support. Which of the following methods should be used to validate the requirements with key stakeholders?",
+    "choices": [
+      "Team review",
+      "Joint application design",
+      "Product backlog prioritization",
+      "Brainstorming"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has been writing requirements for a project that has several stakeholders with varying levels of product expertise.What must the BA take into consideration to meet stakeholder perspectives?",
+    "choices": [
+      "The competency of individual stakeholders",
+      "The format of the requirements",
+      "The types of diagrams produced",
+      "The level of decomposition needed"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A corporation is experiencing poor financial performance and needs to change many aspects of its business strategy in order to become solvent again. A business analyst (BA) is conducting a feasibility analysis and analyzing resources required. The BA has identified the existing resources, the resources that need to be increased, and the required additional capabilities. What is the other dimension this analysis should indicate?",
+    "choices": [
+      "The enterprise readiness agreement",
+      "The new resources to be developed",
+      "The new financial performance metrics",
+      "The timeline for instituting the change"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing a governance approach. The BA is trying to define the approval process. Which factors should the BA consider?",
+    "choices": [
+      "The organizational culture and type of information being approved",
+      "The solution performance measures",
+      "The formality and rigor of the prioritization process",
+      "The associated risks of foregoing or delaying an approval"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is tasked with developing a business analysis plan and must decide the best approach to use. Which of the following factors would drive the decision towards an adaptive approach?",
+    "choices": [
+      "Requirements can effectively be defined ahead of implementation.",
+      "The risk of an incorrect implementation is unacceptably high.",
+      "Engaging stakeholders presents significant challenges",
+      "The organization's tolerance for uncertainty is high"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has been coordinating several meetings with stakeholders to reach consensus regarding the solution design to implement a global currency exchange system for an international bank. Consensus has not been reached yet, although BA has great communication skills and is trusted by all stakeholders. The stakeholders formally approved the business need initially.\nWhy is there disagreement?",
+    "choices": [
+      "The requirements are interpreted differently by each stakeholder.",
+      "The requirements are incorrectly traced",
+      "The approval authority for the solution is unclear.",
+      "More solution alternatives need to be generated."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Company A is a nation-wide leader in commercial demolition. Having just celebrated its 100th year of operations, the company decided to begin doing work internationally. The current system used for reporting company finances is unable to keep pace with the potential demands of doing work in geographically dispersed locations. Therefore, the company decided to replace its client-based Profit & Loss (P&L) reporting system with a more robust, web-based system. This will ensure transparency across the organization and enable better decision making. The business analyst (BA) at Company A has recently completed several rounds of elicitation to determine the requirements for the new, web-based system. Over 1250 requirements were elicited. An initial Requirements Traceability Matrix (RTM) has been drafted, and a subset of the RTM can be seen below:\n-----While verifying the requirements, the BA notices that Requirement ID NFO0003 does not meet the \"unambiguous\" or the \"testable\" characteristicsof requirements quality. The BA plans to re-write the requirement.Which of the following requirements is both unambiguous and testable?",
+    "choices": [
+      "The solution shall employ a blue background.\"",
+      "The solution shall employ a background color blue (HEX #0000FF).\"",
+      "\"The solution shall employ a high-contrast between background and text.\"",
+      "\"The solution shall employ a background color that is viewable to a colored-blind user.\""
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A utility company found that its current billing system charges customers for their usage, but does so incorrectly when the system estimates reads on meters rather than performs actual reads. Company stakeholders would like to improve this aspect of the system but are hesitant to make changes because they are otherwise pleased with the system. A business analyst (BA) has completed a current state diagram and would like to start discussions on what the future state may look like. What information can the BA determine by having a current state diagram?",
+    "choices": [
+      "The strengths and weaknesses of the current system",
+      "The cost/benefit measures for the new system",
+      "The change management plan for implementation",
+      "The needs for the future state solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[Based on Q47] The risk associated with Requirement ID F-P0001 is HIGH. The BA has gone back to the Crew Chief to determine why this requirement's risk is HIGH. The Crew Chief stated that it was based on an assumption.\nWhich of the following assumptions would make this requirement's risk high?",
+    "choices": [
+      "The users will require specialized training.",
+      "The web-based interface will be complex.",
+      "The system will be inaccessible in remote locations.",
+      "The cost of the solution outweighs its benefit."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper-based process.",
+    "choices": [
+      "All stakeholders must be in complete agreement",
+      "The sponsor",
+      "The BA",
+      "Those identified in the governance approach"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "In performing the task of planning for business analysis governance for a software implementation project, the business analyst (BA) recommends that prioritization of requirements be done based on the amount of work that the project team is capable of delivering in a given period of time.\nWhich of the following techniques is the BA recommending?",
+    "choices": [
+      "Negotiation",
+      "Grouping",
+      "Time Boxing",
+      "Budgeting"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on a stakeholder collaboration plan. The main goal is to select the approaches that work best to meet the needs of external and internal stakeholders.Which aspects should be taken into account?",
+    "choices": [
+      "Collaboration skills of BA",
+      "Solution design",
+      "Timing and frequency of collaboration",
+      "Business governance plan"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) works for an organization that is moving from a waterfall methodology to an agile approach. This causes new challenges and opportunities for the BA.Which business analysis planning and monitoring element is most impacted by the organization's change?",
+    "choices": [
+      "Timing of business analysis work",
+      "Conflict and issue management",
+      "Technology and infrastructure",
+      "Solution scope"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A leading software manufacturing company has appointed a business analyst (BA) to ensure that requirements are managed effectively and efficiently. The BA discovered some missing functionality as well as some implemented functionality which are not supported by requirements.\nWhich of the following tasks did the BA use to discover the issues?",
+    "choices": [
+      "Define requirements architecture",
+      "Elicit requirements again",
+      "Evaluate requirement changes",
+      "Trace requirements"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "[Based on Q24] Even after dozens of reviews, some stakeholders refuse to sign off on the requirements specification documents because of a few questionable requirements.\nThis puts the projects at risk and creates tension between the participants. What should the lead BA do first?",
+    "choices": [
+      "Set limits on duration of sign-offs and the number of reviews",
+      "Track approvals at the level of individual requirements",
+      "Escalate the problem to the executive management",
+      "Offer the stakeholders incentives to sign off documents sooner"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is working on an initiative to decommission a legacy system and has discovered the requirement: \"Ability to view policies created in the legacy system for a period of 6 months.\" How should the BA classify the requirement based on the requirements classification schema?",
+    "choices": [
+      "Business Requirement",
+      "Non-functional Requirement",
+      "Functional Requirement",
+      "Transition Requirement"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "A martial arts organization has been expanding throughout the mid-Atlantic states and has hired a business analyst (BA) to create a system that will enable the organization to manage its growing needs. The following list describes some of the operations of the martial arts organization:\n✑ The martial arts organization offers a variety of seminars to trainees that span the entire spectrum of the martial arts training system.\n✑ Each seminar is made up of a set of techniques.\n✑ Coaches in the martial arts organization are assigned seminars to teach according to the area that they specialize in and their availability.\n✑ The martial arts organization publishes and maintains a web-based calendar of the different seminars (and the assigned coaches) every quarter for the trainees to view.\n✑ The seminar administrator in the martial arts organization manages the seminars (including seminar content), assigns seminars to coaches, and defines the seminar schedule.\nTo ensure understanding of the business need, the BA has created three Unified Modelling Language (UML) diagrams, which are shown below:\n------------\nThe BA is finalizing the definition of the requirements architecture by understanding how requirements relate to each other. A key component that must be apparent in all three diagrams is that none of the requirements be linked in different or conflicting ways. What relationship quality criterion does this represent?",
+    "choices": [
+      "Correct",
+      "Unambiguous",
+      "Defined",
+      "Necessary"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "You are currently working on creating the activity list for an initiative in your organization. What characteristic must be assigned to each task in your task list?",
+    "choices": [
+      "Risk level",
+      "Unique number",
+      "Procurement needs",
+      "Roles and responsibilities"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A company is in the middle of a large-scale project. Safety concerns have been brought up by several stakeholders, and this has led to numerous proposed changes. The business analyst (BA) must now assess the impact that marking these changes will have on the project. When assessing the impact of safety concerns, which of the following should be considered?",
+    "choices": [
+      "Cost/benefit analysis",
+      "Urgency",
+      "Risk register",
+      "Design"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release:\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.",
+    "choices": [
+      "Functional Prototype",
+      "Concept Model",
+      "Process Model",
+      "Usability Prototype"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "A business analyst (BA) elicits requirements for the sales order processing of multiple product lines. Elicitation reveals that the business processes for the sales orders of most products follow similar activity patterns that have been established over a number of years. Some of the new proposed seasonal products, however, will necessitate major variations in the process flow of some departments. The seasonal products are likely to be different every year. The business needs to carefully adapt its business practices so that the significant but seasonal variations in some of the business processes for the new products are handled adequately without disrupting the processes for the other established products.\nWhich of the following approaches must the BA take to manage the requirements for sales order processing in the long term?",
+    "choices": [
+      "Reference specific departments in the requirements for the seasonal products",
+      "Reference specific departments in the requirements for the established products",
+      "Use a high level of abstraction for the seasonal products to make them less subject to revision during a change",
+      "Use a high level of abstraction for the established products to make them less subject to revision during a change"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) is preparing a requirement package for access management system. A state diagram for entity \"User\" has been prepared.\nThe BA wants to check the completeness of requirements by comparing different models. Which diagram should be used with a state diagram to verify that all functions are defined to work with entity \"User\" for the different roles?",
+    "choices": [
+      "Data flow diagram",
+      "Sequence diagram",
+      "Use case diagram",
+      "Functional diagram"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "[Based on Q33] A BA suggests interviewing employees to elicit user requirements and then performing a gap analysis to identify solution customization requirements. However, the sponsor believes that it will be a waste of time because the employees do not know how the process should work in the future. The sponsor expects the solution to help shape their process and wants to start with the solution as is, amending it as necessary based on the user feedback.What should the BA do?",
+    "choices": [
+      "Deploy the current solution and survey users for improvement proposals.",
+      "Utilize the solution in a test environment with actual data to elicit feedback.",
+      "Collect the requirements from the sponsor and domain subject matter experts.",
+      "Explain the benefits of interviews to the requirements elicitation process."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "The business analyst (BA) has been tasked with assessing and recommending the best solution that fits an organization's need for a new third-party sales tool.\nWhat technique would be used for identifying suitable options?",
+    "choices": [
+      "Balanced scorecard",
+      "Decision analysis",
+      "Vendor assessment",
+      "Process analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "A business analyst (BA) has just completed a number of elicitation activities and is preparing to review the stated requirements. As part of this,the BA is checking the compliance of the stated requirements with organizational standards for business analysis.\nWhat state is the BA attempting to move the requirements into?",
+    "choices": [
+      "Validated",
+      "Verified",
+      "Accepted",
+      "Specified"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "After determining that the enterprise culture was the driving force behind recent solution change decisions, a business analyst (BA) has decided to conduct an enterprise-wide cultural assessment. What information can the BA expect to learn from the results?",
+    "choices": [
+      "Whether the stakeholders view the solution as something beneficial",
+      "Whether there will be an organizational impact as a result of the change.",
+      "That changes to the enterprise culture will better drive its actions",
+      "That internal dependencies limit the performance of the entire solution"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following models demonstrates the attributes, operations, and relationship to entities within the solution?",
+    "choices": [
+      "Entity Relationship",
+      "Data dictionary",
+      "Class model",
+      "CRUD matrix"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "You have identified several stakeholders that you believe are kinesthetic learners.Which statement best describes the kinesthetic learning approach?",
+    "choices": [
+      "The learners learn best by reading and pondering",
+      "The learners learn best be experiencing the topic",
+      "The learners learn best by seeing the topic in a model or through storyboards.",
+      "The learners are not interested in the topic unless they can immediately apply it to their lives or jobs."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following documents is described in the statement below?\"It is a type of procurement document used to request proposals from prospective sellers of products or services.\"",
+    "choices": [
+      "Request for quote",
+      "Request for information",
+      "Request for bid",
+      "Request for proposal"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is a procurement document?",
+    "choices": [
+      "Project Work Breakdown Structure",
+      "Project charter",
+      "Vision document",
+      "Invitation for bid"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "You are completing the prepare for elicitation process for an identified problem in your organization. The prepare for elicitation process requires three inputs for this process.Which one of the following is not an input that will help you prepare for the elicitation activities?",
+    "choices": [
+      "Stakeholder list",
+      "Stakeholder concerns",
+      "Business need",
+      "Solution scope"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following tasks does not rely on other activities, and no other activities rely on this task completing?",
+    "choices": [
+      "Analysis task",
+      "Independent task",
+      "Predecessor task",
+      "Dependent task"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following processes can start with the source of problems or with the problem itself?",
+    "choices": [
+      "Risk estimation",
+      "Risk analysis",
+      "Risk management",
+      "Risk identication"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "In risk analysis, which of the following can be identified as a consequence of a disaster?",
+    "choices": [
+      "Loss of operating capability",
+      "Loss of goodwill",
+      "Loss of competitive edge",
+      "Loss of stockholder condence"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "___ is a process to determine the completeness of the project work and to gain the customer's acceptance to move the project forward.",
+    "choices": [
+      "Phase gate review",
+      "Inspection of key results",
+      "Verify scope",
+      "Quality control"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following phases is the first step towards creating a business continuity plan?",
+    "choices": [
+      "Business Continuity Plan Development",
+      "Scope and Plan Initiation",
+      "Business Impact Assessment",
+      "Plan Approval and Implementation"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following charts is a quality control tool to show categories of defects?",
+    "choices": [
+      "Pareto chart",
+      "RACI chart",
+      "Gantt chart",
+      "RAM chart"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which one of the following diagrams when properly laid out is always laid in a left to right display to properly reflect the chronology of all project work?",
+    "choices": [
+      "Influence diagram",
+      "Project schedule network diagram",
+      "Arrow diagramming method",
+      "Time-scaled schedule network diagram"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following is a visual decomposition of the program scope and the resources needed in order to create the things defined within the program scope?",
+    "choices": [
+      "Resource breakdown structure (RBS)",
+      "product breakdown structure (PBS)",
+      "Budgeted Cost of Work Scheduled (BCWS)",
+      "Work Breakdown Structure (WBS)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "When does the lessons learned document is updated?",
+    "choices": [
+      "At planning phase.",
+      "At execution phase.",
+      "At closing phase.",
+      "Throughout the project lifecycle"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following stages of a project defines the number of risks and opportunities, including intense planning and anticipation of risk events?",
+    "choices": [
+      "Planning",
+      "Executing",
+      "Initiation",
+      "Closing"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following roles works with the project team to understand the deliverables and then teaches the users of the deliverables how to utilize the project's product?",
+    "choices": [
+      "End user",
+      "Database analyst",
+      "Stakeholder",
+      "Trainer"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following qualitative techniques involves a disciplined analysis of the event sequences that could transform a potential hazard into an accident?",
+    "choices": [
+      "Failure mode and effects criticality analysis",
+      "HAZOP technique",
+      "Failure mode and effects analysis",
+      "Preliminary Risk Analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following establishes organizational checks and balances with a proper segregation of front, back, and middle office functions for effective risk management?",
+    "choices": [
+      "Risk response plan",
+      "Risk analysis",
+      "Risk management plan",
+      "Risk governance"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "As a program manager, you decided to overlap two phases of your program.Which of the following terms best describe your act?",
+    "choices": [
+      "Lead time",
+      "Rolling",
+      "Fast tracking",
+      "Crashing"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following software development life cycles is a methodology that divides the project into phases, and the project manager focuses on control of time, cost, and scope?",
+    "choices": [
+      "Spiral",
+      "Agile",
+      "Waterfall",
+      "Incremental"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following graphical presentations of a project plan is most appropriate for presenting to upper management?",
+    "choices": [
+      "Pie chart",
+      "Pareto Chat",
+      "Critical Path Method",
+      "Scatter chart"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following diagrams is used to display sensitivity analysis data?",
+    "choices": [
+      "Decision tree",
+      "Ishikawa",
+      "Influence",
+      "Tornado"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is a visual decomposition of the project scope?",
+    "choices": [
+      "Budgeted Cost of Work Scheduled (BCWS)",
+      "Resource Breakdown Structure (RBS)",
+      "product breakdown structure (PBS)",
+      "Work Breakdown Structure (WBS)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "________ are timeless events that show progress in the project.\nThese are typically achieved at the end of phase in the project lifecycle.",
+    "choices": [
+      "Achievements",
+      "Millstones",
+      "Phases",
+      "Templates"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following authorizes the project to exist within the organization",
+    "choices": [
+      "Project charter",
+      "Project network diagram",
+      "Project integration management",
+      "Project boundaries"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following tasks cannot start until other tasks are completed?",
+    "choices": [
+      "Analysis task",
+      "Dependent task",
+      "Predecessor task",
+      "Independent task"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following roles approves the project scope statement, phase gate reviews, solution validations, scope changes, and project success criteria?",
+    "choices": [
+      "Project manager",
+      "Subject matter expert",
+      "Solution owner",
+      "Stakeholder"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following processes includes tasks and roles, risk categories, schedules for risk management activities, definitions of probability and impact, and the stakeholders' tolerances?",
+    "choices": [
+      "Risk management plan",
+      "Risk register",
+      "Risk analysis",
+      "Risk response plan"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following is the process of identifying and assessing factors that may jeopardize the success of a project or the achievement of a goal?",
+    "choices": [
+      "Risk analysis",
+      "Risk identication",
+      "Risk retention",
+      "Risk communication"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "As a milestone is reached, the project is funded for enough capital to reach the next milestone.This approach is called_________.",
+    "choices": [
+      "Step funding",
+      "Phase funding",
+      "Stakeholders funding",
+      "Milestone funding"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following roles helps assess the data requirements of a project, identifies data assets, and helps the project team complete data modeling requirements?",
+    "choices": [
+      "Database analyst",
+      "End user",
+      "Subject matter expert",
+      "Information architect"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following processes is used by organizations to set the risk tolerance, identify the potential risks, and prioritize the tolerance for risk?",
+    "choices": [
+      "Risk communication",
+      "Risk identication",
+      "Risk analysis",
+      "Risk management"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following terms is used to describe a major deliverable or key event in the project used to measure project progress?",
+    "choices": [
+      "Project life cycle",
+      "Phase",
+      "Achievement",
+      "Milestone"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is the process of analyzing the areas of a project that are most affected by risk?",
+    "choices": [
+      "Risk Identication",
+      "Risk Urgency Assessment",
+      "Risk Categorization",
+      "Risk Analysis"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following charts is important to ensure that the roles and responsibilities of those involved in a task are tracked?",
+    "choices": [
+      "Pie chart",
+      "Line chart",
+      "RACI chart",
+      "Gantt chart"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following quantitative risk analysis techniques relies on experience and past data to compute the probability and impact of risks on project objectives?",
+    "choices": [
+      "Probability distribution",
+      "Sensitivity analysis",
+      "Modeling and simulation",
+      "Interviewing"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Which of the following types of charts shows which resources are needed in the project and allows you to group the resources by project phase or other attributes?",
+    "choices": [
+      "Pareto chart",
+      "Organizational Breakdown Structure",
+      "Gantt chart",
+      "Resource Breakdown Structure"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following types of elicitation allows each stakeholder to freely discuss their role in a particular process?",
+    "choices": [
+      "Focus group",
+      "Structured interview",
+      "Quick Interview",
+      "Unstructured interview"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following chart shows the correlation between project team members and the work they've been assigned to complete?",
+    "choices": [
+      "Pie chart",
+      "Responsibility Assignment Matrix (RAM) chart",
+      "Gantt chart",
+      "RACI chart"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following participants have to keep the minutes and details of the conversation during Interviews?",
+    "choices": [
+      "Stakeholder",
+      "Scribe",
+      "Business Analyst",
+      "End user"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following describes the actual users who interact with one another, a system, or data moved between two users?",
+    "choices": [
+      "Device interface",
+      "User interface",
+      "Data interface",
+      "Communication port"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following defines the deliverable the customer is expecting?",
+    "choices": [
+      "Project charter",
+      "Procurement management plan",
+      "Product scope statement",
+      "Project network diagram"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following document is created first after project is awarded and statement of work is handed over to the project manager?",
+    "choices": [
+      "Work breakdown structure (WBS)",
+      "WBS dictionary",
+      "Project scope statement",
+      "Project charter"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following are directed conversations for gathering ideas, opinions about a product, service, problem, or opportunity?",
+    "choices": [
+      "Interviews",
+      "Group discussions",
+      "Feedback loops",
+      "Focus groups"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is the process of developing a document that formally authorizes a project or a phase?",
+    "choices": [
+      "Define Scope",
+      "Develop Schedule",
+      "Develop Project Charter",
+      "Create Work Breakdown Structure"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following techniques involves coordinating and collaborating with other credible sources in risk?",
+    "choices": [
+      "Risk identication",
+      "Risk management",
+      "Risk communication",
+      "Risk analysis"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Which of the following is the formal acceptance of the project?",
+    "choices": [
+      "A project review",
+      "A sign-off",
+      "Risk assessment",
+      "Inspection trend analysis"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "There are 50 stakeholders in the current project. How many communication channels exist in this project?",
+    "choices": [
+      "1200",
+      "1225",
+      "1500",
+      "500"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Which of the following communicates from the program-level perspective \"\" a clear understanding and statement of the technical objectives and the end products, services, or results of the work to be performed?",
+    "choices": [
+      "Scope statement",
+      "Preliminary scope statement",
+      "Program work breakdown structure",
+      "Program charter"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Which of the following is a conversation between one or more speakers centering on one specific topic?",
+    "choices": [
+      "Feedback loop",
+      "Presentation",
+      "Survey",
+      "Formal requirements review"
+    ],
+    "correct_answers": [
+      0
+    ]
+  }
+]
