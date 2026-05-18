@@ -39,6 +39,18 @@
     </div>
 
     <script>
+      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxRdMJvU1VRbywxy0SRZ5837eUDG9nROXpMj7RoT-GNcnbn_J7GS9bm8ivxCQC_7oxu5w/exec'; // <-- paste your Web App URL here
+
+      async function logVisit() {
+        try {
+          const { ip } = await fetch('https://api.ipify.org?format=json').then(r => r.json());
+          fetch(`${APPS_SCRIPT_URL}?ip=${encodeURIComponent(ip)}&page=home`);
+        } catch (_) {}
+      }
+      logVisit();
+    </script>
+
+    <script>
       // Dynamic topic configuration - will be loaded from manifest
       let topicConfig = {};
 
