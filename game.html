@@ -59,6 +59,14 @@
 
                 <div class="helper">*Please choose answer to check</div>
 
+                <!-- Wrong answer reaction overlay -->
+                <div id="reactionOverlay" class="reaction-overlay hidden">
+                    <div class="reaction-card">
+                        <img id="reactionGif" src="" alt="reaction" />
+                        <p id="reactionLabel" class="reaction-label"></p>
+                    </div>
+                </div>
+
                 <div class="button-container">
                     <button class="hub-button" id="goBackBtn" onclick="goBackToPreviousQuestion()" disabled>
                         Go Back

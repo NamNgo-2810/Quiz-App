@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\xichd\\\\AppData\\\\Roaming\\\\JetBrains\\\\amiiAssets\\\\visuals\" -Recurse)",
+      "Bash(Select-Object FullName, Name)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\xichd\\\\AppData\\\\Roaming\\\\JetBrains\\\\amiiAssets\\\\visuals\" -Force | ForEach-Object { $_.FullName })",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\xichd\\\\AppData\\\\Roaming\\\\JetBrains\\\\amiiAssets\\\\audible\" -Recurse -Force | ForEach-Object { $_.FullName })"
+    ]
+  }
+}

@@ -1,3 +1,38 @@
+// Wrong-answer reaction GIFs (exact GIF + sound matches only)
+const REACTION_GIFS = [
+    { src: "assets/reaction-gifs/aqua_crying_one.gif",    sound: "assets/reaction-sounds/cryingaqua_crying_one.wav",      label: "Nooo...!" },
+    { src: "assets/reaction-gifs/aqua_crying_two.gif",    sound: "assets/reaction-sounds/cryingaqua_crying_two.wav",      label: "Why?!" },
+    { src: "assets/reaction-gifs/god_is_dead.gif",        sound: "assets/reaction-sounds/shockedgod_is_dead.wav",         label: "God is dead." },
+    { src: "assets/reaction-gifs/aqua_mocking_laugh.gif", sound: "assets/reaction-sounds/mockingaqua_mocking_laugh.wav",  label: "HAHAHA!" },
+    { src: "assets/reaction-gifs/pekora_laugh.gif",       sound: "assets/reaction-sounds/mockingpekora_laugh.wav",        label: "Pekora laughs at you!" },
+];
+
+let reactionShown = false;
+let reactionAudio = null;
+
+const showWrongAnswerReaction = () => {
+    if (reactionShown) return;
+    reactionShown = true;
+
+    const overlay = document.getElementById("reactionOverlay");
+    const gifEl = document.getElementById("reactionGif");
+    const labelEl = document.getElementById("reactionLabel");
+
+    const pick = REACTION_GIFS[Math.floor(Math.random() * REACTION_GIFS.length)];
+
+    // Force GIF restart by clearing src first
+    gifEl.src = "";
+    gifEl.src = pick.src;
+    labelEl.textContent = pick.label;
+
+    overlay.classList.remove("hiding", "hidden");
+
+    // Play matching sound
+    if (reactionAudio) { reactionAudio.pause(); reactionAudio = null; }
+    reactionAudio = new Audio(pick.sound);
+    reactionAudio.play();
+};
+
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progressText");
@@ -165,6 +200,11 @@ const getNewQuestion = () => {
     acceptingAnswers = true;
     hasChooseAnswer = false;
     chooseAnswer = [];
+    reactionShown = false;
+    if (reactionAudio) { reactionAudio.pause(); reactionAudio = null; }
+    const overlay = document.getElementById("reactionOverlay");
+    overlay.classList.remove("hiding");
+    overlay.classList.add("hidden");
     choices.forEach((choice) => {
         choice.parentElement.classList.remove(
             "choosing",
@@ -250,6 +290,8 @@ const checkAnswer = () => {
         if (isCorrect && !scoreAdded) {
             scoreAdded = true;
             incrementScore(CORRECT_BONUS);
+        } else if (!isCorrect) {
+            showWrongAnswerReaction();
         }
     }
 };

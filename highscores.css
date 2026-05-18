@@ -5,10 +5,18 @@
 }
 
 .high-score {
-  font-size: 2.8rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #1a1c2c;
+  border: 3px solid #000;
+  box-shadow: 4px 4px 0 #000;
+  color: #ffec27;
+  text-shadow: 2px 2px 0 #000;
+  line-height: 1.8;
 }
 
 .high-score:hover {
-  transform: scale(1.025);
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 #000;
 }

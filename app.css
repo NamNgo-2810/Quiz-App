@@ -1,65 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 :root {
-  background-color: #ecf5ff;
   font-size: 62.5%;
 }
 
-.author-credit {
-  position: fixed;
-  top: 10px;
-  right: 15px;
-  background-color: rgba(86, 165, 235, 0.9);
-  color: white;
-  padding: 8px 12px;
-  border-radius: 15px;
-  font-size: 1.2rem;
-  font-weight: 500;
-  z-index: 1000;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  backdrop-filter: blur(5px);
+body {
+  background-color: #0f0e17;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 8px 8px;
+  min-height: 100vh;
 }
 
 * {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Press Start 2P', monospace;
   margin: 0;
   padding: 0;
-  color: #333;
+  color: #f4f4f8;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
   margin-bottom: 1rem;
 }
 
 h1 {
-  font-size: 5.4rem;
-  color: #56a5eb;
-  margin-bottom: 5rem;
+  font-size: 3.2rem;
+  color: #5fcde4;
+  margin-bottom: 4rem;
+  text-shadow: 4px 4px 0 #000;
 }
 
 h1 > span {
-  font-size: 2.4rem;
-  font-weight: 500;
+  font-size: 1.6rem;
 }
 
 h2 {
-  font-size: 4.2rem;
-  margin-bottom: 4rem;
-  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  text-shadow: 3px 3px 0 #000;
 }
 
 h3 {
-  font-size: 2.8rem;
-  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 2;
 }
 
 /* UTILITIES */
-
 .container {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,52 +63,52 @@ h3 {
   width: 100%;
 }
 
-.flex-column {
-  display: flex;
-  flex-direction: column;
-}
-
-.flex-center {
-  justify-content: center;
-  align-items: center;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.hidden {
-  display: none;
-}
+.flex-column  { display: flex; flex-direction: column; }
+.flex-center  { justify-content: center; align-items: center; }
+.justify-center { justify-content: center; }
+.text-center  { text-align: center; }
+.hidden       { display: none; }
 
 /* BUTTONS */
 .btn {
-  font-size: 1.8rem;
-  padding: 1rem 0;
-  width: 20rem;
+  font-size: 1.1rem;
+  padding: 1.4rem 0;
+  width: 22rem;
   text-align: center;
-  border: 0.1rem solid #56a5eb;
-  margin-bottom: 1rem;
+  border: 3px solid #000;
+  margin-bottom: 1.5rem;
   text-decoration: none;
-  color: #56a5eb;
-  background-color: white;
+  color: #5fcde4;
+  background-color: #1a1c2c;
+  box-shadow: 4px 4px 0 #000;
+  cursor: pointer;
+  display: block;
+  line-height: 1.8;
 }
 
 .btn:hover {
-  cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  transform: translateY(-0.1rem);
-  transition: transform 150ms;
+  background-color: #29366f;
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 #000;
 }
 
-.btn[disabled]:hover {
-  cursor: not-allowed;
+.btn:active {
+  transform: translate(4px, 4px);
   box-shadow: none;
+}
+
+.btn[disabled], .btn:disabled {
+  color: #555;
+  background-color: #111;
+  border-color: #333;
+  box-shadow: 4px 4px 0 #000;
+  cursor: not-allowed;
+}
+
+.btn[disabled]:hover, .btn:disabled:hover {
   transform: none;
+  box-shadow: 4px 4px 0 #000;
+  background-color: #111;
 }
 
 /* FORMS */
@@ -129,32 +120,48 @@ form {
 }
 
 input, select {
-  margin-bottom: 1rem;
-  width: 30rem;
-  padding: 1.5rem;
-  font-size: 1.8rem;
-  border: none;
-  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  background-color: white;
+  margin-bottom: 1.5rem;
+  width: 34rem;
+  padding: 1.2rem;
+  font-size: 1.1rem;
+  font-family: 'Press Start 2P', monospace;
+  border: 3px solid #000;
+  box-shadow: 4px 4px 0 #000;
+  background-color: #1a1c2c;
+  color: #f4f4f8;
+  outline: none;
 }
 
 input::placeholder {
-  color: #aaa;
+  color: #444;
+  font-size: 0.9rem;
 }
 
-select {
-  cursor: pointer;
+select { cursor: pointer; }
+
+select option {
+  background-color: #1a1c2c;
+  color: #f4f4f8;
 }
 
 select:disabled, input:disabled {
-  background-color: #f5f5f5;
-  color: #999;
+  background-color: #0a0a12;
+  color: #444;
   cursor: not-allowed;
 }
 
-.btn:disabled {
-  background-color: #f5f5f5;
-  color: #999;
-  border-color: #ccc;
-  cursor: not-allowed;
+/* AUTHOR CREDIT */
+.author-credit {
+  position: fixed;
+  top: 10px;
+  right: 15px;
+  background-color: #1a1c2c;
+  color: #5fcde4;
+  padding: 8px 12px;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 1000;
+  border: 2px solid #000;
+  box-shadow: 3px 3px 0 #000;
+  line-height: 1.8;
 }
