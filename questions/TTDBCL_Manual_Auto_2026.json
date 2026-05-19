@@ -1,0 +1,1105 @@
+[
+  {
+    "question": "Đâu là một trong các hoạt động chính trong quy trình kiểm thử?",
+    "choices": [
+      "Phân tích yêu cầu",
+      "Thiết kế testdesign",
+      "Thực thi kiểm thử",
+      "Tất cả các hoạt động trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đâu không phải là nguyên tắc của Testing?",
+    "choices": [
+      "Tập trung kiểm thử vào khu vực dễ có lỗi, apply quy tắc Pareto (80/20): 80% lỗi thường nằm ở 20% chức năng → nên ưu tiên kiểm thử khu vực có rủi ro cao.",
+      "Không có phương pháp kiểm thử nào phù hợp với mọi loại dự án(Testing đối với Microservices # Testing đối với kênh SC, App, Biz)",
+      "Test càng nhiều càng tốt, test toàn bộ cả những phần không ảnh hưởng",
+      "Chạy cùng một bộ test case lặp đi lặp lại, sau một thời gian sẽ không tìm được lỗi mới."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong sản phẩm cho vay Sản xuất kinh doanh KHCN của MB, \"Thời gian ân hạn gốc\" (Grace Period) được hiểu chính xác là gì?",
+    "choices": [
+      "Khoảng thời gian khách hàng không cần phải trả cả gốc lẫn lãi",
+      "Khoảng thời gian khách hàng chỉ phải trả lãi và chưa phải trả nợ gốc",
+      "Khoảng thời gian khách hàng được miễn hoàn toàn lãi suất vay",
+      "Khoảng thời gian sau khi khoản vay đã quá hạn thanh toán"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với khoản vay Mua bất động sản có \"Lãi suất thả nổi\", biên độ điều chỉnh thường được xác định dựa trên công thức nào sau đây?",
+    "choices": [
+      "Lãi suất cố định + Phí quản lý tài sản bảo đảm",
+      "Lãi suất cơ sở (hoặc Lãi suất tiết kiệm) + Biên độ cố định",
+      "Lãi suất do khách hàng tự đề xuất hàng tháng",
+      "Lãi suất liên ngân hàng trừ đi tỷ lệ lạm phát"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết lập luồng xử lý cho ngày \"Đáo hạn khoản vay\" (Maturity Date) trên hệ thống, PM IT cần lưu ý logic nào là quan trọng nhất?",
+    "choices": [
+      "Cho phép khách hàng tiếp tục rút thêm tiền từ khoản vay cũ",
+      "Tự động gia hạn khoản vay mà không cần phê duyệt lại",
+      "Yêu cầu tất cả dư nợ gốc và lãi còn lại phải được tất toán về 0",
+      "Chỉ cần thu hồi tài sản bảo đảm là xong quy trình"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong hệ thống Micro-lending, thành phần nào đóng vai trò quan trọng nhất để thực hiện \"Phê duyệt tự động\" (Auto-Approval) mà không cần con người can thiệp?",
+    "choices": [
+      "Hệ thống gửi tin nhắn thông báo (SMS Gateway)",
+      "Công cụ chấm điểm tín dụng và ra quyết định (Credit Scoring & Decision Engine)",
+      "Giao diện đăng ký khoản vay của khách hàng (UI)",
+      "Bộ phận lưu trữ hồ sơ giấy của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích chính của hệ thống ECM trong một ngân hàng là gì?",
+    "choices": [
+      "Để quản lý việc chuyển tiền giữa các tài khoản",
+      "Để thu thập, số hóa, quản lý, lưu trữ, bảo toàn và phân phối toàn bộ thông tin (tài liệu, dữ liệu) và quy trình nội bộ",
+      "Để theo dõi thời gian làm việc của nhân viên bảo vệ",
+      "Để thay thế hoàn toàn hệ thống Core Banking"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu không phải là loại hình ký số phổ biến đang được áp dụng tại ngân hàng",
+    "choices": [
+      "Cloud CA",
+      "Pen CA",
+      "SIM CA",
+      "USB Token"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy định về bảo vệ dữ liệu cá nhân, hành động nào sau đây của ngân hàng khi xây dựng Sàn chuyển nhượng Sổ tiết kiệm được coi là tuân thủ đúng nguyên tắc xử lý dữ liệu?",
+    "choices": [
+      "Mặc định chia sẻ thông tin cá nhân và số điện thoại khách hàng cho Digi vì Digi giống công ty con của MB",
+      "Chỉ thu thập và xử lý dữ liệu đúng phạm vi, mục đích đã thông báo và được sự đồng ý của khách hàng khi kết nối giữa App MB và Digi (Consent)",
+      "Lưu trữ dữ liệu khách hàng trên Digi vĩnh viễn dù khách hàng đã yêu cầu xóa bỏ",
+      "Công khai số dư tài khoản của khách hàng lên trang web nội bộ để thi đua"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Quyết định 2345/QĐ-NHNN, giao dịch chuyển tiền trên hệ thống App MB cần có số tiền trên bao nhiêu tiền thì bắt buộc phải xác thực bằng sinh trắc học (khuôn mặt/vân tay)?",
+    "choices": [
+      "Trên 1 triệu đồng/giao dịch",
+      "Trên 5 triệu đồng/giao dịch",
+      "Trên 10 triệu đồng/giao dịch",
+      "Trên 50 triệu đồng/giao dịch"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong luồng eKYC trên App MB, khi hệ thống phát hiện khuôn mặt của người đang thực hiện định danh là một video phát lại hoặc một tấm ảnh (không phải người thật), công nghệ nào sau đây đã trực tiếp ngăn chặn rủi ro này?",
+    "choices": [
+      "OCR (Nhận dạng ký tự quang học)",
+      "Liveness Detection (Phát hiện thực thể sống)",
+      "NFC (Kết nối trường gần)",
+      "QR Code Scanning"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đặc điểm nổi bật nhất giúp Digital OTP (Smart OTP) an toàn hơn so với SMS OTP truyền thống trong các giao dịch ngân hàng là gì?",
+    "choices": [
+      "Mã OTP được gửi qua tin nhắn điện thoại nên không sợ bị mất mạng",
+      "Mã OTP được sinh ra ngay trên thiết bị và gắn liền với thông tin giao dịch, không thể bị đánh cắp bởi hacker từ xa",
+      "Người dùng có thể chia sẻ mã Digital OTP cho người thân dùng chung",
+      "Digital OTP không yêu cầu người dùng phải đặt mật khẩu bảo vệ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi tích hợp tính năng quét thẻ CCCD gắn chip qua giao tiếp NFC vào App MB, tại sao Dev nên sử dụng SDK do đơn vị chuyên trách (Singalarity) cung cấp thay vì tự xây dựng các hàm đọc dữ liệu?",
+    "choices": [
+      "Để làm cho ứng dụng có dung lượng lớn hơn và trông chuyên nghiệp hơn",
+      "Để đảm bảo tính chính xác của thuật toán giải mã, an toàn bảo mật và tối ưu hóa tương thích với các dòng điện thoại",
+      "Vì SDK sẽ tự động chuyển toàn bộ dữ liệu khách hàng lên mạng xã hội",
+      "Để tránh việc phải trả lương cho lập trình viên của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống Fraud Detection cảnh báo một giao dịch chuyển tiền có dấu hiệu bất thường (High Risk). Hành động nào sau đây thể hiện sự kết hợp đúng giữa công nghệ và nghiệp vụ?",
+    "choices": [
+      "Tự động khóa vĩnh viễn tài khoản khách hàng mà không cần kiểm tra lại",
+      "Tạm dừng giao dịch và kích hoạt bước xác thực bổ sung (như gọi điện xác nhận hoặc Video KYC)",
+      "Bỏ qua cảnh báo để tránh gây phiền hà cho trải nghiệm khách hàng",
+      "Xóa bỏ bản ghi cảnh báo khỏi hệ thống để làm đẹp báo cáo tỷ lệ rủi ro"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi cần AI tóm tắt một tài liệu nghiệp vụ phức tạp, cách đặt câu lệnh (Prompt) nào dưới đây sẽ mang lại kết quả chất lượng và chính xác nhất?",
+    "choices": [
+      "\"Tóm tắt file này cho tôi\"",
+      "\"Với vai trò là chuyên gia phân tích nghiệp vụ, hãy tóm tắt các ý chính của tài liệu này dưới dạng danh sách, tập trung vào các rủi ro vận hành\"",
+      "\"Đọc và viết lại tài liệu này nhưng ngắn hơn 10 chữ\"",
+      "\"Hãy đoán xem tài liệu này nói về cái gì và tóm tắt nó\""
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Để cải thiện kết quả khi AI trả lời sai hoặc chưa đúng ý, kỹ thuật \"Few-shot Prompting\" được vận dụng như thế nào là đúng?",
+    "choices": [
+      "Yêu cầu AI tự đi tìm kiếm câu trả lời trên mạng",
+      "Chửi bộ máy AI vì đã trả lời không chính xác",
+      "Cung cấp cho AI một vài ví dụ mẫu về cặp (Câu hỏi - Đáp án đúng) trước khi yêu cầu nó xử lý câu hỏi mới",
+      "Lặp lại câu hỏi cũ nhiều lần với font chữ in hoa"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong kiến trúc xây dựng AI Agent cho ngân hàng, tại sao bước áp dụng BMAD lại quan trọng trước khi lập trình Agent?",
+    "choices": [
+      "Để Agent có thể tự động viết code thay cho lập trình viên",
+      "Để trừu tượng hóa các quy trình nghiệp vụ phức tạp thành các module mà Agent có thể hiểu và thực thi đúng mục tiêu kinh doanh",
+      "Để giảm chi phí thuê máy chủ Cloud",
+      "Để thay thế hoàn toàn bộ phận chăm sóc khách hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cấu trúc của một Prompt tối ưu đó là:",
+    "choices": [
+      "01.Task, 02.Context, 03.Persona",
+      "01.Task, 02.Context, 03.Persona,04. Examplar, 05.Format",
+      "01.Context, 02.Persona,03. Examplar, 04.Format, 05.Tone, 06. Test",
+      "01.Task, 02.Context, 03.Persona,04. Examplar, 05.Format, 06.Tone"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Mục đích chính của việc xác định Acceptance Criteria rõ ràng trước khi bắt đầu lập trình là gì?",
+    "choices": [
+      "Để tính toán số giờ làm thêm của lập trình viên",
+      "Để thiết lập các điều kiện cần thỏa mãn nhằm đảm bảo tính năng hoạt động đúng ý khách hàng và làm căn cứ để viết Test Design/ Test Case",
+      "Để làm cho tài liệu nghiệp vụ trở nên dài và khó đọc hơn",
+      "Để thay thế hoàn toàn vai trò của người kiểm thử (Tester)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình mới, tài liệu \"Biên bản kiểm thử SIT\" có bắt buộc đối với YCPT Level 1 không?",
+    "choices": [
+      "A. Bắt buộc",
+      "B. Không bắt buộc",
+      "C. Chỉ bắt buộc khi có rủi ro cao",
+      "D. Chỉ áp dụng cho mô hình Waterfall"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi viết kịch bản kiểm thử (Test Case), yêu cầu nào sau đây là BẮT BUỘC để phòng ngừa rủi ro tài chính?",
+    "choices": [
+      "A. Test ngược (vượt hạn mức, số dư âm...)",
+      "B. Test giao diện màu sắc",
+      "C. Test tốc độ mạng",
+      "D. Test số lượng nhân sự đăng nhập"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Time to Market (TTM) chính được tính từ mốc nào đến mốc nào?",
+    "choices": [
+      "TO DO → RELEASED",
+      "DESIGN → MVP DONE (MVP đầu tiên Released)",
+      "IN PROGRESS → READY FOR GOLIVE",
+      "READY FOR DEV → UAT DONE"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Pentest & Performance Test chiếm bao nhiêu thời gian TTM?",
+    "choices": [
+      "Mỗi khâu 5%, thực hiện song song",
+      "Mỗi khâu 10%, thực hiện song song",
+      "Mỗi khâu 15%, thực hiện song song",
+      "Mỗi khâu 20%, thực hiện song song"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Epic đang ở IN PROGRESS. Một US cần chờ API từ hệ thống ngoài trong 7 ngày. Theo đúng TTM, hành động nào là phù hợp nhất?",
+    "choices": [
+      "Giữ nguyên trạng thái US",
+      "Chuyển US sang READY FOR TEST",
+      "Chuyển US/Epic sang Pending, ghi rõ lý do",
+      "Cancel US"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong Planning, team thống nhất US A chưa đủ rõ để làm Dev. BA cần bổ sung tài liệu chi tiết thêm 2 ngày. Trạng thái đúng nhất của US A là:",
+    "choices": [
+      "ANALYZING",
+      "WAITING FOR PLANNING",
+      "READY FOR DEV",
+      "PENDING"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "US đã ở READY FOR DEV. Đến ngày bắt đầu Dev, team thiếu nhân sự Dev trong 4 ngày. Theo TTM, team nên xử lý thế nào?",
+    "choices": [
+      "Để nguyên, không đổi trạng thái",
+      "Chuyển US về ANALYZING",
+      "Tạo Epic mới khi có nguồn lực DEV",
+      "Chuyển US sang PENDING và ghi rõ lý do thiếu nguồn lực"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Những yếu tố nào có thể làm TTM tăng nhưng không phản ánh việc team triển khai chậm?",
+    "choices": [
+      "Waiting for Planning kéo dài",
+      "Pending do phụ thuộc đối tác ngoài MB",
+      "Dev code vượt SLA",
+      "CAB duyệt golive chậm"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Những nguyên tắc nào giúp số liệu TTM phản ánh đúng thực tế?",
+    "choices": [
+      "Chuyển trạng thái US/Epic ngay khi hoàn thành công việc",
+      "Không dùng Pending để “làm đẹp số liệu”",
+      "Close đầy đủ subtask theo đúng role",
+      "Cho phép mọi role tự do đổi trạng thái Epic"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Trong quá trình triển khai một Change thuộc dự án trọng điểm, Service Owner (SO) của hệ thống đi công tác đột xuất và không thể truy cập mạng để phê duyệt trên SDP. SO này đã nhắn tin qua MS Teams ủy quyền cho một cán bộ quản lý cấp Team Leader phê duyệt thay để kịp tiến độ Golive vào đêm nay. Việc phê duyệt Change trong trường hợp này được coi là hợp lệ khi nào?",
+    "choices": [
+      "Hợp lệ ngay sau khi Team Leader thực hiện nút \"Approve\" trên SDP dựa trên tin nhắn ủy quyền.",
+      "Chỉ hợp lệ nếu nội dung ủy quyền được SO cấu hình chính thức bằng chức năng \"Delegate\" trên hệ thống SDP cho Team Leader.",
+      "Hợp lệ nếu Team Leader đính kèm ảnh chụp màn hình tin nhắn của SO vào mục Worklog của Change.",
+      "Không hợp lệ dưới mọi hình thức vì SO là người duy nhất có thẩm quyền phê duyệt cuối cùng theo quy định QT53."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi Golive thành công, Change Coor phát hiện cần phải thực hiện thêm một task nhỏ là \"Dọn dẹp log và file tạm\" trên server production. Task này không có trong kế hoạch Planning ban đầu đã được CAB duyệt. Change Coor nên xử lý tình huống này trên SDP như thế nào để đúng quy trình?",
+    "choices": [
+      "Tự ý thực hiện task trên server và không cần khai báo vì đây chỉ là task dọn dẹp.",
+      "Sử dụng chức năng \"Add Task\" trực tiếp ở stage Implemention, mô tả rõ nội dung và thực hiện đóng task như bình thường.",
+      "Phải hủy Change hiện tại và tạo một Change mới vì quy trình không cho phép thêm task ở giai đoạn thực thi.",
+      "Ghi nội dung này vào mục Review thay vì tạo task."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình golive change W4 có phát sinh vấn đề và đã gần quá thời gian golive vào lúc 4h, ở vai trò CO Nhung nên làm gì?",
+    "choices": [
+      "Cứ để cho team golive tiếp",
+      "Báo cáo các Change Manager và các CAB về tình hình, hiện trạng và xin phương án xử lý tiếp theo. Nếu báo cáo qua điện thoại thì cần có email trong thời gian sớm nhất",
+      "Báo cáo các CAB Dev về tình hình, hiện trạng và xin phương án xử lý tiếp theo. Nếu báo cáo qua điện thoại thì cần có email trong thời gian sớm nhất",
+      "Cho team chủ động rollback vì đã quá thời gian thực thi golive"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy trình quản lý thay đổi, ai là người có thẩm quyền cao nhất phê duyệt việc triển khai thay đổi lên môi trường thực tế (Production)?",
+    "choices": [
+      "Người yêu cầu thay đổi (Change Requestor).",
+      "Người điều phối thay đổi (Change Coordinator).",
+      "Người quản lý thay đổi (Change Manager).",
+      "Chủ sở hữu dịch vụ (Service Owner)."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối với hệ thống hoạt động 24/7 (trừ hệ thống Smart Channel), khung giờ Golive quy định cho các thao tác có tác động tới dịch vụ là khi nào?",
+    "choices": [
+      "Sau 19 giờ 00 các ngày làm việc trong tuần.",
+      "Sau 23 giờ 00 các ngày thứ Tư, thứ Năm và thứ Sáu.",
+      "Sau 24 giờ 00 các ngày thứ Bảy và Chủ nhật.",
+      "Sau 23 giờ 00 các ngày thứ Hai, thứ Tư, thứ Năm và thứ Sáu."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với loại Thay đổi khẩn cấp (Emergency Change), bộ hồ sơ thay đổi tối thiểu BẮT BUỘC phải bao gồm những tài liệu nào?",
+    "choices": [
+      "Tài liệu thiết kế chi tiết và kịch bản kiểm thử người dùng (UAT).",
+      "Checklist Golive và biên bản nghiệm thu kết quả sau Golive.",
+      "Tài liệu hướng dẫn vận hành và thông báo thay đổi cho đối tác.",
+      "Kết quả đánh giá an toàn thông tin (Pentest) và kịch bản Rollback."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi hoàn thành UAT, team Agile xác định cần thực hiện PENTEST. Những bước nào đúng theo quy trình?",
+    "choices": [
+      "Team Agile cung cấp đầy đủ thông tin theo BM01 – Yêu cầu kiểm thử xâm nhập theo Quy chế an toàn thông tin",
+      "Nhân sự PENTEST hoàn thiện biên bản kiểm thử xâm nhập theo biểu mẫu BM04",
+      "Các điểm yếu an ninh phát hiện phải được chỉnh sửa hoặc phê duyệt đúng thẩm quyền trước khi golive",
+      "Team Agile được phép golive ngay sau khi PENTEST hoàn thành mà không cần xử lý điểm yếu"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Một US được chuyển sang Pending trong 5 ngày, sau đó Re-open. Thời gian Pending đó được xử lý như thế nào?",
+    "choices": [
+      "Không tính vào TTM",
+      "Tính một phần vào TTM",
+      "Vẫn được tính vào tổng trình TTM",
+      "Chỉ tính nếu PO đồng ý"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "YCPT loại Tính năng mới có timeline:  PO/BA/SA: 6 ngày, Dev: 2 ngày, SIT + UAT: 5 ngày. Những nhận định nào đúng?",
+    "choices": [
+      "Tổng thời gian vượt norm",
+      "Khâu PO/BA/SA vượt tỉ trọng",
+      "Khâu SIT+UAT vượt ngưỡng tỷ trọng",
+      "YCPT đạt norm tại các khâu"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Role nào thực hiện tạo Tạo STE với Issue Type là TC4D.",
+    "choices": [
+      "Dev",
+      "Test",
+      "PO",
+      "BA"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống PMP đang tích hợp với kênh chuyển tiền nào?",
+    "choices": [
+      "Chuyển tiền nội bộ",
+      "Chuyển tiền nhanh 247 ( ACH, SML, NAPAS 2.0, SONG PHƯƠNG )",
+      "Chuyển tiền thường ( CITAD/ BIDV/ VCB)",
+      "Chuyển tiền Quốc tế"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Thời gian xử lý giao dịch của kênh chuyển tiền CITAD là khi nào ?",
+    "choices": [
+      "Thời gian xử lý theo giờ COT của Ngân hàng nhà nước ( 8h-17h30)",
+      "Giao dịch 24/7",
+      "Theo config của MBbank",
+      "Không có đáp án đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Số tiền tối thiểu Khách hàng được mua Chứng chỉ tiền gửi trên app MB là :",
+    "choices": [
+      "Số tiền tối thiểu là 200,000 VND",
+      "Số tiền tối thiểu là 100,000 VND",
+      "Số tiền tối thiểu là 10,000 VND",
+      "Số tiền tối thiểu là 50,000 VND"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khách hàng cá nhân có thể mở loại sổ nào ở APP MB bank?",
+    "choices": [
+      "Tiết kiệm tích lũy, Tiết kiệm cố định, Hợp đồng tiền gửi KHCN",
+      "Tiết kiệm tích lũy, Tiết kiệm cố định",
+      "Tiết kiệm tích lũy, Tiết kiệm cố định, Tiết kiệm đặc quyền",
+      "Tiết kiệm tích lũy, Hợp đồng tiền gửi KHCN."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "[WM] Điều kiện như thế nào để khách hàng mua được Combo CCQ trên hệ thống Digi",
+    "choices": [
+      "Chỉ cần khách hàng của hệ thống WM",
+      "Đã có tài khoản CCQ ở FundZ",
+      "Phải ký hợp đồng 1 công ty quỹ bất kỳ",
+      "Phải ký hết hợp đồng của tất cả công ty quỹ của các CCQ trong combo"
+    ],
+    "correct_answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "[WM] Điều kiện như thế nào để khách hàng mua được Combo CCQ trên hệ thống Digi",
+    "choices": [
+      "Khách hàng tạo tài khoản CCQ khác kênh đang đăng nhập và thông tin giấy tờ của đối tác khác với thông tin KH trên hệ thống Digi",
+      "Khách hàng tạo tk tại kênh đang đăng nhập, thông tin giấy tờ của đối tác khác thông tin KH trên hệ thống Digi",
+      "Khách hàng có tài khoản FUNDZ",
+      "Khách hàng có tài khoản MBS, VINACAP, DRAGONCAPITAL"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "[FMS]  Kể tên các tiến trình của COB và thứ tự đúng của các tiến trình trên hệ thống FMS- SLTĐ",
+    "choices": [
+      "Đồng bộ CI, Đáo hạn, Chốt holding trả lãi,  Trả lãi coupon, Chốt holding trên redis, Tính phí",
+      "Đáo hạn, Chốt holding trả lãi,  Trả lãi coupon, Chốt holding trên redis, Tính phí",
+      "Đáo hạn, Chốt holding trên redis, Tính phí , Chốt holding trả lãi,  Trả lãi coupon",
+      "Tính phí , Chốt holding trả lãi,  Trả lãi coupon, Đáo hạn, Chốt holding trên redis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "[CRM]  CRM APP bao gồm module cho đối tượng nào?",
+    "choices": [
+      "RM, CBQL, Vùng",
+      "RM, CBQL, Vùng, Admin/HO",
+      "RM, CBQL, Vùng, GDCN",
+      "RM, CBQL, Vùng, GDCN, Admin/HO"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Để xác định các cấu phần thay đổi và tác động của các hệ thống cần dựa vào đầu vào gồm?",
+    "choices": [
+      "Source Code",
+      "Danh sách các cấu phần kích hoạt code",
+      "Tài liệu thiết kế chi tiết",
+      "Tài liệu BA"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Theo Checklist KSTD, tài liệu TKCT cần được ai review trước khi gửi đi chính thức?",
+    "choices": [
+      "Project Manager",
+      "QA Leader",
+      "Devlead/Sub lead",
+      "Business Analyst"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong thiết kế phi chức năng, điều nào sau đây là quan trọng nhưng thường bị bỏ sót?",
+    "choices": [
+      "Định dạng dữ liệu gửi mail",
+      "Thời gian timeout giữa các chức năng/hệ thống",
+      "Tên nhóm phát triển",
+      "Công cụ quản lý mã nguồn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tester sử dụng  Checklist KSTĐ trong thời gian nào",
+    "choices": [
+      "Trước Golive",
+      "Từ khi lên chiến lược test cho đến khi hoàn thành hoạt động kiểm thử",
+      "Trước UAT",
+      "Trước Unit Test"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sản phẩm đã golive, sau đó có cải tiến về 1 chức năng phụ trợ trong sản phẩm, tester có cần phải thực hiện làm checklist Kiểm soát tác động không?",
+    "choices": [
+      "Không cần làm checklist kiểm soát tác động, do chỉ là chức năng phụ trợ",
+      "Không cần làm checklist Kiểm soát tác động do sản phẩm đã golive",
+      "Không cần làm checklist Kiểm soát tác động do đã làm checklist trước lúc golive rồi",
+      "Cần xem rõ phạm vi, mức độ , thông tin tài liệu sửa từ Dev và BA rồi mới ra quyết định"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Hiện tại MB đang sử dụng công cụ gì để quản lý Testcase",
+    "choices": [
+      "Excel",
+      "Qtest",
+      "Xray",
+      "Google Sheet"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cách  tạo Testcase trên Xray.",
+    "choices": [
+      "Thanh menu Jira => Button Create => Chọn Project và Issue Type = Test",
+      "Clone testcase có sẵn: Mở Testcase có sẵn => More => Clone",
+      "Vào thư mục testcase => Create Test Here",
+      "Sử dụng chức năng Test Case Import"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Xray tích hợp trực tiếp vào nền tảng nào",
+    "choices": [
+      "Confluence",
+      "Jira",
+      "GitHub",
+      "Jenkins"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mobile device Farm là gì?",
+    "choices": [
+      "Là công cụ tạo thiết bị điện thoại ảo",
+      "Là hệ thống quản lý và sử dụng thiết bị điện thoại di động tập trung.",
+      "Là hệ thống dùng để đăng ký cấp thiết bị di động",
+      "Là hệ thống bán điện thoại di động"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mobile device Farm  hỗ trợ những loại thiết bị nào",
+    "choices": [
+      "Thiết bị điện thoại vật lý",
+      "Thiết bị điện thoại ảo",
+      "Cả A và B đều đúng",
+      "Cả A và B đều sai"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Các đặc điểm khi sử dụng Mobile device Farm.",
+    "choices": [
+      "Số lượng thiết bị hạn chế",
+      "Có thể kết nối với thiết bị điện thoại vật lý thật và thiết bị điện thoại ảo",
+      "Hỗ trợ chụp ảnh màn hình evidence và lưu trữ ảnh trên máy tính nội bộ dễ dàng",
+      "Có thể thao tác sử dụng từ xa, dễ dàng chia sẻ thiết bị"
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Mobile device Farm có tích hợp được với Automation Test không",
+    "choices": [
+      "Có",
+      "Không",
+      "Truy vập web",
+      "Cài đặt và sử dụng APP"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mobile device Farm hỗ trợ các thao tác gì trên thiết bị di động đã kết nối",
+    "choices": [
+      "Ghi log",
+      "ScreenShot",
+      "Record Screen",
+      "Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Tại sao smoke testing lại quan trọng trong quá trình kiểm thử phần mềm?",
+    "choices": [
+      "Để kiểm tra toàn bộ chức năng chi tiết của phần mềm",
+      "Để phát hiện sớm các vấn đề nghiêm trọng của bản build mới trước khi chuyển sang giai đoạn kiểm thử tiếp theo",
+      "Để kiểm tra giao diện người dùng cuối cùng",
+      "Để giảm số lượng testcase cần thực hiện"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình smoke testing, các test case được chọn cần phải đáp ứng tiêu chí nào?",
+    "choices": [
+      "Bao phủ hầu hết các tính năng và thành phần chính quan trọng của sản phẩm",
+      "Chỉ test các tính năng mới được thêm vào",
+      "Chỉ test các chức năng giao diện người dùng",
+      "Thực hiện kiểm tra ngẫu nhiên các chức năng bất kỳ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Điểm khác biệt chính giữa Priority và Severity khi log bug là gì?",
+    "choices": [
+      "Priority đánh giá mức độ nghiêm trọng bug, Severity đánh giá độ ưu tiên xử lý",
+      "Severity đánh giá mức độ nghiêm trọng bug, Priority đánh giá độ ưu tiên xử lý bug",
+      "Cả hai đều giống nhau",
+      "Severity dùng cho bug, Priority dùng cho impediment"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Priority Highest thường được gán cho bug nào?",
+    "choices": [
+      "Bug Minor hoặc Trivial",
+      "Bug Critical hoặc Major",
+      "Bug Block luồng làm việc không thể tiếp tục",
+      "Bug không ảnh hưởng đến chức năng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thực thi test tự động có ưu điểm nào so với thực thi test thủ công",
+    "choices": [
+      "Chỉ dùng để test UI",
+      "Thực hiện nhanh, lặp lại nhiều lần dễ dàng",
+      "Không cần tài liệu test case",
+      "Luôn phát hiện được mọi lỗi"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thực thi test, nếu dữ liệu test được mô tả trong testcase không chính xác, tester nên:",
+    "choices": [
+      "Chạy test case ngay mà không cần chuẩn bị lại dữ liệu",
+      "Điều chỉnh hoặc chuẩn bị lại dữ liệu test chính xác trước khi chạy",
+      "Bỏ qua test case đó",
+      "Ghi chú lại rồi chạy tiếp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại MB, các tài liệu đầu vào để thiết kế test design bao gồm?",
+    "choices": [
+      "Checklist golive sản phẩm",
+      "Tài liệu nghiệp vụ đặc tả​​",
+      "Tài liệu thiết kế chi tiết chức năng",
+      "Tài liệu tích hợp SID​"
+    ],
+    "correct_answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Giả sử với nghiệp vụ chuyển tiền trong ngân hàng với quy định như sau:\n- Số tiền tối thiểu cho một giao dịch chuyển tiền là 10.000 VNĐ, tối đa là 100.000.000 VNĐ.\n- Giao dịch ngoài khoảng này sẽ bị từ chối.\nVới viewpoint này, là 1 Tester bạn sẽ chọn những loại Test data nào?",
+    "choices": [
+      "Số tiến tối thiểu: 9.999 VNĐ; 10.000 VNĐ, 10.001 VNĐ\nSố tiền tối đa: 100.000.000 VNĐ;100.000.001 VNĐ",
+      "Số tiến tối thiểu: 9.999 VNĐ 10.001 VNĐ",
+      "Số tiền tối đa: 100.000.000 VNĐ",
+      "Số tiến tối thiểu: 9.999 VNĐ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong kỹ thuật phân tích biên (Boundary Value Analysis), tester thường kiểm tra",
+    "choices": [
+      "Dữ liệu giữa các khoảng giá trị",
+      "Giá trị ở đầu và cuối khoảng hợp lệ và một số giá trị ngoài khoảng",
+      "Chỉ dữ liệu hợp lệ",
+      "Giá trị ngẫu nhiên không theo quy luật"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mối quan hệ giữa test case và test scenario là gì",
+    "choices": [
+      "Test scenario là tập hợp của nhiều test case",
+      "Test case là tập hợp của nhiều test scenario",
+      "Test scenario chỉ dùng cho kiểm thử tự động",
+      "Không có mối quan hệ rõ ràng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kỹ thuật phân vùng tương đương (Equivalence Partitioning) nhằm",
+    "choices": [
+      "Tìm ra tất cả các lỗi có thể có",
+      "Giảm số lượng test case mà vẫn đảm bảo kiểm tra được các vùng dữ liệu chính",
+      "Tăng độ phủ test lên 100%",
+      "Kiểm thử UI hiệu quả hơn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Integration Testing (Kiểm thử tích hợp) kiểm tra điều gì?",
+    "choices": [
+      "Từng module riêng lẻ",
+      "Sự kết nối giữa các modules",
+      "Hiệu năng hệ thống",
+      "Giao diện người dùng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Test Case nên chứa thông tin gì?",
+    "choices": [
+      "Chỉ cần kết quả mong đợi",
+      "Title, Precondition, Test data, Test Step & Expect Result",
+      "Chỉ cần mô tả ngắn gọn",
+      "Tên của tester"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo ISTQB, \"Error\", \"Defect\" và \"Failure\" khác nhau như thế nào",
+    "choices": [
+      "Chúng có cùng một ý nghĩa",
+      "Error → Defect → Failure (theo thứ tự xảy ra)",
+      "Failure → Error → Defect (theo thứ tự xảy ra)",
+      "Chỉ có Error và Defect là quan trọng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "\"Shift-left testing\" có nghĩa là gì?",
+    "choices": [
+      "Di chuyển team testing sang bên trái trong sơ đồ tổ chức",
+      "Thực hiện testing sớm hơn trong vòng đời phát triển",
+      "Giảm số lượng tester trong dự án",
+      "Thay đổi công cụ testing"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cải tiến quy trình kiểm thử nên được xem là một quá trình _______ trong toàn bộ vòng đời phần mềm.",
+    "choices": [
+      "tạm thời",
+      "khẩn cấp",
+      "liên tục",
+      "một lần"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một kiểm thử  hiệu quả cần có kỹ năng _______ để phân tích yêu cầu và phát hiện lỗi tiềm ẩn.",
+    "choices": [
+      "kỹ thuật vẽ sơ đồ UML",
+      "kỹ năng tư duy phản biện",
+      "thiết kế hệ thống",
+      "kỹ năng lập trình chuyên sâu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Modul nào trên T24 quản lý toàn diện các sản phẩm tín dụng bao gồm khởi tạo hợp đồng, giải ngân, thu nợ và tất toán khoản vay",
+    "choices": [
+      "Limit",
+      "Collateral",
+      "Loans and Deposit",
+      "Funds Transfer"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sản phẩm tiết kiệm có những module nào trên T24?",
+    "choices": [
+      "AC, AZ, LD, MM",
+      "AC, AD, LD, MM",
+      "AC, AD, LD, MN",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Sản phẩm tiết kiệm có những loại chỉ thị đáo hạn nào?",
+    "choices": [
+      "Không quay vòng",
+      "Quay vòng gốc",
+      "Quay vòng gốc lãi",
+      "Không quay vòng, Quay vòng gốc,Quay vòng gốc lãi"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Sổ tiết kiệm nào được phép chuyển nhượng?",
+    "choices": [
+      "Sổ không ở trạng thái ủy quyền",
+      "Sổ không ở trạng thái block",
+      "Sổ tiết kiệm cuối kỳ mở tại quầy 6518",
+      "Tiết kiệm Cố định cuối kỳ 6501 có trạng thái khác bị khóa, phong tỏa,vay cầm cố, tắt tất toán online, chờ chuyển nhượng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Với kênh chuyển tiền 247, khi nào cần revert giao dịch ?",
+    "choices": [
+      "Chiều phát lệnh, Hạch toán thành công , Báo có thành công",
+      "Chiều phát lệnh, Hạch toán thành công , báo có đối tác thất bại tường minh",
+      "Chiều  nhận lệnh , Hạch toán thành công , Báo có thành công",
+      "Chiều nhận lệnh, Hạch toán thất bại"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Với kênh chuyển tiền 247, các giao dịch timeout  sẽ xử lý như thế nào",
+    "choices": [
+      "Tra cứu trạng thái giao dịch chuyển tiền => Job quét giao dịch Timeout => Thực hiện update lại trạng thái giao dịch đúng",
+      "Không xử lý gì cả",
+      "Chờ tra soát, đối soát",
+      "Khách hàng không khiếu nại thì không phải làm gì cả"
+    ],
+    "correct_answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Với kênh chuyển tiền thường, giao dịch qua kênh nào được phép đi ngoài giờ COT ?",
+    "choices": [
+      "VCB",
+      "BIDV",
+      "CITAD",
+      "Kênh chuyển tiền nhanh 24/7"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong kiểm thử hiệu năng, “Concurrent users” được hiểu là:",
+    "choices": [
+      "Số lượng request gửi lên server mỗi giây",
+      "Số lượng lỗi xảy ra trong quá trình kiểm thử",
+      "Số lượng giao dịch thành công",
+      "Số lượng người dùng đồng thời sử dụng hệ thống"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Thông số nào dùng để đo số lượng giao dịch được xử lý mỗi giây?",
+    "choices": [
+      "Transactions per second (TPS)",
+      "Throughput",
+      "Hits per second",
+      "Error rate"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thông số nào sau đây phản ánh thời gian phản hồi trung bình của hệ thống?",
+    "choices": [
+      "Response time",
+      "Average response time",
+      "95th percentiles response time",
+      "Transactions per second"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi build một Agent hỗ trợ thẩm định tín dụng, việc vận dụng BMAD giúp xác định thành phần nào sau đây để Agent hoạt động chính xác?",
+    "choices": [
+      "Màu sắc giao diện của ứng dụng mà Agent hiển thị",
+      "Định nghĩa các \"Tool\" (công cụ) mà Agent được phép gọi và các \"Policy\" (chính sách) mà Agent phải tuân thủ khi ra quyết định",
+      "Số lượng câu hỏi mà Agent có thể hỏi khách hàng trong một phút",
+      "Tên của người lập trình ra Agent đó"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong trường hợp phát sinh lỗi nghiêm trọng sau khi Golive, quy trình yêu cầu thực hiện bước nào?",
+    "choices": [
+      "DEV sửa lỗi trực tiếp trên môi trường Live",
+      "Đánh giá thực hiện Rollback và thực hiện kiểm thử Regression trên môi trường Live sau Rollback",
+      "Lập lại Test Design từ đầu",
+      "Dừng test & log bug live"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy trình kiểm thử, Tester cần thực hiện những công việc nào sau đây?",
+    "choices": [
+      "Lập kế hoạch kiểm thử và chiến lược kiểm thử",
+      "Viết tài liệu đặc tả yêu cầu",
+      "Theo dõi hệ thống sau golive",
+      "Thực hiện kiểm thử SIT và hỗ trợ kiểm thử UAT"
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Khi hệ thống có sự thay đổi như sửa lỗi, refactor code... có thể ảnh hưởng đến nhiều phần khác của hệ thống. Việc đánh giá ảnh hưởng giúp xác định phạm vi?",
+    "choices": [
+      "Những chức năng/API nào có thể bị ảnh hưởng",
+      "Những module, class, hoặc thành phần nào cần được kiểm thử lại",
+      "Kiểm thử toàn bộ hệ thống",
+      "Tăng hiệu suất công việc"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  }
+]
