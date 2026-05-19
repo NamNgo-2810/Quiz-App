@@ -1,10 +1,35 @@
 export default async function handler(req, res) {
-  const { public_ip, local_ip, page } = req.query;
+  const { page } = req.query;
   const scriptUrl = process.env.APPS_SCRIPT_URL;
 
-  await fetch(
-    `${scriptUrl}?public_ip=${encodeURIComponent(public_ip ?? '')}&local_ip=${encodeURIComponent(local_ip ?? '')}&page=${encodeURIComponent(page ?? '')}`
-  );
+  // Get client IP from request headers
+  const getClientIP = (req) => {
+    return req.headers['x-forwarded-for']?.split(',')[0] ||
+           req.headers['x-real-ip'] ||
+           req.connection?.remoteAddress ||
+           req.socket?.remoteAddress ||
+           req.ip ||
+           'unknown';
+  };
 
-  res.status(200).send('ok');
+  const clientIP = getClientIP(req);
+
+  // Log to Google Apps Script if URL is configured
+  if (scriptUrl) {
+    try {
+      await fetch(
+        `${scriptUrl}?public_ip=${encodeURIComponent(clientIP)}&local_ip=${encodeURIComponent(clientIP)}&page=${encodeURIComponent(page ?? '')}`
+      );
+    } catch (error) {
+      console.error('Failed to log to Apps Script:', error);
+    }
+  }
+
+  res.status(200).json({
+    ip: clientIP,
+    headers: {
+      'x-forwarded-for': req.headers['x-forwarded-for'],
+      'x-real-ip': req.headers['x-real-ip']
+    }
+  });
 }
