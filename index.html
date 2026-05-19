@@ -39,32 +39,15 @@
     </div>
 
     <script>
-      function getLocalIP() {
-        return new Promise((resolve) => {
-          const pc = new RTCPeerConnection({ iceServers: [] });
-          const found = new Set();
-          pc.createDataChannel('');
-          pc.createOffer().then(o => pc.setLocalDescription(o));
-          pc.onicecandidate = (e) => {
-            if (!e.candidate) return;
-            const match = e.candidate.candidate.match(/(\d+\.\d+\.\d+\.\d+)/);
-            if (match) found.add(match[1]);
-          };
-          setTimeout(() => {
-            pc.close();
-            resolve([...found].join(' | ') || 'unknown');
-          }, 1000);
-        });
-      }
-
       async function logVisit() {
         try {
-          const [{ ip: publicIP }, localIP] = await Promise.all([
-            fetch('https://api.ipify.org?format=json').then(r => r.json()),
-            getLocalIP()
-          ]);
-          fetch(`/api/log?public_ip=${encodeURIComponent(publicIP)}&local_ip=${encodeURIComponent(localIP)}&page=home`);
-        } catch (_) {}
+          // Let the server detect the IP from request headers
+          const response = await fetch('/api/log?page=home');
+          const data = await response.json();
+          console.log('Client IP detected:', data.ip);
+        } catch (error) {
+          console.error('Failed to log visit:', error);
+        }
       }
       logVisit();
     </script>
