@@ -1,0 +1,3805 @@
+[
+  {
+    "question": "Chứng chỉ quỹ được hiểu đúng nhất là gì?",
+    "choices": [
+      "Là một khoản vay ngắn hạn do ngân hàng cấp cho nhà đầu tư",
+      "Là chứng nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp trong quỹ đầu tư, do công ty quản lý quỹ huy động và đầu tư theo mục tiêu đã công bố",
+      "Là tài khoản thanh toán dùng riêng cho giao dịch chứng khoán",
+      "Là hợp đồng bảo hiểm có yếu tố đầu tư"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vì sao chứng chỉ quỹ thường được xem là phù hợp với nhiều nhà đầu tư mới?",
+    "choices": [
+      "Vì luôn có lợi nhuận cao hơn gửi tiết kiệm",
+      "Vì nhà đầu tư không cần quan tâm đến mục tiêu tài chính của mình",
+      "Vì có thể bỏ qua hoàn toàn các rủi ro thị trường",
+      "Vì tiền của nhiều nhà đầu tư được tập hợp và quản lý bởi đơn vị chuyên nghiệp, giúp đa dạng hóa danh mục tốt hơn so với việc tự chọn từng tài sản riêng lẻ"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phát biểu nào mô tả đúng mối liên hệ giữa NAV và giá trị chứng chỉ quỹ?",
+    "choices": [
+      "NAV là số lượng nhà đầu tư đang nắm giữ chứng chỉ quỹ",
+      "NAV phản ánh giá trị tài sản ròng của quỹ sau khi trừ nợ phải trả; giá một chứng chỉ quỹ thường được xác định dựa trên NAV trên mỗi đơn vị quỹ theo cách tính của quỹ",
+      "NAV là khoản phí mà nhà đầu tư phải trả khi mua quỹ",
+      "NAV là mức lợi nhuận chắc chắn quỹ cam kết cho nhà đầu tư"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi BA xây nội dung hướng dẫn mua chứng chỉ quỹ cho khách hàng mới, thông tin nào nên được ưu tiên thể hiện để hỗ trợ quyết định đúng và giảm hiểu nhầm?",
+    "choices": [
+      "Chỉ nhấn mạnh lợi nhuận cao nhất của kỳ gần nhất",
+      "Chỉ hiển thị tên quỹ và nút mua để thao tác nhanh hơn",
+      "Ưu tiên mô tả thật ngắn để khách hàng quyết nhanh",
+      "Làm rõ mục tiêu quỹ, mức độ rủi ro, phí, tính thanh khoản, nguyên tắc lợi nhuận không được bảo đảm và các điều kiện/ tài liệu cần đọc trước khi đầu tư"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "BA cần đề xuất KPI cho hành trình mở tài khoản và mua chứng chỉ quỹ lần đầu. Chỉ số nào phù hợp nhất để phản ánh hiệu quả hành trình đầu cuối?",
+    "choices": [
+      "Số lượng banner hiển thị trên màn hình đầu tư",
+      "Số lượng quỹ đang mở bán trên hệ thống",
+      "Tỷ lệ khách hàng đi từ bước quan tâm/đăng ký đến mở tài khoản thành công, nạp tiền và hoàn tất giao dịch mua đầu tiên trong khoảng thời gian đo xác định",
+      "Tổng số lần đội dự án họp nội bộ"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi viết nội dung tư vấn hoặc màn hình giới thiệu chứng chỉ quỹ, cách diễn đạt nào phù hợp nhất để vừa rõ cho người mới vừa hạn chế rủi ro mis-selling?",
+    "choices": [
+      "Nêu cân bằng giữa cơ hội và rủi ro, tránh khẳng định chắc chắn về lợi nhuận, đồng thời yêu cầu khách hàng đọc thông tin quỹ và hiểu sản phẩm trước khi ra quyết định đầu tư",
+      "Khẳng định quỹ phù hợp với mọi khách hàng vì có đơn vị chuyên nghiệp quản lý",
+      "Chỉ cần ghi rằng đầu tư dài hạn thì chắc chắn không lỗ",
+      "Tập trung vào lợi nhuận quá khứ và bỏ qua các điều kiện cảnh báo để tăng tỷ lệ mua"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của hệ thống CRM trong ngân hàng là gì?",
+    "choices": [
+      "Tăng số lượng nhân viên bán hàng",
+      "Giảm chi phí vận hành",
+      "Quản lý và cải thiện mối quan hệ với khách hàng nhằm nâng cao doanh thu và sự hài lòng của khách hàng",
+      "Tự động hóa kế toán"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thành phần nào KHÔNG phải của CRM?",
+    "choices": [
+      "Quản lý khách hàng",
+      "Quản lý bán hàng",
+      "Quản lý chiến dịch bán",
+      "Quản lý quy trình tín dụng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một trong các lợi ích của CRM là gì?",
+    "choices": [
+      "Tăng chi phí marketing",
+      "Giảm chất lượng dịch vụ",
+      "Tăng khả năng giữ chân khách hàng thông qua việc phân tích hành vi khách hàng để đưa ra các chiến lược chăm sóc và bán chéo sản phẩm phù hợp",
+      "Loại bỏ hoàn toàn nhân viên"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "CRM trong ngân hàng là viết tắt của gì?",
+    "choices": [
+      "Customer Revenue Management",
+      "Customer Relationship Management",
+      "Centralize Report Management",
+      "Customer Retention Model"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "RM muốn trình miễn giảm phí/ lãi suất cho khách hàng, cần tạo tờ trình trên hệ thống nào?",
+    "choices": [
+      "ECM",
+      "CRM",
+      "Smart Channel",
+      "Moffice"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống quản lý lãi suất/phí tập trung trong ngân hàng dùng để làm gì?",
+    "choices": [
+      "Quản lý nhân sự",
+      "Lưu trữ hồ sơ tín dụng",
+      "Quản lý, cấu hình và áp dụng lãi suất/phí thống nhất trên toàn hệ thống ngân hàng",
+      "Quản lý tài sản cố định"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao ngân hàng cần hệ thống quản lý lãi suất/phí tập trung?",
+    "choices": [
+      "Để giảm số lượng khách hàng",
+      "Để đảm bảo tính nhất quán, giảm sai sót thủ công và cho phép thay đổi lãi suất/phí nhanh chóng trên toàn hệ thống",
+      "Để tăng chi phí vận hành",
+      "Để thay thế Core Banking"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Việc áp dụng lãi suất theo phân khúc khách hàng mang lại lợi ích gì?",
+    "choices": [
+      "Giúp đơn giản hóa việc quản lý do áp dụng cùng một mức lãi suất cho tất cả khách hàng",
+      "Cho phép ngân hàng linh hoạt định giá theo từng phân khúc khách hàng, tối ưu hóa lợi nhuận và nâng cao khả năng cạnh tranh thông qua việc áp dụng mức lãi suất/phí phù hợp với mức độ rủi ro và giá trị khách hàng",
+      "Làm tăng chi phí vận hành do phải quản lý nhiều mức lãi suất khác nhau",
+      "Chỉ có ý nghĩa trong hoạt động marketing mà không ảnh hưởng đến hiệu quả kinh doanh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "CRM hỗ trợ bán chéo (cross-selling) như thế nào?",
+    "choices": [
+      "Bán nhiều sản phẩm giống nhau",
+      "Đưa ra gợi ý sản phẩm phù hợp dựa trên lịch sử giao dịch và hành vi khách hàng nhằm tăng doanh thu trên mỗi khách hàng",
+      "Không liên quan đến bán hàng",
+      "Chỉ bán sản phẩm mới"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "CRM hỗ trợ chăm sóc khách hàng đa kênh như thế nào?",
+    "choices": [
+      "Chỉ dùng email",
+      "Tích hợp dữ liệu từ nhiều kênh như quầy giao dịch, tổng đài, mobile app để tạo trải nghiệm thống nhất và liên tục cho khách hàng",
+      "Chỉ dùng điện thoại",
+      "Không hỗ trợ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "CRM giúp gì trong việc dự báo nhu cầu khách hàng?",
+    "choices": [
+      "Tổng hợp dữ liệu lịch sử giao dịch để phục vụ báo cáo thống kê định kỳ mà không hỗ trợ dự báo xu hướng tương lai",
+      "Dựa trên dữ liệu lịch sử và hành vi để phân tích xu hướng, từ đó dự đoán nhu cầu và đề xuất sản phẩm phù hợp trong tương lai",
+      "Sử dụng các mô hình phân tích dữ liệu để nhận diện xu hướng hành vi, dự báo nhu cầu khách hàng với độ chính xác cao hơn và hỗ trợ ra quyết định kinh doanh chủ động",
+      "Lưu trữ dữ liệu khách hàng nhằm phục vụ truy xuất thông tin khi cần thiết mà không tham gia vào quá trình phân tích dự báo"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nếu hệ thống lãi suất không đồng bộ giữa các kênh, hậu quả nào có thể xảy ra?",
+    "choices": [
+      "Có thể tạo ra sự linh hoạt trong định giá giữa các kênh, giúp ngân hàng tối ưu doanh thu trong ngắn hạn",
+      "Không ảnh hưởng đáng kể nếu các sai lệch nhỏ và được điều chỉnh trong quá trình đối soát cuối ngày",
+      "Gây sai lệch trong tính toán giao dịch giữa các kênh, dẫn đến trải nghiệm khách hàng không nhất quán, phát sinh khiếu nại và tiềm ẩn rủi ro tuân thủ cũng như rủi ro vận hành",
+      "Chỉ ảnh hưởng đến báo cáo nội bộ mà không tác động đến khách hàng do hệ thống đã có cơ chế kiểm soát"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Hiện tại ngân hàng chạy chương trình thúc đẩy mở tài khoản VietQR, RM cần làm gì để có thể gửi thông tin chương trình nhanh và hiệu quả cho nhiều khách hàng một lúc?",
+    "choices": [
+      "Sử dụng chức năng chat broadcast trên APP CRM",
+      "Sử dụng Zalo gửi tin nhắn",
+      "Gọi điện",
+      "Nhắn tin viễn thông"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Chi nhánh X cần tập trung bán hàng với nhóm khách hàng xây lắp tại địa bàn Hà Nội 1. Chi nhánh cần sử dụng tính năng nào để xác định ngành nghề mục tiêu theo địa bàn và tạo danh mục khách hàng bán hàng cho lực lượng kinh doanh?",
+    "choices": [
+      "Phân tích vi mô",
+      "Tiềm năng bán (Lead)",
+      "Khách hàng 360",
+      "Account Planning"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong một tài liệu US gốc, BA quên cập nhật bảng lịch sử cập nhật tài liệu khi sửa nội dung. Rủi ro thực tế nhất là gì?",
+    "choices": [
+      "Khó truy vết thay đổi, khó tham chiếu lần CR và làm giảm tính kiểm soát của tài liệu gốc theo đúng template",
+      "Không ảnh hưởng vì nội dung chính mới là quan trọng",
+      "Chỉ ảnh hưởng đến Dev, không ảnh hưởng BA hay QA",
+      "Chỉ cần đổi tên file là đủ thay thế lịch sử phiên bản"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một change được đánh giá có downtime có kế hoạch với dịch vụ trực tuyến hoặc downtime diện rộng từ hai hệ thống cấp 3 trở lên. BA khi đóng vai trò Change Coor cần lưu ý gì?",
+    "choices": [
+      "Chỉ cần ghi chú downtime trong release note là đủ",
+      "Chờ CAB đánh giá rồi mới xác định có cần thông báo hay không",
+      "Tự quyết định lịch downtime với đơn vị vận hành mà không cần phê duyệt thêm",
+      "Phối hợp team để xác định đúng phạm vi ảnh hưởng, lưu ý Dev Lead đánh giá downtime và cần xin phê duyệt CEO cho kế hoạch downtime cũng như truyền thông tới đơn vị nghiệp vụ"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một Epic đã được PO tạo nhưng BA chưa có PYC hợp lệ. Theo tinh thần của TTM, hành động nào phù hợp nhất?",
+    "choices": [
+      "Vẫn bắt đầu phân tích chi tiết để tiết kiệm thời gian",
+      "Yêu cầu hoàn tất PYC hợp lệ với đủ phê duyệt và thông tin bắt buộc trước khi tiếp nhận chính thức để tránh sai phạm quy trình",
+      "Cho Dev đánh giá sơ bộ rồi hoàn thiện hồ sơ sau",
+      "Chỉ cần PO xác nhận miệng là đủ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi mô tả một bước nghiệp vụ trong mục 2.1.2 của US template, nội dung nào là cách làm đúng nhất?",
+    "choices": [
+      "Chỉ ghi tên bước vì phần còn lại Dev sẽ tự hiểu",
+      "Chỉ ghi yêu cầu giao diện, bỏ phần nghiệp vụ",
+      "Mô tả tên bước, đơn vị thực hiện, hệ thống thực hiện và phân tích chi tiết nghiệp vụ/màn hình/logic/API hoặc tham chiếu tài liệu liên quan",
+      "Chỉ ghi hệ thống thực hiện, không cần role"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Team thống nhất DEV là đầu mối đánh giá nhu cầu pentest trước golive. DEV cần thực hiện giao phẩm nào đúng nhất?",
+    "choices": [
+      "Đánh giá YCPT có cần pentest theo checklist pentest trên CSD, xuất biểu mẫu checklist pentest và đính kèm lên release note theo hướng dẫn",
+      "Chỉ trao đổi miệng với team pentest mà không cần biểu mẫu đính kèm",
+      "Tạo ngay Jira task pentest mà không cần đánh giá nhu cầu pentest trước",
+      "Chỉ chờ Dev Lead xác nhận rồi bỏ qua release note"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo tài liệu TTM, KPI mục tiêu của MBBank cho TTM là bao nhiêu?",
+    "choices": [
+      "1–2 tuần",
+      "2–4 tuần",
+      "4–8 tuần",
+      "3–6 tuần, tương đương 15–30 working days"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo tasklist BA_Qtr PTPM, giao phẩm của BA trong bước “Phân tích và thiết kế giải pháp” gồm những gì?",
+    "choices": [
+      "Chỉ có tài liệu đặc tả User Story và checklist BA",
+      "Chỉ có tài liệu kiến trúc tổng thể và biên bản họp hội đồng giải pháp",
+      "Chỉ có User Story, Enabler Story và một email xác nhận với PO",
+      "Tài liệu thiết kế kiến trúc hệ thống tổng thể, tài liệu đặc tả kịch bản người dùng, tài liệu đặc tả yêu cầu phi chức năng, checklist BA và nội dung phục vụ bảo vệ hội đồng giải pháp"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "KPI về tỉ lệ YCPT đạt TTM là bao nhiêu?",
+    "choices": [
+      "0.5",
+      "0.6",
+      "0.85",
+      "0.7"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao tài liệu TTM nhấn mạnh việc phân biệt rõ giữa Execution, Waiting và Pending?",
+    "choices": [
+      "Vì nếu không tách đúng bản chất thời gian làm việc, thời gian chờ và thời gian bị chặn thì sẽ khó xác định bottleneck và đề xuất cải tiến đúng",
+      "Để trang dashboard có nhiều chỉ số hơn",
+      "Vì mỗi chỉ số do một phòng ban tự định nghĩa khác nhau",
+      "Vì chỉ cần tách ra cho đẹp báo cáo"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vì sao khi khai báo YCTĐ trên SDP, BA hoặc Change Coor phải xác định rõ phạm vi, hệ thống và chức năng bị ảnh hưởng?",
+    "choices": [
+      "Để release note trông đầy đủ hơn về mặt hình thức",
+      "Để có thể bỏ qua bước xác định thành phần CAB phê duyệt",
+      "Vì việc xác định đúng phạm vi ảnh hưởng là cơ sở để đánh giá downtime, chọn đúng Service Owner và add đầy đủ thành phần CAB cần phê duyệt",
+      "Vì chỉ những change có dữ liệu mới cần mô tả phạm vi tác động"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Ý nghĩa của việc template US yêu cầu mô tả tác động của phát triển đến hệ thống là gì?",
+    "choices": [
+      "Để xác định các hệ thống, chức năng hoặc sản phẩm bị ảnh hưởng và làm rõ phạm vi tác động của YCPT",
+      "Chỉ để phục vụ đặt tên file tài liệu",
+      "Chỉ để BA thống kê số hệ thống trong ngân hàng",
+      "Chỉ để Designer biết số lượng màn hình"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một Epic có thời gian thực hiện thấp nhưng TTM vẫn cao do chờ bàn giao giữa BA và Dev kéo dài. Hướng phân tích đúng nhất là gì?",
+    "choices": [
+      "Kết luận Dev làm chậm vì Dev đứng sau BA",
+      "Xem waiting time như một thành phần riêng của TTM và phân tích bottleneck ở khâu bàn giao thay vì quy hết vào execution của một role",
+      "Chỉ giảm pending là đủ",
+      "Bỏ waiting khỏi công thức để KPI đẹp hơn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một PYC xuất phát từ nghiệp vụ nhưng chưa cung cấp được OKR. BA nên yêu cầu phương án xử lý nào trước khi tiếp nhận chính thức?",
+    "choices": [
+      "Vẫn tiếp nhận ngay vì OKR có thể bổ sung sau khi Dev estimate",
+      "Yêu cầu có phê duyệt ngoại lệ của cả nghiệp vụ và IT; phía nghiệp vụ là trưởng hoặc phó phòng hoặc cấp tương đương, phía IT là TP/PP hoặc Tribe Lead",
+      "Chỉ cần một quản lý phía nghiệp vụ xác nhận miệng là đủ",
+      "Chuyển sang backlog trước rồi xin ngoại lệ sau"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi một yêu cầu phát triển không có thêm tiêu chuẩn bảo mật riêng so với hệ thống hiện hữu, BA nên ghi gì tại mục an ninh/bảo mật trong US?",
+    "choices": [
+      "Bỏ trống vì không phát sinh",
+      "Ghi “Không phát sinh thêm và tham chiếu đến tài liệu thiết kế gốc”, trừ khi có yêu cầu bảo mật bổ sung cần nêu rõ",
+      "Chỉ ghi “N/A” cho nhanh",
+      "Tự tạo một checklist bảo mật mới"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA đang là Change Coor và sau khi Service Owner đã duyệt, team muốn bổ sung thêm task golive mới. Theo tasklist, BA cần xử lý thế nào?",
+    "choices": [
+      "Bổ sung phê duyệt lead của nhân sự yêu cầu thay đổi và nhân sự thực thi thay đổi trước khi thêm các task mới vào danh sách golive",
+      "Tự thêm task mới vào SDP mà không cần phê duyệt bổ sung",
+      "Chỉ cập nhật release note, không cần thay đổi luồng phê duyệt",
+      "Đợi đến sau golive rồi bổ sung hồ sơ để tránh chậm tiến độ"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quá trình go-live, Service owner là ai?",
+    "choices": [
+      "Service Owner là Lãnh đạo khối CNTT hoặc người được ủy quyền theo quy định của khối CNTT",
+      "Service Owner là người tham gia change team",
+      "Chọn bất kỳ người nào của đơn vị vận hành miễn là có thể theo dõi tiến độ",
+      "Để Dev Lead đứng tên thay cho Service Owner nhằm rút ngắn thời gian duyệt"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "DoR (Definition of Ready) dùng để làm gì?",
+    "choices": [
+      "Đánh giá kết quả sau triển khai",
+      "Đảm bảo User Story đủ điều kiện để được đưa vào Sprint Planning",
+      "Theo dõi tiến độ Sprint",
+      "Thay thế Definition of Done"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "DoD (Definition of Done) phản ánh điều gì?",
+    "choices": [
+      "Tiến độ hoàn thành Sprint",
+      "Mức độ hoàn thành và chất lượng sản phẩm theo Built‑in Quality",
+      "Danh sách rủi ro",
+      "Kế hoạch phát hành"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò cốt lõi của Scrum Master là gì?",
+    "choices": [
+      "Phân công công việc cho Dev",
+      "Tối ưu flow làm việc của team và loại bỏ các impediments phát sinh trong quá trình triển khai",
+      "Quyết định ưu tiên backlog",
+      "Viết User Story"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi User Story đạt DoR nhưng vẫn mơ hồ về giá trị, BA nên làm gì?",
+    "choices": [
+      "Đưa vào Sprint để kịp tiến độ",
+      "Làm rõ lại giá trị kinh doanh với PO và stakeholder",
+      "Để Dev tự xử lý",
+      "Chuyển Sprint sau"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi backlog phình to nhưng delivery thấp, BA nên kiểm tra trước tiên điều gì?",
+    "choices": [
+      "Số lượng User Story",
+      "Chất lượng story slicing và giá trị giao hàng",
+      "Công cụ quản lý backlog",
+      "Velocity của team"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Agile MB, ai chịu trách nhiệm chính về ưu tiên backlog?",
+    "choices": [
+      "Business Analyst",
+      "Scrum Master",
+      "Product Owner chịu trách nhiệm tối đa hóa giá trị thông qua việc ưu tiên backlog",
+      "Dev Lead"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Refinement kém chất lượng thường dẫn tới hậu quả nào trong Sprint?",
+    "choices": [
+      "Giảm số lượng cuộc họp",
+      "Sprint Goal không đạt do đầu bài chưa rõ ràng",
+      "Velocity cao bất thường",
+      "Backlog gọn hơn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA tạo giá trị lớn nhất cho BIQ thông qua hoạt động nào?",
+    "choices": [
+      "Review code",
+      "Làm rõ yêu cầu và Acceptance Criteria ngay từ đầu",
+      "Test automation",
+      "Theo dõi bug"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi stakeholder yêu cầu thay đổi scope trong Sprint, BA cần ưu tiên xem xét điều gì?",
+    "choices": [
+      "Timeline dự án",
+      "Tác động của thay đổi đó tới Sprint Goal đã cam kết",
+      "Ý kiến Dev",
+      "Công cụ Jira"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "User Story viết tốt trong Agile MB cần tập trung vào yếu tố nào?",
+    "choices": [
+      "Màn hình chức năng",
+      "Giá trị người dùng và giá trị kinh doanh nhận được",
+      "Công nghệ sử dụng",
+      "Cấu trúc database"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA nên cảnh giác nhất với yêu cầu có đặc điểm nào?",
+    "choices": [
+      "Yêu cầu được mô tả rất chi tiết về giao diện",
+      "Yêu cầu áp sẵn giải pháp mà chưa làm rõ vấn đề và giá trị kinh doanh",
+      "Yêu cầu có deadline gấp",
+      "Yêu cầu đến từ nhiều stakeholder"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "User Story viết tốt trong Agile MB cần tập trung vào yếu tố nào?",
+    "choices": [
+      "Mô tả chi tiết các màn hình giao diện",
+      "Giá trị mà người dùng hoặc nghiệp vụ nhận được khi sử dụng chức năng",
+      "Công nghệ sẽ sử dụng để triển khai",
+      "Chi tiết kỹ thuật của hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi nhiều stakeholder đưa ra yêu cầu mâu thuẫn, BA nên ưu tiên điều gì?",
+    "choices": [
+      "Ý kiến của stakeholder có cấp bậc cao hơn",
+      "Mục tiêu và giá trị kinh doanh tổng thể của sản phẩm",
+      "Deadline gần nhất",
+      "Mức độ dễ triển khai về mặt kỹ thuật"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA không nên thực hiện hành động nào sau đây?",
+    "choices": [
+      "Thách thức yêu cầu chưa rõ giá trị",
+      "Phân tích tác động của yêu cầu",
+      "Quyết định thay Product Owner về ưu tiên backlog",
+      "Làm rõ yêu cầu nghiệp vụ"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi backlog phình to nhưng delivery thấp, BA nên kiểm tra trước tiên điều gì?",
+    "choices": [
+      "Số lượng User Story trong backlog",
+      "Chất lượng story slicing và mức độ gắn với giá trị giao hàng",
+      "Công cụ quản lý backlog",
+      "Velocity trung bình của team"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò của BA trong Sprint Planning là gì?",
+    "choices": [
+      "Estimate effort cho các task kỹ thuật",
+      "Làm rõ yêu cầu, phạm vi và kỳ vọng nghiệp vụ của các User Story",
+      "Điều hành buổi họp Sprint Planning",
+      "Phân công công việc cho Dev"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Agile MB coi một Sprint là thành công khi nào?",
+    "choices": [
+      "Khi hoàn thành các tasks",
+      "Khi đạt được Sprint Goal đã thống nhất từ đầu Sprint",
+      "Khi velocity cao hơn Sprint trước",
+      "Khi không phát sinh bug"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA cần đề xuất vẽ As‑Is process khi nào?",
+    "choices": [
+      "Khi dự án đã triển khai xong",
+      "Khi chưa hiểu rõ quy trình hiện tại và các điểm nghẽn đang tồn tại",
+      "Khi đã có giải pháp To‑Be",
+      "Khi PO yêu cầu vẽ tài liệu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của As‑Is trong cải tiến quy trình là gì?",
+    "choices": [
+      "Chuẩn hoá tài liệu nghiệp vụ",
+      "Hiểu vấn đề, điểm nghẽn và nguyên nhân trong quy trình hiện tại",
+      "Thiết kế ngay To‑Be",
+      "Phục vụ audit"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi redesign quy trình, BA cần tránh điều gì?",
+    "choices": [
+      "Tham khảo stakeholder",
+      "Thiết kế To‑Be quá xa thực tế triển khai và năng lực tổ chức",
+      "Phân tích dữ liệu hiện trạng",
+      "Phối hợp với PO"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một quy trình To‑Be chỉ thực sự có giá trị khi nào?",
+    "choices": [
+      "Được vẽ chi tiết và đầy đủ bước",
+      "Được gắn với backlog triển khai và được áp dụng trong thực tế",
+      "Được phê duyệt bởi lãnh đạo",
+      "Được lưu trữ trên hệ thống tài liệu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA cần làm gì để đảm bảo quy trình mới được áp dụng hiệu quả?",
+    "choices": [
+      "Chỉ tổ chức đào tạo một lần",
+      "Gắn KPI, theo dõi và cải tiến dựa trên dữ liệu thực tế",
+      "Ban hành văn bản hướng dẫn",
+      "Giao cho team tự điều chỉnh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo BIQ, hoàn thành nhưng không đạt chất lượng nghĩa là gì?",
+    "choices": [
+      "Vẫn được coi là hoàn thành",
+      "Chưa được coi là hoàn thành đúng nghĩa theo Definition of Done",
+      "Có thể bù sau Sprint",
+      "Chỉ cần sửa ở Sprint sau"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Dấu hiệu rõ nhất cho thấy Agile đang bị làm hình thức là gì?",
+    "choices": [
+      "Có nhiều buổi họp",
+      "Backlog không gắn với giá trị kinh doanh và mục tiêu cụ thể",
+      "Velocity thấp",
+      "Ít sử dụng công cụ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục tiêu cuối cùng của BA trong Agile MB là gì?",
+    "choices": [
+      "Hoàn thành đầy đủ yêu cầu được giao",
+      "Tạo ra giá trị kinh doanh thực cho tổ chức và người dùng cuối",
+      "Tuân thủ đúng quy trình",
+      "Đảm bảo tiến độ dự án"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi BA đề xuất thay đổi bất kỳ logic xử lý nào, BA cần confirm rõ ràng của PO là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: BA cần phối hợp với Dev và SA để nghiên cứu, đánh giá các sản phẩm/dịch vụ bị ảnh hưởng sau thay đổi là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi yêu cầu có cấu phần migrate dữ liệu, BA cần xây dựng kịch bản test migrate là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi bổ sung mới hoặc thay đổi tính năng có sẵn, DEV cần đánh giá kỹ ảnh hưởng tới các cấu phần khác trong luồng xử lý và các hệ thống vệ tinh là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi thiết kế bảng trên DB, bắt buộc mọi table đều phải có Unique key là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Với mọi bug, DEV phải tìm nguyên nhân gốc và fix triệt để, không phỏng đoán nguyên nhân là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN:Trong quá trình phát triển, DEV cần tham số hóa và hạn chế tối đa việc fix giá trị (hardcode) trong code là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN, KHÔNG được phép merge trực tiếp từ nhánh preproduction vào master là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN, khi Tester đánh giá tính đầy đủ của tài liệu đặc tả cần confirm với Owner là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN, Tester cần dựa trên example data đã được cung cấp và đa dạng hóa loại dữ liệu đầu vào là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN: Khi test sau golive, Tester không được phép fix sẵn dữ liệu test tự động và dùng lại dữ liệu cũ để tiết kiệm thời gian là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN: Khi có tác động thay đổi tham số trên môi trường Live, AM cần có sự confirm của CBQL trước khi thực hiện là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN: Checklist golive của DBA cần liệt kê đầy đủ đầu việc tổng quát, chi tiết bước/lệnh/kết nối/kết quả từng bước là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Theo BHKN: Kế hoạch rà quét rủi ro của ATTT cần thông báo đầy đủ cho AM, OM, MC, DBA về server, ngày, khung giờ thực hiện là đúng hay sai?",
+    "choices": [
+      "2.Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi BA phối hợp cùng DEV làm việc với truy vấn dữ liệu, thông tin nào KHÔNG bắt buộc phải làm rõ?",
+    "choices": [
+      "Loại dữ liệu là gì",
+      "Tần suất dữ liệu thay đổi"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Trong BHKN: Khi BA phối hợp cùng DEV làm việc với truy vấn dữ liệu, thông tin nào KHÔNG bắt buộc phải làm rõ?",
+    "choices": [
+      "Dữ liệu được sử dụng cho các chức năng/hệ thống nào",
+      "B.Tên người tạo bảng dữ liệu lần đầu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo BHKN, mức độ tăng trưởng dữ liệu cần được dự kiến trong khoảng thời gian nào để xây dựng kịch bản kiểm thử hiệu năng?",
+    "choices": [
+      "1 năm",
+      "2 năm"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Theo BHKN, mức độ tăng trưởng dữ liệu cần được dự kiến trong khoảng thời gian nào để xây dựng kịch bản kiểm thử hiệu năng?",
+    "choices": [
+      "B. 3-5 năm",
+      "10 năm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN, Khi DEV nhận được yêu cầu tuân thủ ANTT có xung đột với chức năng/chất lượng sản phẩm/dịch vụ thì cần xử lý như thế nào?",
+    "choices": [
+      "Tự quyết định ưu tiên chất lượng sản phẩm",
+      "Bỏ qua yêu cầu ANTT để đảm bảo tiến độ"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Theo BHKN, Khi DEV nhận được yêu cầu tuân thủ ANTT có xung đột với chức năng/chất lượng sản phẩm/dịch vụ thì cần xử lý như thế nào?",
+    "choices": [
+      "2. Raise lên các cấp cao hơn có thẩm quyền cho đến khi thống nhất giải pháp\ný",
+      "Chỉ thông báo cho team Lead nội bộ và tự xử lý"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BHKN, Tester cần thực hiện test full kịch bản trên Top mấy trình duyệt phổ biến đối với tính năng tác động ít?",
+    "choices": [
+      "Top 1",
+      "Top 2",
+      "B,Top 3",
+      "Top 5"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi AM thực hiện chuyển đổi ứng dụng sang hạ tầng mới, cách thực hiện đúng theo BHKN là:",
+    "choices": [
+      "Chuyển đổi toàn bộ ứng dụng cùng lúc để rút ngắn thời gian downtime",
+      "2.Chuyển đổi từng cấu phần, đảm bảo mỗi phần OK rồi mới chuyển toàn bộ",
+      "Chỉ chuyển đổi cấu phần quan trọng, để lại các cấu phần phụ",
+      "Để DEV thực hiện chuyển đổi thay AM"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BHKN: Khi DEV sử dụng thư viện mới, đối tượng nào BẮT BUỘC phải được báo cáo trước khi sử dụng?",
+    "choices": [
+      "B,Lead Dev",
+      "PM",
+      "PO",
+      "CBQL Trung tâm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN, nếu đánh giá có Downtime/Lỗi dịch vụ và thời gian thực hiện kéo dài ảnh hưởng đến khách hàng KHI GOLIVE thì cần thực hiện gì?",
+    "choices": [
+      "Tự team golive quyết định Rollback",
+      "Tiếp tục đến khi xong, không cần báo cáo",
+      "2.Báo cáo Cấp có thẩm quyền quyết định Rollback hay Tiếp tục",
+      "Chuyển trách nhiệm cho TTVH xử lý"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo BHKN về phương pháp đánh giá tác động MS, phương pháp nào được khuyến nghị sử dụng để đánh giá ảnh hưởng?",
+    "choices": [
+      "Phương pháp test toàn bộ (full regression)",
+      "2.Phương pháp loại trừ - đánh giá theo khả năng tác động cao - thấp đến Code, Cấu hình, Data",
+      "Phương pháp ngẫu nhiên",
+      "Phương pháp chỉ test các case do BA chỉ định"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi Pilot, Change Coor cần email thông báo về việc rollout cho những đối tượng nào Theo BHKN?",
+    "choices": [
+      "Chỉ SO",
+      "Chỉ CAB",
+      "2.SO, CAB và đầu mối TTVH để phối hợp kế hoạch rollout",
+      "Chỉ TTVH"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo BHKN: Đối với change golive chia thành nhiều phase thực hiện, yêu cầu nào sau đây là ĐÚNG?",
+    "choices": [
+      "Chỉ cần 1 checklist golive chung cho tất cả các phase",
+      "1,Mỗi lần tác động vào hệ thống cần có checklist golive riêng biệt được review và phê duyệt",
+      "Chỉ phase đầu tiên cần checklist được phê duyệt, các phase sau dùng lại",
+      "Không cần checklist nếu các phase tương đồng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo BHKN, khi quá trình review/phát triển có đầu bài, tài liệu kỹ thuật chưa rõ ràng yêu cầu nào BẮT BUỘC trước khi golive?",
+    "choices": [
+      "Có thể golive luôn, sau đó bổ sung tài liệu sau",
+      "B,Mọi vấn đề chưa rõ ràng đó đã được giải quyết và bổ sung thông tin đầy đủ vào tài liệu đặc tả, TKCT...",
+      "Chỉ cần ý kiến miệng của Lead mà không cần tài liệu",
+      "Bỏ qua việc bổ sung tài liệu nếu hệ thống chạy ổn định"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của HĐGP là gì?",
+    "choices": [
+      "Phát triển phần mềm",
+      "Tư vấn và phê duyệt giải pháp CNTT tối ưu, tuân thủ",
+      "Quản lý tài chính dự án",
+      "Kiểm thử hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "HĐGP được chia thành bao nhiêu cấp?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Yêu cầu nào bắt buộc trình HĐGP cấp 1?",
+    "choices": [
+      "L1",
+      "L2",
+      "L3 và L4",
+      "Tất cả"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Ai chịu trách nhiệm đặt lịch họp HĐGP?",
+    "choices": [
+      "BA",
+      "SA",
+      "Thư ký",
+      "Dev Lead"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thời gian SLA phê duyệt của HĐGP là:",
+    "choices": [
+      "1 ngày",
+      "2 ngày",
+      "3 ngày",
+      "5 ngày"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Việc đồng bộ giải pháp với chiến lược công nghệ của HĐGP giúp:",
+    "choices": [
+      "Giảm nhân sự",
+      "Tăng chi phí",
+      "Tránh hệ thống rời rạc, khó tích hợp",
+      "Không ảnh hưởng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "HĐGP cấp 2 khác cấp 1 ở điểm nào?",
+    "choices": [
+      "Không phê duyệt",
+      "Xử lý giải pháp phức tạp và công nghệ mới",
+      "Chỉ họp online",
+      "Không cần tài liệu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Giải pháp dùng công nghệ mới cần trình HĐGP cấp 2 vì:",
+    "choices": [
+      "Dễ triển khai",
+      "Không cần kiểm tra",
+      "Có rủi ro cao, cần đánh giá sâu",
+      "Ít quan trọng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thành viên HĐGP cần chuyên môn phù hợp để:",
+    "choices": [
+      "Tăng số lượng người",
+      "Đánh giá chính xác",
+      "Giảm thời gian họp",
+      "Không cần lý do"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tuân thủ SLA của HĐGP giúp:",
+    "choices": [
+      "Tăng chi phí",
+      "Chậm tiến độ",
+      "Đảm bảo tiến độ và trách nhiệm",
+      "Không cần thiết"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Kiểm tra tài liệu trước khi họp HĐGP nhằm:",
+    "choices": [
+      "Tăng thủ tục",
+      "Tránh họp lại nhiều lần",
+      "Làm chậm quy trình",
+      "Không cần thiết"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò BA trong bảo vệ HĐGP là:",
+    "choices": [
+      "A. Thiết kế kiến trúc",
+      "B. Trình bày nghiệp vụ",
+      "C. Code",
+      "D. Test"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vì sao lưu biên bản HĐGP trên Confluence?",
+    "choices": [
+      "Cho đẹp",
+      "Dễ truy vết, quản lý tập trung",
+      "Không cần email",
+      "Không liên quan"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phản biện trong HĐGP nhằm:",
+    "choices": [
+      "Gây khó khăn",
+      "Phát hiện rủi ro và cải thiện giải pháp",
+      "Tăng thời gian họp",
+      "Không cần thiết"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cần thống nhất giải pháp trước khi bảo vệ HĐGP để:",
+    "choices": [
+      "Tránh họp",
+      "Dễ bị từ chối",
+      "Tăng khả năng được phê duyệt",
+      "Không ảnh hưởng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Dự án dùng công nghệ mới lần đầu bảo vệ HĐGP cần trình:",
+    "choices": [
+      "Không cần HĐGP",
+      "HĐGP cấp 1",
+      "HĐGP cấp 2",
+      "Dev Lead quyết"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Thiếu tài liệu kiến trúc trước khi bảo vệ HĐGP thì  ?",
+    "choices": [
+      "A. Vẫn họp",
+      "B. Hủy dự án",
+      "C. Thư ký yêu cầu bổ sung",
+      "D. Dev tự quyết"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "HĐGP yêu cầu chỉnh sửa nghiệp vụ thì bước tiếp sẽ là :",
+    "choices": [
+      "Sửa ngay",
+      "Tái phân tích nghiệp vụ & báo cáo lại sau",
+      "Tái thiết kế kỹ thuật",
+      "Dừng dự án"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Không thống nhất ở HĐGP cấp 1 hành động tiếp theo là ?",
+    "choices": [
+      "Dừng",
+      "Bỏ qua",
+      "Trình cấp 2",
+      "Dev quyết"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Cán bộ phê duyệt HĐGP không tham gia thì ?",
+    "choices": [
+      "Hủy họp",
+      "Tự động duyệt",
+      "Ủy quyền",
+      "Không xử lý"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Không ghi biên bản HĐGP đúng SLA thì sẽ có rủi ro gì?",
+    "choices": [
+      "Không ảnh hưởng",
+      "Chậm phê duyệt, mất thông tin",
+      "Tăng chất lượng",
+      "Nhanh hơn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Dự án liên quan nhiều hệ thống phức tạp thì cần bảo vệ HĐGP cấp mấy ?",
+    "choices": [
+      "Không cần HĐGP",
+      "Cấp 1",
+      "Cấp 2",
+      "BA quyết"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Bị từ chối tại HĐGP do vắn đề kỹ thuật thì ?",
+    "choices": [
+      "Tái phân tích nghiệp vụ",
+      "Tái thiết kế giải pháp & báo cáo lại sau",
+      "Dừng luôn",
+      "Không làm gì"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chưa thống nhất giải pháp trước khi bảo vệ HĐGP thì ?",
+    "choices": [
+      "Vẫn trình",
+      "Bỏ qua",
+      "Thống nhất trước hoặc ghi rõ ý kiến",
+      "Hủy dự án"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Dự án mua giải pháp ngoài cần nhân sự bổ sung nào tham gia bảo vệ HĐGP ?",
+    "choices": [
+      "Không cần thêm ai",
+      "BA LEAD",
+      "Đối tác tham gia bảo vệ",
+      "Dev Lead"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tài liệu thiết kế kiến trúc tổng thể bắt buộc áp dụng với YCPT loại nào?",
+    "choices": [
+      "1. L1, L2",
+      "2. L3, L4."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "YCPT_L2 cần qua hội đồng CAB tập trung khi thuộc các trường hợp nào?",
+    "choices": [
+      "1. Không thay đổi làm downtime dịch vụ",
+      "2. CAB hoặc Service Owner yêu cầu cần qua Hội đồng CAB tập trung để đánh giá chi tiết.",
+      "3. Không thay đổi về kiến trúc hệ thống/ dịch vụ",
+      "4. Không liên quan đến sản phẩm có kết nối với đối tác bên ngoài MB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống 24x7 với Mức ảnh hưởng Change Cao, được phép golive vào thời điểm nào?",
+    "choices": [
+      "1. Ngoài giờ dịch vụ",
+      "3. Khung giờ Thấp điểm (21h-4h00)",
+      "2. Khung giờ Cực thấp điểm (0h30-4h00)."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "OLA của CAB khi duyệt change là bao nhiêu ngày làm việc từ thời điểm CO cập nhật đầy đủ hồ sơ và gửi yêu cầu phê duyệt sau khi thông qua HĐ CAB?",
+    "choices": [
+      "1",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Quy định về việc khai báo Task khi tạo Change trên SDP",
+    "choices": [
+      "Nhập schedule start time và schedule end time",
+      "Đặt tên task đúng cú pháp",
+      "Gán owner group thực hiện",
+      "Chọn đúng task type",
+      "Tất cả các phương án trên."
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Change golive trong ngày cần phê duyệt đủ CAB và cung cấp thông tin golive cho phòng KSTĐ&GPNT trước thời gian nào?",
+    "choices": [
+      "2. Trước 15h.",
+      "1. Trước thời điểm golive"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Quy trình thay đổi đang triển khai bước duyệt nào  để đảm bảo các change golive phân loại đúng, đầy đủ thông tin: tài liệu, thành phần CAB và thông tin thay đổi?",
+    "choices": [
+      "1. Duyệt Change Manager",
+      "2. Duyệt Change Controller.",
+      "3. Duyệt CAB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Change Coor muốn xin ngoại lệ thời gian golive cần thực hiện bằng cách nào?",
+    "choices": [
+      "Đối với change chưa phê duyệt: note rõ nội dung xin ngoại lệ trong Submission trước khi gửi duyệt",
+      "Đối với change đã được phê duyệt, xin ý kiến CAB và SO qua email, đính kèm email phê duyệt của SO vào change làm bằng chứng phê duyệt ngoại lệ",
+      "Cả 2 đán án trên."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tần suất họp hội đồng CAB?",
+    "choices": [
+      "2. Cố định 2 lần/ tuần vào ngày thứ 3 và thứ 5.",
+      "1. Cố định 1 lần / tuần vào ngày thứ 3"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Sau khi hoàn thành các công việc thực hiện thay đổi, Change Coor mail báo cáo kết quả thay đổi tới các thành phần liên quan trong vòng bao nhiêu này?",
+    "choices": [
+      "1",
+      "2"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đối với YCPT L3, L4 có BA tham gia, tài liệu nào sau đây BA bắt buộc phải cung cấp trên Release Note?",
+    "choices": [
+      "Tài liệu đặc tả",
+      "BBH Hội đồng giải pháp",
+      "Checklist BA",
+      "Phân loại YCPT",
+      "Câu hỏi đánh giá tác động BM05",
+      "Tất cả đáp án trên."
+    ],
+    "correct_answers": [
+      5
+    ]
+  },
+  {
+    "question": "Hệ thống BIZ MB và APP MB có phải là hệ thống 24x7?",
+    "choices": [
+      "2. Đúng",
+      "1. Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vai trò của BA trong Hội đồng CAB tập trung là gì?",
+    "choices": [
+      "1. Người quyết định golive",
+      "2. Người trả lời nội dung: Mô tả sơ bộ Change,các tác động tới dịch vụ.",
+      "3. Người ghi biên bản họp CAB"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Change loại nào dưới đây bắt buộc xem xét bảo vệ qua CAB tập trung?",
+    "choices": [
+      "1. YCPT_L1 không downtime",
+      "2. Thay đổi làm downtime dịch vụ hoặc thay đổi kiến trúc."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trách nhiệm của Change Coor khi CAB yêu cầu bổ sung điều kiện golive là gì?",
+    "choices": [
+      "1. Bổ sung thông tin sau khi Close Change",
+      "2. Bổ sung và phản hồi CAB trước khi gửi phê duyệt trên SDP.",
+      "3. Gửi CAB duyệt trước, nếu được duyệt thì không cần bổ sung"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong bước Implementation, Change Coordinator có trách nhiệm nào sau đây?",
+    "choices": [
+      "2. Điều phối team thực hiện golive và báo cáo kết quả Change.",
+      "3. Chỉ theo dõi kết quả Change",
+      "1. Đóng Change ngay sau golive"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Downtime của Change được hiểu là gì?",
+    "choices": [
+      "1. Bất kỳ thời điểm nào trong thời gian thực hiện thay đổi",
+      "2. Thời gian dịch vụ bị off ngoài giờ dịch vụ khi thực hiện thay đổi.",
+      "3. Thời gian dịch vụ hoạt động bình thường"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình quản lý thay đổi khái niệm thay đổi (change) được hiểu như thế nào là đúng nhất?",
+    "choices": [
+      "1. Một tác động có kế hoạch lên hệ thống thông tin",
+      "2. Là các tác động lên Hệ thống thông tin làm một hoặc nhiều thành phần của hệ thống chuyển từ trạng thái hiện tại sang trạng thái khác, làm ảnh hưởng tới các dịch vụ/ sản phẩm.",
+      "3. Một yêu cầu phát triển để khắc phục một sự cố phát sinh của dịch vụ CNTT"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một thay đổi muốn được golive sẽ cần phải đi qua các bước phê duyệt nào?",
+    "choices": [
+      "2.\nPhê duyệt lần 1: Change Controller và CAB giai đoạn PTPM\nPhê duyệt lần 2: CAB Vận hành, Hạ tầng, ATTT, KDL\nPhê duyệt lần 3: Service Owner.",
+      "1.\nPhê duyệt lần 1: Change manager\nPhê duyệt lần 2: CAB\nPhê duyệt lần 3: Service Owner",
+      "3.\nPhê duyệt lần 1: Change Controller\nPhê duyệt lần 2: Service Owner"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Biểu mẫu BM05- Câu hỏi đánh giá tác động bắt buộc đối với loại change nào",
+    "choices": [
+      "2. Change qua hội đồng CAB tập trung.",
+      "1. Change không qua hội đồng CAB tập trung"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Có bắt buộc phải đính kèm \"Tiêu chí phân loại YCPT\" lên Release Note khi tạo Change golive không?",
+    "choices": [
+      "2. Có.",
+      "1. Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Sau khi team thực hiện golive thành công trên hệ thống, Change Coor cần làm gì tiếp theo?",
+    "choices": [
+      "1. Không cần làm gì",
+      "3. Thực hiện đóng change",
+      "2. Báo cáo kết quả thay đổi tới CM, CAB, Change team, SO, đơn vị yêu cầu thay đổi trong vòng 1 ngày sau khi hoàn thành các công việc thay đổi. Điều phối change team cập nhật trạng thái task thực thi, cập nhật thông tin khai báo YCTĐ đúng với thực tế: Golive date, downtime thực tế .... chuyển trạng thái YCTĐ."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo quy trình quản lý thay đổi, thời gian một thay đổi gây downtime được tính như thế nào?",
+    "choices": [
+      "2. Là khoảng thời gian từ lúc bắt đầu downtime cho tới khi ON dịch vụ.",
+      "1. Là thời gian từ lúc bắt đầu golive cho tới khi hoàn thành golive",
+      "3. Là thời gian deploy code"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thành phần CAB của TTVH đối với change qua Hội đồng CAB tập trung",
+    "choices": [
+      "GĐ TTVH (hoặc PGĐ TTVH được ủy quyền)",
+      "TP/PP mảng AM, OM, DBA, OPN",
+      "CBQL mảng Hạ tầng (Mạng, Máy chủ) nếu có liên quan",
+      "Tất cả phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Ủy quyền Service Owner cho chị Nguyễn Thị Thắm – PGĐK CNTT phê duyệt các change nào?",
+    "choices": [
+      "YCPT_L4",
+      "YCPT_L3",
+      "Các change có downtime hoặc có nguy cơ ảnh hưởng downtime dịch vụ trọng yếu",
+      "Tất cả phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối tượng nào không thuộc nhóm đối tường quy định cần tuân thủ quy trình quản lý sự cố CNTT?",
+    "choices": [
+      "B, Cán bộ, nhân viên Khối CNTT",
+      "A. Cán bộ, nhân viên thuộc các Khối/Phòng tại Hội sở sử dụng các hệ thống CNTT do Khối CNTT cung cấp",
+      "C. Cán bộ, nhân viên thuộc các Khối/Phòng tại các chi nhanh của Ngân hàng bao gồm cả chi nhánh nước ngoài sử dụng các hệ thống CNTT do Khối CNTT cung cấp",
+      "B. Các công ty thành tiền và Văn phòng đại diện của MB tại nước ngoài"
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Quy trình phát triển sản phẩm dịch vụ CNTT có mục đích là",
+    "choices": [
+      "B. Đảm bảo tính thống nhất và hợp tách tích cực trên toàn hệ thống MB trong quá trình tổ chức phát triển các sản phẩm dịch vụ CNTT cho hoạt động kinh doanh, hỗ trợ và quản lý của MB",
+      "B. Chỉ rõ vai trò, trách nhiệm, cách thức phối hợp giữa các đơn vị liên quan và các biểu mẫu cần sử dụng trong toàn bộ quá trình YCPT và xây dựng triển khai sản phẩm dịch vụ CNTT",
+      "B. Là tiêu chuẩn để đánh giá mức độ tuân thủ trong việc phát triển sản phẩm dịch vụ CNTT, cơ dở để xây dựng cam kết trong nội bộ khối CNTT",
+      "B. Chuẩn hóa quy trình phát triển sản phẩm dịch vụ CNTT trong hệ thống MB, đảm bảo các sản phẩm dịch vụ CNTT từ khi hình thành ý tưởng đến khi đưa vào triển khai đạt chất lượng tốt, nhanh và ổn định"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Một sự cố xảy ra trên hệ thống CNTT quan trọng, làm gián đoạn toàn bộ các tính năng chính. Mức độ ảnh hưởng của sự cố này là gì?",
+    "choices": [
+      "A. Thấp",
+      "D. Trung bình",
+      "C. Cao",
+      "B. Nghiêm trọng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trường hợp nào sau đây được phân loại là mức độ khẩn cấp Khẩn?",
+    "choices": [
+      "A. Sự cố ảnh hưởng đến một nhóm nhỏ người dùng ngoài giờ dịch vụ",
+      "C. Sự cố không ảnh hưởng đến khách hàng",
+      "B. Khách hàng đang chờ xử lý tại quầy",
+      "D. Sự cố có thể xử lý vào ngày hôm sau"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Nếu một sự cố có mức độ ảnh hưởng Cao (2) và mức độ khẩn cấp Thông thường (2) thì mức độ ưu tiên là gì?",
+    "choices": [
+      "A. Nghiêm trọng",
+      "C. Cao",
+      "B. Trung bình",
+      "D. Thấp"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Phân loại mức độ ảnh hưởng của sự cố sau:\nHệ thống Napas ghi nhận sự cố tại 2 thời điểm 0h–0h30 và 1h–2h45 ngày 30/09/2025: timeout nhiều giao dịch chuyển khoản, thanh toán...",
+    "choices": [
+      "A. Nghiêm trọng",
+      "B. Cao",
+      "C. Trung bình",
+      "D. Thấp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hiệu quả của phương pháp Choice map là gì?",
+    "choices": [
+      "A. Đưa ra giải pháp trọng tâm",
+      "B. Lựa chọn các vấn đề cẩn trọng, đưa ra giải pháp trọng tâm và Win Win",
+      "C. Lựa chọn các vấn đề cẩn trọng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy trình quản lý sự cố, tiêu chí nào KHÔNG được sử dụng để phân loại mức độ sự cố?",
+    "choices": [
+      "C. Số lượng người dùng bị ảnh hưởng",
+      "B. Nguyên nhân gốc rễ của sự cố",
+      "A. Mức độ ảnh hưởng đến khách hàng",
+      "D. Mức độ gián đoạn dịch vụ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một hệ thống thanh toán bị lỗi gián đoạn trong 10 phút và đã được khôi phục tạm thời. Sau đó đội kỹ thuật tiếp tục phân tích nguyên nhân để tránh lặp lại.\nHoạt động sau khi khôi phục tạm thời được gọi là gì?",
+    "choices": [
+      "A. Incident resolution",
+      "B. Problem management",
+      "C. Service request handling",
+      "D. Change management"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một hệ thống chatbot (ứng dụng AI như ChatGPT) của ngân hàng trả lời sai thông tin phí dịch vụ cho nhiều khách hàng trong 2 giờ, gây ảnh hưởng diện rộng nhưng hệ thống vẫn hoạt động bình thường.\n\nTheo quy trình quản lý sự cố, cách phân loại và xử lý nào là phù hợp nhất?",
+    "choices": [
+      "A. Phân loại mức thấp vì hệ thống không bị down, xử lý theo backlog",
+      "B. Phân loại mức cao do ảnh hưởng nhiều khách hàng, xử lý ngay như Incident",
+      "C. Không phải sự cố vì hệ thống vẫn hoạt động",
+      "D. Chuyển trực tiếp sang Change Request để fix"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một hệ thống thanh toán bị lỗi gián đoạn trong 10 phút và đã được khôi phục tạm thời. Sau đó đội kỹ thuật tiếp tục phân tích nguyên nhân để tránh lặp lại. Hoạt động sau khi khôi phục tạm thời được gọi là gì?",
+    "choices": [
+      "A. Xử lý sự cố khẩn cấp",
+      "C. Phân loại sự cố",
+      "B. Xử lý nguyên nhân gốc (Root Cause Analysis)",
+      "D. Báo cáo đóng sự cố"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một hệ thống chatbot của ngân hàng (ví dụ ChatGPT) trả lời sai thông tin phí dịch vụ cho nhiều khách hàng trong 2 giờ, nhưng hệ thống vẫn hoạt động bình thường. Theo quy trình quản lý sự cố, cách phân loại và xử lý nào là phù hợp nhất?",
+    "choices": [
+      "A. Sự cố phần mềm, mức độ ảnh hưởng trung bình, xử lý theo ticket bình thường",
+      "B. Sự cố phần mềm, mức độ ảnh hưởng cao, xử lý ưu tiên ngay",
+      "C. Sự cố phần mềm, mức độ ảnh hưởng thấp, ghi nhận và theo dõi",
+      "D. Sự cố mạng, mức độ nghiêm trọng, thông báo khẩn cấp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phương pháp nào dùng để giải quyết trọn vẹn, triệt để vấn đề?",
+    "choices": [
+      "A. M4: PU EN DA SU",
+      "C. M1: Phương pháp sáng tạo",
+      "D. M2: Phương pháp xác định vấn đề cần giải quyết",
+      "B. M3: DI DE VE DE ME"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo Time To Market 2026 (TMK), thời gian pending có tính trong time TTM không?",
+    "choices": [
+      "2. Có",
+      "1. Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào sau đây được sử dụng để xác định nguyên nhân gốc rễ của vấn đề?",
+    "choices": [
+      "A. SWOT Analysis",
+      "B. Root Cause Analysis",
+      "C. Brainstorming",
+      "D. Benchmarking"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo hướng dẫn thực thi quy trình quản lý thay đổi, thời gian một thay đổi gây downtime được định nghĩa thế nào là đúng nhất?",
+    "choices": [
+      "A. Là thời gian từ lúc bắt đầu golive cho tới khi hoàn thành golive",
+      "C. Là thời gian restart dịch vụ",
+      "D. Là thời gian deploy code",
+      "B. Là khoảng thời gian từ lúc bắt đầu downtime cho tới khi ON dịch vụ (không phải thời gian từ lúc bắt đầu golive cho tới khi hoàn thành golive)"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phân loại sự cố: Mức Thấp được hiểu đúng nhất là",
+    "choices": [
+      "A. Bất kỳ sự cố nào có liên quan tài chính",
+      "C. Sự cố luôn gây gián đoạn toàn bộ dịch vụ",
+      "B. Sự cố đơn lẻ và không thuộc Nghiêm trọng/Cao/Trung bình",
+      "D. Sự cố xảy ra ngoài giờ dịch vụ thì luôn là Thấp"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Quy trình thực hiện quản lý sự cố CNTT gồm những bước nào?",
+    "choices": [
+      "B. Tiếp nhận và Phân loại",
+      "B. Phối hợp và xử lý sự cố",
+      "B. Đánh giá, báo cáo và đóng"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Trong giờ dịch vụ, đối với các hệ thống CNTT thông thường, hệ thống quan trọng hoạt động không ổn định, ảnh hưởng một nhóm người dùng (không phải 1 người dùng đơn lẻ). Phân loại mức độ ảnh hưởng của sự cố",
+    "choices": [
+      "A. Thấp",
+      "B. Trung bình",
+      "C. Cao",
+      "D. Nghiêm trọng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Chọn các phát biểu ĐÚNG về “Sự cố (Incident)” trong quản lý dịch vụ CNTT.",
+    "choices": [
+      "B. Sự cố là gián đoạn ngoài kế hoạch của dịch vụ hoặc giảm chất lượng dịch vụ.",
+      "B. Sự cố có thể là hỏng một cấu phần/hạ tầng nhưng chưa gây gián đoạn, vẫn cần ghi nhận để xử lý phòng ngừa lan rộng.",
+      "C. Sự cố là mọi yêu cầu thay đổi (Change Request) do người dùng đề xuất.",
+      "A. Sự cố luôn là nguyên nhân gốc (Root cause) và phải giải quyết triệt để ngay trong lần xử lý đầu tiên."
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Khi tiếp nhận sự cố để phục vụ “phân loại”, cần thu thập các thông tin tối thiểu nào? (Chọn tất cả đáp án đúng)",
+    "choices": [
+      "B. Thời điểm phát sinh & kênh ghi nhận (điện thoại/ticket/email)",
+      "B. Phạm vi ảnh hưởng (số người/đơn vị, dịch vụ nào, mức độ gián đoạn)",
+      "B. Mô tả triệu chứng, thông báo lỗi, log/screenshot (nếu có)",
+      "A. Mật khẩu người dùng để đăng nhập kiểm tra ngay"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Câu hỏi AI/ChatGPT: Khi dùng công cụ AI (ví dụ ChatGPT) để hỗ trợ phân loại sự cố (tóm tắt log, gợi ý nhóm nguyên nhân), cách làm nào phù hợp nhất?",
+    "choices": [
+      "A. Dán nguyên log/ticket có dữ liệu khách hàng, thông tin định danh, IP nội bộ lên AI công khai để phân tích nhanh.",
+      "B. Chỉ dùng dữ liệu đã ẩn danh/loại bỏ thông tin nhạy cảm, cung cấp tối thiểu cần thiết và tuân thủ quy định nội bộ.",
+      "C. Upload toàn bộ file cấu hình hệ thống và danh sách tài khoản để AI “tự tìm lỗi”.",
+      "D. Gửi link ticket nội bộ có đầy đủ thông tin người dùng cho AI để tham chiếu."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Acceptance Criteria là gì ?",
+    "choices": [
+      "B. Tiêu chí để chấp nhận yêu cầu hoặc giải pháp",
+      "A. Tiêu chí để viết code",
+      "C. Tiêu chí để thiết kế UI",
+      "D. Tiêu chí để quản lý nhân sự"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Để đáp ứng quy trình TTM, tần suất change đã thay đổi như thế nào?",
+    "choices": [
+      "A.- Với hệ thống mới, sản phẩm mới /dịch vụ mới/quy trình mới/tính năng mới: Tần suất golive là thứ 2, thứ 3, thứ 4, thứ 5, thứ 6 hàng tuần\n- Với các change còn lại: Tùy theo tính chất cấp thiết, tuy nhiên ưu tiên golive theo lịch chung và hạn chế golive vào thứ 6",
+      "C. Tất cả các change đều chỉ golive vào thứ 5 hàng tuần",
+      "D. Tất cả các change đều golive thứ 5 2 tuần 1 lần",
+      "B. - Với hệ thống mới, sản phẩm mới /dịch vụ mới/quy trình mới/tính năng mới: Tần suất golive là thứ 2, thứ 4, thứ 5, thứ 6 hàng tuần\n- Với các change còn lại: Tùy theo tính chất cấp thiết, tuy nhiên ưu tiên golive theo lịch chung và hạn chế golive vào thứ 6"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đâu là nhận định đúng về xếp hạng rủi ro tài chính theo thang điểm đánh giá mức độ ảnh hưởng RCSA",
+    "choices": [
+      "B. Cao trở lên (1 tỷ đồng trở lên)",
+      "A Trung bình (từ 100 triệu đến 1 tỷ)",
+      "B. Thấp trở xuống (dưới 200 triệu đồng)",
+      "B. Sự cố mức rất cao có phạm vi anh hưởng >=10% trở lên nhân viên cấp quản lý trở lên nghỉ việc trên hệ thống hoặc >=30% số nhân viên tại 1 chi nhánh/Khối tại HO nghỉ việc",
+      "C Sự cố mức cao có phạm vi anh hưởng từ 5-10% trở lên nhân viên cấp quản lý trở lên nghỉ việc trên hệ thống hoặc từ 15-25% số nhân viên tại 1 chi nhánh/Khối tại HO nghỉ việc",
+      "A Sự cố mức trung bình có phạm vi anh hưởng >=5% trở lên nhân viên cấp quản lý trở lên nghỉ việc trên hệ thống hoặc <15% số nhân viên tại 1 chi nhánh/Khối tại HO nghỉ việc"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Khi được giao nhiệm vụ tái thiết kế quy trình mở tài khoản HKD, công việc nào Chuyên viên BA cần thực hiện đầu tiên để xác định sự chênh lệch giữa quy trình hiện tại và quy trình mong muốn?",
+    "choices": [
+      "Phân tích khoảng cách (Gap Analysis) giữa trạng thái hiện tại (AS-IS) và tương lai (TO-BE)",
+      "Thực hiện thiết kế prototype ngay.",
+      "Lập trình các đoạn mã (Coding) để thử nghiệm quy trình.",
+      "Cập nhật tài liệu theo yêu cầu nghiệp vụ."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vì sao kỹ thuật workshop thường được sử dụng trong khơi gợi yêu cầu khi cần thu thập thông tin từ nhiều bên liên quan và đạt được sự đồng thuận về kết quả đầu ra?",
+    "choices": [
+      "Giảm số lượng tài liệu cần xây dựng",
+      "B.Thu thập ý kiến đồng thời từ nhiều bên và tạo sự thống nhất về yêu cầu.",
+      "Thay thế hoàn toàn các kỹ thuật phỏng vấn khác",
+      "Để ghi nhận nhiều ý kiến nhất có thể có"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi thực hiện workshop khơi gợi yêu cầu với các nhân sự có liên quan, Là BA anh chị cần thực hiện hành động nào ngay sau buổi workshop?",
+    "choices": [
+      "Lưu trữ thông tin ghi nhận được",
+      "Ghi nhận và xác nhận các thông tin đã thu nhập trong buổi workshop với các nhân sự tham gia",
+      "Tiến hành phân tích tài liệu ngay lập tức",
+      "Yêu cầu các bên ký biên bản họp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong yêu cầu phát triển cải tiến phần mềm, có nhiều BA cùng phối hợp làm việc, việc quản lý phiên bản (version) tài liệu đặc tả nghiệp vụ yêu cầu tuân theo nguyên tắc nào?",
+    "choices": [
+      "Chỉ lưu phiên bản cuối cùng để dễ truy xuất thông tin mới nhất",
+      "2. Lưu trữ các phiên bản có kiểm soát, cho phép truy xuất các lịch sử thay đổi tài liệu khi cần thiết",
+      "Mỗi BA nên đề xuất cách quản lý phù hợp với bản thân",
+      "Không cần version vì confluence đã có page history"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong mô hình hóa quy trình nghiệp vụ (ví dụ chuẩn BPMN), thành phần nào được sử dụng để phân luồng quy trình thành các khu vực, mỗi khu vực đại diện cho một vai trò: đối tượng/ hệ thống chịu trách nhiệm thực thi các bước bên trong đó?",
+    "choices": [
+      "B. Làn (Swimlane/Pool)",
+      "Cổng kết nối (Gateway)",
+      "Sự kiện kết thúc (End Event)",
+      "Biểu tượng cơ sở dữ liệu (Data Store)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đơn vị nghiệp vụ đề xuất triển khai chatbot AI phục vụ khách hàng. Trước khi đề xuất hoặc lựa chọn giải pháp, BA cần thực hiện những phân tích nào để đánh giá chatbot AI có thực sự là giải pháp phù hợp?",
+    "choices": [
+      "Phân tích nhu cầu nghiệp vụ, các vướng mắc/bất cập hiện tại; xác định mục tiêu cần giải quyết và đánh giá mức độ phù hợp của giải pháp với OKR, chỉ tiêu đo lường hiệu quả và mức độ sử dụng của đơn vị nghiệp vụ.",
+      "Chỉ cần xem đã có sản phẩm tương tự triển khai tại đơn vị ngân hàng khác hay chưa",
+      "Chỉ cần quan sát xu hướng công nghệ",
+      "Chỉ cần đánh giá chi phí triển khai có phù hợp với ngân sách đã đăng ký không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vai trò và trách nhiệm đánh giá ảnh hưởng dịch vụ của role BA",
+    "choices": [
+      "B. Chịu trách nhiệm chỉ ra các thay đổi nghiệp vụ: Sản phẩm, chức năng trong tài liệu đặc tả( initiative/Epic/us/es)",
+      "Chịu trách nhiệm chỉ ra các tác động những thay đổi về kiến trúc, thiết kế code, các tham số hệ thống …trong tài liệu thiết kế chi tiết và các tài liệu khác có liên quan",
+      "Chịu trách nhiệm đánh giá phạm vi ảnh hưởng dựa trên tài liệu đặc tả và tài liệu thiết kế chi tiết để xây dựng chiến lược kịch bản test phù hợp",
+      "Chịu trách nhiệm đánh giá ảnh hưởng ATTT"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi tổ chức Workshop khơi gợi yêu cầu từ các đơn vị nghiệp vụ khác nhau, BA nên làm gì để đảm bảo hiệu quả?",
+    "choices": [
+      "Chỉ nên mời nhân sự từ cấp CVCC/CBQL trong các đơn vị nghiệp vụ tham gia để thống nhất được yêu cầu",
+      "2. Chuẩn bị nội dung trao đổi rõ ràng, thống nhất nguyên tắc làm việc và đảm bảo sự tham gia đầy đủ của các bên liên quan.",
+      "Để mọi người thống nhất nội dung sẽ trao đổi trước khi bắt đầu workshop",
+      "Chỉ cần ghi đầy đủ biên bản cuộc họp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nguyên tắc cơ bản nhất khi tiến hành tái thiết kế quy trình nghiệp vụ (BPR) nhằm tối ưu hóa chi phí/thời gian xử lý là gì?",
+    "choices": [
+      "B. Xác định và loại bỏ các bước không tạo ra giá trị gia tăng (Non-value-added activities)",
+      "Tăng gấp đôi số lượng nhân sự tham gia vào quy trình hiện tại",
+      "Mua ngay phần mềm đắt tiền nhất trên thị trường để thay thế con người",
+      "Thêm nhiều bước kiểm duyệt chéo để đảm bảo không xảy ra sai sót."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Vì sao BA cần làm rõ mục tiêu và tiêu chí đo lường hiệu quả (OKR) của yêu cầu phát triển trước khi phân tích yêu cầu chi tiết?",
+    "choices": [
+      "Để kéo dài thời gian phát triển",
+      "Để đảm bảo yêu cầu phát triển giúp giải quyết đúng hướng/đúng vấn đề cốt lõi, tránh lãng phí nguồn  lực, mang lại giá trị cho tổ chức",
+      "Để xây dựng tài liệu hướng dẫn sử dụng",
+      "Để xây dựng kịch bản test."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi đơn vị nghiệp vụ có nhu cầu xây dựng báo cáo quản trị nhưng chưa hình dung rõ ràng về bố cục và cách tương tác, phương pháp nào hiệu quả nhất để BA làm rõ yêu cầu này?",
+    "choices": [
+      "Sử dụng Prototype/Wireframe để trực quan hóa trong quá trình trao đổi làm rõ yêu cầu.",
+      "Hướng dẫn nghiệp vụ tham khảo tài liệu bên ngoài.",
+      "Mời Dev tham gia họp cùng.",
+      "Gửi bảng khảo sát làm rõ yêu cầu."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi đánh giá giải pháp tích hợp giữa các hệ thống, BA cần đánh giá những yếu tố nào?",
+    "choices": [
+      "Đánh giá hiệu năng của quy trình end‑to‑end, tính toàn vẹn dữ liệu giữa các hệ thống, trải nghiệm người dùng và xác định các vấn đề đặc thù liên quan đến tích hợp",
+      "Chỉ xem xét luồng dữ liệu (data flow) giữa các hệ thống",
+      "Chỉ kiểm tra phản hồi (response) của API",
+      "Chỉ đánh giá hiệu năng của hệ thống cần tích hợp"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi sử dụng phương pháp \"5 Whys\", BA dừng lại ở câu trả lời nào thì được coi là đã tìm ra Nguyên nhân gốc rễ (Root Cause)?",
+    "choices": [
+      "Khi nguyên nhân chỉ ra một lỗ hổng hệ thống/quy trình mà nếu sửa thì lỗi không lặp lại",
+      "Khi đã hỏi đúng 5 lần",
+      "Khi người dùng không trả lời được nữa",
+      "Khi tìm ra lỗi của một nhân viên cụ thể"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Kỹ thuật Quan sát (Observation) trong quá trình Khơi gợi yêu cầu được sử dụng để làm gì?",
+    "choices": [
+      "Thay thế phỏng vấn trong quá trình khơi gợi",
+      "Quan sát quy trình làm việc thực tế của các bên liên quan (stakeholders) để hiểu hành vi thực tế, thay vì chỉ dựa trên quy trình được mô tả trong tài liệu",
+      "Sử dụng để kiểm tra chức năng hệ thống",
+      "Chỉ sử dụng khi tài liệu không sẵn có"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi đơn vị nghiệp vụ đưa ra yêu cầu mơ hồ hoặc không rõ ràng, BA nên làm gì?",
+    "choices": [
+      "Chấp nhận các yêu cầu đó và phân tích yêu cầu phát triển",
+      "Thực hiện làm rõ yêu cầu bằng cách đặt câu hỏi, ví dụ, kịch bản để đào sâu, làm cho yêu cầu trở nên cụ thể, rõ ràng và không mơ hồ.",
+      "Ghi nhận yêu cầu theo cách hiểu của BA.",
+      "Đưa thẳng vào backlog để triển khai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vì sao BA không nên áp dụng một kỹ thuật khơi gợi yêu cầu giống nhau cho mọi dự án?",
+    "choices": [
+      "Mỗi BA có phong cách và kinh nghiệm làm việc khác nhau",
+      "Các yêu cầu kỹ thuật của hệ thống thường xuyên thay đổi trong quá trình triển khai.",
+      "Vì dựa trên phương án quản lý dự án Agile.",
+      "Cần dựa trên bối cảnh như: mức độ sẵn sàng tham gia của đơn vị nghiệp vụ, mục têu và phạm vi dự án có sự khác biệt, từ đó ảnh hưởng đến hiệu quả của các kỹ thuật khơi gợi yêu cầu"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong quá trình khơi gợi yêu cầu, đơn vị nghiệp vụ đưa ra yêu cầu \"hệ thống phải thân thiện với người dùng\", là BA anh/chị nên làm gì?",
+    "choices": [
+      "B. Làm rõ yêu cầu thành các tiêu chí cụ thể, có thể đo lường được",
+      "Ghi nhận yêu cầu và làm rõ trong quá trình đặc tả",
+      "Yêu cầu mơ hồ - từ chối ghi nhận",
+      "Đưa yêu cầu vào backlog và thực hiện triển khai."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một BA trong team thường xuyên tổ chức họp 3 tiếng đồng hồ với Nghiệp vụ nhưng kết thúc không chốt được quy trình. Quản lý cần huấn luyện kỹ năng gì cho BA này?",
+    "choices": [
+      "Kỹ năng Điều phối (Facilitation), kỹ năng đặt câu hỏi trọng tâm và chuẩn bị Agenda/Mục tiêu trước buổi họp\n(Áp dụng PU-EN-DA-SU trong MB1688)",
+      "Kỹ năng viết email",
+      "Kỹ năng viết biên bản họp",
+      "Kỹ năng lập kế hoạch"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quá trình review backlog phát triển, anh/chị thấy một yêu cầu trong backlog không còn phù hợp với OKR của nghiệp vụ, anh/chị nên xử lý thế nào",
+    "choices": [
+      "Tiếp tục thực hiện theo kế hoạch ban đầu vì đã được phê duyệt",
+      "Trao đổi với PO để rà soát/ cập nhập backlogvà thông báo cho các bên liên quan nếu có\nTrao đổi lại với PO rà soát yêu cầu và đối chiếu với OKR hiện tại của nghiệp vụ. Thống nhất hướng xử lý phù hợp.",
+      "Tự thay thế bằng một yêu cầu mới.",
+      "Tự loại bỏ yêu cầu ra khỏi kế hoạch."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Yêu cầu \"Hệ thống phải mã hóa toàn bộ mật khẩu người dùng trước khi lưu vào cơ sở dữ liệu\" thuộc nhóm yêu cầu nào?",
+    "choices": [
+      "B. Yêu cầu phi chức năng (Non-functional Requirement) về bảo mật",
+      "Yêu cầu chức năng (Functional Requirement) về quản lý tài khoản",
+      "Yêu cầu nghiệp vụ (Business Requirement)",
+      "Quy tắc kinh doanh (Business Rule)"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các kỹ thuật chính dùng để khơi gợi yêu cầu trong phân tích nghiệp vụ bao gồm những gì?",
+    "choices": [
+      "Chỉ bao gồm phỏng vấn",
+      "Chỉ bao gồm wokshop",
+      "Bao gồm phỏng vấn, workshop, quan sát, phân tích tài liệu, khảo sát.",
+      "Bao gồm workshop, phỏng vấn"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong bối cảnh ngân hàng, vì sao yêu cầu nghiệp vụ phải đảm bảo về tính pháp lý (nếu có) của yêu cầu trước khi golive",
+    "choices": [
+      "Để tăng độ phức tạp của hệ thống",
+      "B. Để đảm bảo hệ thống đáp ứng yêu cầu pháp lý và quy định của cơ quan quản lý",
+      "Để tránh phải thay đổi yêu cầu trong quá trình phát triển",
+      "Để giảm chi phí triển khai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thực hiện Phân tích khoảng cách (Gap Analysis), BA tập trung vào việc đối chiếu giữa 2 yếu tố nào?",
+    "choices": [
+      "Mã nguồn cũ và mã nguồn mới",
+      "2.Trạng thái hiện tại (AS-IS) và Trạng thái tương lai (TO-BE)",
+      "Ngân sách dự kiến và ngân sách thực tế",
+      "Kế hoạch và phạm vi triển khai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong một buổi họp lấy yêu cầu, hai chuyên gia nghiệp vụ tranh cãi nảy lửa về một bước xử lý rủi ro. BA không có chuyên môn sâu về mảng này. Hành động đúng đắn nhất là gì?",
+    "choices": [
+      "Đóng vai trò điều phối (Facilitator), tóm tắt các luận điểm, ghi nhận hai phương án và tổ chức phân tích sâu hơn hoặc nhờ cấp quản lý cao hơn quyết định.",
+      "Tự đưa ra quyết định dựa trên cảm tính để nhanh chóng kết thúc cuộc họp",
+      "Bỏ qua bước xử lý rủi ro đó trong thiết kế",
+      "Đứng về phía người mà BA có cảm tình hơn."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thuật ngữ As - is process dùng để mô tả quy trình nào?",
+    "choices": [
+      "Quy trình dự kiến sau khi cải tiến",
+      "2. Quy trình nghiệp vụ hiện tại",
+      "Quy trình tích hợp giữa các hệ thống",
+      "Quy trình kiểm soát rủi ro"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo BABOK v3, có bao nhiêu Knowledge Areas chính?",
+    "choices": [
+      "Sáu Knowledge Areas bao phủ toàn bộ các nhóm nhiệm vụ cốt lõi của Business Analysis trong BABOK v3",
+      "Bốn Knowledge Areas",
+      "Năm Knowledge Areas",
+      "Bảy Knowledge Areas"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo BABOK v3, BACCM là viết tắt của nội dung nào?",
+    "choices": [
+      "Business Architecture Capability and Change Map",
+      "Business Analysis Core Concept Model, mô hình khái niệm lõi mô tả 6 khái niệm nền tảng của business analysis",
+      "Business Analysis Control and Collaboration Model",
+      "Basic Analysis Criteria and Capability Matrix"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo BACCM, khái niệm nào dùng để chỉ giá trị, lợi ích hoặc tầm quan trọng đối với stakeholder trong một bối cảnh cụ thể?",
+    "choices": [
+      "Need",
+      "Change",
+      "Value, tức giá trị hoặc lợi ích mà thay đổi hay giải pháp mang lại cho stakeholder trong bối cảnh cụ thể",
+      "Solution"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Task nào thuộc Knowledge Area Elicitation and Collaboration trong BABOK v3?",
+    "choices": [
+      "Analyze Current State",
+      "Measure Solution Performance",
+      "Define Change Strategy",
+      "Conduct Elicitation, tức thực hiện hoạt động khai thác thông tin từ stakeholder theo kế hoạch đã xác định"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo BABOK v3, loại requirement nào mô tả khả năng mà solution phải có để đáp ứng business và stakeholder requirements?",
+    "choices": [
+      "Functional requirements, tức các hành vi hoặc chức năng mà giải pháp phải cung cấp để đáp ứng nhu cầu đã xác định",
+      "Business requirements",
+      "Transition requirements",
+      "Constraints"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Technique nào trong BABOK v3 thường dùng để trực quan hóa luồng công việc hoặc trình tự các bước trong quy trình?",
+    "choices": [
+      "Vendor Assessment",
+      "Process Modeling, kỹ thuật mô hình hóa quy trình để thể hiện luồng công việc, vai trò và điểm quyết định",
+      "Mind Mapping",
+      "Estimation"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BABOK v3, task nào có mục tiêu phê duyệt requirement và design để sử dụng cho công việc tiếp theo?",
+    "choices": [
+      "Maintain Requirements",
+      "Assess Risks",
+      "Approve Requirements, tức phê duyệt requirement và design ở mức phù hợp để chuyển sang các hoạt động tiếp theo",
+      "Prioritize Requirements"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo BABOK v3, loại requirement nào chỉ tồn tại tạm thời để hỗ trợ chuyển từ trạng thái hiện tại sang trạng thái tương lai?",
+    "choices": [
+      "Non-functional requirements",
+      "Stakeholder requirements",
+      "Solution requirements",
+      "Transition requirements, tức các yêu cầu tạm thời cần thiết để chuyển đổi từ current state sang future state"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Technique nào trong BABOK v3 được dùng để sắp xếp mức độ quan trọng tương đối của requirement hoặc initiative?",
+    "choices": [
+      "Prioritization, kỹ thuật dùng để xác định mức độ quan trọng tương đối và thứ tự ưu tiên của các hạng mục phân tích",
+      "Benchmarking",
+      "Document Analysis",
+      "Financial Analysis"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Task nào thuộc Knowledge Area Solution Evaluation?",
+    "choices": [
+      "Specify and Model Requirements",
+      "Measure Solution Performance, tức đo lường hiệu quả thực tế của giải pháp sau khi được triển khai hoặc vận hành",
+      "Plan Business Analysis Approach",
+      "Trace Requirements"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vì sao BABOK v3 tách riêng business requirements và stakeholder requirements?",
+    "choices": [
+      "Vì business requirements chỉ dùng cho IT còn stakeholder requirements chỉ dùng cho business",
+      "Vì business requirements luôn chi tiết hơn stakeholder requirements",
+      "Vì business requirements phản ánh mục tiêu cấp doanh nghiệp còn stakeholder requirements mô tả nhu cầu của từng nhóm liên quan để hỗ trợ xác định solution phù hợp",
+      "Vì hai loại này thực chất giống nhau nhưng khác tên gọi"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục đích chính của task Trace Requirements trong BABOK v3 là gì?",
+    "choices": [
+      "Lưu requirement thành file để phục vụ audit cuối kỳ",
+      "Chuyển toàn bộ requirement cho đội kiểm thử",
+      "Ước lượng effort cho dự án công nghệ",
+      "Thiết lập và duy trì mối quan hệ giữa requirement, design, solution component và business objective để hỗ trợ kiểm soát tác động thay đổi và coverage"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Tại sao trong Elicitation cần Confirm Elicitation Results sau khi thu thập thông tin?",
+    "choices": [
+      "Để xác nhận các thông tin đã được hiểu đúng, đầy đủ và thống nhất với stakeholder trước khi dùng làm đầu vào cho phân tích tiếp theo",
+      "Để thay BA bằng stakeholder trong bước phân tích",
+      "Để loại bỏ hoàn toàn nhu cầu tài liệu hóa",
+      "Để đóng luôn phạm vi mà không cần review"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phân tích current state trong BABOK v3 giúp gì cho Strategy Analysis?",
+    "choices": [
+      "Chỉ để mô tả hệ thống hiện hành cho đội vận hành",
+      "Giúp hiểu vấn đề hiện tại, năng lực đang có, hạn chế và nguyên nhân gốc để xác định thay đổi cần thiết và đánh giá khoảng cách tới future state",
+      "Chỉ để lập lịch dự án chi tiết theo tuần",
+      "Chỉ để tính toán chi phí kiểm thử"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sự khác nhau cơ bản giữa requirement và design trong BABOK v3 là gì?",
+    "choices": [
+      "Requirement luôn là giao diện còn design luôn là quy trình",
+      "Requirement chỉ dùng trước dự án còn design chỉ dùng sau golive",
+      "Requirement mô tả nhu cầu hoặc điều kiện cần đạt, còn design mô tả một cách cụ thể về giải pháp có thể đáp ứng các nhu cầu hoặc điều kiện đó",
+      "Hai khái niệm này có thể thay thế hoàn toàn cho nhau"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Vì sao BABOK v3 coi communication là một phần của Elicitation and Collaboration chứ không chỉ là hoạt động gửi tài liệu?",
+    "choices": [
+      "Vì gửi email là nhiệm vụ quan trọng nhất của BA",
+      "Vì communication chỉ dùng để nhắc deadline",
+      "Vì communication không liên quan tới chất lượng requirement",
+      "Vì BA cần quản lý tương tác hai chiều, làm rõ hiểu biết, duy trì cộng tác và đảm bảo thông tin business analysis được truyền đạt đúng cho từng stakeholder"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Technique Prioritization hỗ trợ decision making như thế nào?",
+    "choices": [
+      "Nó giúp so sánh các requirement hoặc initiative theo giá trị, rủi ro, phụ thuộc hay tính cấp thiết để quyết định thứ tự triển khai phù hợp hơn",
+      "Nó thay thế hoàn toàn việc thảo luận với stakeholder",
+      "Nó chỉ dùng để xếp hạng lỗi production",
+      "Nó chỉ có ý nghĩa khi đã hoàn tất thiết kế kỹ thuật"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại sao BABOK v3 yêu cầu Assess Requirements Changes liên tục trong vòng đời yêu cầu?",
+    "choices": [
+      "Vì mọi thay đổi đều phải từ chối để giữ nguyên baseline",
+      "Vì mỗi thay đổi có thể ảnh hưởng tới phạm vi, giá trị, rủi ro, phụ thuộc và giải pháp hiện có nên cần được đánh giá tác động trước khi chấp thuận",
+      "Vì chỉ QA mới chịu trách nhiệm về thay đổi",
+      "Vì change chỉ ảnh hưởng tài liệu mà không ảnh hưởng solution"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BABOK v3, business analysis governance có vai trò gì?",
+    "choices": [
+      "Chỉ dùng để quản lý hợp đồng mua sắm",
+      "Chỉ dùng để theo dõi chấm công BA",
+      "Thiết lập cách ra quyết định, quyền phê duyệt, chuẩn chất lượng và cơ chế kiểm soát để các hoạt động business analysis diễn ra nhất quán và có trách nhiệm",
+      "Chỉ là bộ tài liệu tham khảo không liên quan dự án"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sự khác nhau giữa solution performance measures và acceptance criteria là gì?",
+    "choices": [
+      "Hai khái niệm là một và luôn dùng cùng thời điểm",
+      "Acceptance criteria chỉ dành cho business còn performance measures chỉ dành cho tester",
+      "Performance measures luôn chi tiết hơn acceptance criteria ở từng màn hình",
+      "Solution performance measures dùng để đánh giá hiệu quả giải pháp sau triển khai, còn acceptance criteria dùng để xác định điều kiện chấp nhận trong quá trình xây dựng và nghiệm thu"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Vì sao BABOK v3 xem stakeholder analysis là đầu vào quan trọng cho việc lập kế hoạch business analysis?",
+    "choices": [
+      "Vì hiểu vai trò, ảnh hưởng, nhu cầu giao tiếp và mức độ tham gia của stakeholder giúp BA chọn cách tiếp cận, kỹ thuật và cơ chế phối hợp phù hợp",
+      "Vì stakeholder analysis chỉ dùng để xác định ngân sách",
+      "Vì stakeholder analysis chỉ liên quan đến truyền thông nội bộ ngoài dự án",
+      "Vì nếu có sponsor thì không cần stakeholder analysis nữa"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục đích của task Define Future State là gì?",
+    "choices": [
+      "Lập chi tiết từng testcase cho UAT",
+      "Mô tả trạng thái mục tiêu mà tổ chức mong muốn đạt được sau thay đổi để làm cơ sở lựa chọn chiến lược và phạm vi giải pháp phù hợp",
+      "Đóng băng ngay toàn bộ yêu cầu chi tiết",
+      "Chuyển current state thành backlog mà không cần định hướng mục tiêu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phân tích assumptions và constraints giúp BA điều gì?",
+    "choices": [
+      "Giúp loại bỏ hoàn toàn rủi ro dự án",
+      "Giúp bỏ qua dependency giữa các đội",
+      "Giúp nhận diện các điều kiện giả định và ràng buộc có thể ảnh hưởng tới phạm vi, thiết kế, tính khả thi hoặc quyết định triển khai giải pháp",
+      "Giúp thay thế việc xác định stakeholder"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao BABOK v3 khuyến nghị đánh giá risks trong change strategy?",
+    "choices": [
+      "Vì risk chỉ có ở giai đoạn vận hành sau golive",
+      "Vì risk không liên quan đến business case",
+      "Vì change strategy chủ yếu chỉ là kế hoạch truyền thông",
+      "Vì chiến lược thay đổi cần xem xét các yếu tố có thể cản trở việc đạt future state để lựa chọn phương án khả thi và chuẩn bị hành động ứng phó"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi BABOK v3 nói về design options, ý nghĩa chính là gì?",
+    "choices": [
+      "Đó là các phương án giải pháp khả thi khác nhau cần được mô tả và đánh giá để chọn cách đáp ứng requirement phù hợp nhất với bối cảnh",
+      "Đó là danh sách bug cần sửa trước release",
+      "Đó là sơ đồ tổ chức của dự án",
+      "Đó là tập hợp các báo cáo bắt buộc sau UAT"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một nhóm stakeholder liên tục hiểu khác nhau về cùng một requirement sau workshop. Theo BABOK v3, BA nên làm gì tiếp theo?",
+    "choices": [
+      "Chuyển ngay requirement cho Dev để tiết kiệm thời gian",
+      "Thực hiện Confirm Elicitation Results bằng cách tổng hợp lại nội dung đã hiểu, xác nhận điểm thống nhất và làm rõ chỗ mơ hồ trước khi tiếp tục phân tích chi tiết",
+      "Bỏ qua khác biệt vì sẽ được xử lý ở giai đoạn test",
+      "Chỉ ghi chú riêng cho BA mà không cần phản hồi stakeholder"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một đề xuất thay đổi có thể tác động tới nhiều requirement, testcase và thiết kế liên quan. BA nên ưu tiên dùng thực hành nào của BABOK v3 để đánh giá tác động?",
+    "choices": [
+      "Tập trung chỉnh sửa giao diện trước để stakeholder dễ hình dung",
+      "Ước lượng chi phí vận hành mà không cần xem liên kết requirement",
+      "Dựa vào Trace Requirements để xem các liên kết đầu-cuối giữa objective, requirement, design và solution component trước khi quyết định chấp thuận thay đổi",
+      "Chuyển thay đổi cho PM quyết định mà không cần phân tích thêm"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Doanh nghiệp muốn cải thiện quy trình mở tài khoản nhưng chưa rõ vấn đề nằm ở đâu. Bước phù hợp nhất theo BABOK v3 là gì?",
+    "choices": [
+      "Thiết kế luôn màn hình mới để chạy thử với người dùng",
+      "Triển khai ngay một giải pháp RPA vì đang là xu hướng",
+      "Chỉ khảo sát đối thủ rồi sao chép quy trình của họ",
+      "Phân tích current state để xác định luồng hiện tại, điểm nghẽn, nguyên nhân gốc và khoảng cách so với kết quả kinh doanh mong muốn trước khi đề xuất thay đổi"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi có nhiều sáng kiến cạnh tranh nguồn lực, BA cần đề xuất thứ tự triển khai cho ban điều hành. Cách làm phù hợp nhất theo BABOK v3 là gì?",
+    "choices": [
+      "Áp dụng Prioritization dựa trên giá trị, rủi ro, mức cấp thiết, phụ thuộc và năng lực tổ chức để xếp thứ tự các sáng kiến một cách minh bạch hơn",
+      "Ưu tiên sáng kiến của stakeholder có chức vụ cao nhất mà không cần tiêu chí",
+      "Chọn ngẫu nhiên để tránh tranh luận kéo dài",
+      "Triển khai tất cả cùng lúc để không phải ưu tiên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một solution đã golive nhưng tỷ lệ sử dụng thấp hơn kỳ vọng. Theo BABOK v3, BA nên bắt đầu từ đâu?",
+    "choices": [
+      "Đóng dự án vì giải pháp đã bàn giao xong",
+      "Đo lường solution performance, phân tích khoảng cách giữa kết quả thực tế và kỳ vọng rồi xác định nguyên nhân để đề xuất hành động cải thiện phù hợp",
+      "Chỉ tăng truyền thông mà không cần đo dữ liệu",
+      "Viết lại toàn bộ requirement từ đầu mà không xem hiệu quả thực tế"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong một dự án thay đổi quy trình, stakeholder đề xuất nhiều ý tưởng giải pháp khác nhau. BA nên xử lý thế nào theo BABOK v3?",
+    "choices": [
+      "Chọn phương án đầu tiên được nêu ra để đẩy nhanh tiến độ",
+      "Yêu cầu đội kỹ thuật tự quyết mà không cần phân tích business",
+      "Mô tả và đánh giá các design options theo mức độ đáp ứng need, khả thi, rủi ro và giá trị để đề xuất phương án phù hợp nhất với bối cảnh",
+      "Gộp tất cả ý tưởng vào cùng một release để khỏi phải lựa chọn"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một requirement mới nghe có vẻ hợp lý nhưng chưa gắn rõ với mục tiêu kinh doanh nào. BA nên làm gì?",
+    "choices": [
+      "Đưa ngay vào backlog vì stakeholder đã yêu cầu",
+      "Từ chối ngay mà không cần trao đổi thêm",
+      "Chuyển sang thành transition requirement để dễ duyệt",
+      "Làm rõ mối liên hệ giữa requirement đó với business requirement hoặc objective trước khi chấp nhận để tránh phát sinh phạm vi không tạo giá trị rõ ràng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nhóm dự án chuẩn bị chạy workshop với nhiều đơn vị có mức hiểu biết khác nhau. Theo BABOK v3, BA nên chuẩn bị gì trước?",
+    "choices": [
+      "Plan Stakeholder Engagement và Prepare for Elicitation để xác định mục tiêu, thành phần tham gia, cách tiếp cận, tài liệu chuẩn bị và phương thức phối hợp phù hợp",
+      "Chỉ gửi lịch họp và để nội dung trao đổi phát sinh tự nhiên",
+      "Chờ tới cuộc họp mới xác định câu hỏi cần hỏi",
+      "Yêu cầu PM tham gia thay cho mọi stakeholder quan trọng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quá trình phân tích, BA phát hiện một ràng buộc pháp lý có thể làm thay đổi đáng kể thiết kế giải pháp. Hành động phù hợp nhất là gì?",
+    "choices": [
+      "Giữ nguyên thiết kế cũ vì thay đổi sẽ ảnh hưởng timeline",
+      "Cập nhật constraint vào phân tích, đánh giá tác động tới requirement và design options rồi trao đổi với stakeholder để điều chỉnh quyết định cho phù hợp",
+      "Đợi tới UAT mới xử lý vì lúc đó nghiệp vụ sẽ thấy rõ hơn",
+      "Ẩn ràng buộc này để tránh làm tăng phạm vi dự án"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một tổ chức muốn chuyển từ xử lý thủ công sang số hóa quy trình phê duyệt hồ sơ. BA nên dùng kỹ thuật nào để hiện thực hóa luồng hiện tại và luồng mục tiêu dễ thảo luận nhất?",
+    "choices": [
+      "Brainstorming đơn thuần mà không cần mô hình hóa",
+      "Vendor Assessment để chọn nhà cung cấp trước",
+      "Process Modeling để mô tả rõ current state và future state, từ đó giúp stakeholder nhìn thấy bước xử lý, vai trò và điểm bàn giao cần thay đổi",
+      "Estimation để tính effort là bước đầu tiên quan trọng nhất"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sau khi solution triển khai, khách hàng phàn nàn trải nghiệm không như kỳ vọng dù hệ thống hoạt động đúng chức năng. Theo BABOK v3, BA nên phân tích gì?",
+    "choices": [
+      "Chỉ kiểm tra xem server có downtime hay không",
+      "Kết luận requirement đã sai hoàn toàn mà không cần dữ liệu",
+      "Dừng hỗ trợ vì hệ thống không có lỗi kỹ thuật",
+      "Phân tích performance measures và giá trị thực tế solution mang lại cho stakeholder để xem giải pháp có đáp ứng need trong context sử dụng hay không"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một sponsor muốn phê duyệt nhanh backlog nhưng nhiều requirement chưa đủ rõ để Dev thực hiện. BA nên đề xuất gì?",
+    "choices": [
+      "Thiết lập tiêu chí quality và approval phù hợp trong business analysis governance, chỉ phê duyệt requirement khi đạt mức rõ ràng cần thiết cho bước tiếp theo",
+      "Phê duyệt toàn bộ trước rồi làm rõ dần trong lúc build",
+      "Để Dev tự diễn giải requirement còn thiếu",
+      "Chuyển việc phê duyệt sang cho tester để giảm tải sponsor"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi phân tích một sáng kiến chuyển đổi số, BA thấy tổ chức chưa sẵn sàng về năng lực vận hành và dữ liệu. Theo BABOK v3, điều này ảnh hưởng mạnh nhất tới nội dung nào?",
+    "choices": [
+      "Chỉ ảnh hưởng tới giao diện người dùng nên chưa cần quan tâm",
+      "Đánh giá change strategy và tính khả thi của future state, vì năng lực tổ chức là yếu tố quan trọng quyết định khả năng hiện thực hóa thay đổi",
+      "Chỉ ảnh hưởng tới naming convention của tài liệu",
+      "Không ảnh hưởng vì công nghệ có thể tự giải quyết toàn bộ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Bạn cần xác định nhóm stakeholder nào nên được tham gia review định kỳ, ai cần được thông báo, ai có quyền phê duyệt. Theo BABOK v3, đây là nội dung của hoạt động nào?",
+    "choices": [
+      "Measure Solution Performance",
+      "Verify Requirements",
+      "Plan Stakeholder Engagement, nơi BA xác định cách các stakeholder sẽ tham gia, được truyền thông và hỗ trợ trong suốt hoạt động business analysis",
+      "Allocate Requirements"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một requirement bị đề xuất loại bỏ để tiết kiệm chi phí, nhưng BA nghi ngờ nó có liên quan tới nghĩa vụ tuân thủ. Nên làm gì trước khi quyết định?",
+    "choices": [
+      "Xóa ngay requirement để đạt mục tiêu cắt giảm ngân sách",
+      "Giữ lại toàn bộ requirement mà không cần xem xét tác động",
+      "Chuyển quyết định cho Dev vì họ hiểu hệ thống hơn",
+      "Dùng Trace Requirements và phân tích rationale để kiểm tra requirement đó liên kết tới objective, regulation hay control nào trước khi chấp nhận loại bỏ"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Trong giai đoạn xác định phạm vi thay đổi, stakeholder chỉ nêu giải pháp mong muốn mà chưa nói rõ vấn đề. BA nên đặt trọng tâm vào đâu?",
+    "choices": [
+      "Làm rõ need và current state trước, vì BABOK v3 nhấn mạnh phải hiểu vấn đề và giá trị cần đạt trước khi chốt solution cụ thể",
+      "Bắt đầu viết testcase để xác nhận giải pháp mong muốn",
+      "Lập dự toán ngân sách chi tiết cho giải pháp đã nêu",
+      "Thiết kế database vì đó là phần khó thay đổi nhất"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Một chương trình chuyển đổi quy trình chạm tới nhiều phòng ban với cách làm khác nhau. Để giảm xung đột khi làm rõ yêu cầu, BA nên ưu tiên gì?",
+    "choices": [
+      "Hạn chế tối đa tương tác để tránh phát sinh ý kiến khác nhau",
+      "Thiết lập cơ chế collaboration rõ ràng, xác định stakeholder liên quan và dùng kỹ thuật giao tiếp phù hợp cho từng nhóm để duy trì đồng thuận làm việc",
+      "Chỉ làm việc với sponsor và bỏ qua người dùng thực tế",
+      "Chốt luôn giải pháp theo phòng ban có tiếng nói mạnh nhất"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nếu một requirement có giá trị cao nhưng phụ thuộc vào nhiều thành phần chưa sẵn sàng, BA nên đề xuất cách nhìn nào khi ưu tiên?",
+    "choices": [
+      "Ưu tiên tuyệt đối mọi hạng mục có giá trị cao mà không xét phụ thuộc",
+      "Loại bỏ luôn requirement đó vì có dependency",
+      "Đánh giá ưu tiên không chỉ theo giá trị mà còn theo dependency, rủi ro và khả năng thực thi để đưa ra lộ trình triển khai hợp lý hơn",
+      "Chỉ xét độ dài tài liệu mô tả requirement"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sau một vòng elicitation, tài liệu ghi nhận được rất nhiều ý tưởng nhưng lẫn lộn giữa need, requirement và design. BA nên làm gì theo BABOK v3?",
+    "choices": [
+      "Giữ nguyên tất cả theo thứ tự phát biểu của stakeholder",
+      "Chuyển toàn bộ sang backlog kỹ thuật để tiết kiệm thời gian",
+      "Chỉ chọn các ý tưởng dễ triển khai nhất rồi bỏ qua phần còn lại",
+      "Phân loại lại thông tin theo đúng bản chất như business need, stakeholder requirement, solution requirement và design để hỗ trợ phân tích và ra quyết định tốt hơn"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một dự án cần triển khai từng giai đoạn và chỉ có một số capability được bật ở release đầu. Loại requirement nào thường cần chú ý thêm để hỗ trợ chuyển đổi?",
+    "choices": [
+      "Transition requirements, vì chúng mô tả các nhu cầu tạm thời như migration, training hay cutover để đi từ current state sang future state mong muốn",
+      "Business requirements, vì chúng luôn mô tả chi tiết migration",
+      "Constraints, vì mọi hoạt động chuyển đổi đều là constraint",
+      "Non-functional requirements, vì chúng thay thế toàn bộ transition activities"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi đề xuất future state cho một quy trình dịch vụ khách hàng, BA nhận được phản hồi rằng phương án mới làm giảm một số kiểm soát hiện có. Theo BABOK v3, BA nên làm gì?",
+    "choices": [
+      "Giữ nguyên phương án mới vì mục tiêu số hóa quan trọng hơn mọi kiểm soát",
+      "Đánh giá trade-off của future state và design options, làm rõ tác động tới value, risk và compliance trước khi khuyến nghị phương án tối ưu",
+      "Quay về current state mà không cần phân tích thêm",
+      "Để đội vận hành tự xử lý sau khi golive"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một doanh nghiệp muốn biết giải pháp mới có thực sự tạo giá trị hay chỉ chuyển việc từ bộ phận này sang bộ phận khác. BA nên dùng góc nhìn nào của BABOK v3?",
+    "choices": [
+      "Chỉ đo số lượng màn hình đã phát triển",
+      "Chỉ đo thời gian coding của Dev",
+      "Xem xét solution evaluation dưới góc độ value đối với các stakeholder khác nhau trong context vận hành thực tế thay vì chỉ nhìn việc triển khai chức năng",
+      "Chỉ đo số lượng tài liệu đã được phê duyệt"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong quá trình duy trì backlog, nhiều requirement bị trùng ý nhưng diễn đạt khác nhau giữa các đội. Theo BABOK v3, BA nên làm gì?",
+    "choices": [
+      "Giữ nguyên vì càng nhiều bản mô tả càng an toàn",
+      "Xóa toàn bộ requirement cũ rồi tạo mới hoàn toàn",
+      "Để mỗi đội dùng một bộ requirement riêng không cần liên kết",
+      "Maintain Requirements bằng cách chuẩn hóa mô tả, loại bỏ trùng lặp, cập nhật phiên bản phù hợp và giữ repository yêu cầu nhất quán theo nhu cầu sử dụng"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một change initiative có nhiều phương án triển khai, nhưng chỉ một số phương án phù hợp với năng lực công nghệ hiện tại. BA nên làm gì?",
+    "choices": [
+      "Xác định design options rồi đánh giá mức phù hợp với need, value, constraints và organizational capability trước khi khuyến nghị phương án tối ưu",
+      "Chọn phương án hiện đại nhất dù chưa phù hợp hạ tầng",
+      "Chọn phương án rẻ nhất mà không xét hiệu quả kinh doanh",
+      "Để vendor chọn thay vì BA phân tích"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi stakeholder yêu cầu thêm một báo cáo mới, BA nhận thấy yêu cầu này chủ yếu phục vụ quyết định quản trị chứ không thay đổi transaction flow. Cách nhìn phù hợp nhất là gì?",
+    "choices": [
+      "Xem đây luôn là business requirement vì do quản lý yêu cầu",
+      "Xác định đây có thể là một solution requirement hoặc design cần được liên kết với business objective cụ thể thay vì mặc định coi là thay đổi quy trình cốt lõi",
+      "Xếp nó thành transition requirement để triển khai nhanh hơn",
+      "Bỏ qua vì không tác động transaction flow"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo tài liệu TTM, TTM được định nghĩa là khoảng thời gian nào?",
+    "choices": [
+      "Từ lúc Dev bắt đầu code đến khi SIT hoàn tất",
+      "Từ khi nghiệp vụ xác nhận nhu cầu và chốt đầu bài với BA bằng PYC cho đến khi phiên bản khả dụng đầu tiên (MVP) được release và deliver cho người dùng cuối",
+      "Từ lúc PO tạo Epic đến khi UAT được approve",
+      "Từ lúc BA nhận tài liệu đặc tả đến khi golive hoàn tất"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo hướng dẫn tracking TTM, BA Start Date được tính theo mốc nào?",
+    "choices": [
+      "Ngày BA tạo User Story đầu tiên",
+      "Ngày bắt đầu chuyển trạng thái design của epic với điều kiện là phải có phiếu yêu cầu đã được phê duyệt trên MO",
+      "Ngày Dev nhận estimate từ SA",
+      "Ngày QA export dữ liệu Jira hằng tuần"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong công thức TTM, trạng thái nào được hiểu là thời gian bị tạm dừng trong một khâu?",
+    "choices": [
+      "Pending, tức blocked time phát sinh trong khâu đang thực hiện",
+      "Duration",
+      "Cycle",
+      "Waiting"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong mẫu tài liệu US, mục nào dùng để mô tả tiêu chí nghiệm thu theo cấu trúc Given/When/Then?",
+    "choices": [
+      "Yêu cầu khác",
+      "Tác động đến hệ thống",
+      "Yêu cầu về mã hóa dữ liệu",
+      "Mục IV. Tiêu chí nghiệm thu (Confirmation), có Scenario, Given, When, Then và Mockup"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Theo tasklist BA_Qtr PTPM, SLA phản hồi kế hoạch dự kiến và đánh giá tính khả thi với PO là bao lâu?",
+    "choices": [
+      "Trong vòng 1 ngày làm việc kể từ khi tiếp nhận yêu cầu",
+      "Trong vòng 3 ngày làm việc để có thêm thời gian khảo sát",
+      "Trong vòng 5 ngày làm việc sau khi thống nhất phạm vi",
+      "Trong vòng 2 ngày làm việc để phản hồi kế hoạch dự kiến và đánh giá tính khả thi với PO"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Vì sao Waiting Time không được tính vào Execution của bất kỳ khâu nào?",
+    "choices": [
+      "Vì waiting luôn bằng 0 nếu team log đúng",
+      "Vì waiting chỉ dùng cho báo cáo của PO",
+      "Vìquy định waiting là thời gian chờ giữa các khâu, được tách riêng và cộng vào TTM như một thành phần độc lập",
+      "Vì waiting được xem là một dạng bug fixing của Dev"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Điểm khác nhau cốt lõi giữa Pending và Cancel là gì?",
+    "choices": [
+      "Pending chỉ dùng cho QA, Cancel chỉ dùng cho PO",
+      "Pending dùng cho Epic, Cancel dùng cho Task",
+      "Pending là chờ giữa các khâu, Cancel là chờ trong khâu",
+      "Pending là tạm dừng có lý do và có thể reopen để tiếp tục xử lý, còn Cancel là dừng hẳn không triển khai nữa"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Khi một YCPT là yêu cầu cải tiến có tác động đến quy trình, BA cần thể hiện sơ đồ quy trình như thế nào trong tài liệu US?",
+    "choices": [
+      "Không cần vẽ lại quy trình nếu đã có tài liệu gốc",
+      "Chỉ mô tả bằng text ở phần yêu cầu khác",
+      "Vẽ lại sơ đồ luồng và đánh dấu màu đỏ tại những bước thay đổi theo hướng dẫn của template",
+      "Vẽ mới toàn bộ nhưng bỏ qua các bước không đổi"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục “Giải pháp đo OKR” trong tài liệu US có ý nghĩa chính gì?",
+    "choices": [
+      "Là nơi BA ghi nhận lịch sử cập nhật tài liệu",
+      "Là nơi lưu toàn bộ testcase SIT và UAT",
+      "Là nơi mô tả phương án đo lường OKR và làm căn cứ để thiết kế kỹ thuật cũng như tổ chức đo lường sau triển khai",
+      "Là nơi mô tả phân quyền người dùng cuối"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao PYC phải có đủ phê duyệt của đơn vị gửi và đơn vị nhận cùng các thông tin bắt buộc?",
+    "choices": [
+      "Vì chỉ khi đủ hai chữ ký thì BA mới được viết US template",
+      "Vì đó là yêu cầu để Designer bắt đầu mockup",
+      "Vì chỉ khi đó PYC mới được coi là hợp lệ, và Khối CNTT có quyền từ chối yêu cầu không đúng nguyên tắc hoặc thiếu thông tin",
+      "Vì nếu thiếu thì vẫn làm nhưng không được tính KPI"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Vì sao BA cần bổ sung YCPT mới vào danh mục yêu cầu hoặc backlog ngay sau khi đánh giá ưu tiên và nguồn lực?",
+    "choices": [
+      "Để tăng số lượng đầu việc hiển thị trên backlog cho đầy đủ hơn",
+      "Để BA không cần trao đổi lại với PO trong các kỳ review tiếp theo",
+      "Vì chỉ team agile mới được phép quản lý yêu cầu qua backlog",
+      "Để sắp xếp thứ tự ưu tiên, review kế hoạch định kỳ và tránh bỏ sót các YCPT đã nhận qua mail nhưng chưa được đưa vào backlog"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Bạn đang soạn US cho một cải tiến không phát sinh thêm yêu cầu mã hóa dữ liệu so với hệ thống gốc. Cách điền phù hợp nhất là gì?",
+    "choices": [
+      "Bỏ trống mục 3.2 vì không có gì mới",
+      "Ghi rõ “Không phát sinh thêm và tham chiếu đến tài liệu thiết kế gốc” theo hướng dẫn của template",
+      "Ghi “Không có” để tiết kiệm thời gian review",
+      "Ghi “Sẽ bổ sung sau khi SA phân tích kỹ thuật”"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong QTPTPM, các yêu cầu L1/L2 có cần qua bảo vệ HĐGP hay không?",
+    "choices": [
+      "Tất cả các Level đều cần",
+      "Không cần thiết do chưa đủ độ phức tạp",
+      "Chỉ L2 mới cần",
+      "Chỉ L1 mới cần"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Bạn review một PYC nhưng phần mục đích yêu cầu chỉ ghi “để thuận tiện hơn cho người dùng”, không nêu hiện trạng hay vướng mắc. Nhận định phù hợp nhất là gì?",
+    "choices": [
+      "Có thể chấp nhận vì mục tiêu càng ngắn càng tốt",
+      "Chỉ cần bổ sung mockup là đủ",
+      "Chuyển ngay cho Dev để estimate rồi làm rõ sau",
+      "Cần yêu cầu bổ sung hiện trạng, vướng mắc/bất cập và mong muốn cụ thể để tránh giải sai vấn đề cốt lõi và gây rework"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một US cải tiến không ảnh hưởng thêm đến tải hệ thống. Tại mục 3.4 của US template, BA nên làm gì?",
+    "choices": [
+      "Ghi “Không phát sinh thêm - tham chiếu đến tài liệu gốc” hoặc điền link Epic/US/PYC nếu thừa kế khả năng chịu tải",
+      "Điền số lượng user truy cập đồng thời bằng 0",
+      "Chỉ ghi “Kế thừa Epic” mà không cần tham chiếu",
+      "Bỏ qua vì không phải phần bắt buộc"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Bạn đang viết acceptance criteria cho một màn hình mới. Cách trình bày nào bám template nhất?",
+    "choices": [
+      "Viết theo dạng mô tả chung, không cần tình huống",
+      "Chỉ liệt kê kết quả mong muốn cuối cùng",
+      "Trình bày theo Scenario, Given, When, Then và gắn mockup nếu có để tiêu chí nghiệm thu rõ ràng và kiểm thử được",
+      "Dùng checklist free-text để tester tự hiểu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một YCPT được phân loại sơ bộ ở mức L3. Trong bước phân tích và thiết kế giải pháp, BA nên phối hợp theo hướng nào?",
+    "choices": [
+      "Tự viết đặc tả và chờ đến lúc SIT mới mời SA tham gia",
+      "Mời SA tham gia xây dựng giải pháp, chuẩn bị bảo vệ hội đồng giải pháp về luồng nghiệp vụ và cung cấp đầy đủ thông tin nghiệp vụ khi hội đồng yêu cầu làm rõ hoặc chỉnh sửa",
+      "Bỏ qua hội đồng giải pháp vì L3 chưa phải mức rủi ro cao",
+      "Chỉ cần làm checklist BA, các phần còn lại để Dev Lead tự xử lý"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong weekly tracking, IT chưa cập nhật Start/End của task đúng thời điểm. Rủi ro lớn nhất theo tài liệu TTM là gì?",
+    "choices": [
+      "Chỉ ảnh hưởng dashboard nội bộ của QA, không ảnh hưởng KPI",
+      "Chỉ làm tăng pending time nhưng không ảnh hưởng execution",
+      "Không ảnh hưởng nếu team còn nhớ timeline bằng miệng",
+      "Data quality sai sẽ dẫn đến metric sai, từ đó không thể phân tích đúng bottleneck và không cải tiến được hiệu quả"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "PYC của một tính năng mới chưa điền chỉ tiêu tần suất sử dụng và cũng không có bằng chứng ngoại lệ. BA nên xử lý thế nào?",
+    "choices": [
+      "Yêu cầu bổ sung chỉ tiêu mức độ sử dụng hoặc bằng chứng phê duyệt ngoại lệ vì đây là nội dung bắt buộc trong biểu mẫu",
+      "Bỏ qua vì business metric là đủ rồi",
+      "Tự điền đại một con số để hồ sơ tròn form",
+      "Chuyển sang US rồi mới hỏi lại sau"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong Quy trình PTPM, việc quyết định có thành lập theo team agile hay không phụ thuộc vào văn bản nào?",
+    "choices": [
+      "Tờ trình dự án",
+      "PM tự quyết định",
+      "Tiêu chí thành lập team Agile",
+      "BA tự quyết định"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi Initiative chưa có outcome rõ ràng, BA cần ưu tiên làm gì trước?",
+    "choices": [
+      "Tạo Epic ngay để triển khai",
+      "Làm rõ mục tiêu, outcome và tiêu chí đo lường thành công của Initiative",
+      "Đưa Initiative vào backlog ưu tiên thấp",
+      "Chờ Scrum Master quyết định"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Epic tồn tại lâu nhưng không sinh User Story phản ánh điều gì?",
+    "choices": [
+      "Thiếu nhân sự phát triển",
+      "Epic chưa được làm rõ đủ giá trị hoặc phạm vi để có thể phân rã",
+      "Công cụ Jira bị lỗi",
+      "PO không tham gia họp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Enabler Story được sử dụng nhằm mục đích nào?",
+    "choices": [
+      "Sinh giá trị trực tiếp cho người dùng cuối",
+      "Hỗ trợ khả năng delivery và giảm rủi ro cho việc tạo ra giá trị",
+      "Dùng để thay thế Task",
+      "Estimate effort Sprint"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Rủi ro lớn nhất khi quản lý Enabler Story như User Story thông thường là gì?",
+    "choices": [
+      "Tăng số lượng backlog",
+      "Mất định hướng giá trị và không kiểm soát được rủi ro hỗ trợ delivery",
+      "Khó ước lượng effort",
+      "Tăng họp refinement"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA hỗ trợ PO hiệu quả nhất ở cấp Trung tâm thông qua hoạt động nào?",
+    "choices": [
+      "Viết backlog thay PO",
+      "Cung cấp phân tích, insight nghiệp vụ để hỗ trợ quyết định ưu tiên",
+      "Quyết định thay PO",
+      "Điều hành họp Sprint"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sprint Goal không rõ ràng thường bắt nguồn từ nguyên nhân nào?",
+    "choices": [
+      "Sprint quá ngắn",
+      "BA và PO chưa thống nhất mục tiêu và phạm vi giá trị cần đạt",
+      "Dev thiếu kinh nghiệm",
+      "Công cụ quản lý không phù hợp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Ưu tiên backlog thay đổi liên tục thường phản ánh vấn đề gì?",
+    "choices": [
+      "Thị trường thay đổi",
+      "Thiếu tiêu chí ưu tiên rõ ràng gắn với mục tiêu kinh doanh",
+      "Dev phản đối yêu cầu",
+      "Velocity thấp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "User Story đạt DoR nhưng thiếu Acceptance Criteria sẽ gây ra điều gì?",
+    "choices": [
+      "Khó estimate effort",
+      "Hiểu sai kỳ vọng và tăng rủi ro delivery sai giá trị",
+      "Giảm velocity",
+      "Tăng số họp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi nhận yêu cầu mang tính solution‑driven, hành động phù hợp nhất của BA là gì?",
+    "choices": [
+      "Ghi nhận và triển khai ngay",
+      "Hỏi lại bài toán, mục tiêu và giá trị cần giải quyết trước khi bàn giải pháp",
+      "Chuyển cho Dev phân tích",
+      "Thêm vào backlog thấp"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "BA trưởng thành (mature) thể hiện rõ nhất ở điểm nào?",
+    "choices": [
+      "Biết nhiều framework Agile",
+      "Xử lý tốt sự mơ hồ và đưa ra quyết định dựa trên giá trị",
+      "Viết tài liệu chi tiết",
+      "Am hiểu kỹ thuật sâu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Agile MB được coi là thành công nhất khi nào?",
+    "choices": [
+      "Tuân thủ đầy đủ quy trình",
+      "Liên tục delivery được giá trị kinh doanh thực",
+      "Velocity cao",
+      "Ít lỗi phát sinh"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BHKN: Mọi thông tin liên quan đến đầu mục công việc golive cần trao đổi rõ ràng và có sự đánh giá của 3 bên BA/DEV/TEST là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai",
+      "2,Đúng",
+      "Sai",
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "question": "Trong BHKN: Checklist golive đã được phê duyệt, nếu thay đổi cần được phê duyệt của CAB là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN:Việc thông báo kế hoạch và phạm vi golive là trách nhiệm của Change Coordinator (Change Coor) là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: Với các dự án/phát triển sản phẩm do đối tác thực hiện, đầu mối tiếp nhận yêu cầu sang CNTT KHÔNG PHẢI là DEV Lead là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BHKN:Các Khối nghiệp vụ phải đảm bảo điều kiện pháp lý trước khi golive là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN:Trường hợp nhiều change cùng tác động vào 1 dịch vụ, KHÔNG golive đồng thời để tiết kiệm thời gian downtime là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN: MSTeams KHÔNG được quy định là kênh truyền thông chính thức của trung tâm trong mọi trường hợp là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong BHKN: MSTeams KHÔNG được quy định là kênh truyền thông chính thức của trung tâm trong mọi trường hợp là đúng hay sai?Khi nâng cấp các hệ thống core (T24, Way4, Ewallet), với những case giao dịch tài chính không thể kiểm thử ngay sau golive, cần đảm bảo cơ chế theo dõi ngay khi có phát sinh để phát hiện và xử lý kịp thời là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong BHKN:Đối với những change fix lỗi, bắt buộc Nghiệp vụ/BA tham gia đánh giá, phân tích và nghiệm thu vì đây là vấn đề kỹ thuật là đúng hay sai?",
+    "choices": [
+      "2,Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đâu là MỤC TIÊU của Hội đồng giải pháp ?",
+    "choices": [
+      "Thiết kế giải pháp đồng bộ với chiến lược công nghệ và lộ trình chuyển đổi số của MB; Giảm chi phí; Tối ưu hóa nguồn lực",
+      "Thiết kế giải pháp đồng bộ với chiến lược công nghệ và lộ trình chuyển đổi số của MB. \nTăng hiệu quả sử dụng nguồn lực, công nghệ, đảm bảo chất lượng giải pháp, chú trọng nhu cầu kinh doanh, trải nghiệm người dùng và tối ưu chi phí;\nCập nhật và dẫn dắt xu hướng công nghệ mới;\nĐảm bảo tuân thủ các quy định, chính sách của Khối CNTT và MB theo từng thời kỳ;",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "VAI TRÒ của Hội đồng giải pháp cấp 1 là gì ?",
+    "choices": [
+      "Chỉ đạo, định hướng về công nghệ, thiết kế giải pháp",
+      "Kiểm soát, đánh giá, phê duyệt giải pháp: Đảm bảo tuân thủ các quy định của NHNN và Pháp luật Việt Nam, các tổ chức quốc tế, của MB và Khối CNTT theo từng thời kỳ; \nĐánh giá mức độ đáp ứng yêu cầu về kỹ thuật, nghiệp vụ\nPhản biện và góp ý: Đưa ra nhận định, phản biện về các điểm chưa rõ, chưa tối ưu hoặc tiềm ẩn rủi ro; Hướng dẫn, tư vấn cải thiện thiết kế.",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "VAI TRÒ của Hội đồng giải pháp cấp 2 là gì ?",
+    "choices": [
+      "Chỉ đạo, định hướng về công nghệ, thiết kế giải pháp\nKiểm soát, đánh giá, phê duyệt giải pháp: Đảm bảo tuân thủ các quy định của NHNN và Pháp luật Việt Nam, các tổ chức quốc tế, của MB và Khối CNTT theo từng thời kỳ; Đánh giá mức độ đáp ứng yêu cầu về kỹ thuật, nghiệp vụ\nPhản biện và góp ý: Đưa ra nhận định, phản biện về các điểm chưa rõ, chưa tối ưu hoặc tiềm ẩn rủi ro; Hướng dẫn, tư vấn cải thiện thiết kế.",
+      "D. Phân tích và làm rõ các trường hợp phức tạp, các giao dịch tài chính quy mô lớn, tác động ảnh hưởng cần đến sự phối hợp liên quan của nhiều đơn vị",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đâu là PHẠM VI của Hội đồng giải pháp cấp 1",
+    "choices": [
+      "Các yêu cầu L3, L4\nCác yêu cầu khác theo chỉ định của Hội đồng giải pháp cấp 1 nếu có hoặc nhóm dự án có đề xuất bảo vệ và được hội đồng chấp thuận/phê duyệt",
+      "Các yêu cầu chưa được thống nhất giải pháp giữa DEV/BA",
+      "Toàn bộ các đáp án trên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Đâu là PHẠM VI của Hội đồng giải pháp cấp 2",
+    "choices": [
+      "Các giải pháp chưa thống nhất được tại Hội đồng giải pháp cấp 1.\nCác giải pháp áp dụng công nghệ mới lần đầu tại MB hoặc các nội dung liên quan đến quy hoạch nghiệp vụ, kỹ thuật từ 2 hệ thống/ứng dụng trở lên.\nCác dự án CNTT (bao gồm dự án phát triển nội bộ hoặc mua sắm bên ngoài)\nCác yêu cầu khác theo chỉ đạo của Hội đồng giải pháp cấp 2 hoặc từ Ban lãnh đạo.",
+      "Các yêu cầu có tính chất phức tạp",
+      "Toàn bộ các đáp án trên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thành phần tham gia Hội đồng giải pháp cấp 1 gồm những ai ?",
+    "choices": [
+      "A. SA/AA",
+      "B. BA",
+      "C. DEV LEAD các hệ thống liên quan",
+      "D. Các thành viên liên quan khác (Vận hành, ANTT, CBQL các role (nếu cần))",
+      "E. Toàn bộ các đáp án trên"
+    ],
+    "correct_answers": [
+      4
+    ]
+  },
+  {
+    "question": "Thành phần tham gia Hội đồng giải pháp cấp 2 gồm những ai ?",
+    "choices": [
+      "A. SA/AA",
+      "B. BA",
+      "C. DEV LEAD các hệ thống liên quan",
+      "D. Các thành viên liên quan khác (Vận hành, ANTT, CBQL các role (nếu cần))",
+      "E. Cán bộ phụ trách HĐGP cấp 1",
+      "F. Toàn bộ các đáp án trên"
+    ],
+    "correct_answers": [
+      5
+    ]
+  },
+  {
+    "question": "Đơn vị nào sẽ phụ trách đăng ký họp HĐGP ?",
+    "choices": [
+      "A. Thư ký HĐGP",
+      "B. BA",
+      "C. SA",
+      "C. Cả ba đáp án trên"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trường hợp chưa có tài liệu phân tích yêu cầu chi tiết của BA thì có được bảo vệ HĐGP hay không ?",
+    "choices": [
+      "A. Có",
+      "B. Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "PO có được mời tham gia họp trong trường hợp chưa có tài liệu phân tích yêu cầu chi tiết của BA và có các yêu cầu cần được làm rõ hay không ?",
+    "choices": [
+      "A. Có",
+      "B. Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trước khi họp HĐGP có cần xuất dữ liệu từ các yêu cầu nghiệp vụ để hỗ trợ việc ra quyết định của HĐGP hay không ?",
+    "choices": [
+      "A.Có (trong mọi trường hợp)",
+      "B. Có (nếu thấy cần thiết hoặc được yêu cầu)",
+      "C. Không"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp chưa thống nhất ý kiến giữa các bên liên quan (DEV/BA/SA/PO) thì có được họp HĐGP hay không?",
+    "choices": [
+      "A. Có",
+      "B. Không"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Ủy quyền Service Owner cho anh Phạm Văn Cường – GĐTT VHDV phê duyệt các change nào?",
+    "choices": [
+      "YCPT_L1",
+      "YCPT_L2",
+      "Các change thuộc các nhóm khác mà đánh giá không có downtime dịch vụ",
+      "Tất cả phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Nếu chưa đủ thông tin để đánh giá hoặc không đồng ý thay đổi, CAB cần thực hiện như thế nào",
+    "choices": [
+      "2. Reject và note rõ comment lý do từ chối phê duyệt để đảm bảo OLA phê duyệt.",
+      "1. Không cần làm gì"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Thời gian giai đoạn Golive được tính như thế nào?",
+    "choices": [
+      "Thời gian Change Controller duyệt + thời gian CAB/ SO duyệt",
+      "Thời gian chờ thực hiện thay đổi (từ khi SO duyệt xong đến ngày golive)",
+      "Thời gian thực hiện thay đổi",
+      "Tất cả phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Change Coor cần thực hiện đăng ký golive như thế nào?",
+    "choices": [
+      "1. Đăng ký thông qua file Excel",
+      "2. Change Coor đăng ký qua Schedule start time, task type của task golive. Cần SO xác nhận nếu thời gian thực hiện task ngoài khung giờ được phép golive."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Change nào sau đây cần qua hội đồng CAB tập trung?",
+    "choices": [
+      "Có ảnh hưởng hoặc tác động tới các hệ thống thành phần phục vụ cho hệ thống Ưu tiên 3",
+      "Các sản phảm dịch vụ mới phục vụ khách hàng ngoài",
+      "CAB yêu cầu",
+      "Tất cả phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng về Tần suất\nHoạt động của Hội đồng CAB",
+    "choices": [
+      "1. Cố định 1 lần/ tuần vào ngày thứ 3",
+      "2. Cố định 2 lần/ tuần vào ngày thứ 3 và thứ 5."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hội đồng CAB cần có trách nhiệm gì?",
+    "choices": [
+      "Tham gia đánh giá tác động của yêu cầu thay đổi",
+      "Tham gia đánh giá tính tuân thủ của yêu cầu thay đổi",
+      "Tham gia đánh giá kế hoạch triển khai yêu cầu thay đổi",
+      "Tất cả phương án trên."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Cấp phê duyệt SO với Change YCPT_L4?",
+    "choices": [
+      "1. GĐ/PGĐ trung tâm",
+      "2. PGĐK"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với các change CAB có yêu cầu phối hợp với ITOM thiết lập cảnh báo khi golive dịch vụ/sản phẩm mới, Change coor phải thực hiện?",
+    "choices": [
+      "2. Tạo task cho ITOM thực hiện thiết lập cảnh báo trên SDP và Chỉ thực hiện Close Change khi ITOM hoàn thành và đóng task tạo cảnh báo.",
+      "1. Thực hiện add ITOM vào nhóm golive và thông báo công việc theo nhu cầu của Change"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phân loại mức ảnh hưởng Change ở mức độ Thông thường bao gồm đánh giá như thế nào?",
+    "choices": [
+      "Không làm ảnh hưởng hoặc trải nghiệm tệ tới KH, không làm gián đoạn dịch vụ phục vụ KH ngoài quá 2 phút.",
+      "Không có nguy cơ gây gián đoạn, hoặc lỗi diện rộng do các hoạt động golive gây ra (VD:\nnguy cơ lock DB gây ảnh hưởng tới GD, nguy cơ lỗi giao diện,\nnguy cơ lỗi ứng dụng do việc restart hoặc đổi cấu hình,...)",
+      "Tất cả phương án trên",
+      "Hoạt động golive có thể làm gián đoạn hệ thống, hoặc ảnh hưởng\ntới trải nghiệm KH.",
+      "Nguy cơ gây ra lỗi diện rộng hoặc nguy cơ có thể làm ảnh hưởng trải nghiệm tệ tới KH\nkhi sử dụng tính năng trọng yếu.",
+      "Tất cả phương án trên"
+    ],
+    "correct_answers": [
+      2,
+      5
+    ]
+  },
+  {
+    "question": "Đối với các change tính chất yêu cầu là Hệ thống mới/Sản phẩm/ dịch vụ mới/ quy trình mới/Tính năng mới theo quy định được phép golive  vào ngày nào?",
+    "choices": [
+      "2. Thứ 2, Thứ 4, Thứ 5, Thứ 6.",
+      "1. Thứ 7, Chủ nhật"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Xu hướng công nghệ chủ đạo năm 2026",
+    "choices": [
+      "A.ChatGPT",
+      "C. Deepfake",
+      "B. AI Agent"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "“Mức độ ảnh hưởng” của sự cố được dùng để đánh giá nội dung nào sau đây?",
+    "choices": [
+      "A. Chi phí bảo trì hệ thống",
+      "B. Phạm vi ảnh hưởng và tính chất nghiêm trọng của sự cố",
+      "C. Thời gian triển khai dự án",
+      "D. Số lượng nhân sự IT trực ca"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Quy trình thực hiện quản lý sự cố CNTT bao gồm các bước nào?",
+    "choices": [
+      "2.\nB1. Tiếp nhận và Phân loại\nB2. Phối hợp và Xử lý sự cố\nB3. Đánh giá, Báo cáo và Đóng",
+      "1.\nB1. Tiếp nhận yêu cầu\nB2. Phần loại, Phối hợp và Xử lý sự cố\nB3. Đánh giá, Báo cáo và Đóng",
+      "3.\nB1. Tiếp nhận và Phân loại\nB2. Phối hợp và Xử lý sự cố\nB3. Đánh giá, Báo cáo",
+      "4.\nB1. Tiếp nhận và Phân loại\nB2. Phối hợp và Xử lý sự cố, Đánh giá\nB3. Báo cáo và Đóng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tại cùng 1 thời điểm có 2 sự cố cùng phát sinh như sau:\nSự cố 1: GDV tại chi nhánh không thể đăng nhập vào giao diện SC chuyển tiền\nSự cố 2: Hệ thống chuyển tiền nhận diện mã lỗi tường minh thành mã lỗi không tường minh dẫn đến một số giao dịch treo tiền của KH thay vì hoàn tiền tại thời điểm.\nSự cố nào sẽ được ưu tiên sự lý hơn?",
+    "choices": [
+      "A. Sự cố 1",
+      "B. Sự cố 2",
+      "C: Tìm cách xử lý cả 2 cùng lúc"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Vai trò requester trong quy trình quản lý sự cố bao gồm những ai",
+    "choices": [
+      "A. Người dùng gửi yêu cầu qua Quy trình quản lý yêu cầu",
+      "C. ITOM/ Monitoring Tool",
+      "D. Nhân sự CNTT phát hiện sự cố",
+      "B. Tất cả"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối với Hệ thống CNTT thông thường: sự cố gây gián đoạn toàn bộ dịch vụ, người dùng phải tạm dừng công việc do không có giải pháp thay thế, thì được xếp vào nhóm mức độ ảnh hưởng nào",
+    "choices": [
+      "2. Nghiêm trọng",
+      "1. Cao",
+      "3. Trung bình",
+      "4. Thấp"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Trong quy trình quản lý sự cố CNTT, những hoạt động nào thuộc giai đoạn “Phối hợp và xử lý sự cố”?",
+    "choices": [
+      "A. Ghi nhận thông tin người dùng",
+      "C. Tạo báo cáo đóng sự cố",
+      "B. Kiểm tra hệ thống và xác định nguyên nhân, thực hiện biện pháp khắc phục tạm thời (Workaround)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Theo Time To Market 2026, ngưỡng time phát triển của loại YCPT tính năng mới là bao nhiêu ngày?",
+    "choices": [
+      "B. 15 ngày",
+      "A. 30 ngày",
+      "C. 20 ngày"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Gap analysis dùng để làm gì ?",
+    "choices": [
+      "Kiểm thử phần mềm",
+      "So sánh trạng thái hiện tại và trạng thái mong muốn",
+      "Viết code",
+      "Triển khai hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Time To Market là gì?",
+    "choices": [
+      "B.Time to Market (TTM) là khoảng thời gian cần thiết để đưa một sản phẩm hoặc dịch vụ từ ý tưởng ban đầu ra thị trường và sẵn sàng bán cho khách hàng",
+      "A. Là thời gian từ khi BA tiếp nhận đề bài đến khi UAT hoàn thành",
+      "C. Là thời gian từ khi PO đưa đề bài đến khi UAT hoàn thành",
+      "D. Là thời gian từ khi BA phân tích đến khi golive sản phẩm"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Mục tiêu chính của việc “phân loại sự cố” là gì?",
+    "choices": [
+      "B. Xác định ưu tiên (priority) và tuyến xử lý/escalation phù hợp để khôi phục dịch vụ nhanh nhất.",
+      "A. Thống kê vòng đời tài sản CNTT để phục vụ kiểm kê.",
+      "C. Lập kế hoạch ngân sách và dự toán chi phí vận hành.",
+      "D. Đánh giá năng lực nhân sự và nhu cầu đào tạo hàng năm."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo template Phiếu yêu cầu phát triển phần mềm. Phân loại yêu cầu theo tính chất YCPT bao gồm các Loại yêu cầu nào?",
+    "choices": [
+      "Hệ thống mới,Sản phẩm mới/ Dịch vụ mới/ quy trình mới, Tính năng mới, Cải tiến",
+      "Sản phẩm mới/ Dịch vụ mới/ quy trình mới",
+      "Tính năng mới",
+      "Cải tiến"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo phân loại mức độ ưu tiên của YCPT. Nhóm yêu cầu phát triển nào được xếp vào mức \"Ưu tiên\"?",
+    "choices": [
+      "Các yêu cầu phát triển/ Chương trình hành động thuộc OKR/KPI được Tổng giám đốc giao đã đăng ký kế hoạch với khối CNTT. Các nhiệm vụ khác được BLĐ NH chỉ đạo ưu tiên cần tập trung đẩy nhanh tiến độ để đảm bảo thời gian ra sản phẩm phục vụ khách hàng/cạnh tranh được với thị trường hoặc đáp ứng yêu cầu tuân thủ gấp ảnh hưởng trọng yếu tới ngân hàng.",
+      "Các yêu cầu phát sinh.",
+      "Các công việc được sắp xếp dựa trên nguồn lực của Ngân hàng"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Nguyên tắc xây dựng Thẩm quyền phê duyệt Phiếu yêu cầu phát triển phần mềm dựa trên các yếu tố nào?",
+    "choices": [
+      "Phạm vi (Trong kế hoạch/ngoài kế hoạch)- Mức độ ưu tiên - Phân loại yêu cầu",
+      "Phạm vi (Trong kế hoạch/ngoài kế hoạch)",
+      "Phân loại yêu cầu",
+      "Mức độ ưu tiên"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Phiếu yêu cầu phát triển phần mềm được coi là hợp lệ khi nào?",
+    "choices": [
+      "PYC được phê duyệt của đơn vị gửi yêu cầu theo đúng thẩm quyền phê duyệt trên MO",
+      "PYC được điền đầy đủ các thông tin tại các mục bắt buộc điền.",
+      "PYC được điền đầy đủ các thông tin tại các mục bắt buộc điền theo Template và được phê duyệt của đơn vị gửi yêu cầu và đơn vị nhận yêu cầu (CNTT) theo đúng thẩm quyền phê duyệt trên MO."
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Yêu cầu phát triển trong kế hoạch được xác định là ?",
+    "choices": [
+      "Các yêu cầu Đơn vị nghiệp vụ đã đăng ký Kế hoạch Phát triển SPDV CNTT năm với Khối CNTT theo thông báo hàng năm",
+      "Các yêu cầu ngoài danh sách Kế hoạch Phát triển SPDV CNTT năm.",
+      "Yêu cầu phát sinh từ các dự án."
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Các Vai trò tham giá đánh giá ảnh hưởng dịch vụ thuộc trách nhiệm của các role nào ?",
+    "choices": [
+      "2. BA,Dev,Test",
+      "DEV",
+      "TEST",
+      "Kinh doanh"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khối CNTT sẽ làm gì nếu PYC đơn vị không thực hiện đúng quy định đăng ký phát triển SPDV CNTT?",
+    "choices": [
+      "Phải thực hiện và báo cáo sau",
+      "Được quyền từ chối PYC không đáp ứng đúng quy định",
+      "Chỉ được lùi thời gian triển khai",
+      "Phải tự bổ sung thông tin thay nghiệp vụ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hình thức phê duyệt Phiếu yêu cầu (PYC) được quy định như thế nào?",
+    "choices": [
+      "Xác nhận qua MSTeams",
+      "Qua email",
+      "2. Qua hệ thống M-Office (MO)",
+      "Xác nhận qua tin nhắn"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục đích chính của việc ban hành nguyên tắc đăng ký phát triển sản phẩm dịch vụ CNTT là gì?",
+    "choices": [
+      "Tăng số lượng yêu cầu mỗi năm",
+      "Để lựa chọn đúng việc và đúng mức ưu tiên triển khai; đảm bảo đầu vào của Quy trình phát triển được kiểm soát đầy đủ và chặt chẽ, tạo tiền đề rút ngắn thời gian triển khai.",
+      "Kéo dài thời gian triển khai yêu cầu",
+      "Hỗ trợ nâng cao trải nghiệm khách hàng."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nhóm yêu cầu phát triển nào được xếp vào mức độ ưu tiên \"Thông thường\"?",
+    "choices": [
+      "Yêu cầu thuộc OKR được Tổng Giám đốc giao",
+      "Nhiệm vụ do Ban Lãnh đạo chỉ đạo cần đẩy nhanh tiến độ",
+      "B. Các công việc còn lại được sắp xếp thực hiện dựa trên nguồn lực của Ngân hàng",
+      "Yêu cầu đáp ứng tuân thủ gấp ảnh hưởng trọng yếu"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Mục 5.KẾ HOẠCH TRIỂN KHAI DỰ KIẾN trong tài liệu Phiếu yêu cầu phát triển phần mềm dùng để?",
+    "choices": [
+      "Hỗ trợ PO đưa ra kế hoạch triển khai dự kiến theo từng hạng mục tương ứng. BA căn cứ kế hoạch và phạm vi trên PYC để phối hợp triển khai.",
+      "Chỉ đưa nội dung triển khai",
+      "Chỉ đưa kế hoạch triển khai",
+      "Thông tin ngày golive"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Tần suất Golive Các thay đổi phải bắt buộc toàn bộ KH sử dụng App hoặc Biz cần tải lại phiên bản ứng dụng ?",
+    "choices": [
+      "2. Tối đa golive 1 tháng/lần",
+      "Golive 1 tuần/lần",
+      "Golive 3 tháng/lần",
+      "Golive 3 tuần/lần"
+    ],
+    "correct_answers": [
+      0
+    ]
+  }
+]
