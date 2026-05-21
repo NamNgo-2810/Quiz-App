@@ -1,16 +1,116 @@
-// Wrong-answer reaction GIFs (exact GIF + sound matches only)
-const REACTION_GIFS = [
-    { src: "assets/reaction-gifs/aqua_crying_one.gif",    sound: "assets/reaction-sounds/cryingaqua_crying_one.wav",      label: "Nooo...!" },
-    { src: "assets/reaction-gifs/aqua_crying_two.gif",    sound: "assets/reaction-sounds/cryingaqua_crying_two.wav",      label: "Why?!" },
-    { src: "assets/reaction-gifs/god_is_dead.gif",        sound: "assets/reaction-sounds/shockedgod_is_dead.wav",         label: "God is dead." },
-    { src: "assets/reaction-gifs/aqua_mocking_laugh.gif", sound: "assets/reaction-sounds/mockingaqua_mocking_laugh.wav",  label: "HAHAHA!" },
-    { src: "assets/reaction-gifs/pekora_laugh.gif",       sound: "assets/reaction-sounds/mockingpekora_laugh.wav",        label: "Pekora laughs at you!" },
+const WRONG_REACTION_GIFS = [
+    // with sounds
+    { src: "assets/reaction-gifs/aqua_crying_one.gif",          sound: "assets/reaction-sounds/cryingaqua_crying_one.wav",      label: "Nooo...!" },
+    { src: "assets/reaction-gifs/aqua_crying_two.gif",          sound: "assets/reaction-sounds/cryingaqua_crying_two.wav",      label: "Why?!" },
+    { src: "assets/reaction-gifs/aqua_crying_three.gif",        sound: "assets/reaction-sounds/cryingaqua_crying_three.wav",    label: "I can't believe this..." },
+    { src: "assets/reaction-gifs/god_is_dead.gif",              sound: "assets/reaction-sounds/shockedgod_is_dead.wav",         label: "God is dead." },
+    { src: "assets/reaction-gifs/aqua_mocking_laugh.gif",       sound: "assets/reaction-sounds/mockingaqua_mocking_laugh.wav",  label: "HAHAHA!" },
+    { src: "assets/reaction-gifs/pekora_laugh.gif",             sound: "assets/reaction-sounds/mockingpekora_laugh.wav",        label: "Pekora laughs at you!" },
+    { src: "assets/reaction-gifs/gura_fail.gif",                sound: "assets/reaction-sounds/mockinggura_fail.wav",           label: "Gura is disappointed." },
+    { src: "assets/reaction-gifs/kaguya_o_kawaii.gif",          sound: "assets/reaction-sounds/mockingO_Kawaii_Koto.mp3",       label: "O kawaii koto~" },
+    { src: "assets/reaction-gifs/korone_no.gif",                sound: "assets/reaction-sounds/nokorone_no_no_no.wav",          label: "No no no!" },
+    { src: "assets/reaction-gifs/echidna_ehh.gif",              sound: "assets/reaction-sounds/suprisedechidna_ehh.wav",        label: "Ehh?!" },
+    { src: "assets/reaction-gifs/sakura_spray.gif",             sound: "assets/reaction-sounds/suprisedsakura_spray.wav",       label: "WHAT?!" },
+    { src: "assets/reaction-gifs/rin_shocked.gif",              sound: "assets/reaction-sounds/suprisedrin_eye_pop.wav",        label: "You're kidding me." },
+    { src: "assets/reaction-gifs/gura_r_u_frustrated.gif",      sound: "assets/reaction-sounds/gura_r_u_frustrated.wav",        label: "Are you serious?" },
+    { src: "assets/reaction-gifs/megumin_weak_explosion.gif",   sound: "assets/reaction-sounds/megumin_weak_explosion.wav",     label: "Fizzle..." },
+    // silent — crying
+    { src: "assets/reaction-gifs/crying_reaction_two.gif",      sound: null,  label: "..." },
+    { src: "assets/reaction-gifs/crying_reaction_four.gif",     sound: null,  label: "Heartbroken." },
+    { src: "assets/reaction-gifs/crying_reaction_five.gif",     sound: null,  label: "Please stop..." },
+    { src: "assets/reaction-gifs/crying_reaction_six.gif",      sound: null,  label: "The tears..." },
+    { src: "assets/reaction-gifs/naruto_crying.gif",            sound: null,  label: "Naruto cries for you." },
+    { src: "assets/reaction-gifs/miki_crying.gif",              sound: null,  label: "Look what you did." },
+    // silent — disappointed
+    { src: "assets/reaction-gifs/megumi-katou.gif",             sound: null,  label: "Megumi is done with you." },
+    { src: "assets/reaction-gifs/miku_disappointed_one.gif",    sound: null,  label: "Miku is disappointed." },
+    { src: "assets/reaction-gifs/miyano_disappointed.gif",      sound: null,  label: "Really?" },
+    { src: "assets/reaction-gifs/satsuki_disappointed.gif",     sound: null,  label: "Pathetic." },
+    { src: "assets/reaction-gifs/itsuki_disappointment.gif",    sound: null,  label: "Itsuki sighs." },
+    { src: "assets/reaction-gifs/spy-x-family-anya.gif",        sound: null,  label: "Anya is not pleased." },
+    { src: "assets/reaction-gifs/hori-depressed.gif",           sound: null,  label: "Hori is depressed now." },
+    { src: "assets/reaction-gifs/rin_no.gif",                   sound: null,  label: "No. Just no." },
+    { src: "assets/reaction-gifs/karyl_oh_no.gif",              sound: null,  label: "Oh no..." },
+    { src: "assets/reaction-gifs/emilia_oops.gif",              sound: null,  label: "Oops..." },
+    { src: "assets/reaction-gifs/taiga_upset.gif",              sound: null,  label: "Taiga is upset." },
+    { src: "assets/reaction-gifs/vignette_disappointed.gif",    sound: null,  label: "Even the demon is disappointed." },
+    { src: "assets/reaction-gifs/jahy_disappointed.gif",        sound: null,  label: "Jahy-sama is not amused." },
+    { src: "assets/reaction-gifs/kotonoha_tantrum.gif",         sound: null,  label: "Tantrum incoming." },
+    { src: "assets/reaction-gifs/genos_post_punch.gif",         sound: null,  label: "Genos felt that." },
+    { src: "assets/reaction-gifs/yotsuba_no.gif",               sound: null,  label: "Yotsuba says no!" },
+    // silent — frustrated / frustration
+    { src: "assets/reaction-gifs/jahy_frustrated.gif",          sound: null,  label: "Jahy is frustrated." },
+    { src: "assets/reaction-gifs/naruto_frustrated_one.gif",    sound: null,  label: "Naruto facepalms." },
+    { src: "assets/reaction-gifs/asuka_eye_twitch.gif",         sound: null,  label: "Eye twitch..." },
+    { src: "assets/reaction-gifs/senryuu_angry.gif",            sound: null,  label: "She's had enough." },
+    { src: "assets/reaction-gifs/head_desk_one.gif",            sound: null,  label: "*head desk*" },
+    { src: "assets/reaction-gifs/eye_twitch_one.gif",           sound: null,  label: "Twitching..." },
+    { src: "assets/reaction-gifs/frustration_reaction_san.gif", sound: null,  label: "UGHHH." },
+    { src: "assets/reaction-gifs/izuki_head_bang.gif",          sound: null,  label: "*head bang*" },
+    // silent — enraged / rage
+    { src: "assets/reaction-gifs/miku_rage.gif",                sound: null,  label: "Miku rages!" },
+    { src: "assets/reaction-gifs/enraged_gif_one.gif",          sound: null,  label: "ENRAGED." },
+    { src: "assets/reaction-gifs/enraged_gif_two.gif",          sound: null,  label: "She snapped." },
+    { src: "assets/reaction-gifs/yuno_snapped.gif",             sound: null,  label: "Yuno has snapped." },
+    { src: "assets/reaction-gifs/demon_rem.gif",                sound: null,  label: "Demon Rem appears." },
+    { src: "assets/reaction-gifs/hori_angry.gif",               sound: null,  label: "Hori is FURIOUS." },
+    { src: "assets/reaction-gifs/enraged_one.gif",              sound: null,  label: "Pure rage." },
+    // silent — shocked / shook
+    { src: "assets/reaction-gifs/megumin_shocked.gif",          sound: null,  label: "Megumin is shocked." },
+    { src: "assets/reaction-gifs/hifumi_surprised.gif",         sound: null,  label: "Hifumi can't believe it." },
+    { src: "assets/reaction-gifs/ram_rem_shocked.gif",          sound: null,  label: "Ram & Rem are shocked." },
+    { src: "assets/reaction-gifs/rikka_shocked.gif",            sound: null,  label: "Rikka is shook." },
+    { src: "assets/reaction-gifs/misato_shocked_one.gif",       sound: null,  label: "Misato is shook." },
+    { src: "assets/reaction-gifs/nadeshiko_shook.gif",          sound: null,  label: "Nadeshiko is shook." },
+    { src: "assets/reaction-gifs/shake_head_kokkoro.gif",       sound: null,  label: "Kokkoro shakes her head." },
+    // silent — sad
+    { src: "assets/reaction-gifs/remi_sorry.gif",               sound: null,  label: "Remi is sorry for you." },
+    // silent — no / table_slam
+    { src: "assets/reaction-gifs/jahy_no.gif",                  sound: null,  label: "Jahy says NO." },
+    { src: "assets/reaction-gifs/aqua_table_slam.gif",          sound: null,  label: "*table slam*" },
+    // silent — mocking
+    { src: "assets/reaction-gifs/rin_mocking.gif",              sound: null,  label: "Rin mocks you." },
+    { src: "assets/reaction-gifs/blep_two.gif",                 sound: null,  label: "Blep." },
+    { src: "assets/reaction-gifs/ruka_blep.gif",                sound: null,  label: "Ruka bleps at you." },
+    { src: "assets/reaction-gifs/watakoi_mocking.gif",          sound: null,  label: "They're laughing at you." },
+    // silent — angry / annoyed
+    { src: "assets/reaction-gifs/aqua_angry.gif",               sound: null,  label: "Aqua is angry!" },
+    { src: "assets/reaction-gifs/annoyed_nino.gif",             sound: null,  label: "Nino is annoyed." },
+];
+
+const CORRECT_REACTION_GIFS = [
+    // with sounds
+    { src: "assets/reaction-gifs/genos_incinerate.gif",       sound: "assets/reaction-sounds/successgenos_incinerate.wav",    label: "INCINERATE!" },
+    { src: "assets/reaction-gifs/gura_come_at_me_bro.gif",    sound: "assets/reaction-sounds/smuggura_come_at_me_bro.wav",    label: "Come at me!" },
+    { src: "assets/reaction-gifs/megumin_explosion.gif",      sound: "assets/reaction-sounds/megumin_explosion.wav",          label: "EXPLOSION!!!" },
+    // silent
+    { src: "assets/reaction-gifs/aqua_celebration.gif",       sound: null,  label: "Yes!!" },
+    { src: "assets/reaction-gifs/fist_pump_one.gif",          sound: null,  label: "Nailed it!" },
+    { src: "assets/reaction-gifs/korone_clapping.gif",        sound: null,  label: "Korone approves!" },
+    { src: "assets/reaction-gifs/kujo_excited_one.gif",       sound: null,  label: "Yatta!!" },
+    { src: "assets/reaction-gifs/nano_bloom.gif",             sound: null,  label: "Blooming!" },
+    { src: "assets/reaction-gifs/emilia_happy.gif",           sound: null,  label: "Great job!" },
+    { src: "assets/reaction-gifs/rem_happy.gif",              sound: null,  label: "Rem is pleased~" },
+    { src: "assets/reaction-gifs/ryuko_happy.gif",            sound: null,  label: "That's right!" },
+    { src: "assets/reaction-gifs/anya_happy.gif",             sound: null,  label: "Heh!" },
+    { src: "assets/reaction-gifs/megumin_staff_happy.gif",    sound: null,  label: "Magnificent!" },
+    { src: "assets/reaction-gifs/zero_two_happy_one.gif",     sound: null,  label: "Zero Two approves!" },
+    { src: "assets/reaction-gifs/haruhi_party_hat.gif",       sound: null,  label: "Party time!" },
+    { src: "assets/reaction-gifs/happy_reaction_one.gif",     sound: null,  label: "Woohoo!" },
+    { src: "assets/reaction-gifs/megumin_excited_one.gif",    sound: null,  label: "Let's go!!" },
+    { src: "assets/reaction-gifs/taiga_excited_one.gif",      sound: null,  label: "Taiga is hyped!" },
+    { src: "assets/reaction-gifs/aoba_excited_one.gif",       sound: null,  label: "So exciting!" },
+    { src: "assets/reaction-gifs/nino_happy.gif",             sound: null,  label: "Nino loves this!" },
+    { src: "assets/reaction-gifs/ryuko_success.gif",          sound: null,  label: "Victory!!" },
+    { src: "assets/reaction-gifs/naruto_dance.gif",           sound: null,  label: "Naruto dances for you!" },
+    { src: "assets/reaction-gifs/smug_reaction_five.gif",     sound: null,  label: "Obviously correct." },
 ];
 
 let reactionShown = false;
 let reactionAudio = null;
 
-const showWrongAnswerReaction = () => {
+const showReaction = (pool, isCorrect) => {
+    if (window.innerWidth < 768) return;
     if (reactionShown) return;
     reactionShown = true;
 
@@ -18,20 +118,24 @@ const showWrongAnswerReaction = () => {
     const gifEl = document.getElementById("reactionGif");
     const labelEl = document.getElementById("reactionLabel");
 
-    const pick = REACTION_GIFS[Math.floor(Math.random() * REACTION_GIFS.length)];
+    const pick = pool[Math.floor(Math.random() * pool.length)];
 
-    // Force GIF restart by clearing src first
     gifEl.src = "";
     gifEl.src = pick.src;
     labelEl.textContent = pick.label;
 
+    overlay.classList.toggle("correct", isCorrect);
     overlay.classList.remove("hiding", "hidden");
 
-    // Play matching sound
     if (reactionAudio) { reactionAudio.pause(); reactionAudio = null; }
-    reactionAudio = new Audio(pick.sound);
-    reactionAudio.play();
+    if (pick.sound) {
+        reactionAudio = new Audio(pick.sound);
+        reactionAudio.play();
+    }
 };
+
+const showWrongAnswerReaction  = () => showReaction(WRONG_REACTION_GIFS, false);
+const showCorrectAnswerReaction = () => showReaction(CORRECT_REACTION_GIFS, true);
 
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
@@ -290,6 +394,7 @@ const checkAnswer = () => {
         if (isCorrect && !scoreAdded) {
             scoreAdded = true;
             incrementScore(CORRECT_BONUS);
+            showCorrectAnswerReaction();
         } else if (!isCorrect) {
             showWrongAnswerReaction();
         }

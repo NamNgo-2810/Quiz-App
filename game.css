@@ -231,3 +231,12 @@
   font-family: 'Press Start 2P', monospace;
   text-shadow: 2px 2px 0 #000;
 }
+
+.reaction-overlay.correct .reaction-card {
+  border-color: #00b543;
+  box-shadow: 6px 6px 0 #00b543;
+}
+
+.reaction-overlay.correct .reaction-label {
+  color: #00b543;
+}
