@@ -1,0 +1,1073 @@
+[
+  {
+    "question": "Trong PMP, chỉ số hiệu quả chi phí (Cost Performance Index - CPI) được tính theo công thức nào?",
+    "choices": [
+      "CPI = EV - AC",
+      "CPI = EV / AC",
+      "CPI = PV / AC",
+      "CPI = EV / PV"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo tuyên ngôn Agile, yếu tố nào sau đây được ưu tiên cao hơn \"Quy trình và công cụ\"?",
+    "choices": [
+      "Kế hoạch chi tiết",
+      "Cá nhân và sự tương tác",
+      "Đàm phán hợp đồng",
+      "Tài liệu đầy đủ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Tại sao \"Phân tích các bên liên quan\" (Stakeholder Analysis) cần được thực hiện liên tục trong suốt vòng đời dự án?",
+    "choices": [
+      "Để đảm bảo mọi người đều được tăng lương như nhau",
+      "Vì thái độ và mức độ ảnh hưởng của các bên có thể thay đổi theo thời gian",
+      "Để tìm cách loại bỏ các bên liên quan có ý kiến phản đối",
+      "Để hoàn thành đủ số lượng hồ sơ theo quy định hành chính"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Điểm khác biệt chính giữa \"Kiểm soát chất lượng\" (Quality Control) và \"Đảm bảo chất lượng\" (Quality Assurance) là gì?",
+    "choices": [
+      "QC tập trung vào con người, QA tập trung vào máy móc",
+      "QC tập trung vào kiểm tra sản phẩm đầu ra, QA tập trung vào cải tiến quy trình thực hiện",
+      "QA chỉ thực hiện khi dự án kết thúc, QC thực hiện khi bắt đầu",
+      "Không có sự khác biệt, hai khái niệm này là một"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Kỹ thuật \"Thúc đẩy\" (Facilitation) trong các buổi họp dự án có ý nghĩa gì đối với người quản lý?",
+    "choices": [
+      "Để người quản lý có thể áp đặt ý kiến cá nhân lên đội ngũ",
+      "Giúp dẫn dắt nhóm đi đến sự đồng thuận và đạt được mục tiêu buổi họp",
+      "Để ghi chép lại các sai phạm của nhân viên trong buổi họp",
+      "Để kéo dài thời gian buổi họp nhằm tránh phải làm việc chuyên môn"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Dự án đang chậm tiến độ, Quản lý quyết định bổ sung thêm nhân sự vào các hoạt động trên đường găng. Kỹ thuật này được gọi là gì?",
+    "choices": [
+      "Fast Tracking (Thực hiện song song)",
+      "Crashing (Nén tiến độ)",
+      "Resource Leveling (San bằng nguồn lực)",
+      "Scope Creep (Phình to phạm vi)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong một dự án Agile, nếu Product Owner liên tục thay đổi yêu cầu trong khi Sprint đang diễn ra, Scrum Master nên xử lý thế nào?",
+    "choices": [
+      "Chấp nhận và yêu cầu đội ngũ làm thêm giờ để đáp ứng",
+      "Giải thích cho PO rằng không nên thay đổi Sprint Backlog và đợi tới kỳ lập kế hoạch sau",
+      "Đình chỉ PO vì vi phạm nguyên tắc làm việc của nhóm",
+      "Để đội ngũ tự quyết định có làm theo yêu cầu mới hay không"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi giải quyết mâu thuẫn giữa hai chuyên gia kỹ thuật về phương án triển khai, người quản lý chọn phương án \"Thoả hiệp\" (Compromising). Kết quả của phương án này là gì?",
+    "choices": [
+      "Cả hai bên đều hoàn toàn hài lòng với kết quả",
+      "Mỗi bên đều phải nhượng bộ và không có bên nào thắng hoàn toàn",
+      "Một bên thắng tuyệt đối và một bên thua tuyệt đối",
+      "Mâu thuẫn được giải quyết tận gốc và không bao giờ lặp lại"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một rủi ro liên quan đến vấn đề thay đổi nhân sự của đối tác trong dự án Cung cấp thông tin khác hàng đã được xác định từ trước xảy ra, khiến dự án bị gián đoạn trong một thời gian ngắn. Bạn án nên thực hiện hành động nào đầu tiên?",
+    "choices": [
+      "Tổ chức họp để tìm người chịu trách nhiệm cho sự cố",
+      "Thực hiện phương án ứng phó (Risk Response Plan) đã được lập sẵn trong Risk Register",
+      "Yêu cầu lãnh đạo bổ sung ngay ngân sách dự phòng",
+      "Bỏ qua rủi ro và tiếp tục làm việc như bình thường"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Cấu trúc nào phân chia dự án thành các gói công việc (Work Packages) nhỏ nhất để dễ quản lý?",
+    "choices": [
+      "OBS (Organizational Breakdown Structure)",
+      "RBS (Risk Breakdown Structure)",
+      "WBS (Work Breakdown Structure)",
+      "CBS (Cost Breakdown Structure)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao \"Dự phòng rủi ro\" (Contingency Reserve) lại khác với \"Dự phòng quản lý\" (Management Reserve)?",
+    "choices": [
+      "Dự phòng quản lý dùng cho rủi ro đã biết, dự phòng rủi ro dùng cho rủi ro chưa biết",
+      "Dự phòng rủi ro cho các rủi ro \"đã biết\", dự phòng quản lý cho các rủi ro \"chưa biết\"",
+      "Dự phòng rủi ro không được phép sử dụng trong ngân hàng",
+      "Dự phòng quản lý do Chuyên viên QA tự quyết định"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong Agile, mục đích cốt lõi của buổi \"Sơ kết Sprint\" (Sprint Review) là gì?",
+    "choices": [
+      "Để đội ngũ tự kiểm điểm các sai sót cá nhân",
+      "Để trình diễn sản phẩm và nhận phản hồi từ các bên liên quan",
+      "Để lập kế hoạch chi tiết cho 6 tháng tiếp theo",
+      "Để thông báo kết quả chấm công của nhóm"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thế nào là một \"Yêu cầu thay đổi\" (Change Request) hợp lệ trong dự án ngân hàng?",
+    "choices": [
+      "Mọi lời nói trực tiếp của lãnh đạo tại hành lang",
+      "Phải được lập bằng văn bản và đi qua quy trình phê duyệt (CCB)",
+      "Là yêu cầu được gửi qua tin nhắn cá nhân trên mạng xã hội",
+      "Chỉ cần Chuyên viên IT đồng ý thực hiện là hợp lệ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Dự án Steady Core đang chạy thì một chuyên gia Dev chủ chốt xin nghỉ việc sang ngân hàng khác. Là PM, bạn nên làm gì đầu tiên?",
+    "choices": [
+      "Đăng tin tuyển dụng mới ngay lập tức",
+      "Đánh giá tác động của việc thiếu hụt nhân sự này đối với tiến độ và phạm vi đồng thời thông báo đến cấp CBQL",
+      "Yêu cầu các thành viên còn lại làm thêm 4 giờ mỗi ngày",
+      "Đề xuất hủy bỏ dự án vì không đủ nguồn lực"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một Stakeholder trong dự án AI Lending phàn nàn rằng họ không nhận được báo cáo tiến độ hàng tuần. PM sẽ cần xem lại tài liệu nào?",
+    "choices": [
+      "Project Charter (Hiến chương dự án)",
+      "Risk Register (Danh mục rủi ro)",
+      "Communications Management Plan (Kế hoạch quản lý giao tiếp)",
+      "Quality Management Plan (Kế hoạch quản lý chất lượng)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Khi kiểm thử một tính năng mới liên quan đến Tự động mua chứng chỉ quỹ của Wealth, Test phát hiện lỗi nghiêm trọng nhưng Dev khẳng định \"đây không phải lỗi\". PM nên xử lý thế nào theo PMP?",
+    "choices": [
+      "Làm theo ý kiến của lập trình viên để tránh xung đột",
+      "Đối chiếu với tài liệu yêu cầu (Requirements) và tiêu chuẩn chấp nhận (Acceptance Criteria)",
+      "Tranh cãi cho đến khi một trong hai bên bỏ cuộc",
+      "Gửi email phê bình lập trình viên cho toàn bộ ban giám đốc"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Những kỹ thuật nào sau đây được sử dụng để thu thập yêu cầu (Requirements) trong giai đoạn lập kế hoạch?",
+    "choices": [
+      "Phỏng vấn (Interviews)",
+      "Nhóm tập trung (Focus Groups)",
+      "Bảng hỏi và khảo sát",
+      "Sa thải nhân viên kém"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Tại sao một dự án ngân hàng nên sử dụng cách tiếp cận Hybrid (Lai giữa Waterfall và Agile)?",
+    "choices": [
+      "Để tận dụng tính kỷ luật của Waterfall cho các yêu cầu tuân thủ pháp lý",
+      "Để áp dụng sự linh hoạt của Agile cho các tính năng phần mềm thay đổi nhanh",
+      "Để nhân viên có thể làm việc ít giờ hơn",
+      "Để loại bỏ hoàn toàn vai trò của Quản lý dự án"
+    ],
+    "correct_answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Những yếu tố nào sau đây có thể gây ra hiện tượng \"Phình to phạm vi\" (Scope Creep)?",
+    "choices": [
+      "Sự thiếu tham gia của khách hàng trong giai đoạn đầu",
+      "Quy trình kiểm soát thay đổi (Change Control) quá lỏng lẻo",
+      "Thực hiện đúng tiến độ kế hoạch",
+      "Yêu cầu không rõ ràng ngay từ khi bắt đầu"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Lợi ích của việc áp dụng mô hình \"Lãnh đạo phục vụ\" (Servant Leadership) trong đội ngũ Khối CNTT là gì?",
+    "choices": [
+      "Thúc đẩy tinh thần tự chủ và trách nhiệm của thành viên",
+      "Giúp quản lý kiểm soát từng dòng code của nhân viên",
+      "Gỡ bỏ các rào cản cản trở năng suất lao động của nhóm",
+      "Tạo môi trường an toàn tâm lý để mọi người dám báo cáo lỗi"
+    ],
+    "correct_answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Trong phiên Retro (Cải tiến), team phát triển than phiền rằng họ thường xuyên bị gián đoạn công việc bởi các cuộc họp đột xuất như Refinement hoặc Planning không có kế hoạch để chạy TTM. Scrum Master nên làm gì?",
+    "choices": [
+      "Thống nhất với team về việc triển khai sprint 1 tuần",
+      "Yêu cầu nhóm làm việc đêm để bù lại thời gian họp",
+      "Kệ cho team than phiền, không phải việc của mình",
+      "Thiết lập timebox cho các events và yêu cầu các nhân sự tập trung để hiệu quả và rút ngắn thời gian họp"
+    ],
+    "correct_answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Khi kết thúc dự án SCF đa tầng, những hoạt động nào thuộc về quy trình Đóng dự án (Project Closing) nên được thực hiện?",
+    "choices": [
+      "Tạo biên bản đóng dự án theo phạm vi, có xác nhận của tất cả các đơn vị liên quan",
+      "Tổ chức buổi họp rút kinh nghiệm (Lessons Learned)",
+      "Tự động tăng lương cho mọi thành viên dự án",
+      "Bàn giao sản phẩm/hệ thống và nhận biên bản xác nhận từ đơn vị nghiệp vụ"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Trong UX Design, thuật ngữ \"User Persona\" dùng để chỉ đối tượng nào?",
+    "choices": [
+      "Một nhân viên thiết kế giao diện",
+      "Một nhân vật giả định đại diện cho nhóm người dùng mục tiêu",
+      "Tên của một phần mềm đồ họa mới",
+      "Danh sách các lỗi lập trình giao diện"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích chính của việc tạo ra \"Wireframe\" (Bản phác thảo khung xương) là gì?",
+    "choices": [
+      "Để chọn màu sắc và phông chữ cho ứng dụng",
+      "Để tập trung vào cấu trúc và luồng hoạt động chính của sản phẩm/tính năng",
+      "Để tạo ra sản phẩm hoàn chỉnh cho khách hàng dùng thử",
+      "Để trang trí cho các tài liệu báo cáo của dự án"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Thành phần nào sau đây thuộc về yếu tố \"UI\" (User Interface)?",
+    "choices": [
+      "Cảm xúc của khách hàng sau khi sử dụng",
+      "Tốc độ load dữ liệu của máy chủ",
+      "Màu sắc, hình ảnh và các nút bấm trên màn hình",
+      "Quy trình phê duyệt khoản vay của ngân hàng"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Tại sao tính \"Nhất quán\" (Consistency) lại cực kỳ quan trọng trong thiết kế trải nghiệm ngân hàng?",
+    "choices": [
+      "Để tiết kiệm chi phí mua bản quyền hình ảnh",
+      "Giúp người dùng dễ làm quen và giảm bớt sự nhầm lẫn khi thao tác",
+      "Để làm cho ứng dụng trông phức tạp và chuyên nghiệp hơn",
+      "Để buộc người dùng phải học lại cách dùng từ đầu"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết kế nút \"Hủy giao dịch\" và \"Xác nhận chuyển tiền\", bạn nên làm gì để tránh người dùng bấm nhầm?",
+    "choices": [
+      "Đặt hai nút sát nhau và có cùng một màu sắc",
+      "Sử dụng màu sắc đối lập và tạo khoảng cách rõ rệt giữa hai nút",
+      "Giấu nút xác nhận đi để khách hàng phải tìm kiếm",
+      "Làm cho cả hai nút đều có kích thước siêu nhỏ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Nếu người dùng phàn nàn rằng họ không tìm thấy chức năng \"Đổi mật khẩu\" trên App MB, bước tiếp theo bạn nên làm gì?",
+    "choices": [
+      "Xóa bỏ chức năng đổi mật khẩu để khỏi bị phàn nàn",
+      "Kiểm tra lại luồng điều hướng (Navigation) và thực hiện Usability Test",
+      "Gửi email yêu cầu khách hàng tự học cách sử dụng",
+      "Tăng độ sáng của màn hình ứng dụng lên tối đa"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khái niệm \"Mobile First\" trong thiết kế có nghĩa là gì?",
+    "choices": [
+      "Chỉ thiết kế ứng dụng cho điện thoại và bỏ qua máy tính",
+      "Ưu tiên thiết kế giao diện cho thiết bị di động trước rồi mới đến máy tính",
+      "Luôn tặng điện thoại mới cho người dùng khi họ tải App",
+      "Thiết kế sao cho giao diện trông giống như cái điện thoại"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Phương pháp thử nghiệm so sánh hai phiên bản thiết kế khác nhau để xem cái nào hiệu quả hơn được gọi là gì?",
+    "choices": [
+      "X/Y Testing",
+      "A/B Testing",
+      "Alpha/Beta Testing",
+      "One/Two Testing"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết kế form nhập số tiền chuyển khoản, để tăng trải nghiệm người dùng, bạn nên tích hợp tính năng nào?",
+    "choices": [
+      "Yêu cầu người dùng phải tự nhập bằng chữ tiếng Việt",
+      "Gợi ý các mệnh giá nhanh (ví dụ: 100k, 200k, 500k)",
+      "Bắt người dùng phải giải một bài toán trước khi nhập số tiền",
+      "Tự động điền một số tiền ngẫu nhiên vào ô nhập"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong sản phẩm cho vay Sản xuất kinh doanh KHCN của MB, PM cần hiểu \"Thời gian ân hạn gốc\" (Grace Period) được hiểu chính xác là gì?",
+    "choices": [
+      "Khoảng thời gian khách hàng không cần phải trả cả gốc lẫn lãi",
+      "Khoảng thời gian khách hàng chỉ phải trả lãi và chưa phải trả nợ gốc",
+      "Khoảng thời gian khách hàng được miễn hoàn toàn lãi suất vay",
+      "Khoảng thời gian sau khi khoản vay đã quá hạn thanh toán"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với khoản vay Mua bất động sản có \"Lãi suất thả nổi\", PM cần hiểu biên độ điều chỉnh thường được xác định dựa trên công thức nào sau đây?",
+    "choices": [
+      "Lãi suất cố định + Phí quản lý tài sản bảo đảm",
+      "Lãi suất cơ sở (hoặc Lãi suất tiết kiệm) + Biên độ cố định",
+      "Lãi suất do khách hàng tự đề xuất hàng tháng",
+      "Lãi suất liên ngân hàng trừ đi tỷ lệ lạm phát"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi thiết lập luồng xử lý cho ngày \"Đáo hạn khoản vay\" (Maturity Date) trên hệ thống, PM IT cần lưu ý logic nào là quan trọng nhất?",
+    "choices": [
+      "Cho phép khách hàng tiếp tục rút thêm tiền từ khoản vay cũ",
+      "Tự động gia hạn khoản vay mà không cần phê duyệt lại",
+      "Yêu cầu tất cả dư nợ gốc và lãi còn lại phải được tất toán về 0",
+      "Chỉ cần thu hồi tài sản bảo đảm là xong quy trình"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong nghiệp vụ vay thế chấp, PM cần hiểu chỉ số LTV (Loan-to-Value) được sử dụng để kiểm soát logic nào khi xây dựng tính năng phê duyệt tự động?",
+    "choices": [
+      "Tỷ lệ số tiền lãi trên số tiền gốc hàng tháng",
+      "Tỷ lệ tối đa giữa số tiền cho vay và giá trị tài sản bảo đảm",
+      "Thời gian xử lý hồ sơ từ lúc tiếp nhận đến khi giải ngân",
+      "Số lượng khách hàng tối đa mà một cán bộ có thể quản lý"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Redis được định nghĩa phổ biến nhất là loại hệ thống gì trong kiến trúc phần mềm?",
+    "choices": [
+      "Hệ thống lưu trữ tệp tin tập trung trên mạng (Network Storage)",
+      "Hệ thống lưu trữ dữ liệu trên bộ nhớ RAM (In-memory data structure store) dùng làm Cache",
+      "Hệ điều hành dành riêng cho các máy chủ cơ sở dữ liệu",
+      "Một loại trình duyệt web bảo mật dành cho ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo PM điểm khác biệt cốt lõi về mục đích sử dụng giữa hệ thống Cache (như Redis) và hệ thống NAS (Network Attached Storage) là gì?",
+    "choices": [
+      "Cache dùng để lưu trữ lâu dài, NAS dùng để tăng tốc độ truy cập",
+      "Cache dùng để tăng tốc độ truy cập dữ liệu tạm thời, NAS dùng để lưu trữ và chia sẻ tệp tin tập trung",
+      "Cả hai đều chỉ dùng để sao lưu (Backup) dữ liệu cuối ngày",
+      "NAS chạy trên bộ nhớ RAM, còn Cache chạy trên ổ đĩa cứng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong hệ thống Micro-lending, PM cần xác định thành phần nào đóng vai trò quan trọng nhất để thực hiện \"Phê duyệt tự động\" (Auto-Approval) mà không cần con người can thiệp?",
+    "choices": [
+      "Hệ thống gửi tin nhắn thông báo (SMS Gateway)",
+      "Công cụ chấm điểm tín dụng và ra quyết định (Credit Scoring & Decision Engine)",
+      "Giao diện đăng ký khoản vay của khách hàng (UI)",
+      "Bộ phận lưu trữ hồ sơ giấy của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "PM cần xác định điểm khác biệt cốt lõi giữa hệ thống quản lý quy trình truyền thống (BPM) và Dynamic Case Management (DCM) là gì?",
+    "choices": [
+      "BPM cho phép thay đổi luồng xử lý linh hoạt theo ý muốn của nhân viên",
+      "DCM xử lý các công việc không có trình tự cố định, phụ thuộc vào dữ liệu và quyết định của con người tại từng thời điểm",
+      "BPM chỉ dùng cho ngân hàng, còn DCM chỉ dùng cho bệnh viện",
+      "DCM không cho phép lưu trữ tài liệu đính kèm như hệ thống cũ"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trước khi triển khai hệ thống ECM, PM cần Mục đích chính của hệ thống ECM trong một ngân hàng là gì?",
+    "choices": [
+      "Để quản lý việc chuyển tiền giữa các tài khoản",
+      "Để thu thập, số hóa, quản lý, lưu trữ, bảo toàn và phân phối toàn bộ thông tin (tài liệu, dữ liệu) và quy trình nội bộ",
+      "Để theo dõi thời gian làm việc của nhân viên bảo vệ",
+      "Để thay thế hoàn toàn hệ thống Core Banking"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi triển khai hệ thống ECM, theo PM tại sao tính năng \"Quản lý phiên bản\" (Version Control) trong hệ thống ECM lại quan trọng đối với các văn bản quy định nội bộ?",
+    "choices": [
+      "Để nhân viên có thể xóa bỏ hoàn toàn các quy định cũ mà không để lại dấu vết",
+      "Để theo dõi lịch sử thay đổi và đảm bảo nhân sự luôn có thể sử dụng bản quy định mới nhất hoặc tra cứu các phiên bản cũ",
+      "Để làm cho dung lượng bộ nhớ của hệ thống nhanh chóng bị đầy",
+      "Để ngăn cản việc đọc tài liệu của các phòng ban khác"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đâu không phải là loại hình ký số phổ biến đang được áp dụng tại ngân hàng",
+    "choices": [
+      "Cloud CA",
+      "Pen CA",
+      "SIM CA",
+      "USB Token"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Văn bản pháp lý cao nhất và trực tiếp nhất quy định về bảo vệ dữ liệu cá nhân tại Việt Nam hiện nay là văn bản nào?",
+    "choices": [
+      "Thông tư 01/2023/TT-BCA",
+      "Nghị định 13/2023/NĐ-CP",
+      "Luật Giao thông đường bộ",
+      "Nghị quyết 01 về phát triển kinh tế"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy định về bảo vệ dữ liệu cá nhân, hành động nào sau đây của ngân hàng khi xây dựng Sàn chuyển nhượng Sổ tiết kiệm được coi là tuân thủ đúng nguyên tắc xử lý dữ liệu?",
+    "choices": [
+      "Mặc định chia sẻ thông tin cá nhân và số điện thoại khách hàng cho Digi vì Digi giống công ty con của MB",
+      "Chỉ thu thập và xử lý dữ liệu đúng phạm vi, mục đích đã thông báo và được sự đồng ý của khách hàng khi kết nối giữa App MB và Digi (Consent)",
+      "Lưu trữ dữ liệu khách hàng trên Digi vĩnh viễn dù khách hàng đã yêu cầu xóa bỏ",
+      "Công khai số dư tài khoản của khách hàng lên trang web nội bộ để thi đua"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo Quyết định 2345/QĐ-NHNN, giao dịch chuyển tiền trên hệ thống App MB cần có số tiền trên bao nhiêu tiền thì bắt buộc phải xác thực bằng sinh trắc học (khuôn mặt/vân tay)?",
+    "choices": [
+      "Trên 1 triệu đồng/giao dịch",
+      "Trên 5 triệu đồng/giao dịch",
+      "Trên 10 triệu đồng/giao dịch",
+      "Trên 50 triệu đồng/giao dịch"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong luồng eKYC trên App MB, khi hệ thống phát hiện khuôn mặt của người đang thực hiện định danh là một video phát lại hoặc một tấm ảnh (không phải người thật), công nghệ nào sau đây đã trực tiếp ngăn chặn rủi ro này?",
+    "choices": [
+      "OCR (Nhận dạng ký tự quang học)",
+      "Liveness Detection (Phát hiện thực thể sống)",
+      "NFC (Kết nối trường gần)",
+      "QR Code Scanning"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đặc điểm nổi bật nhất giúp Digital OTP (Smart OTP) an toàn hơn so với SMS OTP truyền thống trong các giao dịch ngân hàng là gì?",
+    "choices": [
+      "Mã OTP được gửi qua tin nhắn điện thoại nên không sợ bị mất mạng",
+      "Mã OTP được sinh ra ngay trên thiết bị và gắn liền với thông tin giao dịch, không thể bị đánh cắp bởi hacker từ xa",
+      "Người dùng có thể chia sẻ mã Digital OTP cho người thân dùng chung",
+      "Digital OTP không yêu cầu người dùng phải đặt mật khẩu bảo vệ"
+    ],
+    "correct_answers": []
+  },
+  {
+    "question": "Việc triển khai dự án FIDO theo tiêu chuẩn FIDO 2 (Fast IDentity Online) mà MBB đang hướng tới có ưu điểm cốt lõi nào?",
+    "choices": [
+      "Yêu cầu người dùng phải nhớ nhiều mật khẩu phức tạp hơn",
+      "Loại bỏ mật khẩu (Passwordless) bằng cách sử dụng khóa mật mã và sinh trắc học ngay trên thiết bị",
+      "Chỉ hoạt động trên các máy tính để bàn đời cũ",
+      "Tự động gửi tiền cho khách hàng khi họ nhìn vào màn hình"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi tích hợp tính năng quét thẻ CCCD gắn chip qua giao tiếp NFC vào App MB, tại sao Dev nên sử dụng SDK do đơn vị chuyên trách (Singalarity) cung cấp thay vì tự xây dựng các hàm đọc dữ liệu?",
+    "choices": [
+      "Để làm cho ứng dụng có dung lượng lớn hơn và trông chuyên nghiệp hơn",
+      "Để đảm bảo tính chính xác của thuật toán giải mã, an toàn bảo mật và tối ưu hóa tương thích với các dòng điện thoại",
+      "Vì SDK sẽ tự động chuyển toàn bộ dữ liệu khách hàng lên mạng xã hội",
+      "Để tránh việc phải trả lương cho lập trình viên của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Hệ thống Fraud Detection cảnh báo một giao dịch chuyển tiền có dấu hiệu bất thường (High Risk). Hành động nào sau đây thể hiện sự kết hợp đúng giữa công nghệ và nghiệp vụ?",
+    "choices": [
+      "Tự động khóa vĩnh viễn tài khoản khách hàng mà không cần kiểm tra lại",
+      "Tạm dừng giao dịch và kích hoạt bước xác thực bổ sung (như gọi điện xác nhận hoặc Video KYC)",
+      "Bỏ qua cảnh báo để tránh gây phiền hà cho trải nghiệm khách hàng",
+      "Xóa bỏ bản ghi cảnh báo khỏi hệ thống để làm đẹp báo cáo tỷ lệ rủi ro"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong hệ thống AML, khi phát hiện một khách hàng có nhiều giao dịch chuyển tiền nhỏ liên tục từ nhiều nguồn khác nhau rồi ngay lập tức chuyển tổng tiền cho một bên thứ ba (Smurfing), ngân hàng nên làm gì?",
+    "choices": [
+      "Coi đó là giao dịch bình thường vì mỗi lần chuyển đều dưới ngưỡng báo cáo",
+      "Phân tích hành vi, lập hồ sơ giao dịch đáng ngờ (STR) và báo cáo cơ quan có thẩm quyền",
+      "Yêu cầu bộ phận IT xóa các giao dịch này để giảm tải cho cơ sở dữ liệu",
+      "Khuyên khách hàng nên gom lại thành một giao dịch lớn để dễ quản lý"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi cần AI tóm tắt một tài liệu nghiệp vụ phức tạp, cách đặt câu lệnh (Prompt) nào dưới đây sẽ mang lại kết quả chất lượng và chính xác nhất?",
+    "choices": [
+      "\"Tóm tắt file này cho tôi\"",
+      "\"Với vai trò là chuyên gia phân tích nghiệp vụ, hãy tóm tắt các ý chính của tài liệu này dưới dạng danh sách, tập trung vào các rủi ro vận hành\"",
+      "\"Đọc và viết lại tài liệu này nhưng ngắn hơn 10 chữ\"",
+      "\"Hãy đoán xem tài liệu này nói về cái gì và tóm tắt nó\""
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Để cải thiện kết quả khi AI trả lời sai hoặc chưa đúng ý, kỹ thuật \"Few-shot Prompting\" được vận dụng như thế nào là đúng?",
+    "choices": [
+      "Yêu cầu AI tự đi tìm kiếm câu trả lời trên mạng",
+      "Chửi bộ máy AI vì đã trả lời không chính xác",
+      "Cung cấp cho AI một vài ví dụ mẫu về cặp (Câu hỏi - Đáp án đúng) trước khi yêu cầu nó xử lý câu hỏi mới",
+      "Lặp lại câu hỏi cũ nhiều lần với font chữ in hoa"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong kiến trúc xây dựng AI Agent cho ngân hàng, tại sao bước áp dụng BMAD lại quan trọng trước khi lập trình Agent?",
+    "choices": [
+      "Để Agent có thể tự động viết code thay cho lập trình viên",
+      "Để trừu tượng hóa các quy trình nghiệp vụ phức tạp thành các module mà Agent có thể hiểu và thực thi đúng mục tiêu kinh doanh",
+      "Để giảm chi phí thuê máy chủ Cloud",
+      "Để thay thế hoàn toàn bộ phận chăm sóc khách hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi build một Agent hỗ trợ thẩm định tín dụng, việc vận dụng BMAD giúp xác định thành phần nào sau đây để Agent hoạt động chính xác?",
+    "choices": [
+      "Màu sắc giao diện của ứng dụng mà Agent hiển thị",
+      "Định nghĩa các \"Tool\" (công cụ) mà Agent được phép gọi và các \"Policy\" (chính sách) mà Agent phải tuân thủ khi ra quyết định",
+      "Số lượng câu hỏi mà Agent có thể hỏi khách hàng trong một phút",
+      "Tên của người lập trình ra Agent đó"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Để đồng bộ dữ liệu Lead từ bảng KDL sang CRM theo thời gian thực mà không gây tải cho cơ sở dữ liệu nguồn, phương án nào sau đây là tối ưu nhất?",
+    "choices": [
+      "Viết Trigger trực tiếp trên bảng KDL để đẩy dữ liệu sang CRM",
+      "Sử dụng công cụ Change Data Capture (như Oracle GoldenGate) để đọc log của database",
+      "Chạy lệnh Export/Import thủ công mỗi khi có lead mới",
+      "Yêu cầu CRM quét bảng KDL liên tục mỗi 1 giây một lần"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Khi cần đồng bộ dữ liệu Lead từ KDL cho nhiều hệ thống cùng lúc (CRM, SMS, Contact Center), kiến trúc nào đảm bảo tính linh hoạt cao nhất?",
+    "choices": [
+      "Kết nối trực tiếp từ KDL đến từng hệ thống đích (Point-to-Point)",
+      "Sử dụng kiến trúc Pub/Sub thông qua Kafka làm trục tích hợp dữ liệu trung tâm",
+      "Gửi file Excel định kỳ qua email cho quản lý các phòng ban",
+      "Lưu tất cả dữ liệu vào một ổ đĩa chung rồi các hệ thống tự vào đọc"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong phát triển phần mềm theo Agile của team PAMS, Acceptance Criteria (AC) thường đi kèm và làm rõ cho đối tượng nào sau đây?",
+    "choices": [
+      "Kế hoạch ngân sách dự án",
+      "User Story (Câu chuyện người dùng)",
+      "Hợp đồng lao động của nhân viên",
+      "Sơ đồ tổ chức của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Mục đích chính của việc xác định Acceptance Criteria rõ ràng trước khi bắt đầu lập trình là gì?",
+    "choices": [
+      "Để tính toán số giờ làm thêm của lập trình viên",
+      "Để thiết lập các điều kiện cần thỏa mãn nhằm đảm bảo tính năng hoạt động đúng ý khách hàng và làm căn cứ để viết Test Design/ Test Case",
+      "Để làm cho tài liệu nghiệp vụ trở nên dài và khó đọc hơn",
+      "Để thay thế hoàn toàn vai trò của người kiểm thử (Tester)"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Theo quy trình phát triển SPDV, theo PM tài liệu \"Biên bản kiểm thử SIT\" có bắt buộc đối với YCPT Level 1 không?",
+    "choices": [
+      "A. Bắt buộc",
+      "B. Không bắt buộc",
+      "C. Chỉ bắt buộc khi có rủi ro cao",
+      "D. Chỉ áp dụng cho mô hình Waterfall"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Theo ma trận trách nhiệm RACI, vai trò của đơn vị OPERATION đối với tài liệu \"Kịch bản kiểm thử nội bộ CNTT\" là gì?",
+    "choices": [
+      "A. Đề xuất (R)",
+      "B. Phê duyệt (A)",
+      "C. Tham vấn (C)",
+      "D. Được thông báo (I)"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Trong mô hình Agile, tài liệu nào phải được làm rõ tại buổi Refinement trước khi bắt đầu Sprint Planning?",
+    "choices": [
+      "A. Mã nguồn",
+      "B. Biên bản Pentest",
+      "C. Đặc tả US và ES",
+      "D. Báo cáo KPIs"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Một YCPT thay đổi giao thức kết nối kiến trúc mới chưa từng được phê duyệt tại MB. YCPT này thuộc phân loại nào?",
+    "choices": [
+      "A. YCPT Phức tạp (Level 3/4)",
+      "B. YCPT Thông thường",
+      "C. YCPT Đơn giản",
+      "D. YCPT Rủi ro thấp"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Khi viết kịch bản kiểm thử (Test Case), yêu cầu nào sau đây là BẮT BUỘC để phòng ngừa rủi ro tài chính?",
+    "choices": [
+      "A. Test ngược (vượt hạn mức, số dư âm...)",
+      "B. Test giao diện màu sắc",
+      "C. Test tốc độ mạng",
+      "D. Test số lượng nhân sự đăng nhập"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "Time to Market (TTM) chính được tính từ mốc nào đến mốc nào?",
+    "choices": [
+      "TO DO → RELEASED",
+      "DESIGN → MVP DONE (MVP đầu tiên Released)",
+      "IN PROGRESS → READY FOR GOLIVE",
+      "READY FOR DEV → UAT DONE"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Pentest & Performance Test chiếm bao nhiêu thời gian TTM?",
+    "choices": [
+      "Mỗi khâu 5%, thực hiện song song",
+      "Mỗi khâu 10%, thực hiện song song",
+      "Mỗi khâu 15%, thực hiện song song",
+      "Mỗi khâu 20%, thực hiện song song"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trường hợp đã vào giai đoạn phát triển nhưng phát hiện thiếu nội dung thì xử lý thế nào?",
+    "choices": [
+      "Tạo subtask BA",
+      "Chuyển Epic về Design",
+      "Log impediment",
+      "Cancel Epic"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Epic đang ở IN PROGRESS. Một US cần chờ API từ hệ thống ngoài trong 7 ngày. Theo đúng TTM, hành động nào là phù hợp nhất?",
+    "choices": [
+      "Giữ nguyên trạng thái US",
+      "Chuyển US sang READY FOR TEST",
+      "Chuyển US/Epic sang Pending, ghi rõ lý do",
+      "Cancel US"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Sau khi MVP Done, nếu còn US tiếp tục phát triển thì Epic được chuyển về trạng thái nào?",
+    "choices": [
+      "DESIGN",
+      "IN PROGRESS",
+      "READY FOR GOLIVE",
+      "RELEASED"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong Planning, team thống nhất US A chưa đủ rõ để làm Dev. BA cần bổ sung tài liệu chi tiết thêm 2 ngày. Trạng thái đúng nhất của US A là:",
+    "choices": [
+      "ANALYZING",
+      "WAITING FOR PLANNING",
+      "READY FOR DEV",
+      "PENDING"
+    ],
+    "correct_answers": [
+      0
+    ]
+  },
+  {
+    "question": "US đã ở READY FOR DEV. Đến ngày bắt đầu Dev, team thiếu nhân sự Dev trong 4 ngày. Theo TTM, team nên xử lý thế nào?",
+    "choices": [
+      "Để nguyên, không đổi trạng thái",
+      "Chuyển US về ANALYZING",
+      "Tạo Epic mới khi có nguồn lực DEV",
+      "Chuyển US sang PENDING và ghi rõ lý do thiếu nguồn lực"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Những yếu tố nào có thể làm TTM tăng nhưng không phản ánh việc team triển khai chậm?",
+    "choices": [
+      "Waiting for Planning kéo dài",
+      "Pending do phụ thuộc đối tác ngoài MB",
+      "Dev code vượt SLA",
+      "CAB duyệt golive chậm"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Những nguyên tắc nào giúp số liệu TTM phản ánh đúng thực tế?",
+    "choices": [
+      "Chuyển trạng thái US/Epic ngay khi hoàn thành công việc",
+      "Không dùng Pending để “làm đẹp số liệu”",
+      "Close đầy đủ subtask theo đúng role",
+      "Cho phép mọi role tự do đổi trạng thái Epic"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Dự án App CTV của MBBank có một Change loại \"Yêu cầu phát triển\" cần triển khai gấp để đáp ứng chiến dịch kinh doanh. Do tính chất đặc thù, PM Đức đề xuất thực hiện Golive vào lúc 10:00 sáng Thứ Ba để kịp lễ ra mắt, mặc dù hệ thống này có tác động đến khách hàng bên ngoài.\nTheo quy định hiện hành về khung giờ và tần suất Golive, PM Đức cần thực hiện thủ tục nào sau đây để Change được phê duyệt hợp lệ?",
+    "choices": [
+      "Chỉ cần ghi rõ lý do \"Yêu cầu kinh doanh gấp\" vào mục Description trên hệ thống SDP.",
+      "Xin phê duyệt của Lãnh đạo cấp Trung tâm trở lên, gửi email đến CAB và Service Owner, sau đó đính kèm mail phê duyệt ngoại lệ vào Change trên SDP.",
+      "Tự ý thay đổi giờ Golive vì đây là Change thuộc dự án trọng điểm đã có phê duyệt chủ trương của Ban Lãnh đạo.",
+      "Chuyển trạng thái Change sang \"Emergency\" để hệ thống tự động bỏ qua kiểm soát khung giờ."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Một sự cố phát sinh sau khi thực hiện Golive vào đêm Thứ Năm. Khi kiểm tra lại lịch sử Change trên SDP, đội vận hành phát hiện ra Task triển khai (Implementation Task) của kỹ thuật viên vẫn đang ở trạng thái \"Open\", mặc dù việc triển khai thực tế đã kết thúc từ 2 ngày trước. Theo quy định về SLA/OLA, Task Owner phải thực hiện đóng task (Close task) trên hệ thống trong thời gian bao lâu kể từ Due-task?",
+    "choices": [
+      "Trong vòng 4 giờ sau khi hoàn thành triển khai thực tế.",
+      "Trước khi kết thúc ca làm việc của ngày Golive.",
+      "Trong vòng 1 ngày kể từ Due-task.",
+      "Tối đa 3 ngày làm việc sau khi hệ thống chạy ổn định"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "Change Coor khởi tạo một yêu cầu thay đổi có tác động chỉnh sửa cấu trúc bảng trong CSDL (Database) của hệ thống DCMS. Tuy nhiên, tại giai đoạn Submission, người này quên không chọn tên CSDL cụ thể trong danh sách trường dữ liệu \"Impacted Database\".  Hệ quả nào sau đây sẽ xảy ra khi Change request này chuyển sang giai đoạn Approval?",
+    "choices": [
+      "Hệ thống SDP sẽ tự động quét mã nguồn và nhận diện CSDL bị tác động.",
+      "SDP sẽ không tự động tạo các task tác động CSDL tương ứng cho đội DBA xử lý.",
+      "Change sẽ tự động bị hệ thống hủy bỏ (Auto-cancelled) sau 24 giờ.",
+      "Người phê duyệt (Service Owner) sẽ không thấy nút \"Approve\" để phê duyệt."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình triển khai một Change thuộc dự án trọng điểm, Service Owner (SO) của hệ thống đi công tác đột xuất và không thể truy cập mạng để phê duyệt trên SDP. SO này đã nhắn tin qua MS Teams ủy quyền cho một cán bộ quản lý cấp Team Leader phê duyệt thay để kịp tiến độ Golive vào đêm nay. Việc phê duyệt Change trong trường hợp này được coi là hợp lệ khi nào?",
+    "choices": [
+      "Hợp lệ ngay sau khi Team Leader thực hiện nút \"Approve\" trên SDP dựa trên tin nhắn ủy quyền.",
+      "Chỉ hợp lệ nếu nội dung ủy quyền được SO cấu hình chính thức bằng chức năng \"Delegate\" trên hệ thống SDP cho Team Leader.",
+      "Hợp lệ nếu Team Leader đính kèm ảnh chụp màn hình tin nhắn của SO vào mục Worklog của Change.",
+      "Không hợp lệ dưới mọi hình thức vì SO là người duy nhất có thẩm quyền phê duyệt cuối cùng theo quy định QT53."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi Golive thành công, Change Coor phát hiện cần phải thực hiện thêm một task nhỏ là \"Dọn dẹp log và file tạm\" trên server production. Task này không có trong kế hoạch Planning ban đầu đã được CAB duyệt. Change Coor nên xử lý tình huống này trên SDP như thế nào để đúng quy trình?",
+    "choices": [
+      "Tự ý thực hiện task trên server và không cần khai báo vì đây chỉ là task dọn dẹp.",
+      "Sử dụng chức năng \"Add Task\" trực tiếp ở stage Implemention, mô tả rõ nội dung và thực hiện đóng task như bình thường.",
+      "Phải hủy Change hiện tại và tạo một Change mới vì quy trình không cho phép thêm task ở giai đoạn thực thi.",
+      "Ghi nội dung này vào mục Review thay vì tạo task."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quá trình golive change W4 có phát sinh vấn đề và đã gần quá thời gian golive vào lúc 4h, ở vai trò CO Nhung nên làm gì?",
+    "choices": [
+      "Cứ để cho team golive tiếp",
+      "Báo cáo các Change Manager và các CAB về tình hình, hiện trạng và xin phương án xử lý tiếp theo. Nếu báo cáo qua điện thoại thì cần có email trong thời gian sớm nhất",
+      "Báo cáo các CAB Dev về tình hình, hiện trạng và xin phương án xử lý tiếp theo. Nếu báo cáo qua điện thoại thì cần có email trong thời gian sớm nhất",
+      "Cho team chủ động rollback vì đã quá thời gian thực thi golive"
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong quy trình quản lý thay đổi, ai là người có thẩm quyền cao nhất phê duyệt việc triển khai thay đổi lên môi trường thực tế (Production)?",
+    "choices": [
+      "Người yêu cầu thay đổi (Change Requestor).",
+      "Người điều phối thay đổi (Change Coordinator).",
+      "Người quản lý thay đổi (Change Manager).",
+      "Chủ sở hữu dịch vụ (Service Owner)."
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Đối với hệ thống hoạt động 24/7 (trừ hệ thống Smart Channel), khung giờ Golive quy định cho các thao tác có tác động tới dịch vụ là khi nào?",
+    "choices": [
+      "Sau 19 giờ 00 các ngày làm việc trong tuần.",
+      "Sau 23 giờ 00 các ngày thứ Tư, thứ Năm và thứ Sáu.",
+      "Sau 24 giờ 00 các ngày thứ Bảy và Chủ nhật.",
+      "Sau 23 giờ 00 các ngày thứ Hai, thứ Tư, thứ Năm và thứ Sáu."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Đối với loại Thay đổi khẩn cấp (Emergency Change), bộ hồ sơ thay đổi tối thiểu BẮT BUỘC phải bao gồm những tài liệu nào?",
+    "choices": [
+      "Tài liệu thiết kế chi tiết và kịch bản kiểm thử người dùng (UAT).",
+      "Checklist Golive và biên bản nghiệm thu kết quả sau Golive.",
+      "Tài liệu hướng dẫn vận hành và thông báo thay đổi cho đối tác.",
+      "Kết quả đánh giá an toàn thông tin (Pentest) và kịch bản Rollback."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Sau khi hoàn thành UAT, team Agile xác định cần thực hiện PENTEST. Những bước nào đúng theo quy trình?",
+    "choices": [
+      "Team Agile cung cấp đầy đủ thông tin theo BM01 – Yêu cầu kiểm thử xâm nhập theo Quy chế an toàn thông tin",
+      "Nhân sự PENTEST hoàn thiện biên bản kiểm thử xâm nhập theo biểu mẫu BM04",
+      "Các điểm yếu an ninh phát hiện phải được chỉnh sửa hoặc phê duyệt đúng thẩm quyền trước khi golive",
+      "Team Agile được phép golive ngay sau khi PENTEST hoàn thành mà không cần xử lý điểm yếu"
+    ],
+    "correct_answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Hệ thống Core Banking dự kiến có 02 Change Golive vào cùng đêm Thứ 5. Change A là \"Sửa lỗi bảo mật khẩn cấp\", Change B là \"Cải tiến giao diện báo cáo nội bộ\". Theo lịch trình trên SDP, cả hai Change đều tác động vào cùng một phân vùng CSDL. Theo quy định về ưu tiên triển khai và quản lý tần suất (Phụ lục 04), Hội đồng CAB nên xử lý tình huống này như thế nào?",
+    "choices": [
+      "Cho phép cả hai triển khai đồng thời để tiết kiệm nguồn lực trực vận hành.",
+      "Ưu tiên triển khai Change A; Change B phải dời sang khung giờ khác hoặc đêm khác để tránh rủi ro xung đột và đảm bảo khả năng Rollback độc lập.",
+      "Hủy bỏ Change A vì lỗi bảo mật cần được xử lý riêng theo quy trình xử lý Sự cố (Incident).",
+      "Yêu cầu Change B phải thực hiện trước Change A để kiểm tra tính ổn định của báo cáo."
+    ],
+    "correct_answers": [
+      1
+    ]
+  },
+  {
+    "question": "Trong giai đoạn chuẩn bị golive cho team Partnership, SM Hà gặp tình huống dev không đáp ứng theo cam kết về tiến độ đối với tài liệu Checklist Golive, trong tình huống này Hà nên làm như thế nào là hợp lý nhất",
+    "choices": [
+      "Lùi deadline tạo tài liệu cho Dev",
+      "Báo cáo CBQL của Dev  về việc chậm tiến độ",
+      "Báo Dev Lead vào hỗ trợ xử lý",
+      "Chấp nhận việc Dev fail kế hoạch chuẩn bị tài liệu và báo cáo CBQL của Dev"
+    ],
+    "correct_answers": [
+      3
+    ]
+  },
+  {
+    "question": "Một US được chuyển sang Pending trong 5 ngày, sau đó Re-open. Thời gian Pending đó được xử lý như thế nào?",
+    "choices": [
+      "Không tính vào TTM",
+      "Tính một phần vào TTM",
+      "Vẫn được tính vào tổng trình TTM",
+      "Chỉ tính nếu PO đồng ý"
+    ],
+    "correct_answers": [
+      2
+    ]
+  },
+  {
+    "question": "YCPT loại Tính năng mới có timeline:  PO/BA/SA: 6 ngày, Dev: 4 ngày, SIT + UAT: 3 ngày. Những nhận định nào đúng?",
+    "choices": [
+      "Tổng thời gian vượt norm",
+      "Khâu PO/BA/SA vượt tỉ trọng",
+      "Khâu Dev nằm trong tỉ trọng quy định"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "YCPT loại Tính năng mới có timeline:  PO/BA/SA: 6 ngày, Dev: 4 ngày, SIT + UAT: 3 ngày. Những nhận định nào đúng?",
+    "choices": [
+      "YCPT đạt norm tại các khâu",
+      "1 giờ",
+      "1 giờ 15 phút",
+      "2 giờ",
+      "45 phút"
+    ],
+    "correct_answers": [
+      2
+    ]
+  }
+]
