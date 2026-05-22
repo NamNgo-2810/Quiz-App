@@ -25,6 +25,18 @@
       "path": "questions/onthi_TTBA_2026.json"
     },
     {
+      "filename": "onthi_TTDBCL_2026.json",
+      "displayName": "onthi_TTDBCL_2026",
+      "questionCount": 75,
+      "path": "questions/onthi_TTDBCL_2026.json"
+    },
+    {
+      "filename": "onthi_TTDBCL_Phong_QLDATKTN.json",
+      "displayName": "onthi_TTDBCL_Phong_QLDATKTN",
+      "questionCount": 88,
+      "path": "questions/onthi_TTDBCL_Phong_QLDATKTN.json"
+    },
+    {
       "filename": "ĐỀ 3 - TTPT_ Hệ thống LMS.json",
       "displayName": "ĐỀ 3 - TTPT_ Hệ thống LMS",
       "questionCount": 265,
