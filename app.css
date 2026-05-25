@@ -165,3 +165,20 @@ select:disabled, input:disabled {
   box-shadow: 3px 3px 0 #000;
   line-height: 1.8;
 }
+
+/* DONATE FOOTER */
+.donate-footer {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+.donate-footer a {
+  color: #ffec27;
+  text-decoration: underline;
+  cursor: pointer;
+}
