@@ -155,6 +155,7 @@ let hasChooseAnswer = false;
 let chooseAnswer = [];
 let questions = [];
 let scoreAdded = false;
+let answerChecked = false;
 let reviewData = [];
 let questionHistory = []; // Store previous questions and their states
 
@@ -271,6 +272,7 @@ const getNewQuestion = () => {
 
     questionCounter++;
     scoreAdded = false;
+    answerChecked = false;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
@@ -339,65 +341,69 @@ choices.forEach((choice) => {
 });
 
 const nextQuestion = () => {
-    if (chooseAnswer.length > 0) {
-        checkAnswer();
+    checkAnswer();
 
-        // Save current question state to history before moving to next
-        questionHistory.push({
-            question: currentQuestion,
-            selectedAnswers: [...chooseAnswer],
-            questionCounter: questionCounter,
-            score: score
-        });
+    // Save current question state to history before moving to next
+    questionHistory.push({
+        question: currentQuestion,
+        selectedAnswers: [...chooseAnswer],
+        questionCounter: questionCounter,
+        score: score
+    });
 
-        reviewData.push({
-            question: currentQuestion.question,
-            selected: [...chooseAnswer],
-            correct: [...currentQuestion.correct_answers],
-            choices: currentQuestion.choices,
-        });
+    reviewData.push({
+        question: currentQuestion.question,
+        selected: [...chooseAnswer],
+        correct: [...currentQuestion.correct_answers],
+        choices: currentQuestion.choices,
+    });
 
-        setTimeout(() => {
-            choices.forEach(
-                (choice) =>
-                    (choice.parentElement.className = "choice-container")
-            );
-            getNewQuestion();
-        }, 500);
-    }
+    setTimeout(() => {
+        choices.forEach(
+            (choice) =>
+                (choice.parentElement.className = "choice-container")
+        );
+        getNewQuestion();
+    }, 500);
 };
 
 const checkAnswer = () => {
-    if (chooseAnswer.length > 0) {
-        choices.forEach((choice) => {
-            const choiceAnswer = choice.dataset["number"];
-            if (choiceAnswer === "-1") return;
+    if (answerChecked) return;
+    answerChecked = true;
 
-            const classToApply = currentQuestion.correct_answers.includes(
-                choiceAnswer
-            )
-                ? "correct"
-                : chooseAnswer.includes(choiceAnswer)
-                ? "incorrect"
-                : "";
+    choices.forEach((choice) => {
+        const choiceAnswer = choice.dataset["number"];
+        if (choiceAnswer === "-1") return;
 
-            if (classToApply) {
-                choice.parentElement.classList.add(classToApply);
-            }
-        });
+        const classToApply = currentQuestion.correct_answers.includes(
+            choiceAnswer
+        )
+            ? "correct"
+            : chooseAnswer.includes(choiceAnswer)
+            ? "incorrect"
+            : "";
 
-        const isCorrect = arraysEqual(
-            chooseAnswer.sort(),
-            currentQuestion.correct_answers.sort()
-        );
-
-        if (isCorrect && !scoreAdded) {
-            scoreAdded = true;
-            incrementScore(CORRECT_BONUS);
-            showCorrectAnswerReaction();
-        } else if (!isCorrect) {
-            showWrongAnswerReaction();
+        if (classToApply) {
+            choice.parentElement.classList.add(classToApply);
         }
+    });
+
+    if (chooseAnswer.length === 0) {
+        showWrongAnswerReaction();
+        return;
+    }
+
+    const isCorrect = arraysEqual(
+        chooseAnswer.sort(),
+        currentQuestion.correct_answers.sort()
+    );
+
+    if (isCorrect && !scoreAdded) {
+        scoreAdded = true;
+        incrementScore(CORRECT_BONUS);
+        showCorrectAnswerReaction();
+    } else if (!isCorrect) {
+        showWrongAnswerReaction();
     }
 };
 
