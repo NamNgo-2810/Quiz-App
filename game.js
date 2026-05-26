@@ -219,7 +219,14 @@ const loadQuestion = async () => {
             return res.json();
         });
 
-        questions = questionData.map((loadedQuestion) => {
+        const selectedGroups = JSON.parse(localStorage.getItem("selectedGroups") || "[]");
+        localStorage.removeItem("selectedGroups");
+
+        const filteredData = selectedGroups.length > 0
+            ? questionData.filter(q => selectedGroups.includes(q.sheet_name))
+            : questionData;
+
+        questions = filteredData.map((loadedQuestion) => {
             const formattedQuestion = {
                 question: loadedQuestion.question,
                 choices: shuffleArray(
