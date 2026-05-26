@@ -25,16 +25,17 @@
       "path": "questions/onthi_TTBA_2026.json"
     },
     {
-      "filename": "onthi_TTDBCL_2026.json",
-      "displayName": "onthi_TTDBCL_2026",
-      "questionCount": 75,
-      "path": "questions/onthi_TTDBCL_2026.json"
-    },
-    {
       "filename": "onthi_TTDBCL_Phong_QLDATKTN.json",
       "displayName": "onthi_TTDBCL_Phong_QLDATKTN",
       "questionCount": 88,
       "path": "questions/onthi_TTDBCL_Phong_QLDATKTN.json"
+    },
+    {
+      "filename": "TTĐBCL_ra soat 20.5 2.json",
+      "displayName": "TTĐBCL - Rà soát 20.5",
+      "questionCount": 91,
+      "path": "questions/TTĐBCL_ra soat 20.5 2.json",
+      "groups": ["Chuyên gia", "Chuyên viên", "Khối CNTT"]
     },
     {
       "filename": "ĐỀ 3 - TTPT_ Hệ thống LMS.json",
@@ -67,36 +68,6 @@
       "path": "questions/CBAP.json"
     },
     {
-      "filename": "CBAP_Mini_1.json",
-      "displayName": "CBAP Mini 1",
-      "questionCount": 100,
-      "path": "questions/CBAP_Mini_1.json"
-    },
-    {
-      "filename": "CBAP_Mini_2.json",
-      "displayName": "CBAP Mini 2",
-      "questionCount": 100,
-      "path": "questions/CBAP_Mini_2.json"
-    },
-    {
-      "filename": "CBAP_Mini_3.json",
-      "displayName": "CBAP Mini 3",
-      "questionCount": 100,
-      "path": "questions/CBAP_Mini_3.json"
-    },
-    {
-      "filename": "CBAP_Mini_4.json",
-      "displayName": "CBAP Mini 4",
-      "questionCount": 100,
-      "path": "questions/CBAP_Mini_4.json"
-    },
-    {
-      "filename": "CBAP_Mini_5.json",
-      "displayName": "CBAP Mini 5",
-      "questionCount": 100,
-      "path": "questions/CBAP_Mini_5.json"
-    },
-    {
       "filename": "VH1.json",
       "displayName": "Văn hóa 1",
       "questionCount": 250,
@@ -125,7 +96,20 @@
       "displayName": "onthi - ngantt.dd",
       "questionCount": 264,
       "path": "questions/onthi(ngantt.dd).json"
+    },
+    {
+      "filename": "Bộ đề chung 2025 - ôn tập.json",
+      "displayName": "Bộ đề chung 2025 - ôn tập",
+      "questionCount": 50,
+      "path": "questions/Bộ đề chung 2025 - ôn tập.json"
+    },
+    {
+      "filename": "Bộ đề Thi_TTPT_2026_ALL_19.5.26_Rà soát bổ sung câu hỏi.json",
+      "displayName": "Bộ đề thi TTPT 2026",
+      "questionCount": 1948,
+      "path": "questions/Bộ đề Thi_TTPT_2026_ALL_19.5.26_Rà soát bổ sung câu hỏi.json",
+      "groups": ["AI_chung", "AI_CNNNvaTiengnoi", "AI_R&D", "AI_TLA", "AI_Thị Giác", "CNNT_chung", "CNNT_CBS", "CNNT_GPQTNB", "CNNT_KTUD", "CNNT_Tích Hợp", "CNNT_TĐH", "CNS_chung", "CNS_DNS", "CNS_DVS", "CNS_KHCN", "CNS_QLKH", "CNS_QTTĐ", "Câu hỏi 2026"]
     }
   ],
-  "lastUpdated": "2025-10-15T02:26:21.929Z"
+  "lastUpdated": "2026-05-26T00:00:00.000Z"
 }
