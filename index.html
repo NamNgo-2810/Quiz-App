@@ -23,6 +23,11 @@
             <!-- Topics will be dynamically loaded here -->
           </select>
 
+          <div id="groupContainer" style="display:none;">
+            <p class="group-label">Chọn nhóm câu hỏi (bỏ chọn = lấy tất cả):</p>
+            <div id="groupCheckboxes" class="group-checkboxes"></div>
+          </div>
+
           <input
           type="number"
           id="questionCount"
@@ -72,7 +77,8 @@
             topicConfig[topic.filename] = {
               name: topic.displayName,
               maxQuestions: topic.questionCount,
-              path: topic.path
+              path: topic.path,
+              groups: topic.groups || null
             };
 
             // Add option to dropdown
@@ -95,20 +101,62 @@
         const topicSelect = document.getElementById("topicSelect");
         const questionCountInput = document.getElementById("questionCount");
         const startBtn = document.getElementById("startBtn");
+        const groupContainer = document.getElementById("groupContainer");
+        const groupCheckboxes = document.getElementById("groupCheckboxes");
 
         const selectedTopic = topicSelect.value;
 
         if (selectedTopic) {
-          const maxQuestions = topicConfig[selectedTopic].maxQuestions;
+          const config = topicConfig[selectedTopic];
           questionCountInput.disabled = false;
-          questionCountInput.max = maxQuestions;
+          questionCountInput.max = config.maxQuestions;
           questionCountInput.placeholder = `Enter number of questions you want to do`;
           startBtn.disabled = false;
+
+          // Show group selector if topic has groups
+          if (config.groups && config.groups.length > 0) {
+            groupCheckboxes.innerHTML = "";
+            config.groups.forEach(group => {
+              const label = document.createElement("label");
+              label.className = "group-checkbox-label";
+              const cb = document.createElement("input");
+              cb.type = "checkbox";
+              cb.value = group;
+              cb.name = "group";
+              cb.addEventListener("change", updateGroupFilter);
+              label.appendChild(cb);
+              label.appendChild(document.createTextNode(" " + group));
+              groupCheckboxes.appendChild(label);
+            });
+            groupContainer.style.display = "block";
+          } else {
+            groupContainer.style.display = "none";
+            groupCheckboxes.innerHTML = "";
+          }
         } else {
           questionCountInput.disabled = true;
           questionCountInput.value = "";
           questionCountInput.placeholder = "Select a topic first";
           startBtn.disabled = true;
+          groupContainer.style.display = "none";
+          groupCheckboxes.innerHTML = "";
+        }
+      }
+
+      function updateGroupFilter() {
+        const topicSelect = document.getElementById("topicSelect");
+        const questionCountInput = document.getElementById("questionCount");
+        const selectedTopic = topicSelect.value;
+        const checked = Array.from(document.querySelectorAll("#groupCheckboxes input:checked"));
+
+        if (checked.length > 0) {
+          // When groups are selected, remove hard max (we don't know per-group counts)
+          questionCountInput.removeAttribute("max");
+          questionCountInput.placeholder = "Enter number of questions (filtered by group)";
+        } else {
+          const maxQuestions = topicConfig[selectedTopic].maxQuestions;
+          questionCountInput.max = maxQuestions;
+          questionCountInput.placeholder = "Enter number of questions you want to do";
         }
       }
 
@@ -122,15 +170,22 @@
           return;
         }
 
-        const maxQuestions = topicConfig[selectedTopic].maxQuestions;
+        const config = topicConfig[selectedTopic];
+        const checkedGroups = Array.from(document.querySelectorAll("#groupCheckboxes input:checked")).map(cb => cb.value);
 
-        if (!count || count <= 0 || count > maxQuestions) {
-          alert(`Please enter a valid number between 1 and ${maxQuestions}.`);
+        // Validate count: only enforce max when no groups are selected
+        if (!count || count <= 0) {
+          alert("Please enter a valid number of questions.");
+          return;
+        }
+        if (checkedGroups.length === 0 && count > config.maxQuestions) {
+          alert(`Please enter a valid number between 1 and ${config.maxQuestions}.`);
           return;
         }
 
         localStorage.setItem("questionCount", count);
         localStorage.setItem("selectedTopic", selectedTopic);
+        localStorage.setItem("selectedGroups", JSON.stringify(checkedGroups));
         window.location.href = "/game.html";
       }
     </script>
