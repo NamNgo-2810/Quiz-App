@@ -1,0 +1,1165 @@
+[
+  {
+    "question": "“Token” trong LLM là gì?",
+    "choices": [
+      "Một dòng code",
+      "Một đơn vị nhỏ của văn bản (có thể là từ, ký tự hoặc subword)",
+      "Một mô hình học máy",
+      "Một loại thuật toán"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Buổi họp nào diễn ra mười lăm phút hàng ngày để đội ngũ đồng bộ công việc và lập kế hoạch cho ngày làm việc mới?",
+    "choices": [
+      "Sprint Planning",
+      "Daily Scrum",
+      "Sprint Review",
+      "Sprint Retrospective"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Mục tiêu chính của buổi họp Sprint Retrospective (Cải tiến Sprint) là gì?",
+    "choices": [
+      "Để trình diễn sản phẩm cho khách hàng",
+      "Để cải tiến quy trình làm việc và sự phối hợp",
+      "Để phê duyệt danh sách lỗi của Sprint tới",
+      "Để chốt ngân sách cho dự án tiếp theo"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "LLM học từ đâu để hiểu và tạo văn bản",
+    "choices": [
+      "Chỉ từ sách giáo khoa",
+      "Dữ liệu văn bản lớn từ internet và tài liệu",
+      "Chỉ từ dữ liệu người dùng cá nhân",
+      "Từ cảm biến phần cứng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "\"Definition of Done\" (DoD) được sử dụng để làm gì trong quản lý chất lượng?",
+    "choices": [
+      "Để mô tả các tính năng khách hàng yêu cầu",
+      "Để thống nhất tiêu chuẩn chất lượng khi hoàn thành",
+      "Để tính điểm năng suất cho từng cá nhân",
+      "Để lập kế hoạch nghỉ phép cho đội ngũ"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo tiêu chuẩn ISTQB, mục tiêu cơ bản nhất của việc kiểm thử phần mềm là gì?",
+    "choices": [
+      "Chứng minh rằng phần mềm không còn lỗi",
+      "Tìm kiếm lỗi để giảm thiểu rủi ro về chất lượng",
+      "Thay thế hoàn toàn vai trò của lập trình viên",
+      "Kéo dài thời gian phát triển sản phẩm"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Tại sao nên thực hiện hoạt động kiểm thử càng sớm càng tốt (Early Testing)?",
+    "choices": [
+      "Để đội ngũ kiểm thử có nhiều thời gian nghỉ hơn",
+      "Để giảm thiểu chi phí sửa lỗi và phát hiện sai sót sớm",
+      "Để làm cho dự án trông có vẻ quy mô hơn",
+      "Để ép lập trình viên phải bàn giao mã nguồn sớm"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Mục đích chính của việc thực hiện \"Kiểm thử hồi quy\" (Regression Testing) là gì?",
+    "choices": [
+      "Kiểm tra những tính năng hoàn toàn mới vừa viết",
+      "Đảm bảo các thay đổi mới không làm hỏng tính năng cũ",
+      "Đo lường xem hệ thống chạy nhanh hay chậm",
+      "Kiểm tra màu sắc logo trên ứng dụng di động"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Kỹ thuật \"Phân vùng tương đương\" được Chuyên viên sử dụng nhằm mục đích chính là gì?",
+    "choices": [
+      "Kiểm tra tất cả các giá trị có thể có của hệ thống",
+      "Giảm số lượng ca kiểm thử bằng cách chọn đại diện vùng",
+      "Tự động hóa quá trình viết kịch bản kiểm thử",
+      "Đo lường độ hài lòng của khách hàng sử dụng app"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo ITIL, chỉ số Availability (Độ khả dụng) được dùng để đo lường yếu tố nào của hệ thống trọng yếu?",
+    "choices": [
+      "Số lượng nhân sự tham gia vận hành hệ thống",
+      "Tỷ lệ phần trăm thời gian dịch vụ sẵn sàng phục vụ",
+      "Tổng số lượng mã nguồn đã được viết cho hệ thống",
+      "Tỷ lệ khách hàng đánh giá năm sao trên kho ứng dụng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi hệ thống thanh toán trực tuyến bị chậm hoặc gián đoạn dịch vụ ngoài kế hoạch, ITIL định nghĩa đây là gì?",
+    "choices": [
+      "Một tính năng mới của ứng dụng ngân hàng số",
+      "Một sự cố dịch vụ (Incident)",
+      "Một yêu cầu thay đổi (Change Request) từ người dùng",
+      "Một bài học kinh nghiệm cần được lưu trữ lại"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Chỉ số MTTR (Mean Time to Repair) dùng để đo lường năng lực nào của đơn vị quản trị hệ thống?",
+    "choices": [
+      "Năng lực thiết kế giao diện ứng dụng bắt mắt",
+      "Thời gian trung bình để khôi phục dịch vụ sau sự cố",
+      "Năng lực huy động vốn từ các khách hàng cá nhân",
+      "Tổng chi phí đầu tư cho hạ tầng máy chủ hàng năm"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Nếu hệ thống Core Banking đạt độ khả dụng chín chín phần trăm trong một tháng, điều này có nghĩa là gì?",
+    "choices": [
+      "Hệ thống hoàn toàn không gặp lỗi trong tháng đó",
+      "Hệ thống có một phần trăm thời gian bị gián đoạn",
+      "Hệ thống có chín chín lỗi nghiêm trọng xảy ra",
+      "Chín chín phần trăm khách hàng cảm thấy hài lòng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Quy trình nào có mục tiêu chính là tìm ra nguyên nhân gốc rễ của các sự cố lặp lại để ngăn ngừa chúng tái diễn?",
+    "choices": [
+      "Quản lý thay đổi (Change Management)",
+      "Quản lý vấn đề (Problem Management)",
+      "Quản lý yêu cầu dịch vụ (Service Request Mgmt)",
+      "Quản lý đào tạo nhân sự mới vào ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Trong quản lý dự án (PMP), \"Phạm vi dự án\" (Project Scope) được hiểu chính xác là gì?",
+    "choices": [
+      "Là số lượng nhân sự tham gia vào đội dự án",
+      "Toàn bộ công việc cần thực hiện để tạo ra sản phẩm",
+      "Là diện tích mặt bằng văn phòng làm việc của dự án",
+      "Là tổng ngân sách dự kiến được cấp cho dự án"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Tại sao cần phải thực hiện quản lý rủi ro một cách chủ động ngay từ khi bắt đầu dự án?",
+    "choices": [
+      "Để có lý do kéo dài thời gian hoàn thành dự án",
+      "Để giảm thiểu tác động tiêu cực của các sự cố tiềm ẩn",
+      "Để loại bỏ hoàn toàn mọi sai sót của con người",
+      "Để báo cáo cho ban lãnh đạo rằng dự án rất an toàn"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo quy định về Bảo mật dữ liệu ngân hàng, hành động nào sau đây bị nghiêm cấm đối với Chuyên viên?",
+    "choices": [
+      "Ghi chép lại các lỗi logic tìm thấy vào hệ thống Jira",
+      "Tự ý sao chép dữ liệu thật của khách hàng ra ngoài",
+      "Tham gia các buổi đào tạo nội bộ về an toàn thông tin",
+      "Đề xuất cải tiến quy trình bảo mật cho hệ thống thẻ"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Việc lưu trữ \"Bài học kinh nghiệm\" (Lessons Learned) sau khi kết thúc dự án mang lại giá trị gì lớn nhất?",
+    "choices": [
+      "Để làm đầy kho dữ liệu lưu trữ của đơn vị quản trị",
+      "Giúp các dự án sau tránh được những sai lầm tương tự",
+      "Để làm căn cứ xem xét trừ lương những người làm sai",
+      "Để giải tán đội ngũ dự án một cách nhanh chóng nhất"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Trong nghiệp vụ ngân hàng, \"Tín dụng\" được hiểu cơ bản nhất là gì?",
+    "choices": [
+      "Việc ngân hàng đi vay tiền từ các tổ chức khác",
+      "Việc thỏa thuận để khách hàng sử dụng một khoản tiền với nguyên tắc có hoàn trả",
+      "Việc tặng tiền cho khách hàng có hoàn cảnh khó khăn",
+      "Việc mua bán ngoại tệ trên thị trường tự do"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Mục đích chính của việc yêu cầu khách hàng có \"Tài sản bảo đảm\" khi vay vốn là gì?",
+    "choices": [
+      "Để ngân hàng có thêm tài sản trang trí văn phòng",
+      "Để giảm thiểu rủi ro mất vốn khi khách hàng không trả được nợ",
+      "Để gây khó khăn cho khách hàng trong quá trình vay",
+      "Để tăng số lượng giấy tờ cần ký kết trong hồ sơ"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "\"Huy động vốn\" là hoạt động ngân hàng thực hiện nhằm mục đích gì?",
+    "choices": [
+      "Để chi trả lương cho nhân viên vào cuối tháng",
+      "Tập trung nguồn tiền tạm thời nhàn rỗi để cho vay và kinh doanh",
+      "Để giảm bớt số lượng khách hàng đến giao dịch",
+      "Để tiêu hủy các tờ tiền cũ không còn giá trị"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi khách hàng gửi tiết kiệm với kỳ hạn mười hai tháng, đâu là nghiệp vụ mà Tester cần thực hiện kiểm thử?",
+    "choices": [
+      "Nghiệp vụ cho vay tiêu dùng",
+      "Nghiệp vụ huy động vốn",
+      "Nghiệp vụ thanh toán quốc tế",
+      "Nghiệp vụ bảo lãnh ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Trong quản lý nguồn vốn, lãi suất mà các đơn vị kinh doanh phải trả cho Hội sở khi sử dụng vốn được gọi là gì?",
+    "choices": [
+      "Lãi suất quá hạn",
+      "Giá chuyển vốn nội bộ (FTP)",
+      "Phí dịch vụ quản lý tài khoản",
+      "Lãi suất không kỳ hạn"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo quy định hiện hành, \"Nợ xấu\" thường được xác định bắt đầu từ nhóm nợ nào trở đi?",
+    "choices": [
+      "Nhóm một",
+      "Nhóm ba",
+      "Nhóm hai",
+      "Chỉ bao gồm nhóm năm"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Trong nghiệp vụ Tài trợ thương mại, Thư tín dụng thường được gọi tắt bằng thuật ngữ nào?",
+    "choices": [
+      "TTR",
+      "L/C (Letter of Credit)",
+      "Swift Code",
+      "Bill of Lading"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Vai trò chính của Ngân hàng MB khi phát hành Thư tín dụng (L/C) cho các khách hàng là gì?",
+    "choices": [
+      "Để thu phí dịch vụ cao nhất có thể",
+      "Cam kết thanh toán cho bên thụ hưởng nếu bộ chứng từ hợp lệ",
+      "Để vận chuyển hàng hóa thay cho khách hàng",
+      "Để kiểm tra chất lượng hàng hóa tại kho của người bán"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi một doanh nghiệp xuất khẩu muốn ngân hàng đảm bảo khả năng thanh toán từ phía người mua nước ngoài, họ nên sử dụng dịch vụ nào?",
+    "choices": [
+      "Cho vay thấu chi cá nhân",
+      "Chiết khấu bộ chứng từ xuất khẩu",
+      "Mở tài khoản tiết kiệm online",
+      "Phát hành thẻ tín dụng nội địa"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Chức năng tiền gửi \"Không kỳ hạn\" trên App MB có đặc điểm chính là gì?",
+    "choices": [
+      "Khách hàng chỉ được rút tiền sau mười năm",
+      "Khách hàng có thể rút tiền bất cứ lúc nào theo yêu cầu",
+      "Lãi suất luôn cao hơn tiền gửi có kỳ hạn",
+      "Ngân hàng không được phép dùng số tiền này để kinh doanh"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Mục đích của việc duy trì \"Dự trữ bắt buộc\" tại Ngân hàng Trung ương là gì?",
+    "choices": [
+      "Để ngân hàng có chỗ cất giữ tiền thừa",
+      "Đảm bảo khả năng thanh toán và thực hiện chính sách tiền tệ",
+      "Để tính lãi suất cho vay thấp hơn cho khách hàng",
+      "Để nhân viên ngân hàng có thể rút tiền tiêu dùng cá nhân"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Một khách hàng doanh nghiệp có nguồn tiền nhàn rỗi trong hai tuần và muốn tối ưu lợi nhuận, ngân hàng nên tư vấn sản phẩm nào?",
+    "choices": [
+      "Cho vay trung dài hạn",
+      "Tiền gửi có kỳ hạn ngắn (dưới một tháng)",
+      "Thẻ tín dụng hạng bạch kim",
+      "Mua bảo hiểm nhân thọ"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khách hàng A có sổ tiết kiệm 500 triệu đồng tại ngân hàng và muốn vay nhanh 400triệu đồng để kinh doanh. Hình thức cấp tín dụng nào tối ưu nhất?",
+    "choices": [
+      "Cho vay tín chấp theo lương",
+      "Cho vay cầm cố sổ tiết kiệm (Cầm cố giấy tờ có giá)",
+      "Cho vay thế chấp bằng bất động sản",
+      "Mở thẻ tín dụng quốc tế"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Một dự án đầu tư có tỷ lệ vốn tự có là 20%, phần còn lại vay ngân hàng. Nếu tổng mức đầu tư là mười tỷ đồng, Tester sẽ cần check kết quả hạn mức cấp tín dụng tối đa mà ngân hàng có thể xem xét là bao nhiêu?",
+    "choices": [
+      "Hai tỷ đồng",
+      "Tám tỷ đồng",
+      "Mười tỷ đồng",
+      "Năm tỷ đồng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi thực hiện kiểm thử tính năng \"Cuối ngày\" (EOD) trên hệ thống Core Banking T24, nếu gặp lỗi treo tiến trình (Process hang), Tester cần kiểm tra yếu tố kỹ thuật nào đầu tiên?",
+    "choices": [
+      "Màu sắc giao diện người dùng",
+      "Trạng thái hàng đợi và khóa bản ghi (Record Lock)",
+      "Số lượng máy in đang kết nối",
+      "Lịch sử duyệt web của người dùng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi cần AI tóm tắt một tài liệu nghiệp vụ phức tạp, cách đặt câu lệnh (Prompt) nào dưới đây sẽ mang lại kết quả chất lượng và chính xác nhất?",
+    "choices": [
+      "\"Tóm tắt file này cho tôi\"",
+      "\"Với vai trò là chuyên gia phân tích nghiệp vụ, hãy tóm tắt các ý chính của tài liệu này dưới dạng danh sách, tập trung vào các rủi ro vận hành\"",
+      "\"Đọc và viết lại tài liệu này nhưng ngắn hơn 10 chữ\"",
+      "\"Hãy đoán xem tài liệu này nói về cái gì và tóm tắt nó\""
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "RM khi sử dụng hệ thống CRM thường xuyên có ý kiến về việc hệ thống chậm, thời gian xử lý yêu cầu lâu hoặc bị timeout. Loại kiểm thử nào nên được sử dụng ?",
+    "choices": [
+      "Kiểm thử tính năng (Functional)",
+      "Kiểm thử tải (Load/Stress Testing)",
+      "Kiểm thử validate",
+      "Kiểm thử khả năng tương thích trình duyệt"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi nâng cấp phiên bản hệ thống Kondor cho mảng Nguồn vốn, để đảm bảo các công thức tính toán lãi suất phái sinh không bị sai lệch, chiến lược test nào là tối ưu?",
+    "choices": [
+      "Chỉ kiểm tra tính năng đăng nhập",
+      "Kiểm thử hồi quy (Regression Test) bộ dữ liệu mẫu",
+      "Thay đổi toàn bộ công thức mới",
+      "Bỏ qua bước kiểm thử để Go-live sớm"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Trong quá trình kiểm thử dữ liệu trên hệ thống Core Banking, Tester vô tình thấy số dư tài khoản rất lớn của một người quen. Hành động nào là đúng đạo đức nghề nghiệp?",
+    "choices": [
+      "Chụp ảnh màn hình để gửi cho người quen đó xem",
+      "Tuyệt đối giữ bí mật và không truy cập ngoài phạm vi công việc",
+      "Chia sẻ thông tin này với các đồng nghiệp khác để tán gẫu",
+      "Đăng tải thông tin lên mạng xã hội để cảnh báo bảo mật"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi phát hiện một lỗ hổng bảo mật nghiêm trọng trên nền tảng chuyển tiền PMP có thể gây thất thoát tiền, PM nên xử lý như thế nào?",
+    "choices": [
+      "Giữ kín thông tin để tự mình khai thác hoặc thử nghiệm",
+      "Báo cáo ngay cho cấp quản lý các đơn vị và bộ phận an ninh thông tin",
+      "Chia sẻ lỗ hổng này lên các diễn đàn công nghệ để nhờ hỗ trợ",
+      "Chờ đến kỳ đánh giá cuối năm mới đưa vào báo cáo lỗi"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo quy định ngân hàng, việc một nhân sự cho người khác mượn tài khoản quản trị để test sau golive (Admin) để truy cập hệ thống CRM được coi là hành vi gì?",
+    "choices": [
+      "Sự phối hợp hỗ trợ đồng nghiệp trong công việc",
+      "Vi phạm nghiêm trọng quy định về an toàn và bảo mật",
+      "Hành động bình thường nếu người mượn cũng là nhân viên IT",
+      "Cách thức để tăng tốc độ xử lý các công việc gấp"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo chuẩn ITIL 4, việc thiết lập Quality Gate trong quy trình quản lý thay đổi hệ thống BPM của MB nhằm mục đích chính là gì?",
+    "choices": [
+      "Để ngăn cản các phòng nghiệp vụ yêu cầu thay đổi tính năng quá thường xuyên",
+      "Đảm bảo các tiêu chuẩn chất lượng và rủi ro được phê duyệt trước khi chuyển giai đoạn",
+      "Để tăng số lượng biên bản bàn giao giấy tờ giữa các phòng ban trong ngân hàng",
+      "Để thay thế cho việc thực hiện kiểm thử thủ công của đội ngũ QA"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Tại sao nhân sự IT tại Trung tâm Đảm bảo chất lượng phải tuân thủ nghiêm ngặt việc không dùng dữ liệu thật (Real data) trên môi trường Test?",
+    "choices": [
+      "Để tiết kiệm dung lượng lưu trữ của máy chủ",
+      "Để bảo vệ bí mật thông tin khách hàng khỏi rủi ro rò rỉ",
+      "Vì dữ liệu thật thường gây ra nhiều lỗi hệ thống hơn",
+      "Vì quy trình giả lập dữ liệu sẽ giúp nhân viên rèn luyện kỹ năng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Một API kết nối giữa cổng thanh toán và Core Banking báo lỗi \"401 Unauthorized\", Tester cần kiểm tra yếu tố nào đầu tiên?",
+    "choices": [
+      "Dung lượng băng thông của đường truyền internet quốc tế",
+      "Cấu hình định dạng ngày tháng trên máy tính người dùng",
+      "Số lượng dòng code của hàm xử lý dữ liệu đầu vào",
+      "Thông tin xác thực như API Key hoặc Token giữa hai hệ thống"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Khi phát hiện một rủi ro mới có thể làm chậm tiến độ kiểm thử hệ thống T24, hành động nào là đúng theo quy trình quản lý rủi ro?",
+    "choices": [
+      "Giấu thông tin rủi ro để tự mình âm thầm xử lý",
+      "Chờ đến khi rủi ro xảy ra thành sự cố mới báo cáo",
+      "Ghi nhận rủi ro vào Risk Register theo dõi và đề xuất phương án ứng phó",
+      "Yêu cầu hủy bỏ dự án ngay lập tức để tránh trách nhiệm"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Để cải thiện kết quả khi AI trả lời sai hoặc chưa đúng ý, kỹ thuật \"Few-shot Prompting\" được vận dụng như thế nào là đúng?",
+    "choices": [
+      "Yêu cầu AI tự đi tìm kiếm câu trả lời trên mạng",
+      "Chửi bộ máy AI vì đã trả lời không chính xác",
+      "Cung cấp cho AI một vài ví dụ mẫu về cặp (Câu hỏi - Đáp án đúng) trước khi yêu cầu nó xử lý câu hỏi mới",
+      "Lặp lại câu hỏi cũ nhiều lần với font chữ in hoa"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "US bắt đầu trạng thái Ready for Test lúc 14:00. Tester bắt đầu SIT lúc 15:15. Thời gian Ready for Test Time là:",
+    "choices": [
+      "1 giờ",
+      "1 giờ 15 phút",
+      "2 giờ",
+      "45 phút"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên viên"
+  },
+  {
+    "question": "Theo khung năng lực ITIL 4, thuật ngữ nào mô tả một nhân sự vừa có chuyên môn sâu vừa có khả năng cộng tác rộng?",
+    "choices": [
+      "Nhân sự kỹ năng I-shaped",
+      "Nhân sự kỹ năng L-shaped",
+      "Nhân sự kỹ năng T-shaped",
+      "Nhân sự kỹ năng O-shaped"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Dự án của bạn đang bị chậm tiến độ. Bạn quyết định bổ sung thêm nhân sự vào các công việc quan trọng để đẩy nhanh thời gian hoàn thành. Kỹ thuật này trong PMP gọi là gì?",
+    "choices": [
+      "Scope Creep (Phình đại phạm vi)",
+      "Fast Tracking (Làm song song)",
+      "Crashing (Nén tiến độ)",
+      "Gold Plating (Mạ vàng dự án)"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi đội ngũ Dev và Test có xung đột về tiêu chuẩn chất lượng gây chậm tiến độ, hành động nào thể hiện năng lực lãnh đạo phục vụ?",
+    "choices": [
+      "Ép buộc đội QA phải chấp nhận mọi lỗi của Dev",
+      "Phạt lương cả hai đội để răn đe về tiến độ",
+      "Lắng nghe và hỗ trợ đội ngũ tìm điểm chung về tiêu chuẩn",
+      "Thay thế toàn bộ nhân sự của dự án ngay lập tức"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Để thúc đẩy văn hóa \"Tự quản\" trong tổ chức Agile, người quản lý chuyên gia nên thực hiện hành động nào?",
+    "choices": [
+      "Kiểm soát chi tiết từng giờ làm việc của nhân viên",
+      "Trao quyền và tháo gỡ các rào cản cho đội ngũ",
+      "Tự mình ký duyệt mọi dòng code của lập trình viên",
+      "Chỉ giao việc qua email và không bao giờ họp mặt"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Theo tiêu chuẩn ISTQB, hoạt động nào nên được thực hiện sớm nhất trong quy trình kiểm thử để tiết kiệm chi phí sửa lỗi?",
+    "choices": [
+      "Viết báo cáo tổng kết kiểm thử (Test Summary Report)",
+      "Review (xem xét) tài liệu yêu cầu nghiệp vụ và thiết kế",
+      "Thực hiện chạy các bài kiểm thử tự động (Automation Test)",
+      "Cài đặt môi trường kiểm thử (Test Environment)"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa Sự cố (Incident) và Vấn đề (Problem) trong quy trình vận hành ITIL là gì?",
+    "choices": [
+      "Incident là lỗi phần mềm, Problem là lỗi phần cứng",
+      "Incident do khách hàng báo, Problem do IT tự tìm thấy",
+      "Incident là sự gián đoạn dịch vụ cần xử lý ngay, còn Problem là tìm nguyên nhân gốc rễ để ngăn lỗi lặp lại",
+      "Hai khái niệm này hoàn toàn giống nhau"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Để thúc đẩy năng suất lao động cho đội ngũ nhân sự trung tâm ĐBCL khi đối mặt với khối lượng công việc kiểm thử quá lớn, Chuyên gia nên đề xuất giải pháp nào bền vững nhất?",
+    "choices": [
+      "Yêu cầu toàn bộ nhân viên làm việc mười sáu tiếng mỗi ngày",
+      "Hủy bỏ toàn bộ các bước kiểm thử để đẩy nhanh tiến độ",
+      "Tự động hóa các quy trình lặp lại và tối ưu hóa luồng công việc",
+      "Thuê thêm nhân sự không có chuyên môn để làm thay"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Trong một dự án Agile, Tester phát hiện một lỗi nghiêm trọng ngay sát ngày release nhưng không thể tái hiện (intermittent bug). Theo quy trình ISTQB, hành động nào là phù hợp nhất?",
+    "choices": [
+      "Bỏ qua lỗi này vì không thể tái hiện được để đảm bảo tiến độ release",
+      "Ghi nhận lỗi với đầy đủ ngữ cảnh, mức độ nghiêm trọng và thảo luận với nhóm để đánh giá rủi ro trước khi quyết định",
+      "Tự ý sửa code để fix lỗi ngay lập tức mà không cần báo cáo",
+      "Yêu cầu hủy bỏ toàn bộ đợt release cho đến khi tìm ra nguyên nhân"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Đâu không thuộc nhóm phân loại YCPT theo Time to Market",
+    "choices": [
+      "Hệ thống mới",
+      "Cải tiến mới",
+      "Sản phẩm/Dịch vụ mới",
+      "Tính năng mới"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi thiết lập mục tiêu hàng quý (Quarterly Goals) cho nhóm phát triển các hệ thống CNTT, cần đảm bảo điều gì để mục tiêu có tính thúc đẩy cao nhất?",
+    "choices": [
+      "Mục tiêu phải cực kỳ dễ dàng để ai cũng đạt được một trăm phần trăm"
+    ],
+    "correct_answers": [],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi thiết lập mục tiêu hàng quý (Quarterly Goals) cho nhóm vận hành hệ thống W4, Chuyên gia cần đảm bảo điều gì để mục tiêu có tính thúc đẩy cao nhất?",
+    "choices": [
+      "Mục tiêu phải có sự thách thức nhưng đi kèm nguồn lực thực hiện tương ứng",
+      "Mục tiêu chỉ cần do quản lý áp đặt mà không cần thảo luận",
+      "Mục tiêu không cần có thời hạn hoàn thành cụ thể"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Theo mô hình quản trị xung đột, kỹ thuật nào giải quyết mâu thuẫn bằng cách các bên cùng tìm kiếm giải pháp \"Win-Win\" (Cả hai cùng thắng)?",
+    "choices": [
+      "Competing (Cạnh tranh)",
+      "Avoiding (Né tránh)",
+      "Collaborating (Cộng tác)",
+      "Accommodating (Nhượng bộ)"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Tại sao trong một dự án Agile tại ngân hàng, xung đột ở mức độ vừa phải về mặt chuyên môn (Task Conflict) lại được coi là có lợi?",
+    "choices": [
+      "Vì nó giúp làm giảm uy tín của các thành viên yếu kém",
+      "Vì nó thúc đẩy sự phản biện và tìm ra giải pháp tối ưu hơn",
+      "Vì nó khiến nhân viên sợ hãi và làm việc chăm chỉ hơn",
+      "Vì nó kéo dài thời gian họp hành của đơn vị"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi có mâu thuẫn cá nhân gay gắt giữa hai Tester trong dự án triển khai Way4, bước đầu tiên bạn nên thực hiện là gì?",
+    "choices": [
+      "Yêu cầu một trong hai người chuyển công tác ngay lập tức",
+      "Tìm hiểu nguyên nhân gốc rễ thông qua gặp gỡ riêng từng bên",
+      "Tổ chức phê bình công khai trong buổi họp giao ban",
+      "Bỏ qua mâu thuẫn và hy vọng họ sẽ tự hòa giải"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Trong tình huống xung đột về tiến độ Go-live rất gấp gáp, kỹ thuật \"Compromising\" (Thỏa hiệp) được hiểu như thế nào?",
+    "choices": [
+      "Một bên chấp nhận thua cuộc hoàn toàn để dự án chạy tiếp",
+      "Mỗi bên nhượng bộ một phần để đạt được giải pháp tạm thời",
+      "Trì hoãn việc ra quyết định cho đến khi hết hạn dự án",
+      "Sử dụng quyền lực cấp trên để ép buộc các bên thực hiện"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Nếu xung đột giữa các thành viên dự án phát sinh do sự chồng chéo về vai trò và trách nhiệm (RACI), bạn cần thực hiện giải pháp nào?",
+    "choices": [
+      "Tăng lương cho tất cả các thành viên để giảm bớt căng thẳng",
+      "Rà soát và tái lập ma trận phân công trách nhiệm rõ ràng",
+      "Thuê thêm nhân sự mới để thay thế những người đang xung đột",
+      "Yêu cầu nhân viên tự phân chia công việc theo ý muốn cá nhân"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Trong kiến trúc AI Agent, thành phần nào đóng vai trò là \"bộ nhớ\" giúp Agent lưu lại ngữ cảnh các bước thực hiện trước đó?",
+    "choices": [
+      "Encoder",
+      "Memory (Short-term/Long-term)",
+      "Power Supply",
+      "Keyboard Buffer"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Lợi ích lớn nhất của kiến trúc MCP (Model Context Protocol) đối với việc tích hợp AI Agent vào các hệ thống ngân hàng là gì?",
+    "choices": [
+      "Giúp AI Agent tự động học được mọi mật khẩu quản trị hệ thống",
+      "Tăng tốc độ phản hồi của mô hình ngôn ngữ lên gấp nhiều lần",
+      "Tạo ra một tiêu chuẩn chung để Agent kết nối an toàn với nhiều nguồn dữ liệu và công cụ khác nhau mà không cần viết lại code tích hợp",
+      "Thay thế hoàn toàn giao thức HTTP đang sử dụng trong nội bộ ngân hàng"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi tích hợp tính năng quét thẻ CCCD gắn chip qua giao tiếp NFC vào App MB, tại sao Dev nên sử dụng SDK do đơn vị chuyên trách (Singalarity) cung cấp thay vì tự xây dựng các hàm đọc dữ liệu?",
+    "choices": [
+      "Để làm cho ứng dụng có dung lượng lớn hơn và trông chuyên nghiệp hơn",
+      "Để đảm bảo tính chính xác của thuật toán giải mã, an toàn bảo mật và tối ưu hóa tương thích với các dòng điện thoại",
+      "Vì SDK sẽ tự động chuyển toàn bộ dữ liệu khách hàng lên mạng xã hội",
+      "Để tránh việc phải trả lương cho lập trình viên của ngân hàng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Theo tiêu chuẩn ISTQB, khi thiết kế kịch bản kiểm thử cho giai đoạn UAT (User Acceptance Testing), cách tiếp cận nào sau đây là hiệu quả nhất?",
+    "choices": [
+      "Sao chép lại toàn bộ các Test Case kiểm thử chức năng chi tiết từ đội QA",
+      "Xây dựng kịch bản dựa trên các quy trình nghiệp vụ (Business Processes) xuyên suốt và dữ liệu thực tế",
+      "Chỉ tập trung vào việc kiểm tra hiệu năng hệ thống và độ bảo mật của mã nguồn",
+      "Yêu cầu lập trình viên tự viết kịch bản để người dùng ký xác nhận"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi kiểm thử một tính năng mới liên quan đến Tự động mua chứng chỉ quỹ của Wealth, Test phát hiện lỗi nghiêm trọng nhưng Dev khẳng định \"đây không phải lỗi\". PM nên xử lý thế nào theo PMP?",
+    "choices": [
+      "Làm theo ý kiến của lập trình viên để tránh xung đột",
+      "Đối chiếu với tài liệu yêu cầu (Requirements) và tiêu chuẩn chấp nhận (Acceptance Criteria)",
+      "Tranh cãi cho đến khi một trong hai bên bỏ cuộc",
+      "Gửi email phê bình lập trình viên cho toàn bộ ban giám đốc"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Trong quá trình chuẩn bị tài liệu golive, khi nhân sự Dev đột xuất nghỉ 2 ngày và chưa hoàn thành Checklist golive, CO cần làm gì",
+    "choices": [
+      "Chuyển Epic sang Pending đồng thời báo cáo CBQL có phương án xử lý, hỗ trợ",
+      "Không cần làm gì vì đấy là trách nhiệm của Change team",
+      "Không ảnh hưởng gì đến Time To Market",
+      "Báo cáo đơn vị QA"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Đâu không phải là loại hình ký số phổ biến đang được áp dụng tại ngân hàng",
+    "choices": [
+      "Cloud CA",
+      "Pen CA",
+      "SIM CA",
+      "USB Token"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Đối với hệ thống thanh toán thẻ (W4) yêu cầu sự nhất quán dữ liệu cực cao, loại cơ sở dữ liệu nào là lựa chọn an toàn nhất?",
+    "choices": [
+      "NoSQL Key-Value Store",
+      "Relational Database (SQL) hỗ trợ giao dịch ACID",
+      "Graph Database",
+      "Document Database không có schema"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Đối với khoản vay Mua bất động sản có \"Lãi suất thả nổi\", biên độ điều chỉnh thường được xác định dựa trên công thức nào sau đây?",
+    "choices": [
+      "Lãi suất cố định + Phí quản lý tài sản bảo đảm",
+      "Lãi suất cơ sở (hoặc Lãi suất tiết kiệm) + Biên độ cố định",
+      "Lãi suất do khách hàng tự đề xuất hàng tháng",
+      "Lãi suất liên ngân hàng trừ đi tỷ lệ lạm phát"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Một khách hàng yêu cầu ngân hàng xóa toàn bộ dữ liệu cá nhân. Ngân hàng được phép từ chối yêu cầu này trong trường hợp nào sau đây?",
+    "choices": [
+      "Ngân hàng cần dữ liệu để thực hiện các chiến dịch quảng cáo tiếp theo",
+      "Dữ liệu phải được lưu trữ để phục vụ việc thanh tra, kiểm tra theo luật chuyên ngành ngân hàng",
+      "Ngân hàng chưa có đủ nhân sự để thực hiện việc xóa dữ liệu",
+      "Khách hàng vẫn còn nợ phí thường niên thẻ chưa thanh toán (nhưng không liên quan đến nghĩa vụ lưu trữ pháp lý)"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi cần thực hiện kiểm thử hiệu năng cho hệ thống Internet Banking với kịch bản giả lập hàng chục nghìn người dùng truy cập cùng lúc, bạn sử dụng loại hình kiểm thử nào?",
+    "choices": [
+      "Unit Test (Kiểm thử đơn vị)",
+      "Smoke Test (Kiểm thử nhanh)",
+      "Load Test hoặc Stress Test (Kiểm thử tải/áp lực)",
+      "Spell Check (Kiểm tra chính tả)"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Khi thiết kế luồng đăng ký vay online trên App, để đảm bảo tính hợp lệ của \"Sự đồng ý\" (Consent) theo Nghị định 13, hệ thống nên thiết kế ô checkbox như thế nào?",
+    "choices": [
+      "Thiết kế một ô checkbox tích chọn sẵn (Pre-ticked) cho tất cả điều khoản",
+      "Để trống ô checkbox và yêu cầu khách hàng chủ động tích chọn sau khi đã đọc các điều khoản",
+      "Chỉ cần ghi dòng thông báo \"Bạn mặc định đồng ý khi sử dụng tiếp\"",
+      "Không cần checkbox, chỉ cần khách hàng nhấn nút \"Tiếp tục\""
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Sáng nay khách hàng A đã chuyển tiền 2 lần, mỗi lần 8 triệu đồng qua App. Lần thứ 3 khách hàng thực hiện chuyển thêm 5 triệu đồng. Hệ thống cần xử lý bước xác thực như thế nào để đúng quy định 2345?",
+    "choices": [
+      "Chỉ cần xác thực bằng mã Smart OTP như 2 lần trước",
+      "Bắt buộc xác thực bằng sinh trắc học (khuôn mặt) vì tổng giá trị giao dịch trong ngày đã vượt quá 20 triệu đồng",
+      "Hệ thống tự động từ chối giao dịch vì đã hết hạn mức chuyển tiền trong ngày",
+      "Yêu cầu khách hàng ra quầy để thực hiện giao dịch thứ 3"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Một khách hàng thực hiện giao dịch chuyển tiền 25 triệu đồng và đã xác thực sinh trắc học thành công. Ngay sau đó, khách hàng chuyển tiếp 2 triệu đồng. Hệ thống có cần yêu cầu xác thực sinh trắc học cho lần chuyển 2 triệu này không?",
+    "choices": [
+      "Không cần, vì số tiền 2 triệu nhỏ hơn ngưỡng 10 triệu/giao dịch",
+      "Bắt buộc xác thực sinh trắc học vì tổng giá trị giao dịch trong ngày đã vượt ngưỡng 20 triệu đồng",
+      "Chỉ cần xác thực bằng mật khẩu đăng nhập ứng dụng",
+      "Hệ thống sẽ khóa tài khoản vì nghi ngờ có hành vi chuyển tiền liên tục"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Trong dự án, Dev vừa hoàn thành code cho tính năng chuyển tiền nhanh. Theo quy trình SDLC chuẩn, bước tiếp theo nên thực hiện là gì trước khi bàn giao cho Test để đảm bảo kết quả bàn giao tốt nhất",
+    "choices": [
+      "Tiến hành giải ngân thử cho khách hàng thật",
+      "Thực hiện Kiểm thử đơn vị (Unit Test) để đảm bảo các module nhỏ hoạt động đúng",
+      "Viết tài liệu hướng dẫn sử dụng cho khách hàng",
+      "Xóa toàn bộ mã nguồn cũ để làm sạch hệ thống"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Chuyên gia"
+  },
+  {
+    "question": "Hội đồng giải pháp nghiệp vụ - FDA (Functional Design Authority) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá/phê duyệt thiết kế kỹ thuật",
+      "Đánh giá/phê duyệt thiết kế trải nghiệm",
+      "Cả 3 phương án trên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Hội đồng giải pháp kỹ thuật – TDA (Technical Design Authority) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá/phê duyệt thiết kế nghiệp vụ.",
+      "Đánh giá/phê duyệt thiết kế kỹ thuật",
+      "Đánh giá/phê duyệt thiết kế trải nghiệm",
+      "Cả 3 phương án trên"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Hội đồng CAB (Change Approval Board) có nhiệm vụ gì?",
+    "choices": [
+      "Đánh giá các thay đổi trên hệ thống Production",
+      "Đánh giá thiết kế sản phẩm khi chuẩn bị triển khai",
+      "Golive sản phẩm",
+      "Cả 3 phương án trên"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Phishing là gì?",
+    "choices": [
+      "Phishing ( hay còn gọi là tấn công giả mạo) là hình thức tấn công mạng lừa đảo trực tuyến. Ở đó, kẻ tấn công thường giả mạo thành một đơn vị uy tín như: một trang web giao dịch trực tuyến,  tin nhắn,   hay qua email, nhằm nhằm chiếm đoạt tài khoản, mật khẩu, mật khẩu giao dịch, thẻ tín dụng và các thông tin nhạy cảm khác….",
+      "Phishing ( hay còn gọi là tấn công giả mạo) là hình thức tấn công mạng lừa đảo. Ở đó, kẻ tấn công thường giả mạo thành một đơn vị uy tín như: một trang web giao dịch trực tuyến,  tin nhắn, hay qua email, nhằm nhằm chiếm đoạt tài khoản, mật khẩu, mật khẩu giao dịch, thẻ tín dụng và các thông tin nhạy cảm khác….",
+      "Phishing ( hay còn gọi là tấn công câu cá) là hình thức tấn công mạng lừa đảo. Ở đó, kẻ tấn công thường giả mạo thành một đơn vị uy tín như: một trang web giao dịch trực tuyến,  tin nhắn, hay qua email, nhằm nhằm chiếm đoạt tài khoản, mật khẩu, mật khẩu giao dịch, thẻ tín dụng và các thông tin nhạy cảm khác….",
+      "Không có đáp án nào đúng"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Trung tâm dữ liệu chính của MB đang được đặt ở đâu",
+    "choices": [
+      "Số 3 Liễu Giai",
+      "Số 7 Hòa Lạc",
+      "Số 21 Cát Linh",
+      "Số 18 Lê Văn Lương"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Thực hiện phân tích yêu cầu, xây dựng giải pháp đáp ứng yêu cầu kinh doanh và quản lý là chức năng của Trung tâm BA phải không?",
+    "choices": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Đơn vị chịu trách nhiệm xử lý các yêu cầu mức 1 (Level 1) trong quá trình vận hành/sử dụng/khai thác hệ thống CNTT của người dùng",
+    "choices": [
+      "Phòng Hỗ trợ Dịch vụ CNTT",
+      "Phòng Kiểm soát tác động",
+      "Phòng Quản lý dự án",
+      "Phòng Quản trị dịch vụ CNTT"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Chức năng “phát triển, vận hành và cung cấp sản phẩm dịch vụ CNTT phù hợp định hướng chiến lược MB” thuộc trách nhiệm của:",
+    "choices": [
+      "Khối CNTT",
+      "Khối Vận Hành",
+      "Khối NHS",
+      "Ban Sản phẩm và Marketing"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Khi triển khai dự án, cần liên hệ đơn vị nào để test hiệu năng?",
+    "choices": [
+      "Phòng Nền tảng kiểm thử",
+      "Phòng Kiểm thử Ứng dụng số",
+      "Phòng Kiểm thử Nghiệp vụ Lõi",
+      "Phòng Kiểm thử UDQTNB"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Tham mưu cho Ban LĐK về an ninh trong các hoạt động của hệ thống là chức năng đơn vị nào",
+    "choices": [
+      "Trung tâm ATTT",
+      "Trung tâm ĐBCL",
+      "Trung tâm CNNT",
+      "Trung tâm Vận hành"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Tra cứu bảng lương hàng tháng truy cập tại hệ thống nào?",
+    "choices": [
+      "HCM",
+      "MO",
+      "VBNB",
+      "BPM"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Để tra cứu, tìm kiếm các văn bản nội bộ Anh/Chị truy cập vào web nào dưới đây?",
+    "choices": [
+      "https://vbnb.mbbank.com.vn/",
+      "https://crmnextgen.mbbank.com.vn/",
+      "https://moffice.mbbank.com.vn/",
+      "https://hcm.mbbank.com.vn/"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Các hành vi nào sau đây bị nghiêm cấm với tất cả cán bộ nhân viên tại Khối CNTT MB?",
+    "choices": [
+      "Cả 3 đáp án trên"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Hệ thống gửi yêu cầu hỗ trợ CNTT?",
+    "choices": [
+      "https://hotrocntt.mbbank.com.vn/"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "sheet_name": "Khối CNTT"
+  },
+  {
+    "question": "Hệ thống đào tạo Online tập trung cho CBNV MB là ?",
+    "choices": [
+      "LMS"
+    ],
+    "correct_answers": [],
+    "sheet_name": "Khối CNTT"
+  }
+]
