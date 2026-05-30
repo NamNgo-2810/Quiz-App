@@ -187,7 +187,7 @@
         localStorage.setItem("selectedTopic", selectedTopic);
         localStorage.setItem("selectedGroups", JSON.stringify(checkedGroups));
 
-        fetch(`/api/log?page=quiz&topic=${encodeURIComponent(config.name)}`).catch(() => {});
+        navigator.sendBeacon(`/api/log?page=quiz&topic=${encodeURIComponent(config.name)}`);
         window.location.href = "/game.html";
       }
     </script>
