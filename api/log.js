@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const { page } = req.query;
+  const { page, topic } = req.query;
   const scriptUrl = process.env.APPS_SCRIPT_URL;
 
   // Get client IP from request headers
@@ -18,7 +18,7 @@ export default async function handler(req, res) {
   if (scriptUrl) {
     try {
       await fetch(
-        `${scriptUrl}?public_ip=${encodeURIComponent(clientIP)}&local_ip=${encodeURIComponent(clientIP)}&page=${encodeURIComponent(page ?? '')}`
+        `${scriptUrl}?public_ip=${encodeURIComponent(clientIP)}&local_ip=${encodeURIComponent(clientIP)}&page=${encodeURIComponent(page ?? '')}&topic=${encodeURIComponent(topic ?? '')}`
       );
     } catch (error) {
       console.error('Failed to log to Apps Script:', error);
